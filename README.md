@@ -43,50 +43,47 @@ The dataset consists of:
 ## 📦 Deliverables
 
 - ✅ A **working prototype** of your solution.
-- ✅ **Organized, well-documented, reproducible code** (in Google Colab).
+- ✅ **Organized, well-documented, reproducible code**.
 - ✅ A **strategic presentation** pitching your solution to EY executives.
-- ✅ (Optional) A **live demo** of your solution.
-- ✅ (Optional) Performance analysis vs. traditional methods.
+- ✅ A technical presentation pitching your solution to the judging panel as if they were the client's IT stakeholders
+- ✅ A frontend for the solution is mandatory for the live demo of the strategic presentation
 
+🔹 **Optional Enhancements**:  
+- Performance analysis vs traditional knowledge access methods
+  
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
 <h3> ✅ Before the 14h00 deadline</h3>
 
-Submit a zip folder with:
-- The **Google Colab notebook** (with all cells run & outputs shown).
-- Screenshots of all **external tools/visualizations** used.
-
-Submit via email to: [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com)
-
-Subject: `CV Analyzer Agent – GroupName`
-
-Include group member names in the email.
+Submit you solution to you specific branch:
+- Repository with the code of the solution developed
+  - The solution must be ready to run
+- A README file with the context of the solution and how to run it
 
 ---
 
 ## 🛠 Tech & Tools – You Have Full Freedom
 
-🚨 **Mandatory**: Solution must be developed in **Google Colab using Python**.
+- **Mandatory:**  
+  - Solution must be developed mainly using Python  
+  - You'll publish the solution into a specific branch of the challenge's repository
 
-Beyond that, you can freely choose:
-- **Libraries**: `Pandas`, `Scikit-learn`, `LangChain`, etc.
-- **Visualization Tools**: `Matplotlib`, `Seaborn`, Power BI, Tableau, etc.
-- **AI Assistants**: `ChatGPT`, `GitHub Copilot`, `Gemini`, etc.
-- **Software Platform**: Google Colab, VSCode, Jupyter, etc.
-- **Programming Language**: Python (recommended), R, JavaScript, SQL, etc.
-
-> Use **whatever helps you move faster and think smarter**.
+- **Free to Choose:**  
+  - Libraries/Packages
+  - Visualization
+  - Frontend solution
+  - AI Assistants
 
 ---
 
 ## ⏱ Time Management & Rules
 
-- ⏳ You have **4 hours total** – no extensions.
-- 🗣 Deliver a **5-minute presentation** as a consulting pitch.
-- 👥 Each group may request:
-  - 1x **Technical support** (5 min max)
-  - 1x **Business support** (5 min max)
-
-> Assistants will **not** provide solutions, only strategic guidance.
+- Total Time: **4 hours** – No extensions  
+- Final Presentations: **5 minutes each** – Simulate a client-facing pitch
+  - You must divide the team for the strategic and technical presentations
+- Support:
+  - 🧑‍💻 1 technical session (max 5 minutes)  
+  - 💼 1 business session (max 5 minutes)  
+  - **Note:** Assistants guide only — no direct solutions
 
 ---
 
@@ -104,8 +101,6 @@ Beyond that, you can freely choose:
 ## 💡 Tips for Competitors
 
 - 🎯 Choose your **LLM** strategically: 
-  - **Gemini**: fast, limited context.
-  - **LLaMA**: more context, slower.
 
 - 🧾 **Master the Talent Data**: Look beyond the obvious – identify potential, culture fit, growth signals.
 
@@ -122,6 +117,9 @@ Beyond that, you can freely choose:
 
 - 📈 Build a **Business Case**: Position your solution as a strategic advantage.
 
+- - **Own what you're doing:**
+  Don't just let the AI create the solution for you without understanding it's core tecnically and funcionally 
+
 ---
 
 ## 🧭 Final Thought
@@ -129,10 +127,10 @@ Beyond that, you can freely choose:
 This challenge is your opportunity to **redefine how organizations attract and hire talent**.
 
 🏆 Winning teams will blend:
-- Technical AI expertise
 - Strategic business insight
 - Clear communication
 - End-to-end stakeholder thinking
+- Technical AI expertise
 
 Deliver a solution that’s not just smart – make it **transformational**.
 
