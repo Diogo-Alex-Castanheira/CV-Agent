@@ -1,0 +1,554 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-05-20T10:00:00Z",
+  "dimension_keys": [
+    "technical",
+    "cultural_fit",
+    "learning_agility",
+    "experience",
+    "communication",
+    "problem_solving"
+  ],
+  "dimension_labels": {
+    "technical": "Competência Técnica",
+    "cultural_fit": "Fit Cultural",
+    "learning_agility": "Velocidade de Aprendizagem",
+    "experience": "Experiência Relevante",
+    "communication": "Comunicação",
+    "problem_solving": "Resolução de Problemas"
+  },
+  "jobs": [
+    {
+      "job_id": "job_ds",
+      "job_title": "Data Scientist",
+      "tagline": "Modelos preditivos e analytics avançados",
+      "candidates_analyzed": 5
+    },
+    {
+      "job_id": "job_cloud",
+      "job_title": "Cloud Architect",
+      "tagline": "Arquitetura cloud segura e escalável",
+      "candidates_analyzed": 5
+    },
+    {
+      "job_id": "job_se",
+      "job_title": "Software Engineer",
+      "tagline": "Produto digital de ponta a ponta",
+      "candidates_analyzed": 5
+    },
+    {
+      "job_id": "job_ba",
+      "job_title": "Business Analyst",
+      "tagline": "Tradução negócio–tecnologia e requisitos",
+      "candidates_analyzed": 5
+    },
+    {
+      "job_id": "job_pm",
+      "job_title": "Product Manager",
+      "tagline": "Roadmap, stakeholders e entrega de valor",
+      "candidates_analyzed": 5
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "ds_alpha",
+      "job_id": "job_ds",
+      "display_name": "Candidato Alpha",
+      "summary": "Perfil forte em ML aplicado com histórico de entregas em ambientes regulados. Demonstra curiosidade técnica e capacidade de explicar trade-offs a stakeholders não técnicos.",
+      "strengths": ["Python e ML em produção", "SQL avançado", "Storytelling com dados"],
+      "gaps": ["Experiência limitada em MLOps enterprise"],
+      "interview_questions": [
+        "Como validou um modelo antes de produção num contexto com requisitos de auditoria?",
+        "Descreva um projeto onde teve de equilibrar precisão do modelo com interpretabilidade."
+      ],
+      "dimensions": {
+        "technical": 88,
+        "cultural_fit": 82,
+        "learning_agility": 90,
+        "experience": 75,
+        "communication": 80,
+        "problem_solving": 85
+      }
+    },
+    {
+      "candidate_id": "ds_beta",
+      "job_id": "job_ds",
+      "display_name": "Candidato Beta",
+      "summary": "Sólido em estatística e experimentação A/B. Menos exposição a pipelines cloud, mas aprendizagem rápida documentada em projetos recentes.",
+      "strengths": ["Estatística inferencial", "Experimentação", "Power BI / visualização"],
+      "gaps": ["Pouca experiência com deep learning em escala"],
+      "interview_questions": [
+        "Como estruturou o último teste A/B quando a amostra era pequena?",
+        "Que métricas usaria para monitorizar drift de um modelo em produção?"
+      ],
+      "dimensions": {
+        "technical": 79,
+        "cultural_fit": 84,
+        "learning_agility": 86,
+        "experience": 68,
+        "communication": 77,
+        "problem_solving": 81
+      }
+    },
+    {
+      "candidate_id": "ds_gamma",
+      "job_id": "job_ds",
+      "display_name": "Candidato Gamma",
+      "summary": "Background em engenharia com pivot para ciência de dados. Excelente em feature engineering e automação de relatórios.",
+      "strengths": ["Feature engineering", "Automação", "Trabalho com APIs de dados"],
+      "gaps": ["Domínio de inglês técnico a confirmar em entrevista"],
+      "interview_questions": [
+        "Conte um exemplo em que automatizou um fluxo manual de dados de ponta a ponta.",
+        "Como garantiria qualidade de dados num pipeline ad-hoc?"
+      ],
+      "dimensions": {
+        "technical": 85,
+        "cultural_fit": 78,
+        "learning_agility": 88,
+        "experience": 72,
+        "communication": 70,
+        "problem_solving": 83
+      }
+    },
+    {
+      "candidate_id": "ds_delta",
+      "job_id": "job_ds",
+      "display_name": "Candidato Delta",
+      "summary": "Perfil académico forte com publicações; menos anos em indústria, mas projetos de consultoria relevantes.",
+      "strengths": ["Research rigor", "NLP básico", "Documentação clara"],
+      "gaps": ["Experiência reduzida em stakeholders C-level"],
+      "interview_questions": [
+        "Como traduziria um resultado de pesquisa numa recomendação acionável para negócio?",
+        "Que projeto de consultoria teve maior impacto mensurável?"
+      ],
+      "dimensions": {
+        "technical": 82,
+        "cultural_fit": 80,
+        "learning_agility": 92,
+        "experience": 60,
+        "communication": 74,
+        "problem_solving": 78
+      }
+    },
+    {
+      "candidate_id": "ds_epsilon",
+      "job_id": "job_ds",
+      "display_name": "Candidato Epsilon",
+      "summary": "Generalista de dados com foco em BI e KPIs. Bom fit para equipas que precisam de impacto rápido em dashboards e métricas.",
+      "strengths": ["BI e KPIs", "Alinhamento com negócio", "Excel / SQL"],
+      "gaps": ["Menos experiência em modelos preditivos complexos"],
+      "interview_questions": [
+        "Como definiu KPIs que o negócio realmente passou a usar?",
+        "Quando recomendaria um modelo preditivo vs. um dashboard descritivo?"
+      ],
+      "dimensions": {
+        "technical": 71,
+        "cultural_fit": 86,
+        "learning_agility": 80,
+        "experience": 77,
+        "communication": 88,
+        "problem_solving": 76
+      }
+    },
+    {
+      "candidate_id": "cloud_alpha",
+      "job_id": "job_cloud",
+      "display_name": "Candidato Alpha",
+      "summary": "Arquiteto cloud com certificações Azure e experiência em landing zones. Foco em segurança e custos.",
+      "strengths": ["Azure landing zones", "FinOps", "Identity & access"],
+      "gaps": ["Menos exposição a GCP"],
+      "interview_questions": [
+        "Como desenhou a última landing zone para cumprir políticas de segurança?",
+        "Que decisões de custo vs. performance tomou num projeto recente?"
+      ],
+      "dimensions": {
+        "technical": 90,
+        "cultural_fit": 79,
+        "learning_agility": 84,
+        "experience": 88,
+        "communication": 75,
+        "problem_solving": 87
+      }
+    },
+    {
+      "candidate_id": "cloud_beta",
+      "job_id": "job_cloud",
+      "display_name": "Candidato Beta",
+      "summary": "Especialista em Kubernetes e plataformas container. Forte em DevOps e observabilidade.",
+      "strengths": ["Kubernetes", "CI/CD", "Observabilidade"],
+      "gaps": ["Governança enterprise ainda em maturação"],
+      "interview_questions": [
+        "Como estruturou observabilidade num cluster multi-equipa?",
+        "Descreva um incidente crítico e como estabilizou o sistema."
+      ],
+      "dimensions": {
+        "technical": 87,
+        "cultural_fit": 81,
+        "learning_agility": 85,
+        "experience": 80,
+        "communication": 72,
+        "problem_solving": 89
+      }
+    },
+    {
+      "candidate_id": "cloud_gamma",
+      "job_id": "job_cloud",
+      "display_name": "Candidato Gamma",
+      "summary": "Híbrido infra + segurança. Experiência em migrações lift-and-shift e modernização gradual.",
+      "strengths": ["Migrações", "Segurança de rede", "DR / backup"],
+      "gaps": ["Automação IaC menos profunda que pares seniores"],
+      "interview_questions": [
+        "Como planeou uma migração com downtime mínimo?",
+        "Que critérios usou para priorizar workloads na modernização?"
+      ],
+      "dimensions": {
+        "technical": 80,
+        "cultural_fit": 83,
+        "learning_agility": 78,
+        "experience": 85,
+        "communication": 76,
+        "problem_solving": 82
+      }
+    },
+    {
+      "candidate_id": "cloud_delta",
+      "job_id": "job_cloud",
+      "display_name": "Candidato Delta",
+      "summary": "Perfil multicloud com ênfase em AWS. Bom comunicador com equipas de desenvolvimento.",
+      "strengths": ["AWS", "API gateways", "Comunicação técnica"],
+      "gaps": ["Experiência limitada em ambientes altamente regulados"],
+      "interview_questions": [
+        "Como alinhou decisões de arquitetura com equipas de produto?",
+        "Que padrão de API gateway escolheu e porquê?"
+      ],
+      "dimensions": {
+        "technical": 83,
+        "cultural_fit": 85,
+        "learning_agility": 82,
+        "experience": 74,
+        "communication": 86,
+        "problem_solving": 80
+      }
+    },
+    {
+      "candidate_id": "cloud_epsilon",
+      "job_id": "job_cloud",
+      "display_name": "Candidato Epsilon",
+      "summary": "SRE orientado a fiabilidade. Experiência em SLOs e gestão de incidentes.",
+      "strengths": ["SRE", "SLOs / SLIs", "Gestão de incidentes"],
+      "gaps": ["Desenho de arquitetura greenfield mais raro"],
+      "interview_questions": [
+        "Como definiu SLOs que refletiam expectativas reais do negócio?",
+        "Conte um postmortem que mudou processos da organização."
+      ],
+      "dimensions": {
+        "technical": 78,
+        "cultural_fit": 87,
+        "learning_agility": 81,
+        "experience": 79,
+        "communication": 84,
+        "problem_solving": 86
+      }
+    },
+    {
+      "candidate_id": "se_alpha",
+      "job_id": "job_se",
+      "display_name": "Candidato Alpha",
+      "summary": "Full-stack com TypeScript e foco em qualidade. Experiência em testes e code review culture.",
+      "strengths": ["TypeScript", "Testes automatizados", "Code review"],
+      "gaps": ["Menos experiência em sistemas distribuídos de grande escala"],
+      "interview_questions": [
+        "Como estruturou testes para um módulo crítico com dependências externas?",
+        "Descreva uma refatoração que reduziu dívida técnica sem parar entregas."
+      ],
+      "dimensions": {
+        "technical": 86,
+        "cultural_fit": 88,
+        "learning_agility": 83,
+        "experience": 76,
+        "communication": 79,
+        "problem_solving": 84
+      }
+    },
+    {
+      "candidate_id": "se_beta",
+      "job_id": "job_se",
+      "display_name": "Candidato Beta",
+      "summary": "Backend Java com microserviços. Forte em performance e resiliência.",
+      "strengths": ["Java / Spring", "Microserviços", "Resiliência"],
+      "gaps": ["Frontend moderno não é foco principal"],
+      "interview_questions": [
+        "Como isolou uma falha em cascata num sistema de microserviços?",
+        "Que estratégia de cache usou e como invalidou dados?"
+      ],
+      "dimensions": {
+        "technical": 89,
+        "cultural_fit": 80,
+        "learning_agility": 79,
+        "experience": 82,
+        "communication": 71,
+        "problem_solving": 88
+      }
+    },
+    {
+      "candidate_id": "se_gamma",
+      "job_id": "job_se",
+      "display_name": "Candidato Gamma",
+      "summary": "Mobile + API com mentalidade de produto. Entrega rápida com MVP mindset.",
+      "strengths": ["APIs REST", "Mobile", "MVP delivery"],
+      "gaps": ["Padrões de segurança OWASP a aprofundar"],
+      "interview_questions": [
+        "Como priorizou funcionalidades num MVP com prazo apertado?",
+        "Que vulnerabilidade comum já corrigiu em APIs públicas?"
+      ],
+      "dimensions": {
+        "technical": 77,
+        "cultural_fit": 84,
+        "learning_agility": 87,
+        "experience": 70,
+        "communication": 82,
+        "problem_solving": 80
+      }
+    },
+    {
+      "candidate_id": "se_delta",
+      "job_id": "job_se",
+      "display_name": "Candidato Delta",
+      "summary": "Engenheiro de plataforma interna. Foco em developer experience e tooling.",
+      "strengths": ["Platform engineering", "CI/CD", "Developer experience"],
+      "gaps": ["Menos contacto direto com cliente final"],
+      "interview_questions": [
+        "Que métrica usou para medir melhoria na developer experience?",
+        "Como convenceu equipas a adotar um novo pipeline?"
+      ],
+      "dimensions": {
+        "technical": 84,
+        "cultural_fit": 82,
+        "learning_agility": 86,
+        "experience": 78,
+        "communication": 77,
+        "problem_solving": 85
+      }
+    },
+    {
+      "candidate_id": "se_epsilon",
+      "job_id": "job_se",
+      "display_name": "Candidato Epsilon",
+      "summary": "Perfil júnior com bootcamp e projetos open-source. Alta velocidade de aprendizagem.",
+      "strengths": ["Proatividade", "Open source", "Fundamentos sólidos"],
+      "gaps": ["Experiência profissional longa limitada"],
+      "interview_questions": [
+        "Qual contribuição open-source teve maior impacto e porquê?",
+        "Como pediu feedback e iterou no último projeto?"
+      ],
+      "dimensions": {
+        "technical": 72,
+        "cultural_fit": 85,
+        "learning_agility": 94,
+        "experience": 55,
+        "communication": 80,
+        "problem_solving": 78
+      }
+    },
+    {
+      "candidate_id": "ba_alpha",
+      "job_id": "job_ba",
+      "display_name": "Candidato Alpha",
+      "summary": "BA com experiência em requisitos regulados e workshops com stakeholders.",
+      "strengths": ["Elicitação de requisitos", "User stories", "Workshops"],
+      "gaps": ["Conhecimento técnico de APIs limitado"],
+      "interview_questions": [
+        "Como resolveu conflito entre dois stakeholders com requisitos opostos?",
+        "Que técnica usou para validar requisitos antes do desenvolvimento?"
+      ],
+      "dimensions": {
+        "technical": 70,
+        "cultural_fit": 89,
+        "learning_agility": 82,
+        "experience": 84,
+        "communication": 90,
+        "problem_solving": 83
+      }
+    },
+    {
+      "candidate_id": "ba_beta",
+      "job_id": "job_ba",
+      "display_name": "Candidato Beta",
+      "summary": "Perfil híbrido BA + dados. Consegue ligar KPIs a histórias de utilizador.",
+      "strengths": ["KPIs", "Process mapping", "SQL básico"],
+      "gaps": ["Menos experiência em contratos complexos"],
+      "interview_questions": [
+        "Dê um exemplo em que um KPI mudou o scope do projeto.",
+        "Como documentou um processo AS-IS / TO-BE de forma clara?"
+      ],
+      "dimensions": {
+        "technical": 74,
+        "cultural_fit": 86,
+        "learning_agility": 80,
+        "experience": 79,
+        "communication": 85,
+        "problem_solving": 81
+      }
+    },
+    {
+      "candidate_id": "ba_gamma",
+      "job_id": "job_ba",
+      "display_name": "Candidato Gamma",
+      "summary": "Consultor de negócio com foco em transformação digital. Forte apresentação executiva.",
+      "strengths": ["Apresentação executiva", "Change management", "Análise de impacto"],
+      "gaps": ["Detalhe de acceptance criteria por vezes superficial"],
+      "interview_questions": [
+        "Como mediu sucesso de uma iniciativa de transformação?",
+        "Conte um caso em que teve de reduzir scope mantendo valor."
+      ],
+      "dimensions": {
+        "technical": 65,
+        "cultural_fit": 88,
+        "learning_agility": 77,
+        "experience": 86,
+        "communication": 92,
+        "problem_solving": 79
+      }
+    },
+    {
+      "candidate_id": "ba_delta",
+      "job_id": "job_ba",
+      "display_name": "Candidato Delta",
+      "summary": "BA técnico com noção de integrações e APIs. Ponte forte entre IT e negócio.",
+      "strengths": ["Integrações", "BPMN", "Casos de teste"],
+      "gaps": ["Facilitação de workshops grandes ainda em crescimento"],
+      "interview_questions": [
+        "Como validou requisitos não-funcionais com a equipa técnica?",
+        "Descreva um mapa de integração que evitou retrabalho."
+      ],
+      "dimensions": {
+        "technical": 78,
+        "cultural_fit": 84,
+        "learning_agility": 83,
+        "experience": 81,
+        "communication": 80,
+        "problem_solving": 84
+      }
+    },
+    {
+      "candidate_id": "ba_epsilon",
+      "job_id": "job_ba",
+      "display_name": "Candidato Epsilon",
+      "summary": "Perfil júnior com certificação CBAP em curso. Muito organizado e orientado a detalhe.",
+      "strengths": ["Organização", "Documentação", "Raciocínio estruturado"],
+      "gaps": ["Experiência com stakeholders difíceis limitada"],
+      "interview_questions": [
+        "Como garantiu rastreabilidade entre requisito e teste?",
+        "Que erro de requisitos aprendeu mais cedo na carreira?"
+      ],
+      "dimensions": {
+        "technical": 68,
+        "cultural_fit": 87,
+        "learning_agility": 88,
+        "experience": 58,
+        "communication": 78,
+        "problem_solving": 75
+      }
+    },
+    {
+      "candidate_id": "pm_alpha",
+      "job_id": "job_pm",
+      "display_name": "Candidato Alpha",
+      "summary": "PM com entrega B2B e roadmap trimestral. Equilibra discovery e delivery.",
+      "strengths": ["Roadmap", "Priorização", "Métricas de produto"],
+      "gaps": ["Background técnico profundo limitado"],
+      "interview_questions": [
+        "Como decidiu cortar features mantendo OKRs?",
+        "Que métrica norte usou no último lançamento?"
+      ],
+      "dimensions": {
+        "technical": 62,
+        "cultural_fit": 90,
+        "learning_agility": 81,
+        "experience": 85,
+        "communication": 91,
+        "problem_solving": 86
+      }
+    },
+    {
+      "candidate_id": "pm_beta",
+      "job_id": "job_pm",
+      "display_name": "Candidato Beta",
+      "summary": "PM técnico ex-engenheiro. Comunica bem com dev e design.",
+      "strengths": ["Comunicação com engenharia", "PRDs claros", "Discovery"],
+      "gaps": ["Menos experiência em pricing e monetização"],
+      "interview_questions": [
+        "Como escreveu um PRD que reduziu ambiguidade na sprint?",
+        "Conte um discovery que mudou completamente a solução."
+      ],
+      "dimensions": {
+        "technical": 75,
+        "cultural_fit": 87,
+        "learning_agility": 84,
+        "experience": 80,
+        "communication": 88,
+        "problem_solving": 85
+      }
+    },
+    {
+      "candidate_id": "pm_gamma",
+      "job_id": "job_pm",
+      "display_name": "Candidato Gamma",
+      "summary": "Growth PM com foco em experimentação e funnels. Orientado a dados.",
+      "strengths": ["Growth", "Experimentação", "Analytics de produto"],
+      "gaps": ["Stakeholders enterprise C-level menos frequentes"],
+      "interview_questions": [
+        "Qual experimento falhou e o que aprendeu?",
+        "Como ligou um experimento a receita ou retenção?"
+      ],
+      "dimensions": {
+        "technical": 70,
+        "cultural_fit": 82,
+        "learning_agility": 86,
+        "experience": 73,
+        "communication": 83,
+        "problem_solving": 82
+      }
+    },
+    {
+      "candidate_id": "pm_delta",
+      "job_id": "job_pm",
+      "display_name": "Candidato Delta",
+      "summary": "PM de plataforma interna. Foco em adopção e métricas de uso.",
+      "strengths": ["Adopção", "Roadmap de plataforma", "Stakeholder mapping"],
+      "gaps": ["UX research profundo não é especialidade"],
+      "interview_questions": [
+        "Como mediu adopção de uma feature de plataforma?",
+        "Como geriu conflito entre duas equipas consumidoras?"
+      ],
+      "dimensions": {
+        "technical": 68,
+        "cultural_fit": 85,
+        "learning_agility": 79,
+        "experience": 82,
+        "communication": 86,
+        "problem_solving": 84
+      }
+    },
+    {
+      "candidate_id": "pm_epsilon",
+      "job_id": "job_pm",
+      "display_name": "Candidato Epsilon",
+      "summary": "Associate PM com energia e research qualitativo. Bom em user interviews.",
+      "strengths": ["User interviews", "Síntese qualitativa", "Empatia"],
+      "gaps": ["Experiência em escalar produto maduro limitada"],
+      "interview_questions": [
+        "Como sintetizou entrevistas em decisões de prioridade?",
+        "Que insight qualitativo surpreendeu a equipa?"
+      ],
+      "dimensions": {
+        "technical": 58,
+        "cultural_fit": 88,
+        "learning_agility": 90,
+        "experience": 62,
+        "communication": 87,
+        "problem_solving": 80
+      }
+    }
+  ]
+}

@@ -483,15 +483,74 @@ Here are the CVs:
 {joined}"""
 
 
+MONTHS = {
+    "january": 1,
+    "february": 2,
+    "march": 3,
+    "april": 4,
+    "may": 5,
+    "june": 6,
+    "july": 7,
+    "august": 8,
+    "september": 9,
+    "october": 10,
+    "november": 11,
+    "december": 12,
+}
+
+
+def reference_year_month(text: str) -> tuple[int, int]:
+    """Use the CV export date when present, otherwise the challenge year."""
+    match = re.search(r"\b(20\d{2})-(\d{2})-\d{2}\b", text)
+    if match:
+        return int(match.group(1)), int(match.group(2))
+    return 2026, 5
+
+
+def experience_section(text: str) -> str:
+    match = re.search(
+        r"\bExperience\b[\s:*#-]*(.*?)(?:\n\s*[*#\s-]*(?:Education|Skills|Languages|Certifications|Projects|Publications)\b|\Z)",
+        text,
+        re.IGNORECASE | re.DOTALL,
+    )
+    return match.group(1) if match else text
+
+
+def date_to_decimal(month: str, year: str) -> float:
+    return int(year) + (MONTHS[month.lower()] - 1) / 12
+
+
+def estimate_years_from_ranges(text: str) -> int | None:
+    exp_text = experience_section(text)
+    ref_year, ref_month = reference_year_month(text)
+    present_decimal = ref_year + (ref_month - 1) / 12
+    total_years = 0.0
+
+    month_names = "|".join(MONTHS)
+    pattern = re.compile(
+        rf"\b({month_names})\s+((?:19|20)\d{{2}})\s*[–—-]\s*(?:(present)|({month_names})\s+((?:19|20)\d{{2}}))\b",
+        re.IGNORECASE,
+    )
+    for match in pattern.finditer(exp_text):
+        start = date_to_decimal(match.group(1), match.group(2))
+        end = present_decimal if match.group(3) else date_to_decimal(match.group(4), match.group(5))
+        if end >= start:
+            total_years += end - start
+
+    if total_years > 0:
+        return max(1, min(40, round(total_years)))
+    return None
+
+
 def estimate_years(text: str) -> int:
-    explicit = re.findall(r"(\d+)\s*\+?\s*years?", text, re.IGNORECASE)
+    explicit = re.findall(r"(\d+)\s*\+?\s*years?(?:[’']?\s+|\s+of\s+)?(?:professional\s+)?experience", text, re.IGNORECASE)
     if explicit:
         return max(int(x) for x in explicit)
 
-    years = [int(y) for y in re.findall(r"\b(19\d{2}|20\d{2})\b", text)]
-    years = [y for y in years if 1970 <= y <= 2026]
-    if years:
-        return max(0, min(40, 2026 - min(years)))
+    ranged_years = estimate_years_from_ranges(text)
+    if ranged_years is not None:
+        return ranged_years
+
     return 0
 
 

@@ -1,0 +1,228 @@
+[
+  {
+    "job_id": "job_1",
+    "title": "Directors, Data & AI Strategy",
+    "department": "Consulting",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Director (15+ years)",
+    "about_role": "EY Portugal is seeking two experienced Directors to lead our Data & AI Strategy practice. The successful candidates will drive complex digital transformation initiatives for our clients, focusing on enterprise data strategy, AI governance, and advanced analytics solutions. This role requires strategic thinkers who can translate business objectives into actionable data frameworks and deliver measurable outcomes.",
+    "required_skills": [
+      "AI",
+      "AWS",
+      "Analytics",
+      "Azure",
+      "Cloud",
+      "Compliance",
+      "Consulting",
+      "Data",
+      "Excel",
+      "Financial",
+      "Governance",
+      "Machine Learning",
+      "Strategy",
+      "Transformation"
+    ],
+    "required_experience_years": 15,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "15+ years of experience in data strategy, business intelligence, and AI/ML implementation.",
+      "Proven track record in delivering large-scale digital transformation initiatives.",
+      "Experience building and implementing enterprise data governance frameworks.",
+      "Strong technical understanding of data platforms and AI/ML technologies.",
+      "Excellent communication skills with the ability to influence at the C- suite level.",
+      "Experience in multiple industries, preferably including financial services.",
+      "Relevant certifications (e.g., Microsoft AI, AWS, PMI) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Lead enterprise-wide data transformation and AI implementation programs for major clients across industries.",
+      "Develop AI governance frameworks addressing ethical considerations, algorithmic fairness, and regulatory compliance.",
+      "Design and implement data warehousing and analytics architectures using cloud platforms like Azure and AWS.",
+      "Build and manage cross-functional teams of data scientists, engineers, and business analysts.",
+      "Foster executive-level relationships and serve as trusted advisors on data strategy and AI implementation.",
+      "Contribute to business development through proposal creation and client presentations.",
+      "Stay current with emerging trends in AI, machine learning, and data governance."
+    ],
+    "certifications_preferred": [
+      "AWS",
+      "Azure"
+    ],
+    "source_file": "JobDescription1.pdf"
+  },
+  {
+    "job_id": "job_2",
+    "title": "Senior Consultant, Technology Risk",
+    "department": "Risk Advisory",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Senior",
+    "about_role": "As a Senior Consultant in Technology Risk, you will help clients manage technology-related risks and ensure compliance with industry standards.",
+    "required_skills": [
+      "CISA",
+      "CISSP",
+      "Compliance",
+      "Controls",
+      "Excel",
+      "Risk",
+      "Stakeholder",
+      "Technology Risk"
+    ],
+    "required_experience_years": 4,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "4-6 years of experience in technology risk or related fields.",
+      "Strong understanding of IT controls and compliance frameworks.",
+      "Excellent analytical and communication skills.",
+      "Relevant certifications (e.g., CISA, CISSP) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Conduct assessments of technology controls and processes.",
+      "Develop risk management frameworks and strategies.",
+      "Collaborate with clients to implement technology risk solutions.",
+      "Prepare reports and presentations for stakeholders.",
+      "Stay current with technology trends and regulatory changes."
+    ],
+    "certifications_preferred": [
+      "CISA",
+      "CISSP"
+    ],
+    "source_file": "JobDescription2.pdf"
+  },
+  {
+    "job_id": "job_3",
+    "title": "Cybersecurity Team Recruitment",
+    "department": "Cybersecurity",
+    "location": "Lisbon, Portugal",
+    "experience_level": "N/A",
+    "about_role": "EY Portugal is embarking on an exciting journey to establish a comprehensive Cybersecurity practice from the ground up. We are seeking to recruit an entire team of cybersecurity professionals with diverse expertise to build a robust cybersecurity framework that protects our clients and their assets.",
+    "required_skills": [
+      "AI",
+      "CISSP",
+      "Compliance",
+      "Cybersecurity",
+      "Excel",
+      "Risk",
+      "Security",
+      "Stakeholder",
+      "Strategy",
+      "Vulnerability"
+    ],
+    "required_experience_years": 0,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "Proven experience in building and leading cybersecurity teams.",
+      "Strong knowledge of cybersecurity frameworks and best practices.",
+      "Excellent communication and interpersonal skills.",
+      "Relevant certifications (e.g., CISSP, CISM, CEH) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Develop and implement a comprehensive cybersecurity strategy tailored to client needs.",
+      "Establish cybersecurity policies, procedures, and best practices.",
+      "Conduct risk assessments and vulnerability assessments to identify potential threats.",
+      "Foster a culture of security awareness within the organization and among clients.",
+      "Collaborate with stakeholders to ensure alignment with business objectives and compliance with regulations.",
+      "Stay current with emerging cybersecurity threats and trends, adapting strategies as necessary."
+    ],
+    "certifications_preferred": [
+      "CISSP",
+      "CISM",
+      "CEH"
+    ],
+    "source_file": "JobDescription3.pdf"
+  },
+  {
+    "job_id": "job_4",
+    "title": "Financial Analyst",
+    "department": "Financial Services",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Staff",
+    "about_role": "Join our Financial Services team as a Financial Analyst. You will support financial planning and analysis activities, providing insights to drive business performance.",
+    "required_skills": [
+      "Accounting",
+      "Compliance",
+      "Data",
+      "Excel",
+      "Finance",
+      "Financial"
+    ],
+    "required_experience_years": 0,
+    "required_education": "Bachelor's degree in Finance, Accounting, or related field.",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "Bachelor's degree in Finance, Accounting, or related field.",
+      "0-2 years of experience in financial analysis or related roles.",
+      "Strong analytical and quantitative skills.",
+      "Proficiency in Excel and financial modeling.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Assist in the preparation of financial reports and forecasts.",
+      "Analyze financial data to identify trends and variances.",
+      "Collaborate with business units to support decision-making.",
+      "Ensure compliance with financial regulations and standards.",
+      "Support ad-hoc financial analysis and projects."
+    ],
+    "certifications_preferred": [],
+    "source_file": "JobDescription4.pdf"
+  },
+  {
+    "job_id": "job_5",
+    "title": "Consultant, Forensic & Integrity Services",
+    "department": "Forensic",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Manager",
+    "about_role": "EY Portugal is seeking a Consultant to join our Forensic & Integrity Services team. The successful candidate will assist clients in managing investigations and compliance matters.",
+    "required_skills": [
+      "Accounting",
+      "CFE",
+      "CPA",
+      "Compliance",
+      "Data",
+      "Excel",
+      "Forensic",
+      "Investigation",
+      "Stakeholder"
+    ],
+    "required_experience_years": 7,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "7+ years of experience in forensic accounting or related fields.",
+      "Strong analytical and investigative skills.",
+      "Excellent communication and interpersonal skills.",
+      "Relevant certifications (e.g., CFE, CPA) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Conduct forensic investigations and data analysis.",
+      "Assist clients in developing compliance programs.",
+      "Prepare reports and presentations for stakeholders.",
+      "Collaborate with cross-functional teams to deliver integrated solutions.",
+      "Stay current with industry trends and regulatory changes."
+    ],
+    "certifications_preferred": [
+      "CFE",
+      "CPA"
+    ],
+    "source_file": "JobDescription5.pdf"
+  }
+]
