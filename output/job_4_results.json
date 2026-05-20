@@ -1,6 +1,44 @@
 {
   "job_id": "job_4",
   "title": "Financial Analyst",
+  "job": {
+    "job_id": "job_4",
+    "title": "Financial Analyst",
+    "department": "Financial Services",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Staff",
+    "about_role": "Join our Financial Services team as a Financial Analyst. You will support financial planning and analysis activities, providing insights to drive business performance.",
+    "required_skills": [
+      "Accounting",
+      "Compliance",
+      "Data",
+      "Excel",
+      "Finance",
+      "Financial"
+    ],
+    "required_experience_years": 0,
+    "required_education": "Bachelor's degree in Finance, Accounting, or related field.",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "Bachelor's degree in Finance, Accounting, or related field.",
+      "0-2 years of experience in financial analysis or related roles.",
+      "Strong analytical and quantitative skills.",
+      "Proficiency in Excel and financial modeling.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Assist in the preparation of financial reports and forecasts.",
+      "Analyze financial data to identify trends and variances.",
+      "Collaborate with business units to support decision-making.",
+      "Ensure compliance with financial regulations and standards.",
+      "Support ad-hoc financial analysis and projects."
+    ],
+    "certifications_preferred": [],
+    "source_file": "JobDescription4.pdf"
+  },
   "candidates": [
     {
       "candidate_id": "cv_89",

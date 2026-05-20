@@ -76,6 +76,12 @@ Generated files:
 - `output/jobs_metadata.json`
 - `output/job_1_results.json` through `output/job_5_results.json`
 
+`jobs_metadata.json` includes job card/detail data such as department,
+location, experience level, about-role text, requirements, required skills,
+languages, responsibilities, preferred certifications, and source PDF. Each
+`job_X_results.json` also includes the same data under a top-level `job` object
+next to the ranked `candidates` list.
+
 Known data issue: the text extractor skips PDFs that return empty text. In the
 current dataset those are `cv_2.pdf`, `cv_21.pdf`, `cv_45.pdf`, `cv_75.pdf`,
 and `cv_90.pdf`.

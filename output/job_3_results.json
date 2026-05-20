@@ -1,6 +1,53 @@
 {
   "job_id": "job_3",
   "title": "Cybersecurity Team Recruitment",
+  "job": {
+    "job_id": "job_3",
+    "title": "Cybersecurity Team Recruitment",
+    "department": "Cybersecurity",
+    "location": "Lisbon, Portugal",
+    "experience_level": "N/A",
+    "about_role": "EY Portugal is embarking on an exciting journey to establish a comprehensive Cybersecurity practice from the ground up. We are seeking to recruit an entire team of cybersecurity professionals with diverse expertise to build a robust cybersecurity framework that protects our clients and their assets.",
+    "required_skills": [
+      "AI",
+      "CISSP",
+      "Compliance",
+      "Cybersecurity",
+      "Excel",
+      "Risk",
+      "Security",
+      "Stakeholder",
+      "Strategy",
+      "Vulnerability"
+    ],
+    "required_experience_years": 0,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "Proven experience in building and leading cybersecurity teams.",
+      "Strong knowledge of cybersecurity frameworks and best practices.",
+      "Excellent communication and interpersonal skills.",
+      "Relevant certifications (e.g., CISSP, CISM, CEH) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Develop and implement a comprehensive cybersecurity strategy tailored to client needs.",
+      "Establish cybersecurity policies, procedures, and best practices.",
+      "Conduct risk assessments and vulnerability assessments to identify potential threats.",
+      "Foster a culture of security awareness within the organization and among clients.",
+      "Collaborate with stakeholders to ensure alignment with business objectives and compliance with regulations.",
+      "Stay current with emerging cybersecurity threats and trends, adapting strategies as necessary."
+    ],
+    "certifications_preferred": [
+      "CISSP",
+      "CISM",
+      "CEH"
+    ],
+    "source_file": "JobDescription3.pdf"
+  },
   "candidates": [
     {
       "candidate_id": "cv_26",

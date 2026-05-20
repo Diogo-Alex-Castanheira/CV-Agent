@@ -1,6 +1,60 @@
 {
   "job_id": "job_1",
   "title": "Directors, Data & AI Strategy",
+  "job": {
+    "job_id": "job_1",
+    "title": "Directors, Data & AI Strategy",
+    "department": "Consulting",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Director (15+ years)",
+    "about_role": "EY Portugal is seeking two experienced Directors to lead our Data & AI Strategy practice. The successful candidates will drive complex digital transformation initiatives for our clients, focusing on enterprise data strategy, AI governance, and advanced analytics solutions. This role requires strategic thinkers who can translate business objectives into actionable data frameworks and deliver measurable outcomes.",
+    "required_skills": [
+      "AI",
+      "AWS",
+      "Analytics",
+      "Azure",
+      "Cloud",
+      "Compliance",
+      "Consulting",
+      "Data",
+      "Excel",
+      "Financial",
+      "Governance",
+      "Machine Learning",
+      "Strategy",
+      "Transformation"
+    ],
+    "required_experience_years": 15,
+    "required_education": "Not specified",
+    "required_languages": [
+      "English",
+      "Portuguese"
+    ],
+    "requirements": [
+      "15+ years of experience in data strategy, business intelligence, and AI/ML implementation.",
+      "Proven track record in delivering large-scale digital transformation initiatives.",
+      "Experience building and implementing enterprise data governance frameworks.",
+      "Strong technical understanding of data platforms and AI/ML technologies.",
+      "Excellent communication skills with the ability to influence at the C- suite level.",
+      "Experience in multiple industries, preferably including financial services.",
+      "Relevant certifications (e.g., Microsoft AI, AWS, PMI) preferred.",
+      "Fluency in English and Portuguese required."
+    ],
+    "key_responsibilities": [
+      "Lead enterprise-wide data transformation and AI implementation programs for major clients across industries.",
+      "Develop AI governance frameworks addressing ethical considerations, algorithmic fairness, and regulatory compliance.",
+      "Design and implement data warehousing and analytics architectures using cloud platforms like Azure and AWS.",
+      "Build and manage cross-functional teams of data scientists, engineers, and business analysts.",
+      "Foster executive-level relationships and serve as trusted advisors on data strategy and AI implementation.",
+      "Contribute to business development through proposal creation and client presentations.",
+      "Stay current with emerging trends in AI, machine learning, and data governance."
+    ],
+    "certifications_preferred": [
+      "AWS",
+      "Azure"
+    ],
+    "source_file": "JobDescription1.pdf"
+  },
   "candidates": [
     {
       "candidate_id": "cv_80",

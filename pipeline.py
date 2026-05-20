@@ -267,6 +267,23 @@ def split_sentences(text: str, limit: int = 8) -> list[str]:
     return [p.strip(" -•") for p in parts if len(p.strip()) > 8][:limit]
 
 
+def format_skill(skill: str) -> str:
+    acronyms = {
+        "ai": "AI",
+        "aws": "AWS",
+        "azure": "Azure",
+        "cisa": "CISA",
+        "cissp": "CISSP",
+        "cism": "CISM",
+        "ceh": "CEH",
+        "cfe": "CFE",
+        "cpa": "CPA",
+        "sql": "SQL",
+        "power bi": "Power BI",
+    }
+    return acronyms.get(skill.lower(), skill.title())
+
+
 def local_parse_job(jd_id: str, text: str, source_file: str) -> dict[str, Any]:
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     title = lines[0] if lines else jd_id
@@ -277,10 +294,12 @@ def local_parse_job(jd_id: str, text: str, source_file: str) -> dict[str, Any]:
     years_match = re.search(r"(\d+)\s*\+?\s*(?:-|to)?\s*\d*\s*years", text, re.IGNORECASE)
     required_years = int(years_match.group(1)) if years_match else 0
 
+    about_role = re.sub(r"\s+", " ", section_after(text, "About the Role")).strip()
     requirements = section_after(text, "Requirements")
+    requirement_items = split_sentences(requirements, 12)
     responsibilities = split_sentences(section_after(text, "Key Responsibilities"), 10)
     combined = f"{title} {department} {requirements} {' '.join(responsibilities)}".lower()
-    skills = sorted({kw.title() for kw in SKILL_KEYWORDS if kw in combined})
+    skills = sorted({format_skill(kw) for kw in SKILL_KEYWORDS if kw in combined})
     languages = []
     if "english" in text.lower():
         languages.append("English")
@@ -288,12 +307,12 @@ def local_parse_job(jd_id: str, text: str, source_file: str) -> dict[str, Any]:
         languages.append("Portuguese")
 
     certs = []
-    for cert in ["CISA", "CISSP", "CFE", "CPA", "AWS", "Azure"]:
+    for cert in ["CISA", "CISSP", "CISM", "CEH", "CFE", "CPA", "AWS", "Azure"]:
         if cert.lower() in text.lower():
             certs.append(cert)
 
     education = "Not specified"
-    degree_match = re.search(r"(Bachelor'?s|Master'?s|PhD|MBA)[^.]*\.", text, re.IGNORECASE)
+    degree_match = re.search(r"\b(Bachelor'?s|Master'?s|PhD|MBA)\b[^.]*\.", text, re.IGNORECASE)
     if degree_match:
         education = degree_match.group(0).strip()
 
@@ -303,13 +322,35 @@ def local_parse_job(jd_id: str, text: str, source_file: str) -> dict[str, Any]:
         "department": department,
         "location": location,
         "experience_level": experience_level,
+        "about_role": about_role,
         "required_skills": skills[:18],
         "required_experience_years": required_years,
         "required_education": education,
         "required_languages": languages,
+        "requirements": requirement_items,
         "key_responsibilities": responsibilities,
         "certifications_preferred": certs,
         "source_file": source_file,
+    }
+
+
+def job_output_payload(job: dict[str, Any]) -> dict[str, Any]:
+    """Fields the frontend can use for job cards and detail panels."""
+    return {
+        "job_id": job.get("job_id", ""),
+        "title": job.get("title", ""),
+        "department": job.get("department", ""),
+        "location": job.get("location", ""),
+        "experience_level": job.get("experience_level", ""),
+        "about_role": job.get("about_role", ""),
+        "required_skills": job.get("required_skills", []),
+        "required_experience_years": job.get("required_experience_years", 0),
+        "required_education": job.get("required_education", ""),
+        "required_languages": job.get("required_languages", []),
+        "requirements": job.get("requirements", []),
+        "key_responsibilities": job.get("key_responsibilities", []),
+        "certifications_preferred": job.get("certifications_preferred", []),
+        "source_file": job.get("source_file", ""),
     }
 
 
@@ -872,23 +913,14 @@ def score_jobs(
 
 
 def write_outputs(jobs: list[dict[str, Any]], scored: dict[str, list[dict[str, Any]]]) -> None:
-    metadata = [
-        {
-            "job_id": job["job_id"],
-            "title": job.get("title", ""),
-            "department": job.get("department", ""),
-            "location": job.get("location", ""),
-            "experience_level": job.get("experience_level", ""),
-            "source_file": job.get("source_file", ""),
-        }
-        for job in jobs
-    ]
+    metadata = [job_output_payload(job) for job in jobs]
     write_json(OUTPUT_DIR / "jobs_metadata.json", metadata)
 
     for job in jobs:
         payload = {
             "job_id": job["job_id"],
             "title": job.get("title", ""),
+            "job": job_output_payload(job),
             "candidates": scored[job["job_id"]],
         }
         write_json(OUTPUT_DIR / f"{job['job_id']}_results.json", payload)
