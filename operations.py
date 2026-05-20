@@ -1,5 +1,7 @@
 import json
 import sqlite3
+import threading
+import time
 
 import requests
 
@@ -41,15 +43,27 @@ def queryResults(job_name, cv_email):
 def storeResults(job_name, cv_email, results):
     query = "INSERT INTO evaluations VALUES (?, ?, ?)"
     db_cursor.execute(query, (job_name, cv_email, json.dumps(results)))
-    db_connection.commit()
+    # db_connection.commit()
 
 
 # Update existing evaluation results
 def updateResults(job_name, cv_email, results):
     query = "UPDATE evaluations SET results = ? WHERE job_name = ? AND cv_email = ?;"
-
     db_cursor.execute(query, (json.dumps(results), job_name, cv_email))
+    # db_connection.commit()
+
+
+# Thread to commit database state every 2 minutes
+def deleteResults(job_name, cv_email):
+    query = "DELETE FROM evaluations WHERE job_name = ? AND cv_email = ?;"
+    db_cursor.execute(query, (job_name, cv_email))
+    # db_connection.commit()
+
+
+# Delete previous evaluation results
+def commitThread():
     db_connection.commit()
+    time.sleep(120)
 
 
 # Close DB connection when shutting down
@@ -57,3 +71,7 @@ def shutdown():
     db_connection.commit()
     db_cursor.close()
     db_connection.close()
+
+
+my_thread = threading.Thread(target=commitThread)
+my_thread.start()
