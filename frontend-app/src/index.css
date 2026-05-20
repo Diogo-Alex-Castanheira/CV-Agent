@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply font-sans antialiased;
+    color: #111111;
+    overflow-x: hidden;
+    background:
+      radial-gradient(circle at 10% 10%, rgba(255, 224, 102, 0.35), transparent 28%),
+      radial-gradient(circle at 90% 20%, rgba(248, 167, 216, 0.32), transparent 30%),
+      radial-gradient(circle at 20% 90%, rgba(184, 247, 166, 0.30), transparent 30%),
+      radial-gradient(circle at 85% 85%, rgba(150, 216, 255, 0.30), transparent 30%),
+      #F7F3EA;
+  }
+
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(17, 17, 17, 0.1);
+    border-radius: 999px;
+  }
+}
+
+@layer utilities {
+  .gradient-main { background: linear-gradient(135deg, #FFE066 0%, #F8A7D8 45%, #96D8FF 100%); }
+  .gradient-green-blue { background: linear-gradient(135deg, #B8F7A6 0%, #A8F0FF 100%); }
+  .gradient-orange-pink { background: linear-gradient(135deg, #FF9F6E 0%, #F8A7D8 100%); }
+  .gradient-purple-blue { background: linear-gradient(135deg, #C69CFF 0%, #96D8FF 100%); }
+  .gradient-yellow-green { background: linear-gradient(135deg, #FFE066 0%, #B8F7A6 100%); }
+  .gradient-coral-purple { background: linear-gradient(135deg, #FF7D7D 0%, #C69CFF 100%); }
+
+  .dynamic-gradient {
+    background-size: 200% 200%;
+    animation: gradientShift 8s ease infinite;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/70 backdrop-blur-xl rounded-[2rem] shadow-neu border border-white/40;
+  }
+
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.58);
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(255, 255, 255, 0.68);
+    box-shadow: 0 12px 30px rgba(17, 17, 17, 0.08);
+  }
+
+  .pastel-card {
+    @apply rounded-3xl shadow-neu p-5 transition-all duration-300;
+  }
+
+  .pastel-card:hover {
+    @apply shadow-soft-lg -translate-y-1;
+  }
+
+  .floating-nav {
+    background: rgba(5, 5, 5, 0.94);
+    backdrop-filter: blur(20px);
+    border-radius: 999px;
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.28);
+    @apply fixed bottom-4 left-1/2 -translate-x-1/2 px-2 py-2 flex items-center gap-1 z-50;
+  }
+
+  .nav-item {
+    color: rgba(255, 255, 255, 0.72);
+    @apply flex flex-col items-center justify-center px-4 py-2 rounded-full transition-all duration-300 text-xs font-medium;
+  }
+
+  .nav-item.active {
+    background: linear-gradient(135deg, #B8F7A6, #96D8FF);
+    color: #111111;
+  }
+
+  .metric-card {
+    @apply pastel-card flex flex-col items-start gap-2;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-wide shadow-sm;
+    color: #111111;
+  }
+
+  .badge-green { @apply bg-pastel-green; }
+  .badge-red { @apply bg-pastel-coral; }
+  .badge-amber { @apply bg-pastel-yellow; }
+  .badge-purple { @apply bg-pastel-lavender; }
+  .badge-blue { @apply bg-pastel-cyan; }
+
+  /* Swipe Overlays */
+  .swipe-overlay {
+    @apply absolute inset-0 rounded-[2rem] flex items-center justify-center pointer-events-none z-10;
+  }
+  
+  .swipe-overlay-stamp {
+    @apply text-5xl font-black tracking-widest text-white px-8 py-4 rounded-3xl border-4 border-white shadow-soft transform -rotate-12 scale-110 drop-shadow-lg;
+  }
+
+  .shortlist-overlay { background: linear-gradient(135deg, rgba(184,247,166,0.92), rgba(168,240,255,0.88)); }
+  .reject-overlay { background: linear-gradient(135deg, rgba(255,125,125,0.90), rgba(248,167,216,0.88)); }
+  .hold-overlay { background: linear-gradient(135deg, rgba(255,224,102,0.92), rgba(198,156,255,0.86)); }
+
+  /* Buttons */
+  .primary-btn {
+    background: #111111;
+    color: #FFFFFF;
+    border-radius: 999px;
+    box-shadow: 0 12px 28px rgba(17, 17, 17, 0.22);
+    @apply hover:scale-[1.02] active:scale-[0.98] transition-transform font-bold;
+  }
+
+  .secondary-btn {
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    color: #111111;
+    border-radius: 999px;
+    @apply hover:scale-[1.02] active:scale-[0.98] transition-transform font-bold;
+  }
+
+  .action-btn {
+    @apply w-16 h-16 rounded-full flex flex-col items-center justify-center shadow-btn hover:scale-105 active:scale-95 transition-all;
+    color: #111111;
+  }
+
+  .shortlist-button { background: linear-gradient(135deg, #B8F7A6, #A8F0FF); }
+  .reject-button { background: linear-gradient(135deg, #FF7D7D, #F8A7D8); }
+  .hold-button { background: linear-gradient(135deg, #FFE066, #C69CFF); }
+  .info-button { background: linear-gradient(135deg, #96D8FF, #D9C7FF); }
+
+  /* Roles */
+  .ai-role { background: linear-gradient(135deg, #C69CFF, #96D8FF); }
+  .cyber-role { background: linear-gradient(135deg, #111111, #2A2A2A); color: #FFFFFF; }
+  .sap-role { background: linear-gradient(135deg, #FFE066, #FF9F6E); }
+  .data-role { background: linear-gradient(135deg, #B8F7A6, #A8F0FF); }
+  .tax-role { background: linear-gradient(135deg, #F8A7D8, #FF7D7D); }
+
+  /* Tags */
+  .ai-tag { background: rgba(198, 156, 255, 0.35); }
+  .leadership-tag { background: rgba(255, 224, 102, 0.42); }
+  .consulting-tag { background: rgba(184, 247, 166, 0.40); }
+  .risk-tag { background: rgba(255, 125, 125, 0.38); }
+  .data-tag { background: rgba(150, 216, 255, 0.38); }
+}
+
+/* Decorative blob shapes */
+.blob-1 {
+  position: fixed;
+  top: -80px;
+  right: -80px;
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, rgba(198, 156, 255, 0.4) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  animation: floatBlob 6s ease-in-out infinite;
+}
+
+.blob-2 {
+  position: fixed;
+  bottom: 100px;
+  left: -100px;
+  width: 350px;
+  height: 350px;
+  background: radial-gradient(circle, rgba(184, 247, 166, 0.4) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  animation: floatBlob 8s ease-in-out infinite reverse;
+}
+
+.blob-3 {
+  position: fixed;
+  top: 40%;
+  right: -50px;
+  width: 250px;
+  height: 250px;
+  background: radial-gradient(circle, rgba(248, 167, 216, 0.4) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  animation: floatBlob 7s ease-in-out infinite;
+}

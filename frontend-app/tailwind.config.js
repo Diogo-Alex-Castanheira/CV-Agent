@@ -1,0 +1,96 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        cream: '#F7F3EA',
+        'bg-soft': '#FBF7EF',
+        'bg-lilac': '#F0ECF8',
+        ink: '#111111',
+        'ink-soft': '#2A2A2A',
+        'nav-black': '#050505',
+        'pastel-green': '#B8F7A6',
+        'pastel-lime': '#D8FF8F',
+        'pastel-yellow': '#FFE066',
+        'pastel-orange': '#FF9F6E',
+        'pastel-coral': '#FF7D7D',
+        'pastel-pink': '#F8A7D8',
+        'pastel-purple': '#C69CFF',
+        'pastel-lavender': '#D9C7FF',
+        'pastel-blue': '#96D8FF',
+        'pastel-cyan': '#A8F0FF',
+        'shortlist': '#B8F7A6',
+        'shortlist-strong': '#48C774',
+        'reject': '#FF7D7D',
+        'reject-strong': '#F04444',
+        'hold': '#FFE066',
+        'hold-strong': '#EAB308',
+        'info': '#96D8FF',
+        'info-strong': '#2F80ED',
+        // Legacy aliases to prevent unformatted components
+        'text-primary': '#111111',
+        'text-secondary': 'rgba(17,17,17,0.62)',
+        'dark': '#111111',
+        'accent-green': '#48C774',
+        'accent-red': '#F04444',
+        'accent-amber': '#EAB308',
+        'accent-purple': '#C69CFF',
+        'nav-dark': '#050505',
+        'mint-green': '#B8F7A6',
+        'soft-yellow': '#FFE066',
+        'light-blue': '#96D8FF',
+      },
+      fontFamily: {
+        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+      },
+      borderRadius: {
+        '2xl': '1rem',
+        '3xl': '1.5rem',
+        '4xl': '2rem',
+        '5xl': '2.5rem',
+      },
+      boxShadow: {
+        'soft': '0 4px 24px rgba(0,0,0,0.06)',
+        'soft-lg': '0 8px 40px rgba(0,0,0,0.08)',
+        'neu': '0 24px 60px rgba(17, 17, 17, 0.16)',
+        'float': '0 18px 45px rgba(0, 0, 0, 0.28)',
+        'btn': '0 12px 28px rgba(17, 17, 17, 0.22)',
+      },
+      animation: {
+        'fade-in': 'fadeIn 0.5s ease-out',
+        'slide-up': 'slideUp 0.4s ease-out',
+        'pulse-soft': 'pulseSoft 2s ease-in-out infinite',
+        'gradient-shift': 'gradientShift 8s ease infinite',
+        'float-blob': 'floatBlob 6s ease-in-out infinite',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        slideUp: {
+          '0%': { opacity: '0', transform: 'translateY(20px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        pulseSoft: {
+          '0%, 100%': { transform: 'scale(1)' },
+          '50%': { transform: 'scale(1.03)' },
+        },
+        gradientShift: {
+          '0%': { backgroundPosition: '0% 50%' },
+          '50%': { backgroundPosition: '100% 50%' },
+          '100%': { backgroundPosition: '0% 50%' },
+        },
+        floatBlob: {
+          '0%, 100%': { transform: 'translate3d(0, 0, 0) scale(1)' },
+          '50%': { transform: 'translate3d(12px, -16px, 0) scale(1.04)' },
+        },
+      },
+    },
+  },
+  plugins: [],
+}

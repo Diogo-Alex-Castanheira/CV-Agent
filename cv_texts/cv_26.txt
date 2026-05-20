@@ -1,0 +1,46 @@
+cv_26.md
+2025-05-02
+1 / 2
+Rodrigo Alves
+Title: Technology Consulting Manager
+Location: Lisbon, Portugal
+Email: rodrigo.alves@example.com
+Phone: +351 925 486 731
+Summary
+Technology consultant with 8 years of experience in digital transformation and IT strategy. Strong track record
+in delivering complex technology projects for financial services and retail clients.
+Experience
+Deloitte – Lisbon
+Technology Consulting Manager
+October 2021 – Present
+Led digital transformation initiatives for banking and insurance clients.
+Managed cross-functional teams of up to 15 consultants.
+Developed IT strategies aligned with business objectives.
+Accenture – Lisbon
+Technology Consultant
+January 2018 – September 2021
+Implemented cloud migration strategies for enterprise clients.
+Conducted IT assessments and developed technology roadmaps.
+Delivered process automation solutions resulting in 30% efficiency gains.
+Altran – Lisbon
+IT Consultant
+March 2015 – December 2017
+Participated in CRM implementation projects.
+Developed technical specifications and system requirements.
+Performed system testing and quality assurance.
+Education
+Imperial College London – London, UK
+MSc in Computing Science
+2013 – 2015
+Instituto Superior Técnico – Lisbon
+BSc in Computer Engineering
+cv_26.md
+2025-05-02
+2 / 2
+2010 – 2013
+Skills
+Digital transformation, IT strategy
+Project management, Agile methodologies
+Cloud computing, System integration
+Portuguese (native), English (fluent)
+PMP, ITIL v4 certified

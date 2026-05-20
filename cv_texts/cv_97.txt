@@ -1,0 +1,41 @@
+cv_97.md
+2025-05-02
+1 / 2
+Rui Almeida
+Title: IT Consultant
+Location: Braga, Portugal
+Email: rui.almeida@example.com
+Phone: +351 915 678 901
+Summary
+Technology consultant specializing in ERP implementations and systems integration. Experience in SAP and
+Oracle solutions across manufacturing and retail industries. Seeking to join a Big4's technology consulting
+practice.
+Experience
+Novabase – Braga
+IT Consultant
+July 2021 – Present
+Led SAP S/4HANA implementation projects for manufacturing clients.
+Mapped business requirements and configured system solutions.
+Conducted user training and provided post-implementation support.
+Critical Software – Porto
+Systems Analyst
+February 2019 – June 2021
+Developed technical specifications based on business requirements.
+Performed system testing and quality assurance.
+Participated in Agile development teams as a business-IT liaison.
+Education
+University of Minho – Braga
+MSc in Information Systems
+2017 – 2019
+University of Aveiro – Aveiro
+BSc in Computer Science
+2014 – 2017
+Skills
+SAP S/4HANA, Oracle ERP
+cv_97.md
+2025-05-02
+2 / 2
+Business process modeling (BPMN)
+SQL, Python
+Portuguese (native), English (fluent)
+Strong analytical and problem-solving abilities

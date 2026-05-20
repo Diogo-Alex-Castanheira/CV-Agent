@@ -1,0 +1,49 @@
+cv_62.md
+2025-05-02
+1 / 2
+Sofia Martins
+Title: Banking Operations Consultant
+Location: Porto, Portugal
+Email: sofia.martins@example.com
+Phone: +351 912 890 123
+Summary
+Banking professional with 7 years of experience in operations and process optimization. Expertise in
+regulatory compliance and operational risk management. Strong background in implementing efficiency
+initiatives and digital transformation projects in financial institutions.
+Experience
+Banco Santander – Porto
+Operations Manager
+September 2021 – Present
+Led process reengineering initiatives resulting in 25% efficiency improvement in back-office operations.
+Implemented robotic process automation for routine banking transactions, reducing processing time by
+40%.
+Managed a team of 15 operations specialists across multiple departments.
+Novo Banco – Lisbon
+Process Improvement Specialist
+July 2018 – August 2021
+Conducted process mapping and identified optimization opportunities in loan processing workflows.
+Developed KPIs and performance monitoring systems for operational activities.
+Collaborated with IT teams to implement digital solutions for customer onboarding.
+Caixa Geral de Depósitos – Lisbon
+Banking Operations Analyst
+March 2016 – June 2018
+Analyzed operational procedures to identify inefficiencies and compliance gaps.
+Supported regulatory reporting and compliance monitoring activities.
+Assisted with the implementation of new banking regulations.
+Education
+Catholic University of Portugal – Porto
+MBA
+2014 – 2016
+cv_62.md
+2025-05-02
+2 / 2
+University of Porto – Porto
+Bachelor in Business Administration
+2011 – 2014
+Skills
+Banking operations and processes
+Operational risk management
+Process optimization methodologies
+Regulatory compliance (Basel, PSD2)
+Portuguese (native), English (fluent), Italian (intermediate)
+Six Sigma Green Belt

@@ -1,0 +1,42 @@
+cv_46.md
+2025-05-02
+1 / 2
+Carlos Duarte
+Title: Digital Transformation Consultant
+Location: Aveiro, Portugal
+Email: carlos.duarte@example.com
+Phone: +351 962 345 678
+Summary
+Tech-savvy professional with 4 years of experience in digital transformation and technology consulting. Skilled
+in guiding organizations through technology adoption and process digitization. Strong background in project
+management and system implementation.
+Experience
+Altice Labs – Aveiro
+Digital Solutions Consultant
+October 2021 – Present
+Led digital transformation initiatives for telecom clients, resulting in 30% operational efficiency gains.
+Designed and implemented CRM system integrations for improved customer data management.
+Developed digital roadmaps aligned with clients' strategic business objectives.
+Novabase – Lisbon
+Business Technology Analyst
+June 2020 – September 2021
+Conducted technology assessments to identify modernization opportunities.
+Supported the implementation of cloud-based solutions for financial services clients.
+Collaborated in Agile development teams for custom software solutions.
+Education
+University of Aveiro – Aveiro
+MSc in Information Systems and Technology
+2018 – 2020
+ISCTE-IUL – Lisbon
+BSc in Information Technology Management
+2015 – 2018
+Skills
+Digital strategy development
+cv_46.md
+2025-05-02
+2 / 2
+Business process optimization
+Project management (Agile, PRINCE2)
+CRM systems (Salesforce, Microsoft Dynamics)
+Portuguese (native), English (fluent)
+Strong client relationship management abilities

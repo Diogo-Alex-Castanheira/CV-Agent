@@ -1,0 +1,42 @@
+cv_53.md
+2025-05-02
+1 / 2
+Teresa Vieira
+Title: Marketing Analytics Specialist
+Location: Coimbra, Portugal
+Email: teresa.vieira@example.com
+Phone: +351 917 123 456
+Summary
+Marketing professional with expertise in data analytics and performance measurement. Experience in
+leveraging data insights to optimize marketing strategies and drive business growth. Strong analytical skills
+combined with creative thinking and business acumen.
+Experience
+Unilever – Lisbon
+Marketing Analytics Manager
+January 2022 – Present
+Developed data-driven marketing strategies resulting in 25% increase in campaign ROI.
+Implemented attribution models to optimize marketing spend across channels.
+Created dashboards to track performance metrics and provide actionable insights.
+L'Oréal – Porto
+Digital Marketing Analyst
+March 2020 – December 2021
+Analyzed digital campaign performance and consumer behavior across online platforms.
+Conducted A/B testing to optimize website conversion rates and user experience.
+Collaborated with marketing teams to develop data-informed content strategies.
+Education
+University of Coimbra – Coimbra
+MSc in Marketing
+2018 – 2020
+ISCTE Business School – Lisbon
+BSc in Management
+2015 – 2018
+Skills
+Marketing analytics and attribution modeling
+cv_53.md
+2025-05-02
+2 / 2
+Campaign performance measurement
+Google Analytics, Adobe Analytics
+SQL, Python, R (basic)
+Portuguese (native), English (fluent), Spanish (intermediate)
+Google Analytics certification

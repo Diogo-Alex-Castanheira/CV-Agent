@@ -1,0 +1,38 @@
+cv_99.md
+2025-05-02
+1 / 2
+Beatriz Martins
+Title: UI/UX Designer
+Location: Porto, Portugal
+Email: beatriz.martins@example.com
+Phone: +351 936 543 210
+Summary
+Creative UI/UX Designer with 4+ years of experience designing digital products. Specialized in creating
+intuitive user experiences and visually appealing interfaces for web and mobile applications.
+Experience
+Critical TechWorks – Porto
+UI/UX Designer
+May 2021 – Present
+Designed user interfaces for automotive digital products.
+Created wireframes, prototypes, and design systems.
+Conducted user testing and implemented feedback.
+Farfetch – Porto
+Junior Designer
+February 2019 – April 2021
+Designed UI components for e-commerce platform.
+Collaborated with product teams on feature development.
+Education
+ESAD – Matosinhos
+MA in Digital Design
+2017 – 2019
+Faculty of Fine Arts – University of Porto
+BA in Communication Design
+2014 – 2017
+Skills
+Figma, Adobe XD, Sketch
+Interaction design, Prototyping
+HTML/CSS basics
+cv_99.md
+2025-05-02
+2 / 2
+Portuguese (native), English (fluent)

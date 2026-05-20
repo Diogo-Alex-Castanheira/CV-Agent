@@ -1,0 +1,38 @@
+cv_22.md
+2025-05-02
+1 / 2
+Mariana Costa
+Title: Data Scientist
+Location: Lisbon, Portugal
+Email: mariana.costa@example.com
+Phone: +351 936 789 123
+Summary
+Data Scientist with expertise in predictive modeling and machine learning. Experienced in delivering insights
+from complex datasets and developing data-driven solutions for business problems.
+Experience
+Vodafone Portugal – Lisbon
+Data Scientist
+March 2021 – Present
+Built predictive models for customer churn reduction.
+Developed dashboards to visualize KPIs for executive leadership.
+Implemented A/B testing frameworks for marketing campaigns.
+NOS – Lisbon
+Business Intelligence Analyst
+February 2019 – February 2021
+Created reports on customer behavior and market trends.
+Optimized SQL queries for data extraction and analysis.
+Education
+Instituto Superior Técnico – Lisbon
+MSc in Data Science
+2017 – 2019
+University of Minho – Braga
+BSc in Applied Mathematics
+2014 – 2017
+Skills
+Python, R, SQL
+Machine Learning, Statistical Analysis
+PowerBI, Tableau
+cv_22.md
+2025-05-02
+2 / 2
+Fluent in Portuguese and English

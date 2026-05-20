@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talent Tinder — EY AI-Powered Recruitment</title>
+    <meta name="description" content="AI-driven candidate recommendation system for EY Portugal Talent Acquisition">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span class="logo-icon">💡</span>
+                    <div>
+                        <h1>Talent Tinder</h1>
+                        <p class="subtitle">EY Portugal</p>
+                    </div>
+                </div>
+            </div>
+            <nav class="sidebar-nav">
+                <button class="nav-btn active" data-view="swipe" id="nav-swipe">
+                    <span class="nav-icon">🃏</span> Swipe Cards
+                </button>
+                <button class="nav-btn" data-view="dashboard" id="nav-dashboard">
+                    <span class="nav-icon">📊</span> Dashboard
+                </button>
+                <button class="nav-btn" data-view="insights" id="nav-insights">
+                    <span class="nav-icon">💡</span> Insights
+                </button>
+            </nav>
+            <div class="sidebar-filter">
+                <label>Filter by Role:</label>
+                <select id="roleFilter">
+                    <option value="0">All Roles</option>
+                    <option value="1">Director, Data & AI</option>
+                    <option value="2">Sr. Consultant, Tech Risk</option>
+                    <option value="3">Cybersecurity Team</option>
+                    <option value="4">Financial Analyst</option>
+                    <option value="5">Forensic & Integrity</option>
+                </select>
+            </div>
+            <div class="sidebar-stats" id="sidebarStats">
+                <div class="stat"><span class="stat-num" id="statTotal">0</span><span class="stat-label">Candidates</span></div>
+                <div class="stat"><span class="stat-num" id="statShortlisted">0</span><span class="stat-label">Shortlisted</span></div>
+                <div class="stat"><span class="stat-num" id="statReviewed">0</span><span class="stat-label">Reviewed</span></div>
+            </div>
+            <div class="sidebar-footer">
+                <p class="ai-note">"The AI recommends.<br>The recruiter decides."</p>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- SWIPE VIEW -->
+            <section class="view active" id="view-swipe">
+                <div class="swipe-container">
+                    <div class="card-stack" id="cardStack">
+                        <!-- Cards injected by JS -->
+                    </div>
+                    <div class="swipe-actions" id="swipeActions">
+                        <button class="action-btn reject" id="btnReject" title="Reject">
+                            <span>✕</span>
+                            <small>Reject</small>
+                        </button>
+                        <button class="action-btn info" id="btnInfo" title="Need More Info">
+                            <span>?</span>
+                            <small>More Info</small>
+                        </button>
+                        <button class="action-btn hold" id="btnHold" title="Hold">
+                            <span>⏸</span>
+                            <small>Hold</small>
+                        </button>
+                        <button class="action-btn shortlist" id="btnShortlist" title="Shortlist">
+                            <span>✓</span>
+                            <small>Shortlist</small>
+                        </button>
+                    </div>
+                    <div class="empty-state" id="emptyState" style="display:none;">
+                        <h2>🎉 All candidates reviewed!</h2>
+                        <p>Check the Dashboard for your decisions.</p>
+                        <button class="reset-btn" id="btnReset">Reset & Review Again</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- DASHBOARD VIEW -->
+            <section class="view" id="view-dashboard">
+                <div class="dashboard-header">
+                    <h2>📊 Recruitment Dashboard</h2>
+                    <p>Overview of all candidate evaluations and recruiter decisions</p>
+                </div>
+                <div class="dashboard-grid" id="dashboardGrid">
+                    <div class="dash-card pipeline">
+                        <h3>Pipeline by Role</h3>
+                        <div id="pipelineChart"></div>
+                    </div>
+                    <div class="dash-card decisions">
+                        <h3>Your Decisions</h3>
+                        <div id="decisionsChart"></div>
+                    </div>
+                </div>
+                <div class="dashboard-table-wrap">
+                    <table class="dashboard-table" id="dashboardTable">
+                        <thead>
+                            <tr>
+                                <th>Role</th>
+                                <th>Candidate</th>
+                                <th>Score</th>
+                                <th>AI Rec.</th>
+                                <th>Your Decision</th>
+                                <th>Main Strength</th>
+                            </tr>
+                        </thead>
+                        <tbody id="dashboardBody"></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- INSIGHTS VIEW -->
+            <section class="view" id="view-insights">
+                <div class="insights-container">
+                    <h2>💡 Strategic Insights for EY</h2>
+                    <div class="insight-cards">
+                        <div class="insight-card">
+                            <h3>🟢 Strongest Pipeline</h3>
+                            <p><strong>Financial Analyst</strong> has the strongest candidate pipeline with 4 candidates scoring 70+. Junior finance talent is abundant in Portugal's Big4 ecosystem.</p>
+                        </div>
+                        <div class="insight-card warning">
+                            <h3>🔴 Hardest to Fill</h3>
+                            <p><strong>Director, Data & AI Strategy</strong> — Only 1 candidate above 70. The 15+ year AI requirement is extremely demanding. <strong>Cybersecurity Team</strong> — No candidate above 70; thin talent pool competing with tech & banking.</p>
+                        </div>
+                        <div class="insight-card">
+                            <h3>📉 Recurring Skill Gaps</h3>
+                            <ul>
+                                <li>AI governance & ethics frameworks</li>
+                                <li>CISSP/CISM certifications</li>
+                                <li>10+ years data/AI experience</li>
+                                <li>Cloud security (AWS/Azure)</li>
+                                <li>Forensic technology/e-discovery</li>
+                            </ul>
+                        </div>
+                        <div class="insight-card">
+                            <h3>🔄 Cross-Role Potential</h3>
+                            <p>5 candidates show potential across multiple roles. André Sousa and Diogo Pinto bridge Tech Risk ↔ Cybersecurity. Ricardo Moreira's analytics skills apply to Forensic data analysis.</p>
+                        </div>
+                        <div class="insight-card success">
+                            <h3>⚡ Time-to-Hire Impact</h3>
+                            <p>AI screening: <strong>&lt;1 second</strong> for 107 CVs vs. 5-10 hours manually. Estimated <strong>60-70% reduction</strong> in initial screening time.</p>
+                        </div>
+                        <div class="insight-card">
+                            <h3>🛡️ Responsible AI</h3>
+                            <p>No protected characteristics used. All recommendations explainable. Human recruiter retains final decision authority. GDPR compliant data processing.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

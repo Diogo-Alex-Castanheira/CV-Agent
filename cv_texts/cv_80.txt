@@ -1,0 +1,74 @@
+ricardo_moreira_cv_final.md
+2025-05-02
+1 / 3
+Ricardo Moreira
+Title: Director of Advanced Analytics, Bankinter Portugal
+Location: Portugal
+Email: ricardo.moreira@techanalytics.io
+Phone: +351 912 987 654
+Summary
+Director of Advanced Analytics with 20+ years of experience in data engineering, business intelligence, and AI
+governance. Delivers results by translating strategic goals into data-driven frameworks that optimize
+performance and ensure regulatory compliance. Known for strong communication with both technical teams
+and executive stakeholders.
+Certifications: Microsoft AI Fundamentals, Microsoft Data Fundamentals.
+Languages: Native Portuguese and French, fluent in English and Spanish.
+Experience
+2024 – MediCore Group
+Implemented an automated data quality engine to ensure reliability across 12 clinical and ERP systems.
+Introduced KPIs for data completeness and consistency, reducing manual validation by 60%.
+2024 – GreenBuild Partners
+Designed a dynamic project cost estimator by integrating real-time materials pricing and labor
+allocation across multiple locations. Enabled financial teams to simulate future project costs for
+planning.
+2022–2023 – NovaGrid Utilities
+Centralized procurement and supplier data into a unified platform. Used ML clustering to segment
+vendors by performance and risk level, delivering actionable insights to purchasing managers.
+2022 – MediTrust & NovaGrid
+Led enterprise-wide data governance rollout. Established glossary standards, implemented stewardship
+workflows, and delivered a business glossary using Microsoft Purview.
+2020–2022 – PowerFleet Services
+Managed a portfolio of MVPs using Azure ML to predict equipment breakdowns, delivery anomalies,
+and route optimization. Ensured DevOps integration for model testing and deployment.
+2020 – PowerFleet Services
+Introduced metadata management over the Azure ecosystem. Built dashboards for lineage tracking and
+data stewardship accountability across teams.
+ricardo_moreira_cv_final.md
+2025-05-02
+2 / 3
+2019 – VitalHealth Group
+Developed an enterprise data strategy for integrating electronic health records across business units.
+Drove alignment between IT, finance, and compliance on data retention and sensitivity policies.
+2019–2020 – PetroPulse Energy
+Deployed performance dashboards for refinery operations. Created real-time alerting features based on
+sensor readings and threshold logic from the field.
+2019 – PetroPulse Energy
+Implemented a KPI-driven BI system for procurement analytics. Improved transparency over spending
+categories and supplier trends using custom ETL and interactive dashboards.
+2012–2019 – MedAuthority Portugal
+Directed the implementation of a full-stack data warehouse supporting public health reporting.
+Delivered government-compliant ETL pipelines and standardized statistical reporting.
+2018 – TransLog Freight
+Led the development of HR analytics models. Helped HR forecast turnover and proactively plan
+recruitment strategies.
+2018 – TransLog Freight
+Built an audit tool for retail pricing by combining POS, CRM, and invoice data. The system alerted
+discrepancies between promotional plans and actual customer charges.
+2018 – SkyPort Airports
+Created a BI architecture to monitor international flight performance, passenger flow, and commercial
+sales. Designed ETL processes and reporting for executive dashboards.
+2018 – ComNet Telco
+Conducted training and enablement for 30+ engineers to transition to modern BI tools, increasing self-
+service analytics adoption by 40%.
+Education
+Instituto Superior Técnico
+Mechanical Engineering (pre-Bologna)
+Skills
+Data Governance & Regulatory Compliance
+Platforms: Azure Data Lake, SQL Server, Power BI, Purview
+Tools: PowerCenter, Microstrategy, SAP BI
+Data Modeling & KPI Design
+ricardo_moreira_cv_final.md
+2025-05-02
+3 / 3
+Native in Portuguese and French; fluent in English and Spanish

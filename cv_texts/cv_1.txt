@@ -1,0 +1,31 @@
+cv_1.md
+2025-05-02
+1 / 1
+Carla Nogueira
+Title: Tax Consultant
+Location: Lisbon, Portugal
+Email: carla.nogueira@example.com
+Phone: +351 938 444 555
+Summary
+Tax Consultant specializing in corporate taxation and cross-border transactions. Experienced in managing tax
+compliance for multinational clients and advising on the tax implications of mergers, restructurings, and
+intercompany transactions.
+Experience
+EY Portugal – Lisbon
+Senior Tax Consultant
+March 2018 – Present
+Provided tax planning and compliance services to Fortune 500 clients.
+Advised on transfer pricing documentation and tax audits.
+Monitored BEPS developments and supported implementation of DAC6 reporting.
+Education
+Catholic University of Portugal – Lisbon
+LLM in International Tax Law
+2015 – 2017
+University of Lisbon – Lisbon
+LLB in Law
+2011 – 2015
+Skills
+Corporate income tax, VAT, transfer pricing
+SAP FI, Oracle Tax
+OECD guidelines, EU directives
+Fluent in English and Portuguese
