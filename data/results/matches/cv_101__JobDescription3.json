@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Pinto",
+  "cv_id": "cv_101",
+  "jd_id": "JobDescription3",
+  "overall_score": 70,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk management, cybersecurity compliance, and IT audit, which aligns with the role's responsibilities. However, there is a lack of direct evidence on building and leading a cybersecurity team, as well as staying current with emerging threats and trends.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CISA) and skills in IT governance frameworks (COBIT, ITIL), as well as fluency in English and Portuguese. The only missing skill is experience in building and leading a cybersecurity team.",
+  "relevant_experience_score": 60,
+  "relevant_experience_reasoning": "The candidate has relevant experience in IT risk management, cybersecurity compliance, and IT audit, but lacks seniority and experience in the telecommunications industry, which is not directly mentioned as a requirement. The role also requires experience in building and leading a cybersecurity team.",
+  "key_gaps": [
+    "Lack of direct evidence on building and leading a cybersecurity team",
+    "No mention of experience with emerging threats and trends",
+    "Limited seniority in the role"
+  ],
+  "elapsed_seconds": 22.4
+}

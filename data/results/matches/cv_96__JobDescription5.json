@@ -1,0 +1,19 @@
+{
+  "name": "Inês Oliveira",
+  "cv_id": "cv_96",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory compliance and internal controls, which aligns with the role's responsibilities. However, there is a lack of direct experience in forensic accounting or related fields, which is a key requirement for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in risk assessment methodologies, internal controls, and regulatory frameworks, which are relevant to the role. However, there is no mention of certifications like CFE or CPA, which are preferred for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial services and healthcare sectors, but it's not directly related to forensic accounting or integrity services. The seniority is also lower than required (Manager level), and there is no mention of enterprise risk management expertise.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No certifications like CFE or CPA mentioned",
+    "Insufficient seniority and lack of enterprise risk management expertise"
+  ],
+  "elapsed_seconds": 13.1
+}

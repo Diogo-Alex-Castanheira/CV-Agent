@@ -1,0 +1,19 @@
+{
+  "name": "Carla Nogueira",
+  "cv_id": "cv_1",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in corporate taxation, which is relevant to the role. However, there is a lack of direct evidence on forensic accounting or integrity services, which are key responsibilities of the Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, as well as experience with transfer pricing documentation and tax audits. They also have relevant certifications (LLM in International Tax Law) and fluency in English and Portuguese.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "While the candidate has experience in managing tax compliance for multinational clients, it is not directly related to forensic accounting or integrity services. They lack seniority and sector relevance compared to the Manager-level position required by the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient seniority and sector relevance for a Manager-level position",
+    "No evidence of certifications relevant to the role (e.g., CFE, CPA)"
+  ],
+  "elapsed_seconds": 8.8
+}

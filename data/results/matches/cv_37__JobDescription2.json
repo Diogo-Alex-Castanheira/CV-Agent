@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_37",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business transformation and operational improvement projects, which is related to technology risk. However, the specific tasks and responsibilities mentioned do not directly align with the job requirements.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, financial modeling expertise, and market research experience, which are relevant to the role. Additionally, they have fluency in English and Portuguese, meeting one of the required language skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has some experience in data analysis and client presentations, their experience is not directly related to technology risk or compliance frameworks. They lack seniority and sector relevance compared to the job requirements.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient seniority and sector relevance",
+    "No mention of relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 11.0
+}

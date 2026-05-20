@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_65",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business transformation and operational excellence, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. The role requires expertise in these areas, which is not evident in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in process mapping and optimization, data analysis and visualization, project management methodologies, and strong presentation abilities. However, they lack experience with cloud platforms like Azure and AWS, AI/ML technologies, or relevant certifications.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in the industry (retail and banking clients), and their current role as Business Analyst is relatively short-term. They lack seniority and sector relevance compared to the required 15+ years of experience.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Insufficient skills in cloud platforms like Azure and AWS, AI/ML technologies, or relevant certifications.",
+    "Limited industry experience and seniority compared to the required 15+ years of experience."
+  ],
+  "elapsed_seconds": 14.5
+}

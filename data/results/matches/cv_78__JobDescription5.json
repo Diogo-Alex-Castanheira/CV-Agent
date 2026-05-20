@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Correia",
+  "cv_id": "cv_78",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in transfer pricing, but the role requires forensic accounting expertise. The candidate's skills are more focused on international taxation and transfer pricing methods, rather than forensic investigations.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and has limited experience in forensic accounting or related fields. However, they do have strong analytical skills and fluency in English and Portuguese, which are required by the role.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in transfer pricing and international taxation, rather than forensic accounting or related fields. They lack seniority and sector relevance for a Manager-level role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields.",
+    "Insufficient seniority and sector relevance for a Manager-level role.",
+    "Inadequate alignment with the role's domain and responsibilities."
+  ],
+  "elapsed_seconds": 12.6
+}

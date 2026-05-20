@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Santos",
+  "cv_id": "cv_25",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in viticulture and wine production, but there is no direct evidence of cybersecurity expertise. The skills listed are not directly related to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is no mention of relevant certifications (e.g., CISSP, CISM, CEH) or experience in building and leading cybersecurity teams, which are essential for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in viticulture and wine production is not relevant to the cybersecurity role. There is no indication of seniority, sector relevance, or progression in a related field.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity expertise",
+    "No mention of relevant certifications or experience in building and leading cybersecurity teams",
+    "Irrelevant experience in viticulture and wine production"
+  ],
+  "elapsed_seconds": 11.0
+}

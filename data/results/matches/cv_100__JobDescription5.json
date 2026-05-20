@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Rodrigues",
+  "cv_id": "cv_100",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in security assessments and penetration tests, but the role requires forensic investigations and data analysis. The candidate's CISSP certification is not directly relevant to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has certifications (CISSP, CEH) that are related to security, but not specifically forensic accounting or compliance. They also have strong technical documentation skills, which is a plus.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate's experience in cybersecurity is not directly relevant to the role's requirements for forensic investigations and compliance. While they have led security awareness training programs, this is not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or compliance.",
+    "No relevant certifications for forensic accounting (e.g., CFE, CPA).",
+    "Experience in cybersecurity is not directly applicable to the role's requirements."
+  ],
+  "elapsed_seconds": 17.2
+}

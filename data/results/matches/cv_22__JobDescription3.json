@@ -1,0 +1,19 @@
+{
+  "name": "Mariana Costa",
+  "cv_id": "cv_22",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in data science and machine learning, which is not directly related to cybersecurity. Although the role requires collaboration with stakeholders and adaptation to emerging threats, there is no clear indication of relevant experience or skills in cybersecurity.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH) and has no explicit mention of knowledge in cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in data analysis and visualization, there is no direct relevance to cybersecurity. The role requires building and leading a cybersecurity team, which is not mentioned in the candidate's experience.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and knowledge in cybersecurity frameworks and best practices.",
+    "No direct relevance to cybersecurity experience or skills.",
+    "Insufficient seniority or leadership experience for a role requiring building and leading a cybersecurity team."
+  ],
+  "elapsed_seconds": 11.5
+}

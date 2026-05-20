@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Santos",
+  "cv_id": "cv_91",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in international tax planning, which is a different domain from cybersecurity. Although the candidate has experience with cross-border transactions, it's not directly related to cybersecurity threats or risk assessments.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant skills mentioned in the CV that align with the job requirements, such as cybersecurity frameworks, best practices, or certifications like CISSP or CISM.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in international tax planning and does not demonstrate any relevant skills or expertise in cybersecurity, risk assessments, or team leadership.",
+  "key_gaps": [
+    "Lack of domain alignment with the role's requirements",
+    "No relevant skills mentioned that align with the job requirements",
+    "No experience in cybersecurity or related fields"
+  ],
+  "elapsed_seconds": 11.0
+}

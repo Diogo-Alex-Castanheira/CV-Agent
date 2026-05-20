@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_90",
+  "jd_id": "JobDescription3",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Transferable experience in risk management and team leadership from previous roles, although not directly in cybersecurity. Relevant skills in IT security and compliance.",
+  "required_skills_score": 30,
+  "required_skills_reasoning": "Lack of specific certifications (CISSP, CISM, CEH) and limited knowledge of emerging threats and trends. Strong communication skills but no mention of fluency in Portuguese.",
+  "relevant_experience_score": 60,
+  "relevant_experience_reasoning": "Significant experience in IT security and compliance, with a focus on risk management and team leadership. However, the sector (financial services) is not directly relevant to EY's client base.",
+  "key_gaps": [
+    "Lack of specific cybersecurity certifications",
+    "Limited knowledge of emerging threats and trends",
+    "Sector relevance (financial services) not directly applicable to EY's client base"
+  ],
+  "elapsed_seconds": 10.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Clara Ferreira",
+  "cv_id": "cv_49",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise in IFRS technical knowledge and financial statement preparation is not directly relevant to the cybersecurity role. Although they have experience with accounting software, there is no mention of cybersecurity frameworks or best practices.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no mentions of required skills such as CISSP, CISM, CEH certifications, or knowledge of cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in financial reporting and IFRS implementation is not relevant to the cybersecurity role. There is no mention of risk assessments, vulnerability assessments, or experience leading a team in cybersecurity.",
+  "key_gaps": [
+    "Lack of domain and task alignment with the cybersecurity role.",
+    "No relevant skills or certifications mentioned for the cybersecurity role.",
+    "No experience in cybersecurity or related fields."
+  ],
+  "elapsed_seconds": 12.0
+}

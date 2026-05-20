@@ -1,0 +1,19 @@
+{
+  "name": "Luis Pereira",
+  "cv_id": "cv_61",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in public policy analysis, which is related to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which is not explicitly mentioned in the CV. The candidate's experience in government advisory and public sector transformation may be transferable to a Big4 consulting environment, but it's not a direct match.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks specific technical skills required for the role, such as IT controls and compliance frameworks. While they have strong analytical and report writing abilities, these are not directly related to technology risk. The candidate's proficiency in Portuguese, English, and French is also not explicitly mentioned as a relevant skill.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in public policy analysis and stakeholder engagement, which may be transferable to a Big4 consulting environment. However, their experience is primarily in government advisory and public sector transformation, rather than technology risk. The candidate's seniority and sector relevance are also not explicitly mentioned.",
+  "key_gaps": [
+    "Lack of specific technical skills required for the role (IT controls and compliance frameworks)",
+    "Insufficient direct experience in technology risk or related fields",
+    "Limited relevance of public sector experience to Big4 consulting environment"
+  ],
+  "elapsed_seconds": 14.8
+}

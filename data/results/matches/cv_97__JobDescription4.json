@@ -1,0 +1,19 @@
+{
+  "name": "Rui Almeida",
+  "cv_id": "cv_97",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP solutions, which is a relevant skill for the Financial Analyst role. However, there is no direct evidence of financial analysis or planning tasks, and the candidate's background is in IT consulting rather than finance.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. Additionally, there is no mention of fluency in Portuguese or English as required by the job description.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in analyzing business requirements and performing system testing, their background is not directly related to financial analysis. They also lack seniority and experience in a finance-related sector.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning tasks",
+    "Insufficient proficiency in Excel and financial modeling",
+    "No fluency in Portuguese as required by the job description"
+  ],
+  "elapsed_seconds": 13.6
+}

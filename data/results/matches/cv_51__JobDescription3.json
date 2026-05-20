@@ -1,0 +1,19 @@
+{
+  "name": "Marta Alves",
+  "cv_id": "cv_51",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise in environmental impact assessments and sustainability management is not directly related to cybersecurity. Although they have experience with regulatory reporting requirements, there is no mention of cybersecurity frameworks or best practices.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is no evidence of the required skills for this role, such as CISSP, CISM, CEH certifications. The candidate's skills are related to environmental engineering and sustainability, not cybersecurity.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in environmental compliance and sustainability is not relevant to the role of building a comprehensive cybersecurity framework. There is no mention of risk assessments, vulnerability assessments, or collaboration with stakeholders in their experience.",
+  "key_gaps": [
+    "Lack of direct relevance to cybersecurity domain and tasks",
+    "No evidence of required skills for the role",
+    "No relevant experience in building and leading cybersecurity teams"
+  ],
+  "elapsed_seconds": 11.9
+}

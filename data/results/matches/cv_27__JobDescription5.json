@@ -1,0 +1,19 @@
+{
+  "name": "Laura Campos",
+  "cv_id": "cv_27",
+  "jd_id": "JobDescription5",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to forensic accounting or integrity services. The candidate's experience is in dance instruction and performance, with no connection to the required skills or industry.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some transferable skills like communication and interpersonal skills, but lacks relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields. The required fluency in English is also met.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct evidence of relevant experience in forensic accounting or integrity services. The candidate's 10 years of experience are in dance instruction and performance, with no connection to the required skills or industry.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks related to forensic accounting or integrity services",
+    "No relevant certifications (e.g., CFE, CPA) or experience in forensic accounting or related fields",
+    "No connection between the candidate's experience and the required skills or industry"
+  ],
+  "elapsed_seconds": 12.1
+}

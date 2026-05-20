@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Fernandes",
+  "cv_id": "cv_24",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and assurance services, but lacks direct experience in technology risk or related fields. The skills listed are not directly relevant to the role's domain.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical and communication skills, which are transferable to the role. However, they lack specific certifications (e.g., CISA, CISSP) and experience in technology risk or related fields.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in audit and assurance services, but it's not directly applicable to the role. They lack seniority and experience in a specific industry (technology).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient certifications (e.g., CISA, CISSP) for the role",
+    "Limited seniority and industry-specific experience"
+  ],
+  "elapsed_seconds": 11.1
+}

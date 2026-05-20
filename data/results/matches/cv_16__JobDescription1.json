@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Torres",
+  "cv_id": "cv_16",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in information security and compliance frameworks, but lacks direct experience in data strategy, AI/ML implementation, and enterprise data governance. The role requires expertise in these areas, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant technical skills such as penetration testing, vulnerability assessment, security architecture, and compliance frameworks (NIST, ISO 27001, GDPR). However, they are missing key skills like data platforms, AI/ML technologies, and experience in multiple industries (financial services).",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has relevant experience in information security, but lacks seniority and industry-specific experience required for the role. They have worked with EY and S21sec, which are not directly related to the consulting department or data strategy practice.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, and enterprise data governance.",
+    "Missing key skills like data platforms, AI/ML technologies, and experience in multiple industries (financial services).",
+    "Insufficient seniority and industry-specific experience required for the role."
+  ],
+  "elapsed_seconds": 11.6
+}

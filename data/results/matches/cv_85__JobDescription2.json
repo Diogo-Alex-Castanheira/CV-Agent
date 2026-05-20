@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mota",
+  "cv_id": "cv_85",
+  "jd_id": "JobDescription2",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in logistics optimization, inventory management, and process improvement, which are related to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which is not directly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with ERP and WMS implementation, which is a relevant skill for the role. However, there is no mention of IT controls, compliance frameworks, or certifications like CISA or CISSP, which are required by the job description.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in logistics and supply chain management, but it's not directly related to technology risk. The role requires senior-level experience in technology risk, which is not mentioned in the candidate's CV.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls and compliance frameworks",
+    "No relevant certifications (e.g., CISA, CISSP)",
+    "Insufficient senior-level experience in technology risk"
+  ],
+  "elapsed_seconds": 15.4
+}

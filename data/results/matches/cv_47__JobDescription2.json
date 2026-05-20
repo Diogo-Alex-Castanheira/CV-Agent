@@ -1,0 +1,19 @@
+{
+  "name": "Helena Santos",
+  "cv_id": "cv_47",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in healthcare operations improvement, which is related to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which are not explicitly mentioned in the CV. The candidate's skills in quality management systems and process optimization methodologies show some alignment with the role's responsibilities.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate lacks experience in technology risk or related fields, but has relevant certifications (MBA) that demonstrate business acumen. The required fluency in English and Portuguese is also met by the candidate. However, there is no direct evidence of strong understanding of IT controls and compliance frameworks.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in healthcare operations improvement, but it's not directly related to technology risk. The seniority level (5 years) is also lower than the required 4-6 years. There is no mention of relevant certifications or experience in IT controls and compliance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient seniority level (5 years) compared to the required 4-6 years",
+    "No evidence of strong understanding of IT controls and compliance frameworks"
+  ],
+  "elapsed_seconds": 13.9
+}

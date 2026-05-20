@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_36",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax compliance and advisory services, but lacks direct experience in technology risk or related fields. The role requires expertise in IT controls and compliance frameworks, which the candidate does not possess.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in corporate tax and international taxation, as well as proficiency in Microsoft Office Suite and tax software. However, they lack relevant certifications (e.g., CISA, CISSP) and fluency in English is not explicitly stated.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in tax compliance and advisory services, but it's not directly related to technology risk. They lack seniority and sector relevance, with only 4 years of experience in a single role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Limited seniority and sector relevance"
+  ],
+  "elapsed_seconds": 12.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Oliveira",
+  "cv_id": "cv_40",
+  "jd_id": "JobDescription5",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in HR management, talent acquisition, and organizational development, which are not directly related to forensic accounting or compliance. While the candidate has a strong background in change management and digital transformation, these skills may be transferable to the role but do not provide direct evidence of alignment with the job requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting or related fields, which is a critical requirement for the role. Although they have certifications like SHRM Senior Certified Professional and Digital HR Certificate, these are not directly relevant to the job requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in HR management and organizational development does not demonstrate any direct relevance to forensic accounting or compliance. Their skills and certifications are also not transferable to the role, making it difficult to see how they could contribute to the team.",
+  "key_gaps": [
+    "Lack of experience in forensic accounting or related fields",
+    "Insufficient skills and certifications relevant to the job requirements",
+    "No direct relevance of HR management experience to compliance and investigations"
+  ],
+  "elapsed_seconds": 14.5
+}

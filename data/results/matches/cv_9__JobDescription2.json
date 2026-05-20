@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Carvalho",
+  "cv_id": "cv_9",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in threat detection and vulnerability scans, which is related to technology risk. However, the role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in NIST, ISO 27001, and GDPR, as well as experience with SIEM and SOC tools. They also have knowledge of Kali Linux, Wireshark, and Splunk, which are relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in cybersecurity, but it's not directly related to technology risk management. They lack seniority and experience in a risk advisory department, which is required for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management",
+    "Insufficient seniority and experience in a risk advisory department",
+    "No explicit mention of IT controls and compliance frameworks"
+  ],
+  "elapsed_seconds": 10.4
+}

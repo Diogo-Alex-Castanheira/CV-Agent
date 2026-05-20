@@ -1,0 +1,19 @@
+{
+  "name": "Paulo Fonseca",
+  "cv_id": "cv_105",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and assurance services, which is related to technology risk. However, there is no direct evidence of expertise in IT controls or compliance frameworks, which are key responsibilities for the Senior Consultant role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, experience with financial reporting and auditing standards, and proficiency in Excel. They also have relevant certifications (Portuguese Chartered Accountants Order) and fluency in English and Portuguese, which are preferred requirements for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in audit fieldwork, but it is not directly related to technology risk. They lack experience in developing risk management frameworks and strategies, collaborating with clients to implement technology risk solutions, or staying current with technology trends and regulatory changes.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient experience in developing risk management frameworks and strategies",
+    "No evidence of expertise in staying current with technology trends and regulatory changes"
+  ],
+  "elapsed_seconds": 18.8
+}

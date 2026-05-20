@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Carvalho",
+  "cv_id": "cv_9",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in cybersecurity, not finance. Although they have worked with financial institutions, their role as a Cybersecurity Analyst does not directly align with the Financial Analyst position.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as proficiency in Excel and financial modeling. They do not mention any experience with financial software or tools relevant to the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience working with clients on compliance, their background is in cybersecurity rather than finance. Their internship at NOS was related to security but not directly applicable to financial analysis.",
+  "key_gaps": [
+    "Lack of direct experience and skills in finance and financial analysis.",
+    "Insufficient proficiency in Excel and financial modeling.",
+    "Inadequate alignment with the role's domain and responsibilities."
+  ],
+  "elapsed_seconds": 10.3
+}

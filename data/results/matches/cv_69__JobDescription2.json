@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mendes",
+  "cv_id": "cv_69",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial investigation and analysis, but the role requires expertise in technology risk. The candidate's skills in fraud investigation techniques and data analytics are transferable to some extent, but not directly relevant to technology risk.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and communication skills, which align with the role's requirements. Additionally, they have experience in financial statement analysis and data analytics, which are relevant to technology risk. However, there is no direct evidence of certifications like CISA or CISSP.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in regulatory compliance and internal control procedures, but it's not directly related to technology risk. Their experience as a financial investigator is also not relevant to the role, which requires expertise in IT controls and processes.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "No certifications like CISA or CISSP",
+    "Limited relevance of financial investigation experience to the role"
+  ],
+  "elapsed_seconds": 13.6
+}

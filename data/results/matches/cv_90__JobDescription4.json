@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_90",
+  "jd_id": "JobDescription4",
+  "overall_score": 77,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Relevant experience in financial analysis, with a focus on data analysis and reporting. Some overlap with required skills in Excel and financial modeling.",
+  "required_skills_score": 70,
+  "required_skills_reasoning": "Strong analytical and quantitative skills mentioned, but no direct evidence of proficiency in Excel or financial modeling. Fluency in English and Portuguese not explicitly stated.",
+  "relevant_experience_score": 80,
+  "relevant_experience_reasoning": "Significant experience in financial analysis, with a strong focus on data analysis and reporting. Some seniority mentioned, but sector relevance could be improved.",
+  "key_gaps": [
+    "Lack of explicit evidence of proficiency in Excel or financial modeling.",
+    "No direct mention of compliance with financial regulations and standards.",
+    "Sector relevance could be improved to align more closely with the Financial Services industry."
+  ],
+  "elapsed_seconds": 9.5
+}

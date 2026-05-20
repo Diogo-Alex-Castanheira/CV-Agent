@@ -1,0 +1,19 @@
+{
+  "name": "André Fernandes",
+  "cv_id": "cv_87",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's background in life and non-life insurance is relevant, but the role requires experience in forensic accounting. The candidate's skills in risk modeling, reserving, and pricing are transferable to some extent, but not directly applicable to the Forensic & Integrity Services team.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields. The role requires strong analytical and investigative skills, which are not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in actuarial analysis, it is not directly relevant to the Forensic & Integrity Services team. The candidate's experience in regulatory reports and IFRS 17 implementation is also transferable to some extent.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields.",
+    "Insufficient direct experience in Forensic & Integrity Services or similar areas.",
+    "Limited transferable skills from actuarial analysis to the role's requirements."
+  ],
+  "elapsed_seconds": 13.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Silva",
+  "cv_id": "cv_74",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial services regulation, but the role requires expertise in financial analysis. The candidate's skills are more focused on compliance and regulatory matters, rather than financial modeling or forecasting.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and research abilities, proficiency in Portuguese and English, and experience with AML/CFT regulations. However, the role requires specific skills in Excel and financial modeling, which are not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has 6 years of experience in regulatory affairs, but most of it is in a non-financial analysis role. The candidate lacks direct experience in financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or modeling",
+    "Insufficient skills in Excel and financial modeling",
+    "Inadequate alignment with key responsibilities of the Financial Analyst role"
+  ],
+  "elapsed_seconds": 25.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "André Fernandes",
+  "cv_id": "cv_87",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's background in actuarial science is not directly related to data strategy, AI/ML implementation, or consulting. Although they have experience with risk modeling and reserving, these skills are more relevant to the insurance industry than the role described.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in cloud platforms like Azure and AWS, data governance frameworks, and AI/ML technologies. They also do not have any certifications mentioned (e.g., Microsoft AI, AWS, PMI).",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in actuarial analysis and product development, it is not directly relevant to the consulting role described. They do have some transferable skills like problem-solving and analytical thinking.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI/ML implementation, and consulting.",
+    "Insufficient technical understanding of cloud platforms and AI/ML technologies.",
+    "No relevant certifications or experience in enterprise data governance frameworks."
+  ],
+  "elapsed_seconds": 13.0
+}

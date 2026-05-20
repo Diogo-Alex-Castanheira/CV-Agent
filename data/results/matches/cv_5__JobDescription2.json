@@ -1,0 +1,19 @@
+{
+  "name": "Inês Santos",
+  "cv_id": "cv_5",
+  "jd_id": "JobDescription2",
+  "overall_score": 28,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax compliance, which is related to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which is not directly mentioned in the CV. The candidate's knowledge of EU VAT and transfer pricing is a good starting point, but it may not be enough to cover all aspects of technology risk.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, which are essential for the role. The required certifications (e.g., CISA, CISSP) are not mentioned in the CV. Although the candidate is fluent in English and Portuguese, this is a basic requirement that many candidates would meet.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in tax compliance, which may be transferable to technology risk. However, the seniority level (3+ years) is lower than required for the role. The candidate's experience in audits by the Portuguese tax authority (AT) could be relevant, but it's not directly related to IT controls and compliance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience with IT controls and compliance frameworks",
+    "Insufficient seniority level (3+ years) for the role",
+    "No mention of required certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 11.7
+}

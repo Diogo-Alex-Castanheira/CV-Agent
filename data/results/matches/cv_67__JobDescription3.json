@@ -1,0 +1,19 @@
+{
+  "name": "João Oliveira",
+  "cv_id": "cv_67",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial audit and accounting is not directly related to cybersecurity, but they do demonstrate a strong foundation in analytical skills and attention to detail. However, there is no direct evidence of tasks or responsibilities relevant to the cybersecurity role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cybersecurity frameworks, best practices, and tools, as well as relevant certifications such as CISSP, CISM, or CEH. Their proficiency in Excel and SAP is not directly related to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in financial audit and accounting is not transferable to a cybersecurity role, and they lack any direct experience with risk assessments, vulnerability assessments, or leading a team in cybersecurity. Their eagerness to learn is noted, but it is unclear how this would translate to the required skills and responsibilities of the role.",
+  "key_gaps": [
+    "Lack of experience with cybersecurity frameworks and best practices",
+    "No relevant certifications in cybersecurity",
+    "No direct experience with risk assessments, vulnerability assessments, or leading a team in cybersecurity"
+  ],
+  "elapsed_seconds": 14.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "João Oliveira",
+  "cv_id": "cv_67",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in audit and accounting, which is a different domain from data strategy and AI. While they have some transferable skills like analytical mindset and attention to detail, there is no direct evidence of experience in data strategy or AI implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks most required skills, such as technical understanding of data platforms and AI/ML technologies, experience building enterprise data governance frameworks, and relevant certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in accounting and audit, it is not directly applicable to the Director role. They lack significant seniority and industry experience, which are key requirements for this position.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI implementation",
+    "Insufficient technical skills in data platforms and AI/ML technologies",
+    "Limited seniority and industry experience"
+  ],
+  "elapsed_seconds": 12.6
+}

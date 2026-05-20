@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_95",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation, project management, and business analysis, which are relevant to the role. However, there is a lack of direct experience in technology risk or compliance frameworks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has certifications in PMP and Lean Six Sigma, as well as strong presentation and stakeholder management skills. They also have fluency in English and Portuguese, which matches the required language proficiency.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in digital transformation and project management, their experience is not directly related to technology risk or compliance frameworks. The seniority level (4 years of experience) also does not match the required 4-6 years.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient seniority level compared to the required 4-6 years",
+    "No mention of relevant certifications (e.g., CISA, CISSP) despite being a strong candidate for other skills"
+  ],
+  "elapsed_seconds": 12.9
+}

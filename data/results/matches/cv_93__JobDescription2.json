@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_93",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in audit procedures and risk assessment is relevant to the role, but there is a significant gap in technology risk expertise. The candidate lacks direct experience in conducting assessments of technology controls and processes, developing risk management frameworks, or collaborating with clients on technology risk solutions.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks strong understanding of IT controls and compliance frameworks, as well as relevant certifications (e.g., CISA, CISSP). The only mentioned skill is basic knowledge of IFRS and SNC, which is not directly related to technology risk.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in customer service and part-time work is unrelated to the role. Although they have internship experience in audit, it is entry-level and lacks seniority, sector relevance, or progression towards a technology risk role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk expertise",
+    "Insufficient understanding of IT controls and compliance frameworks",
+    "Unrelated work experience in customer service"
+  ],
+  "elapsed_seconds": 13.8
+}

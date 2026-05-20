@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Ribeiro",
+  "cv_id": "cv_11",
+  "jd_id": "JobDescription4",
+  "overall_score": 69,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and modeling, which aligns with the role's responsibilities. However, there is a gap in terms of seniority (only 3 years of experience) and industry relevance (Big4 environment), but the candidate's education and skills are relevant to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel, financial modeling, and valuation, which are essential skills for the Financial Analyst role. However, there is no mention of Bloomberg Terminal or Portuguese language skills being used in a professional context.",
+  "relevant_experience_score": 55,
+  "relevant_experience_reasoning": "The candidate has relevant experience in financial analysis and modeling, but it's mostly from an internship and not directly related to the Financial Analyst role. The seniority is also lower than required (0-2 years of experience).",
+  "key_gaps": [
+    "Seniority: Only 3 years of experience, whereas the role requires 0-2 years.",
+    "Industry relevance: The candidate's experience is from a Big4 environment, but not directly related to the Financial Analyst role.",
+    "Bloomberg Terminal and Portuguese language skills: No evidence that these skills are used in a professional context."
+  ],
+  "elapsed_seconds": 12.8
+}

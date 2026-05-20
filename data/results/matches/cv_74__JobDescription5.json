@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Silva",
+  "cv_id": "cv_74",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory affairs, compliance, and financial services regulation, which aligns with the role's responsibilities. However, there is a lack of direct evidence of forensic accounting or investigative skills, which are key requirements for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and research abilities, as well as experience in compliance risk assessment and AML/CFT regulations. They also have relevant certifications (Portuguese Bar Association member) and language skills (fluent in English and Portuguese).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has 6 years of experience in financial services regulation, but most of it is in a non-forensic context. They lack direct experience as a consultant or manager, which is required for the role.",
+  "key_gaps": [
+    "Lack of direct forensic accounting or investigative experience",
+    "Insufficient seniority and management experience",
+    "No evidence of expertise in data analysis or compliance program development"
+  ],
+  "elapsed_seconds": 13.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Maria Ferreira",
+  "cv_id": "cv_7",
+  "jd_id": "JobDescription2",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analysis and visualization, but the role requires expertise in technology risk. Although there is some overlap between data analytics and risk management, the candidate's skills are not directly applicable to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant technical skills such as Python, SQL, R, Power BI, and machine learning. They also have experience with financial reporting knowledge. However, there is no direct evidence of certifications or experience in technology risk.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has over 6 years of experience, but most of it is in data analysis and not directly related to technology risk. There is no mention of experience working with clients, implementing risk management frameworks, or collaborating with stakeholders.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk and risk management.",
+    "No relevant certifications (e.g., CISA, CISSP) or experience working with clients.",
+    "Insufficient seniority for the role, as the candidate has only been in their current position for 5 years."
+  ],
+  "elapsed_seconds": 13.1
+}

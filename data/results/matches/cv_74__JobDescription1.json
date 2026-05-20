@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Silva",
+  "cv_id": "cv_74",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial services regulation, but the role requires expertise in data strategy, AI governance, and advanced analytics. There is a significant gap between the candidate's domain and the required tasks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in compliance risk assessment, AML/CFT regulations, and financial services regulatory frameworks, which are relevant to the role. However, there is a lack of direct experience with data platforms, AI/ML technologies, and cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has 6 years of experience in regulatory affairs, but it's not directly related to the role. There is a significant gap between the candidate's seniority (6 years) and the required level of experience (15+ years).",
+  "key_gaps": [
+    "Lack of direct experience with data strategy, AI governance, and advanced analytics.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "Inadequate seniority for the role (6 years vs. 15+ years)."
+  ],
+  "elapsed_seconds": 26.5
+}

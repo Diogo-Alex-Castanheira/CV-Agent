@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Gomes",
+  "cv_id": "cv_89",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in ESG reporting, which is related to technology risk, there is a significant gap between her current role as Sustainability Reporting Manager and the required responsibilities of a Senior Consultant in Technology Risk. The candidate's expertise in sustainability data management and analytics may be transferable, but it does not directly align with the job requirements.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience in IT controls and compliance frameworks, which are essential for the role. Although she has knowledge of ESG reporting frameworks, this is not a direct match for the required skills. The only relevant certification mentioned is none.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability and ESG reporting, which may be transferable to technology risk. However, her seniority is lower than required (4-6 years), and she lacks direct experience in technology controls and compliance frameworks.",
+  "key_gaps": [
+    "Lack of experience in IT controls and compliance frameworks",
+    "Insufficient seniority for the role (4-6 years)",
+    "No direct experience in technology risk or related fields"
+  ],
+  "elapsed_seconds": 13.4
+}

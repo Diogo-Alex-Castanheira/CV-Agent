@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_64",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT audit and security, but the role requires forensic accounting expertise. The candidate's skills in cybersecurity frameworks and compliance standards are relevant to the role, but not directly applicable to forensic investigations.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting or related fields, and does not have a certification like CFE (Certified Forensic Examiner). The only relevant certifications mentioned are CISA (Certified Information Systems Auditor), which is not directly applicable to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in security and compliance, but it's not directly related to forensic investigations. They have some relevant skills like vulnerability assessment tools, but lack seniority and experience in managing investigations and compliance matters.",
+  "key_gaps": [
+    "Lack of experience in forensic accounting or related fields",
+    "Insufficient seniority and management experience",
+    "No direct experience with forensic investigations and compliance matters"
+  ],
+  "elapsed_seconds": 12.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lucia Carvalho",
+  "cv_id": "cv_76",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in actuarial analysis and statistical modeling, which is relevant to financial planning and analysis. However, the role requires expertise in Excel and financial modeling, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel, R, SAS, and Prophet, which aligns with the required skills. Additionally, they have expertise in actuarial modeling and calculations, which is a key requirement for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial analysis, but it's limited to 2 years as an Actuarial Analyst. The role requires 0-2 years of experience in financial analysis or related roles, which is partially met.",
+  "key_gaps": [
+    "Lack of explicit expertise in Excel and financial modeling",
+    "Insufficient direct experience in financial planning and analysis compared to actuarial analysis",
+    "Limited seniority and progression in the role"
+  ],
+  "elapsed_seconds": 12.8
+}

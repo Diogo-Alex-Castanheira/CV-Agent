@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_64",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk and security, but the role requires expertise in technology risk specifically. The candidate's skills in cybersecurity frameworks are relevant, but not directly applicable to technology risk.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong understanding of IT controls and compliance frameworks (COBIT, ITIL, ISO 27001), which aligns with the role's requirements. They also have relevant certifications (CISA) and fluency in English and Portuguese.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk and security, but it's not directly applicable to technology risk. They lack seniority and experience in Big4 consulting environment, which is a requirement for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk",
+    "Insufficient seniority and experience in Big4 consulting environment",
+    "No experience with technology trends and regulatory changes"
+  ],
+  "elapsed_seconds": 12.3
+}

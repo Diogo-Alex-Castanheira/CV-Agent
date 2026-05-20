@@ -1,0 +1,19 @@
+{
+  "name": "Ana Santos",
+  "cv_id": "cv_38",
+  "jd_id": "JobDescription4",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in kitchen operations and menu development is not directly related to financial analysis. Although they have experience with cost control measures, it's unclear how this translates to financial planning and analysis activities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. They also do not mention any experience with financial regulations or standards.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of relevant experience in financial analysis or a related field. The candidate's experience in kitchen management and menu development does not translate to the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of proficiency in Excel and financial modeling skills",
+    "No direct evidence of relevant experience in financial analysis or a related field",
+    "Inadequate alignment between domain and tasks (kitchen operations vs financial planning and analysis)"
+  ],
+  "elapsed_seconds": 11.3
+}

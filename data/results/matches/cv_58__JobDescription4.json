@@ -1,0 +1,19 @@
+{
+  "name": "Diana Costa",
+  "cv_id": "cv_58",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Although the candidate has experience in human resources, there is no direct evidence of financial analysis or planning. However, her organizational development expertise could be transferable to a financial analyst role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in performance evaluation systems and change management methodologies, which are relevant to the Financial Analyst role. Additionally, her proficiency in Portuguese and English meets the language requirements.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in HR roles, it is not directly related to financial analysis or planning. Her experience as an HR Business Partner shows some transferable skills, but it's not enough to match the required experience level of 0-2 years.",
+  "key_gaps": [
+    "Lack of direct financial analysis or planning experience",
+    "Insufficient experience in financial modeling and Excel skills",
+    "Experience is not directly related to the Financial Services department"
+  ],
+  "elapsed_seconds": 11.7
+}

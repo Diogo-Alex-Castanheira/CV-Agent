@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Sousa",
+  "cv_id": "cv_84",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital transformation and innovation strategy is not directly related to financial analysis. Although they have a background in technology, there is no clear connection to the Financial Services department or financial planning and analysis activities.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and experience with design thinking methodologies, which are relevant to the role. However, they lack specific experience with financial modeling and compliance with financial regulations and standards.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct experience in financial analysis or related roles, and the candidate's background is in digital transformation and innovation strategy. Although they have a strong educational foundation in finance, it is not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "Insufficient skills in financial modeling and compliance with financial regulations and standards",
+    "No clear connection between digital transformation experience and Financial Services department"
+  ],
+  "elapsed_seconds": 12.1
+}

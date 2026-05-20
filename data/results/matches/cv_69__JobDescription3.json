@@ -1,0 +1,20 @@
+{
+  "name": "Ricardo Mendes",
+  "cv_id": "cv_69",
+  "jd_id": "JobDescription3",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial analysis and investigation, there is no direct evidence of cybersecurity expertise. The role requires a strong knowledge of cybersecurity frameworks and best practices, which is not mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant skills such as data analytics and forensic tools, but lacks specific cybersecurity certifications like CISSP or CISM. Fluency in English and Portuguese is required, but this is not a unique skillset for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial investigation and compliance, which may be transferable to a cybersecurity role. However, there is no direct experience in building or leading cybersecurity teams, conducting risk assessments, or staying current with emerging threats.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity expertise and knowledge of cybersecurity frameworks and best practices.",
+    "Insufficient specific cybersecurity certifications like CISSP or CISM.",
+    "No direct experience in building or leading cybersecurity teams, conducting risk assessments, or staying current with emerging threats.",
+    "Limited relevance of financial investigation skills to the role's requirements."
+  ],
+  "elapsed_seconds": 15.0
+}

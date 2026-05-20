@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Almeida",
+  "cv_id": "cv_43",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial analysis and fraud detection, there is no direct evidence of data strategy or AI/ML implementation. The candidate's expertise lies in forensic accounting, which is a distinct domain from Data & AI Strategy.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as AI governance frameworks addressing ethical considerations and regulatory compliance. The required certifications (e.g., Microsoft AI, AWS) are also not mentioned in the CV.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in audit and forensic accounting, with no direct evidence of leading enterprise-wide data transformation or AI implementation programs. The seniority (15+ years) does not directly translate to the Director role's requirements.",
+  "key_gaps": [
+    "Lack of experience in Data & AI Strategy and related technologies.",
+    "Insufficient technical understanding of cloud platforms and AI/ML technologies.",
+    "No direct evidence of leading enterprise-wide data transformation or AI implementation programs."
+  ],
+  "elapsed_seconds": 13.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luis Pereira",
+  "cv_id": "cv_61",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in public policy analysis, which is relevant to the role's focus on compliance programs. However, there is a lack of direct experience in forensic accounting or related fields, and no mention of investigative skills.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CFE, CPA) and has limited experience with industry trends and regulatory changes. While they have strong analytical and report writing abilities, these are not explicitly mentioned as relevant skills for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has significant experience in public administration, but it is not directly applicable to the forensic accounting field. They lack seniority and experience in managing investigations and compliance matters, which are key responsibilities of the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No required certifications (e.g., CFE, CPA) mentioned",
+    "Limited experience with industry trends and regulatory changes"
+  ],
+  "elapsed_seconds": 12.5
+}

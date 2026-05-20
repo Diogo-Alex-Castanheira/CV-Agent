@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Gonçalves",
+  "cv_id": "cv_14",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial investigation and fraud detection, there is no direct evidence of technology risk or compliance frameworks. The role requires expertise in IT controls and compliance frameworks, which are not mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in financial investigation, asset tracing, and expert testimony, which are relevant to the role. However, there is no mention of IT controls, compliance frameworks, or certifications like CISA or CISSP, although fluency in English and Portuguese is required.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial investigation and litigation support, but it's not directly related to technology risk or compliance. The seniority of the role (6+ years) is also relevant, but the sector relevance (financial services vs. technology) is a gap.",
+  "key_gaps": [
+    "Direct evidence of technology risk or compliance frameworks is missing.",
+    "Relevant certifications like CISA or CISSP are not mentioned, although fluency in English and Portuguese is required.",
+    "Experience in technology risk or compliance is lacking."
+  ],
+  "elapsed_seconds": 9.8
+}

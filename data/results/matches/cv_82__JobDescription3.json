@@ -1,0 +1,19 @@
+{
+  "name": "Eduardo Costa",
+  "cv_id": "cv_82",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in business valuation, financial modeling, and business analysis is not directly related to cybersecurity. Although they have a CFA charterholder with expertise in valuation for M&A, financial reporting, and dispute resolution, there is no mention of relevant cybersecurity skills or experience.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong knowledge of cybersecurity frameworks and best practices, and relevant certifications like CISSP, CISM, CEH. They do not have any explicit mention of these skills in their CV.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the role, as they are a finance professional with no direct experience in cybersecurity. Although they have worked on valuations for tax and financial reporting purposes, this is not directly related to the job requirements.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity skills and experience",
+    "No direct connection between finance and cybersecurity expertise",
+    "Insufficient transferable skills from business valuation to cybersecurity"
+  ],
+  "elapsed_seconds": 13.3
+}

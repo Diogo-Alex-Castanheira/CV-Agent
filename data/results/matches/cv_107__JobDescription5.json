@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Ribeiro",
+  "cv_id": "cv_107",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in market analysis and competitive benchmarking, but lacks direct experience in forensic accounting or related fields. The skills listed do not directly align with the role's requirements.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as financial modeling, Excel, PowerPoint, and Tableau, which are useful for the role. However, there is no direct evidence of certifications like CFE or CPA, but fluency in English and Portuguese is required.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in strategic planning and analysis, but it's not directly related to forensic accounting or integrity services. The most recent role as Associate Consultant at The Boston Consulting Group shows some transferable skills, but the overall experience is not relevant to the job.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No evidence of required certifications like CFE or CPA",
+    "Experience in strategic planning and analysis is not directly relevant to the role"
+  ],
+  "elapsed_seconds": 19.3
+}

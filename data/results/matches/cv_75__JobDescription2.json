@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_75",
+  "jd_id": "JobDescription2",
+  "overall_score": 71,
+  "verdict": "Good match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "Transferable experience in risk management and compliance from related fields, but lack of direct technology risk expertise. Relevant certifications mentioned, but not specified.",
+  "required_skills_score": 85,
+  "required_skills_reasoning": "Strong understanding of IT controls and compliance frameworks, excellent analytical skills, and fluency in English and Portuguese. Most required certifications (CISA) are mentioned, although CISSP is preferred.",
+  "relevant_experience_score": 55,
+  "relevant_experience_reasoning": "4-6 years of experience, but sector relevance and progression not explicitly stated. Seniority level matches the job description.",
+  "key_gaps": [
+    "Lack of direct technology risk expertise",
+    "Insufficient sector relevance and progression details",
+    "No explicit mention of CISSP certification preference"
+  ],
+  "elapsed_seconds": 9.7
+}

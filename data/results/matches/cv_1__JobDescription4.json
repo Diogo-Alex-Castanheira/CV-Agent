@@ -1,0 +1,19 @@
+{
+  "name": "Carla Nogueira",
+  "cv_id": "cv_1",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in taxation, their domain is not directly related to financial analysis. They lack relevant tasks such as preparing financial reports and forecasts, analyzing financial data, and ensuring compliance with financial regulations.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and experience with SAP FI and Oracle Tax, which are relevant to the role. However, they lack fluency in Portuguese, which is a requirement for the job.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience as a Senior Tax Consultant is not directly related to financial analysis or the Financial Services department. They lack relevant experience in supporting business units and driving business performance.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and Financial Services department",
+    "Insufficient fluency in Portuguese",
+    "No relevant experience in preparing financial reports, analyzing financial data, or ensuring compliance with financial regulations"
+  ],
+  "elapsed_seconds": 8.4
+}

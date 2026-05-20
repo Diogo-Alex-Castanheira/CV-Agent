@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Correia",
+  "cv_id": "cv_78",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in transfer pricing, but the role requires expertise in Data & AI Strategy. The candidate's skills are not directly related to data governance, AI governance, or advanced analytics solutions.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong technical understanding of data platforms and AI/ML technologies, experience building enterprise data governance frameworks, and relevant certifications (e.g., Microsoft AI, AWS, PMI).",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in large-scale digital transformation initiatives, it is not directly related to Data & AI Strategy. The candidate's experience in transfer pricing and international taxation is also not relevant to the role.",
+  "key_gaps": [
+    "Lack of required technical skills for data platforms and AI/ML technologies",
+    "No experience in Data & AI Strategy or related fields",
+    "Transfer pricing expertise is not relevant to the role"
+  ],
+  "elapsed_seconds": 12.7
+}

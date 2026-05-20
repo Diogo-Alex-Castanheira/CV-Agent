@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Mendes",
+  "cv_id": "cv_41",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in ERP systems and SAP implementations, but the role requires forensic accounting expertise. The candidate's skills are more focused on system implementation and digital transformation projects.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate is SAP certified consultant with relevant certifications (SAP FI/CO, FICO implementation) and has experience in ERP systems and financial reporting solutions. The only missing skill is forensic accounting expertise.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in system implementation and digital transformation projects, it's not directly related to forensic accounting or integrity services. The candidate lacks seniority and experience in managing investigations and compliance matters.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient seniority and management experience",
+    "Missing expertise in investigative skills and data analysis"
+  ],
+  "elapsed_seconds": 10.8
+}

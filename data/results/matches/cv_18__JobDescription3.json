@@ -1,0 +1,19 @@
+{
+  "name": "Fernando Gomes",
+  "cv_id": "cv_18",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of cybersecurity domain or tasks. Transferable skills like creativity, innovation, and leadership are present but not directly applicable to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "Some relevant skills like menu development and recipe creation could be transferable to a cybersecurity context, but there is no direct evidence of required skills like risk assessment or compliance with regulations.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No experience in the cybersecurity domain. The candidate's 12 years of experience in pastry arts are not directly relevant to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity domain and tasks.",
+    "No relevant experience in the cybersecurity field.",
+    "Insufficient skills related to risk assessment, compliance, or emerging threats."
+  ],
+  "elapsed_seconds": 10.4
+}

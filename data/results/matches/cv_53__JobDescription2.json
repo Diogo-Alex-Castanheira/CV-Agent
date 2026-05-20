@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Vieira",
+  "cv_id": "cv_53",
+  "jd_id": "JobDescription2",
+  "overall_score": 38,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marketing analytics and performance measurement is not directly related to technology risk, but they do have some transferable skills in data analysis and problem-solving. However, there is no explicit mention of IT controls, compliance frameworks, or technology trends, which are key aspects of the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Google Analytics and Adobe Analytics, but not with other tools commonly used in technology risk management. They also lack certifications like CISA or CISSP, which are preferred for the role. However, they do have basic knowledge of SQL, Python, and R, which could be relevant.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in data analysis and performance measurement, but it's not directly related to technology risk. They also lack seniority and sector relevance, as they are currently working in a marketing role for Unilever.",
+  "key_gaps": [
+    "Lack of experience in IT controls and compliance frameworks",
+    "Insufficient certifications (e.g., CISA, CISSP) or relevant tools",
+    "Inadequate seniority and sector relevance"
+  ],
+  "elapsed_seconds": 13.8
+}

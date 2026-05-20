@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Santos",
+  "cv_id": "cv_91",
+  "jd_id": "JobDescription2",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has expertise in international tax planning, there is no direct evidence of experience in technology risk or related fields. The role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to international tax planning, but there is no mention of analytical or communication skills required for the role. Additionally, certifications like CISA or CISSP are preferred, but not mentioned in the CV.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in tax advisory and research is not directly relevant to technology risk or IT controls. There is no mention of seniority, sector relevance, or progression in the CV.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient analytical and communication skills",
+    "No relevant certifications (e.g., CISA, CISSP) mentioned"
+  ],
+  "elapsed_seconds": 11.7
+}

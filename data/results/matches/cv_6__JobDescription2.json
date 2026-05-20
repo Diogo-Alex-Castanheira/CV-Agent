@@ -1,0 +1,19 @@
+{
+  "name": "João Tavares",
+  "cv_id": "cv_6",
+  "jd_id": "JobDescription2",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analytics and visualization, but the role requires expertise in technology risk. Although there is some overlap between data analysis and risk management, the candidate's skills are not directly applicable to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant technical skills such as Python, SQL, and Power BI, which align with the requirements. However, there is no direct evidence of experience in technology risk or compliance frameworks.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in data analytics, which is not directly relevant to the role. Although they have worked on projects that involved data-driven approaches, there is no evidence of experience in technology risk or regulatory compliance.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk and compliance frameworks.",
+    "Insufficient technical skills in areas such as IT controls and compliance frameworks.",
+    "Inadequate relevant work experience in the field of technology risk."
+  ],
+  "elapsed_seconds": 10.2
+}

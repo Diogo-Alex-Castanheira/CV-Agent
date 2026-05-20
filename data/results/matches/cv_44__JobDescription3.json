@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Lopes",
+  "cv_id": "cv_44",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in HR is not directly related to cybersecurity, and there is no mention of relevant skills or certifications. The only connection to the role is a vague statement about creating positive workplace cultures, which is not specific enough to be considered a strong match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as knowledge of cybersecurity frameworks and best practices, as well as relevant certifications like CISSP or CISM. The only mentioned skill is MS Office, which is not specific enough to be considered a strong match.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in HR is not relevant to the cybersecurity role, and there is no mention of any transferable skills or experience that could be applied to a cybersecurity context. The only connection to Portugal is the location, which is not sufficient to consider this a strong match.",
+  "key_gaps": [
+    "Lack of relevant skills and certifications in cybersecurity",
+    "No direct experience or transferable skills in cybersecurity",
+    "Inadequate connection to the role's domain and responsibilities"
+  ],
+  "elapsed_seconds": 13.2
+}

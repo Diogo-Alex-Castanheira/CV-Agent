@@ -1,0 +1,19 @@
+{
+  "name": "Fernando Gomes",
+  "cv_id": "cv_18",
+  "jd_id": "JobDescription4",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of financial analysis or related tasks. The candidate's domain is pastry arts, with no mention of financial planning, analysis, or compliance.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in traditional Portuguese pastries, chocolate work, and sugar art, but lacks proficiency in Excel and financial modeling. They also lack fluency in English (intermediate) compared to the required fluency.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in pastry arts, with no relevant experience in financial analysis or related roles. Their seniority and sector relevance are also not applicable to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of financial analysis or related tasks",
+    "Insufficient proficiency in Excel and financial modeling",
+    "Inadequate fluency in English compared to required fluency"
+  ],
+  "elapsed_seconds": 10.5
+}

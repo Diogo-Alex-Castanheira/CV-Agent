@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Pinto",
+  "cv_id": "cv_73",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analytics and performance improvement, but lacks direct experience in data strategy, AI/ML implementation, and enterprise-wide digital transformation initiatives. They also don't have a proven track record in delivering large-scale digital transformation initiatives.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in data analysis and visualization, SQL, Python, R, Power BI, and Tableau, which are relevant to the role. However, they lack experience with cloud platforms like Azure and AWS, as well as specific certifications (e.g., Microsoft AI).",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in multiple industries, including financial services, but mostly focuses on business analytics and performance improvement. They lack seniority and a strong track record of leading cross-functional teams or contributing to business development.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, and enterprise-wide digital transformation initiatives.",
+    "Insufficient skills in cloud platforms like Azure and AWS, as well as specific certifications (e.g., Microsoft AI).",
+    "Limited seniority and lack of strong track record of leading cross-functional teams or contributing to business development."
+  ],
+  "elapsed_seconds": 15.1
+}

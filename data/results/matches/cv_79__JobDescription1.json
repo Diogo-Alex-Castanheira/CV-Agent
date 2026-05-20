@@ -1,0 +1,21 @@
+{
+  "name": "Catarina Neves",
+  "cv_id": "cv_79",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in HR transformation and organizational design, which is not directly related to the Data & AI Strategy role. Although they have experience with organizational assessments and transformation roadmaps, these skills are more relevant to HR consulting than data strategy.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks technical expertise in data platforms and AI/ML technologies, which is a critical requirement for the Data & AI Strategy role. They also do not have experience with cloud platforms like Azure or AWS, nor relevant certifications.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in HR transformation and organizational design is not directly applicable to the Data & AI Strategy role. Although they have worked on restructuring processes, this is not a relevant skill for this position.",
+  "key_gaps": [
+    "Lack of technical expertise in data platforms and AI/ML technologies",
+    "No experience with cloud platforms like Azure or AWS",
+    "No relevant certifications (e.g., Microsoft AI, AWS, PMI)",
+    "Inadequate alignment with the role's domain and responsibilities",
+    "Insufficient direct experience with large-scale digital transformation initiatives"
+  ],
+  "elapsed_seconds": 14.4
+}

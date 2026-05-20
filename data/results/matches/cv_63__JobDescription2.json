@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Dias",
+  "cv_id": "cv_63",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in machine learning and natural language processing, which are relevant to the role. However, there is a significant gap between their expertise in AI solutions for business applications and the technology risk management required by the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, which are essential requirements for the role. They also do not mention any relevant certifications (e.g., CISA, CISSP).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in machine learning and data science, their experience is primarily in AI solutions for business applications rather than technology risk management. They lack seniority and sector relevance.",
+  "key_gaps": [
+    "Lack of experience with IT controls and compliance frameworks",
+    "Insufficient seniority and sector relevance in technology risk management",
+    "No mention of relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 12.7
+}

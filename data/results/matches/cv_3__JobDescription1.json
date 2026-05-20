@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Marques",
+  "cv_id": "cv_3",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in organizational transformation and operational improvement, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. They also don't have a strong background in finance services, which is a key industry for the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in Excel, Power BI, and Tableau, but lacks experience with cloud platforms like Azure or AWS. They also don't have relevant certifications (e.g., Microsoft AI, AWS, PMI). However, they do mention knowledge of public sector and utilities, which is a plus.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in working with C-level stakeholders, but it's not directly related to the role. They also have some experience in data analysis (e.g., creating dashboards), but it's not extensive enough to be considered a strong match.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance",
+    "Insufficient skills in cloud platforms like Azure or AWS",
+    "Limited relevant experience in finance services"
+  ],
+  "elapsed_seconds": 10.4
+}

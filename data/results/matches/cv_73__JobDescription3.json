@@ -1,0 +1,20 @@
+{
+  "name": "Rafael Pinto",
+  "cv_id": "cv_73",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in business analytics is not directly related to cybersecurity, but they do have skills in data analysis and visualization, which could be transferable. However, the lack of explicit mention of cybersecurity frameworks, best practices, or relevant certifications makes it difficult to assess their alignment with the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in building and leading cybersecurity teams, strong knowledge of cybersecurity frameworks and best practices, and relevant certifications (e.g., CISSP, CISM, CEH).",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate's experience is not directly related to cybersecurity, they do have skills in data analysis and problem-solving, which could be valuable in a cybersecurity context. However, their lack of experience in leading teams or working with emerging threats makes it difficult to assess their relevance.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading cybersecurity teams",
+    "Insufficient knowledge of cybersecurity frameworks and best practices",
+    "No relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Limited experience with emerging threats and trends"
+  ],
+  "elapsed_seconds": 14.1
+}

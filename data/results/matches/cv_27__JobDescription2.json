@@ -1,0 +1,19 @@
+{
+  "name": "Laura Campos",
+  "cv_id": "cv_27",
+  "jd_id": "JobDescription2",
+  "overall_score": 8,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "While the candidate has experience in performance arts and choreography, there is no direct evidence of technology risk or related fields. The skills listed are not directly relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong understanding of IT controls and compliance frameworks, and relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no experience in technology risk or related fields. The candidate's 10 years of experience in dance instruction and performance arts are not transferable to the role.",
+  "key_gaps": [
+    "Lack of relevant skills and certifications for technology risk management.",
+    "No direct experience in technology risk or related fields.",
+    "Skills and experience are not transferable to the role."
+  ],
+  "elapsed_seconds": 11.9
+}

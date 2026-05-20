@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_35",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and accounting, but lacks direct experience in data strategy, AI/ML implementation, or consulting. The role requires expertise in enterprise data transformation and AI governance, which is not mentioned in the candidate's CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate does not have any relevant technical skills mentioned (e.g., cloud platforms like Azure and AWS), nor do they mention experience with AI/ML technologies or data governance frameworks. The only technical skill mentioned is SAP, which is unrelated to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has limited experience in a Big4 environment and lacks seniority (only 2 years of experience). Their experience in retail and manufacturing sectors is not relevant to the consulting and data strategy role. The only relevant education mentioned is an MSc in Accounting and Auditing, which does not align with the Director-level position.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or consulting.",
+    "Insufficient technical skills (e.g., cloud platforms like Azure and AWS), AI/ML technologies, or data governance frameworks.",
+    "Limited seniority and relevant industry experience for a Director-level position."
+  ],
+  "elapsed_seconds": 13.0
+}

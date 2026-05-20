@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Pinto",
+  "cv_id": "cv_101",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk management, IT audit, and cybersecurity compliance, which aligns with the role's responsibilities. However, there is a lack of direct evidence of forensic accounting expertise, which is a key requirement for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CISA) and skills in IT governance frameworks (COBIT, ITIL), cybersecurity, and data privacy compliance. They also have strong analytical and communication skills, which are essential for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk management and audit, but lacks direct experience in forensic accounting or related fields. Their experience in financial services (Banco BPI) is relevant, but not directly applicable to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting expertise",
+    "Insufficient experience in compliance programs and regulatory requirements (e.g., GDPR)",
+    "No experience in preparing reports and presentations for stakeholders"
+  ],
+  "elapsed_seconds": 20.2
+}

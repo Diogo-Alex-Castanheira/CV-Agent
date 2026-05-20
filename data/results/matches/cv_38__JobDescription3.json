@@ -1,0 +1,19 @@
+{
+  "name": "Ana Santos",
+  "cv_id": "cv_38",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in kitchen operations and menu development is not directly related to cybersecurity. While they have experience with cost control measures, this is not a key requirement for the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant skills mentioned in the candidate's CV that align with the job requirements, such as cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the cybersecurity field, and they lack any seniority or sector relevance. Their education is in culinary arts, not computer science or a related field.",
+  "key_gaps": [
+    "Lack of domain-task alignment with the role's requirements",
+    "No relevant skills mentioned that align with the job requirements",
+    "Inadequate experience in cybersecurity or a related field"
+  ],
+  "elapsed_seconds": 11.2
+}

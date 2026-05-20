@@ -1,0 +1,19 @@
+{
+  "name": "Helena Santos",
+  "cv_id": "cv_47",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in hospital administration and healthcare operations improvement is not directly related to the Data & AI Strategy role. While she has expertise in process optimization, quality management, and healthcare analytics, these skills are not explicitly mentioned as requirements for the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms, AI/ML technologies, and enterprise data governance frameworks, which are essential requirements for the Data & AI Strategy role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has a strong background in healthcare operations improvement, her experience is not directly relevant to the Data & AI Strategy role. She lacks seniority and industry experience in data strategy, business intelligence, and AI/ML implementation.",
+  "key_gaps": [
+    "Lack of direct experience with data platforms, AI/ML technologies, and enterprise data governance frameworks.",
+    "Insufficient seniority and industry experience in data strategy, business intelligence, and AI/ML implementation.",
+    "No explicit mention of relevant certifications (e.g., Microsoft AI, AWS, PMI) or fluency in English and Portuguese required by the role."
+  ],
+  "elapsed_seconds": 14.0
+}

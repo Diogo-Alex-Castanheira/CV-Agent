@@ -1,0 +1,19 @@
+{
+  "name": "Helena Duarte",
+  "cv_id": "cv_81",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in sustainability, which is related to technology risk, there's a significant gap between her current role as Sustainability Consultant and the required Senior Consultant position. The candidate lacks direct experience with IT controls and compliance frameworks, which are crucial for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong skills in ESG reporting frameworks (GRI, SASB, TCFD), carbon accounting, and sustainability strategy development. She also possesses excellent communication skills. However, there's a minor gap regarding the required fluency in English and Portuguese, as she only mentions being fluent in English.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in sustainability, but it's not directly applicable to technology risk. She lacks seniority and direct experience with IT controls and compliance frameworks, which are essential for the Senior Consultant position.",
+  "key_gaps": [
+    "Lack of direct experience with IT controls and compliance frameworks",
+    "Insufficient seniority for a Senior Consultant role",
+    "Gaps in required skills, particularly fluency in Portuguese"
+  ],
+  "elapsed_seconds": 13.5
+}

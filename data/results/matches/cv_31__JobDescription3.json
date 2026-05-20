@@ -1,0 +1,19 @@
+{
+  "name": "Joana Matos",
+  "cv_id": "cv_31",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of cybersecurity domain or tasks. The candidate's experience is in the music industry, with no mention of cybersecurity frameworks, risk assessments, or compliance with regulations.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills related to performance arts and stage presence, but lacks relevant technical skills for a cybersecurity role. Fluency in English is required, but no other certifications or expertise are mentioned.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No experience in the cybersecurity domain or related fields. The candidate's professional experience is in the music industry, with no transferable skills to a cybersecurity role.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity domain and tasks",
+    "Insufficient technical skills for a cybersecurity role",
+    "No experience in the cybersecurity domain or related fields"
+  ],
+  "elapsed_seconds": 11.9
+}

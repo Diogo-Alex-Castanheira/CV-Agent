@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mendes",
+  "cv_id": "cv_69",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial analysis and investigation, there is no direct evidence of data strategy or AI/ML implementation. The role requires expertise in enterprise data transformation and AI governance, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with financial statement analysis, data analytics, and forensic tools, which are relevant to the role. However, there is no mention of cloud platforms like Azure or AWS, AI governance frameworks, or business intelligence experience.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has 5 years of experience in fraud investigation and litigation support, but this is not directly relevant to the Director role in Data & AI Strategy. The candidate's experience in compliance and internal control procedures is also not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of data strategy or AI/ML implementation expertise",
+    "No mention of cloud platforms like Azure or AWS, AI governance frameworks, or business intelligence experience",
+    "Inadequate relevance of forensic accounting experience to the Director role in Data & AI Strategy"
+  ],
+  "elapsed_seconds": 15.2
+}

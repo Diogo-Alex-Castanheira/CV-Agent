@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mota",
+  "cv_id": "cv_85",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in supply chain optimization, logistics management, and process improvement is not directly related to the Data & AI Strategy role. Although they have led transformation initiatives, there is no evidence of experience with data platforms, AI/ML technologies, or enterprise data governance frameworks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong technical understanding of data platforms and AI/ML technologies. They do not have relevant certifications like Microsoft AI or AWS, which are preferred for the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in leading transformation initiatives, their background is in supply chain management rather than data strategy and AI/ML implementation. They do not have direct experience with large-scale digital transformation initiatives or executive-level relationships.",
+  "key_gaps": [
+    "Lack of domain task alignment: no experience in data platforms, AI/ML technologies, or enterprise data governance frameworks.",
+    "Missing required skills: strong technical understanding of data platforms and AI/ML technologies, relevant certifications like Microsoft AI or AWS.",
+    "Limited relevant experience: lack of direct experience with large-scale digital transformation initiatives or executive-level relationships."
+  ],
+  "elapsed_seconds": 16.3
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Sofia Lopes",
+  "cv_id": "cv_44",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in HR is not directly related to forensic accounting or integrity services. While they have experience with recruitment and performance management, these skills are not transferable to the role of a Consultant in Forensic & Integrity Services.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and does not have experience with data analysis or investigative skills required for the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience in employee relations and conflict resolution, their years of experience are not directly relevant to the role of a Consultant in Forensic & Integrity Services. They also lack seniority and sector relevance.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience with data analysis or investigative skills.",
+    "Insufficient years of experience in forensic accounting or related fields.",
+    "Limited seniority and sector relevance compared to the role requirements.",
+    "No direct experience with forensic investigations, compliance programs, or cross-functional team collaboration."
+  ],
+  "elapsed_seconds": 12.5
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Helena Duarte",
+  "cv_id": "cv_81",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in sustainability, it's not directly related to data strategy or AI implementation. The skills listed are more focused on ESG reporting and carbon accounting rather than data platforms and AI/ML technologies.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some relevant skills like ESG reporting frameworks, carbon accounting, and sustainability strategy development. However, they lack experience with data platforms (Azure, AWS), AI/ML technologies, and enterprise data governance frameworks.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in sustainability, but it's not directly applicable to the Director role. They lack significant experience in leading large-scale digital transformation initiatives or building cross-functional teams of data scientists and engineers.",
+  "key_gaps": [
+    "Lack of direct experience with data platforms (Azure, AWS) and AI/ML technologies.",
+    "Insufficient experience in leading large-scale digital transformation initiatives or building cross-functional teams.",
+    "No relevant experience in enterprise data governance frameworks or delivering complex digital transformation programs.",
+    "Skills are more focused on ESG reporting and carbon accounting rather than data strategy and AI implementation.",
+    "Lack of seniority (15+ years) and industry experience (financial services)"
+  ],
+  "elapsed_seconds": 16.1
+}

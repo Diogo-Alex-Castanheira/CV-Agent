@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Pinto",
+  "cv_id": "cv_73",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analytics and performance improvement, which is related to financial analysis. However, the role requires specific skills like Excel and financial modeling, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in SQL, Python, R, Power BI, Tableau, and statistical modeling and forecasting, which aligns with the required skills for financial analysis. Additionally, they have fluency in English and Portuguese, meeting another key requirement.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in business analytics, it is not directly related to financial services or a staff-level position. They lack specific experience in preparing financial reports and forecasts, collaborating with business units, and ensuring compliance with financial regulations.",
+  "key_gaps": [
+    "Lack of direct experience in financial services or staff-level positions.",
+    "Insufficient experience in preparing financial reports and forecasts.",
+    "No mention of specific skills like Excel and financial modeling."
+  ],
+  "elapsed_seconds": 13.2
+}

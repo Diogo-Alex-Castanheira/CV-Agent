@@ -1,0 +1,19 @@
+{
+  "name": "Ana Santos",
+  "cv_id": "cv_38",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in kitchen operations and menu development is not directly related to technology risk, but they do demonstrate strong analytical skills through cost control measures. However, there is no direct evidence of their understanding of IT controls or compliance frameworks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in technology risk or related fields, and has no relevant certifications (e.g., CISA, CISSP). They also do not have fluency in English as their primary language, although they claim to be fluent.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in the culinary industry and lacks any direct relevance to technology risk or related fields. While they may possess transferable skills such as communication and leadership, these are not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of experience in technology risk or related fields",
+    "No relevant certifications (e.g., CISA, CISSP)",
+    "Inadequate language skills for the role's fluency requirements"
+  ],
+  "elapsed_seconds": 12.4
+}

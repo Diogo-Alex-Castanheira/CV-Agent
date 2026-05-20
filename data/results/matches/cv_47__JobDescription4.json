@@ -1,0 +1,19 @@
+{
+  "name": "Helena Santos",
+  "cv_id": "cv_47",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in hospital administration and operations improvement is not directly related to financial analysis. Although they have expertise in process optimization, quality management, and healthcare analytics, these skills are not explicitly mentioned as requirements for the Financial Analyst role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential tools for a Financial Analyst. They also do not mention any experience with financial regulations and standards, which is a critical aspect of the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in healthcare operations improvement, it is not directly applicable to financial analysis. However, their analytical skills and ability to work with data could be transferable to a financial analyst role.",
+  "key_gaps": [
+    "Lack of relevant experience in financial analysis or related roles",
+    "Insufficient proficiency in Excel and financial modeling",
+    "No mention of experience with financial regulations and standards"
+  ],
+  "elapsed_seconds": 11.8
+}

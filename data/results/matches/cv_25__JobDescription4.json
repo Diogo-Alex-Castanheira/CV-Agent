@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Santos",
+  "cv_id": "cv_25",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in viticulture and winemaking, but the role requires financial analysis skills. There is no direct evidence of relevant tasks or responsibilities in finance.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. They also do not mention any experience with financial regulations and standards.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has extensive experience in viticulture and winemaking, there is no clear connection to financial analysis or a relevant industry (Financial Services).",
+  "key_gaps": [
+    "Lack of finance-related skills and experience",
+    "No direct evidence of relevant tasks or responsibilities in finance",
+    "Insufficient connection to the Financial Services industry"
+  ],
+  "elapsed_seconds": 10.5
+}

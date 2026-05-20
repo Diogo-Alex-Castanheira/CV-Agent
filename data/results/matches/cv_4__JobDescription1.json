@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_4",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in auditing, not data strategy or AI implementation. While they have a strong technical understanding of accounting standards (IFRS, GAAP), it's not directly applicable to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as experience in data platforms and AI/ML technologies, as well as certifications like Microsoft AI or AWS. Their technical understanding is limited to accounting software (SAP) and spreadsheet tools (Excel).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the role, with no direct experience in data strategy, business intelligence, or AI/ML implementation. Their seniority is also not a good match for the Director level required by the role.",
+  "key_gaps": [
+    "Lack of relevant technical skills and experience in data strategy and AI/ML technologies",
+    "No direct experience in data platforms, business intelligence, or AI/ML implementation",
+    "Seniority mismatch with the Director level required by the role"
+  ],
+  "elapsed_seconds": 10.2
+}

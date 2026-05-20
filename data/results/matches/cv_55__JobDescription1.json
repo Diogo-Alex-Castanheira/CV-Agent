@@ -1,0 +1,19 @@
+{
+  "name": "Francisco Almeida",
+  "cv_id": "cv_55",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in corporate taxation, international tax planning, and tax compliance, which is a different domain from Data & AI Strategy. Although the candidate has experience with team management and client engagement, these skills are not directly related to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as technical understanding of data platforms and AI/ML technologies, as well as experience in multiple industries, including financial services. The only relevant skill mentioned is SAP, which is not directly related to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in tax management and consulting, which is unrelated to Data & AI Strategy. Although the candidate has led a team of professionals, this experience does not demonstrate expertise in digital transformation initiatives or AI governance frameworks.",
+  "key_gaps": [
+    "Lack of domain alignment with Data & AI Strategy",
+    "Insufficient technical skills and experience in data platforms and AI/ML technologies",
+    "Unrelated experience in tax management and consulting"
+  ],
+  "elapsed_seconds": 13.7
+}

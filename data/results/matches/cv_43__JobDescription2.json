@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Almeida",
+  "cv_id": "cv_43",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in fraud investigation and financial analysis, there is no direct evidence of technology risk or compliance frameworks. However, her analytical skills may be transferable to this role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CFE) and skills (data analytics, IDEA, ACL) that align with the job requirements. Her fluency in English and Portuguese also meets the language requirement.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial analysis and fraud investigation, it is not directly related to technology risk or compliance frameworks. Her seniority (5 years of experience) is also a plus.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "No evidence of relevant certifications (e.g., CISA, CISSP)",
+    "Limited relevance of financial analysis and fraud investigation experience to the role"
+  ],
+  "elapsed_seconds": 12.0
+}

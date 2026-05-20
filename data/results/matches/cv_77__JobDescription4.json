@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_77",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in digital marketing, which is not directly related to financial analysis. Although they have experience with data analysis and reporting, it's not explicitly stated that they have worked with financial data or tools.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. They also don't mention any experience with financial regulations and standards.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience with data analysis and reporting, it's not directly applicable to financial analysis. Their marketing background is also a significant gap.",
+  "key_gaps": [
+    "Lack of expertise in financial tools and regulations",
+    "Insufficient experience with financial data and analysis",
+    "Inadequate transferable skills from marketing background"
+  ],
+  "elapsed_seconds": 11.4
+}

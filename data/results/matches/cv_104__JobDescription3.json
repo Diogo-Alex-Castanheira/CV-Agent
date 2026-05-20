@@ -1,0 +1,19 @@
+{
+  "name": "André Neves",
+  "cv_id": "cv_104",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marine conservation and ecological research is not directly related to cybersecurity, but they do have skills in data analysis (R, GIS) that could be transferable. However, the lack of direct experience in cybersecurity frameworks, best practices, or threat assessment makes this a weak match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and has no mention of knowledge in cybersecurity frameworks or best practices. Their skills are not directly related to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in marine conservation and research, which is not relevant to the cybersecurity team recruitment. They do not have any experience in building or leading teams, risk assessments, or vulnerability assessments, making this a weak match.",
+  "key_gaps": [
+    "Lack of direct experience and knowledge in cybersecurity frameworks and best practices.",
+    "No relevant certifications (e.g., CISSP, CISM, CEH) or transferable skills in threat assessment.",
+    "Inadequate experience in building or leading teams, risk assessments, or vulnerability assessments."
+  ],
+  "elapsed_seconds": 20.6
+}

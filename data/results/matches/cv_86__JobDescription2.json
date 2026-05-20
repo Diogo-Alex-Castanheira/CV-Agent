@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Torres",
+  "cv_id": "cv_86",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in healthcare operations optimization, regulatory compliance, and digital health initiatives, which are related to the role's domain. However, there is no direct evidence of technology risk or IT controls, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in healthcare analytics and KPI development, clinical quality and patient safety frameworks, and stakeholder management. However, there is no mention of IT controls, compliance frameworks, or relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in healthcare operations and quality improvement, but it's not directly related to technology risk or senior consulting roles. The length of the current role (2 years) is also relatively short compared to the required 4-6 years.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Short length of current role compared to required seniority"
+  ],
+  "elapsed_seconds": 13.9
+}

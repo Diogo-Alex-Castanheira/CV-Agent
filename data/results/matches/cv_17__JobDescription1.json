@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Pereira",
+  "cv_id": "cv_17",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in ESG reporting and sustainable finance, which is a different domain from Data & AI Strategy. Although the candidate has experience with GRI, SASB, and TCFD frameworks, there is no direct evidence of experience with data platforms or AI/ML technologies.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as relevant certifications (e.g., Microsoft AI). The only technical skill mentioned is carbon accounting, which is not directly related to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in ESG reporting and sustainable finance is not relevant to the Data & AI Strategy practice. Although they have managed corporate sustainability reporting and disclosures, there is no evidence of experience with large-scale digital transformation initiatives or enterprise data governance frameworks.",
+  "key_gaps": [
+    "Lack of domain alignment: ESG expertise is not directly related to Data & AI Strategy.",
+    "Insufficient technical skills: No experience with cloud platforms, AI/ML technologies, or relevant certifications.",
+    "Irrelevant experience: ESG reporting and sustainable finance are not relevant to the role's requirements."
+  ],
+  "elapsed_seconds": 15.7
+}

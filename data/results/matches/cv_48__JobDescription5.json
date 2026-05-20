@@ -1,0 +1,19 @@
+{
+  "name": "Duarte Lopes",
+  "cv_id": "cv_48",
+  "jd_id": "JobDescription5",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in blockchain implementation and distributed ledger technologies, which is a related domain to forensic accounting. However, the specific tasks mentioned in the CV (e.g., smart contract development) are not directly aligned with the role's responsibilities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience and skills in forensic accounting, compliance programs, data analysis, and industry trends, which are essential for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in blockchain implementation, it is not directly relevant to the Forensic & Integrity Services team. The lack of seniority (3 years of experience) and sector relevance (financial services) also raises concerns.",
+  "key_gaps": [
+    "Lack of relevant experience in forensic accounting or compliance programs",
+    "Insufficient skills in data analysis, industry trends, and regulatory changes",
+    "No direct alignment with the Forensic & Integrity Services team's responsibilities"
+  ],
+  "elapsed_seconds": 12.1
+}

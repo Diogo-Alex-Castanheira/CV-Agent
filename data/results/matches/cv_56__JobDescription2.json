@@ -1,0 +1,19 @@
+{
+  "name": "Laura Moreira",
+  "cv_id": "cv_56",
+  "jd_id": "JobDescription2",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in real estate advisory consulting, which is unrelated to technology risk. Although they have some analytical skills and knowledge of market dynamics, there is no direct evidence of their ability to assess technology controls or develop risk management frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Excel, Argus, and CoStar, which are relevant tools for real estate analysis. They also have a RICS certification in progress, but this is not directly related to technology risk. The lack of certifications like CISA or CISSP is notable.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is entirely in real estate advisory consulting and does not demonstrate any relevant experience in technology risk or a related field.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "No certifications like CISA or CISSP",
+    "Unrelated experience in real estate advisory consulting"
+  ],
+  "elapsed_seconds": 11.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Torres",
+  "cv_id": "cv_86",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in healthcare operations optimization, regulatory compliance, and digital health initiatives, which are not directly related to the Data & AI Strategy role. Although she has some transferable skills like stakeholder management and analytical capabilities, they are not explicitly mentioned as relevant to data strategy or AI implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in data platforms, AI/ML technologies, and enterprise data governance frameworks, which are essential for the Data & AI Strategy role. Her skills in healthcare analytics and KPI development are not directly applicable to this position.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in clinical settings, with no direct relevance to data strategy or AI implementation. Although she has some leadership experience, it is not transferable to the Director role in Data & AI Strategy.",
+  "key_gaps": [
+    "Lack of relevant technical skills and experience in data platforms and AI/ML technologies.",
+    "Insufficient experience in data strategy, business intelligence, and AI/ML implementation.",
+    "No direct relevance to the Director role in Data & AI Strategy."
+  ],
+  "elapsed_seconds": 15.0
+}

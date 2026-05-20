@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_23",
+  "jd_id": "JobDescription2",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or compliance frameworks. The candidate's experience is in tourism and heritage, with no apparent connection to technology or risk management.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks strong understanding of IT controls and compliance frameworks, as well as relevant certifications like CISA or CISSP. While they have experience in group management and public speaking, these skills are not directly applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's 9 years of experience as a tour guide is unrelated to technology risk or compliance. There is no indication of relevant experience in IT controls, risk management, or regulatory changes.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks.",
+    "Insufficient understanding of IT controls and compliance frameworks.",
+    "No relevant experience in IT-related fields or risk management."
+  ],
+  "elapsed_seconds": 10.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Pinto",
+  "cv_id": "cv_73",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analytics, which is related to technology risk. However, the specific tasks and responsibilities mentioned in the CV do not directly align with those of a Senior Consultant in Technology Risk.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in data analysis, statistical modeling, and forecasting, which are relevant to technology risk. Additionally, they have experience with tools like Power BI and Tableau, which could be useful for reporting and presentation purposes.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has some experience in data analysis and business analytics, it is not directly related to technology risk or compliance. They lack seniority and experience in a specific industry or sector.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks.",
+    "Insufficient seniority and industry-specific experience.",
+    "No mention of relevant certifications (e.g., CISA, CISSP)."
+  ],
+  "elapsed_seconds": 12.4
+}

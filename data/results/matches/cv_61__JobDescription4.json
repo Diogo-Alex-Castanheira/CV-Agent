@@ -1,0 +1,19 @@
+{
+  "name": "Luis Pereira",
+  "cv_id": "cv_61",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in public policy analysis, which is related to financial planning and analysis. However, the role requires expertise in financial analysis and modeling, which is not explicitly mentioned in the CV. The candidate's skills in government operations and processes may be transferable, but it's not a direct match.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical and report writing abilities, which are required for the role. However, they lack proficiency in Excel and financial modeling, which is a key requirement. The candidate also lacks experience in financial analysis or related roles, which is another important requirement.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has 8 years of experience in public administration, but it's not directly relevant to the role. They have some experience in policy analysis and implementation, but it's not enough to match the required skills and experience for a Financial Analyst.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "Insufficient proficiency in Excel and financial modeling",
+    "Inadequate relevance of public administration experience to the role"
+  ],
+  "elapsed_seconds": 13.3
+}

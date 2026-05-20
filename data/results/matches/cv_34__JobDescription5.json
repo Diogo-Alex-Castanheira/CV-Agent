@@ -1,0 +1,19 @@
+{
+  "name": "Hugo Teixeira",
+  "cv_id": "cv_34",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in football refereeing is unrelated to the role of a Consultant in Forensic & Integrity Services. While they have leadership and conflict resolution skills, these are not directly applicable to the job requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant technical skills for the role, such as forensic accounting or data analysis expertise. Their proficiency in football laws and regulations is also not mentioned as a relevant skill.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in managing high-pressure situations, their years of experience are mostly in refereeing rather than consulting or forensic services. They do have some transferable skills like leadership and conflict resolution, but these are not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of relevant technical skills for the role (forensic accounting, data analysis)",
+    "Unrelated experience in refereeing and lack of direct application to consulting or forensic services",
+    "Insufficient transferable skills from refereeing experience (e.g., leadership, conflict resolution) to match the job requirements"
+  ],
+  "elapsed_seconds": 10.3
+}

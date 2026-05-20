@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Ribeiro",
+  "cv_id": "cv_11",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial analysis and modeling is not directly related to cybersecurity, but they do demonstrate strong analytical skills. However, there is no evidence of relevant domain knowledge or experience in cybersecurity tasks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no mentions of required skills such as CISSP, CISM, CEH certifications, or specific tools like threat intelligence platforms. The candidate's proficiency in Excel and Bloomberg Terminal is not directly relevant to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no experience in leading cybersecurity teams, conducting risk assessments, or implementing cybersecurity strategies. Their experience in financial analysis is not transferable to the role.",
+  "key_gaps": [
+    "Lack of relevant domain knowledge and experience in cybersecurity tasks",
+    "Missing required skills such as CISSP, CISM, CEH certifications",
+    "No transferable experience from financial analysis to cybersecurity"
+  ],
+  "elapsed_seconds": 11.1
+}

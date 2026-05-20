@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Torres",
+  "cv_id": "cv_16",
+  "jd_id": "JobDescription3",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "The candidate has experience in building and leading cybersecurity teams (EY – Porto), conducting security assessments and penetration tests (S21sec – Lisbon), and implementing security controls and frameworks to meet regulatory requirements (EY – Porto). Although the role requires a broader scope, the candidate's expertise in security architecture and compliance frameworks is relevant.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong knowledge of cybersecurity frameworks and best practices, including NIST, ISO 27001, and GDPR compliance. They also possess relevant certifications (CISSP, CEH) and fluency in English and Portuguese.",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "The candidate has a strong track record of experience in cybersecurity, with 6 years of experience in information security, vulnerability assessment, and penetration testing. They have also led teams (EY – Porto) and conducted risk assessments and vulnerability assessments (S21sec – Lisbon).",
+  "key_gaps": [
+    "Lack of experience in managing a comprehensive cybersecurity strategy tailored to client needs.",
+    "No mention of collaboration with stakeholders to ensure alignment with business objectives and compliance with regulations.",
+    "Limited experience in emerging cybersecurity threats and trends, although they have CISSP certification."
+  ],
+  "elapsed_seconds": 12.6
+}

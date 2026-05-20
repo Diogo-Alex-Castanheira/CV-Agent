@@ -1,0 +1,19 @@
+{
+  "name": "Ana Gomes",
+  "cv_id": "cv_50",
+  "jd_id": "JobDescription5",
+  "overall_score": 39,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in marketing, with no direct evidence of forensic accounting or related fields. While they have a strong background in data analysis (e.g., attribution modeling), it's not explicitly stated as being relevant to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has certifications in Google Marketing Platform and Salesforce Marketing Cloud, which are relevant to marketing. They also have strong analytical skills, but no direct evidence of investigative or compliance-related skills required for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is almost no signal of relevant experience in forensic accounting, integrity services, or related fields. The candidate's experience is primarily in marketing and customer-facing roles, with no direct connection to the Forensic & Integrity Services team.",
+  "key_gaps": [
+    "Lack of relevant experience in forensic accounting or related fields",
+    "No direct evidence of investigative or compliance-related skills required for the role",
+    "Insufficient connection to Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 14.2
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Beatriz Lima",
+  "cv_id": "cv_71",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management, which is relevant to the role. However, there is a lack of direct evidence of forensic accounting or related fields, and no mention of compliance programs or regulatory changes.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in enterprise risk management frameworks, internal control design and assessment, and financial modeling. They also have relevant certifications (FRM) and language proficiency (Portuguese, English).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "While the candidate has experience in risk analysis and internal controls, it is not directly related to forensic accounting or compliance matters. There is also a lack of seniority and sector relevance.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or related fields",
+    "No mention of compliance programs or regulatory changes",
+    "Limited seniority and sector relevance",
+    "Insufficient experience in forensic investigations and data analysis"
+  ],
+  "elapsed_seconds": 12.5
+}

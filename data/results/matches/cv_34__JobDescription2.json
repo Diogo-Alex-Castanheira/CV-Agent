@@ -1,0 +1,19 @@
+{
+  "name": "Hugo Teixeira",
+  "cv_id": "cv_34",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in football refereeing is unrelated to technology risk management. While they have leadership and conflict resolution skills, these are not directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant technical skills, such as IT controls and compliance frameworks, and certifications like CISA or CISSP",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct experience in technology risk management or a related field. The candidate's experience is in football refereeing, which is not relevant to the role.",
+  "key_gaps": [
+    "Lack of relevant technical skills and certifications",
+    "No direct experience in technology risk management or a related field",
+    "Unrelated domain (football refereeing) with no transferable skills"
+  ],
+  "elapsed_seconds": 8.2
+}

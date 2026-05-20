@@ -1,0 +1,19 @@
+{
+  "name": "Francisco Almeida",
+  "cv_id": "cv_55",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in corporate taxation, which is relevant to the role. However, there is no direct evidence of forensic accounting or investigative skills required for the position.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks certifications such as CFE (Certified Forensic Examiner) and CPA (Certified Public Accountant), which are preferred by the employer. Additionally, there is no mention of fluency in English or Portuguese required for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in managing complex tax projects and leading teams, but this experience is not directly related to forensic accounting or integrity services. The candidate's seniority (Tax Manager) is also lower than required for the role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA)",
+    "Insufficient experience in forensic accounting or investigative skills",
+    "Inadequate seniority for the role (Tax Manager instead of Manager)"
+  ],
+  "elapsed_seconds": 12.5
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Inês Rodrigues",
+  "cv_id": "cv_68",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in sustainability reporting, there is no direct evidence of financial analysis or planning tasks. The role requires expertise in financial reports and forecasts, which are not mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in data analysis tools and visualization, but this is a general skill that could be applied to various roles. The candidate also has proficiency in Portuguese and German, which may not be directly relevant to the role. However, their fluency in English meets one of the requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability reporting and ESG strategy development, but this is a different domain from financial analysis. While they have worked with cross-functional teams, there is no evidence of collaboration with business units to support decision-making or other key responsibilities of the role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and planning tasks",
+    "Insufficient skills in financial modeling and Excel",
+    "No evidence of collaboration with business units to support decision-making"
+  ],
+  "elapsed_seconds": 15.0
+}

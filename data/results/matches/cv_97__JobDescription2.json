@@ -1,0 +1,19 @@
+{
+  "name": "Rui Almeida",
+  "cv_id": "cv_97",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP solutions, which is relevant to the role. However, there is no direct mention of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, as well as relevant certifications (e.g., CISA, CISSP). While they have strong analytical skills, this is not a direct match for the required skillset.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in systems integration and ERP implementations, which is relevant to the role. However, their experience is more focused on manufacturing clients rather than technology risk or compliance, and there is a lack of seniority (4-6 years of experience required).",
+  "key_gaps": [
+    "Lack of direct experience with technology risk or compliance frameworks",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Limited seniority and focus on manufacturing clients rather than technology risk"
+  ],
+  "elapsed_seconds": 14.2
+}

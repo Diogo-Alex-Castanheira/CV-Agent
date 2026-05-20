@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_23",
+  "jd_id": "JobDescription4",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of financial analysis or related tasks. The candidate's experience is in tourism and heritage, with no mention of financial planning or analysis.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some transferable skills like public speaking and group management, but lacks proficiency in Excel and financial modeling, as well as fluency in English (only fluent).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in financial analysis or related roles. The candidate's experience is in tourism and heritage, with no progression towards financial services.",
+  "key_gaps": [
+    "Lack of direct evidence of financial analysis tasks and required skills.",
+    "No relevant experience in financial planning or analysis.",
+    "Insufficient fluency in English compared to the required proficiency."
+  ],
+  "elapsed_seconds": 10.1
+}

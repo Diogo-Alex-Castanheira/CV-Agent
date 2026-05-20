@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_30",
+  "jd_id": "JobDescription4",
+  "overall_score": 80,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has extensive experience in financial analysis, planning, and strategy, which aligns with the role's responsibilities. However, there is a slight mismatch between the candidate's seniority (Chief Financial Officer) and the role's experience level (Staff).",
+  "required_skills_score": 90,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and financial modeling expertise. They also possess fluency in English and Portuguese, which meets the language requirements. The only missing skill is specific experience with financial reporting and forecasting tools.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has a strong background in financial analysis, planning, and strategy, but most of their experience is at a senior level (e.g., CFO). While they have relevant experience in financial integration, restructuring, and optimization, there is a lack of direct experience with financial services or the specific tasks mentioned in the role.",
+  "key_gaps": [
+    "Lack of direct experience with financial reporting and forecasting tools",
+    "Seniority mismatch between candidate's level (CFO) and role's experience level (Staff)",
+    "Limited direct experience with financial services or specific tasks mentioned in the role"
+  ],
+  "elapsed_seconds": 15.8
+}

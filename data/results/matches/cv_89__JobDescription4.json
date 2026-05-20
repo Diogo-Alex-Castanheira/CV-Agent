@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Gomes",
+  "cv_id": "cv_89",
+  "jd_id": "JobDescription4",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in ESG reporting, which is related to financial analysis, there is a significant gap between her current role as Sustainability Reporting Manager and the Financial Analyst role. The candidate's expertise in sustainability reporting frameworks (GRI, SASB, TCFD) is not directly applicable to financial planning and analysis activities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. Although she has experience with data management and analytics, it's not explicitly stated that she is proficient in financial software or tools.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in sustainability reporting and ESG analysis, but it's not directly applicable to the Financial Analyst role. Her experience as an ESG Analyst at EDP is also relatively short-term (2 years) compared to the required 0-2 years of experience for the role.",
+  "key_gaps": [
+    "Lack of proficiency in Excel and financial modeling skills",
+    "Insufficient direct experience in financial planning and analysis activities",
+    "Short-term experience compared to required 0-2 years"
+  ],
+  "elapsed_seconds": 14.0
+}

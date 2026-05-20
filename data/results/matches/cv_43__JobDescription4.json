@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Almeida",
+  "cv_id": "cv_43",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial analysis, their primary role is as a Forensic Accountant. The skills mentioned are transferable to financial analysis, but not directly aligned with the job requirements.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and relevant certifications (CFE, Chartered Accountant). The only missing skill is experience in financial planning and analysis activities.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial analysis, it's mostly related to fraud investigation and litigation support. There's a significant gap between their experience and the required 0-2 years of experience in financial analysis or related roles.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient experience in financial analysis (only 5 years of experience)",
+    "No mention of proficiency in financial modeling or compliance with financial regulations"
+  ],
+  "elapsed_seconds": 12.2
+}

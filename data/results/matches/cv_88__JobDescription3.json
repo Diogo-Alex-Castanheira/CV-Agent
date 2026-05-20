@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Oliveira",
+  "cv_id": "cv_88",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and business process optimization, which is relevant to the role. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams. The candidate's skills are more focused on strategy development and financial modeling.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH) and has no explicit mention of cybersecurity frameworks or best practices. While they have experience in data analysis, it's not directly applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in management consulting, which is unrelated to cybersecurity. They lack any direct experience in building and leading teams or working on cybersecurity projects. Their skills are also not directly transferable to the role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and explicit mention of cybersecurity frameworks or best practices.",
+    "No direct experience in building and leading teams or working on cybersecurity projects.",
+    "Skills are not directly transferable to the role."
+  ],
+  "elapsed_seconds": 14.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Marco Silva",
+  "cv_id": "cv_57",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial crime prevention and anti-money laundering, which is related to the role's domain. However, their expertise is more focused on AML/CFT programs and financial investigations rather than financial analysis or reporting.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, as well as experience with compliance case management software. They also have ACAMS certification, which is relevant to the role's requirements.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has some experience working with financial data, their background is more focused on financial crime prevention and anti-money laundering rather than financial analysis or reporting. They lack direct experience in financial planning and analysis activities.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient experience in financial modeling and forecasting",
+    "No experience working with financial reporting or regulatory compliance"
+  ],
+  "elapsed_seconds": 11.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Marta Ribeiro",
+  "cv_id": "cv_29",
+  "jd_id": "JobDescription2",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or compliance experience. While Marta has a degree in Sports Science, it's not directly related to the role. Her skills are mostly focused on surfing and coaching.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "Marta lacks strong understanding of IT controls and compliance frameworks. She doesn't mention any relevant certifications or experience in technology risk management.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct experience in technology risk or related fields. Marta's experience is mostly in surfing, coaching, and education, with no connection to the role's responsibilities.",
+  "key_gaps": [
+    "Lack of relevant technical skills and certifications for technology risk management",
+    "No direct experience in technology risk or compliance",
+    "Skills and education not directly related to the role's responsibilities"
+  ],
+  "elapsed_seconds": 10.9
+}

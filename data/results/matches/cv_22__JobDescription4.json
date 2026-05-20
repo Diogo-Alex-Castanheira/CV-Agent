@@ -1,0 +1,19 @@
+{
+  "name": "Mariana Costa",
+  "cv_id": "cv_22",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in data analysis and machine learning, there is no direct evidence of financial analysis or modeling skills. The role requires expertise in financial planning and analysis activities, which is not explicitly mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has proficiency in Python, R, SQL, and data visualization tools like PowerBI and Tableau, which are relevant to the role. However, there is no mention of financial modeling or Excel skills, which are essential for the Financial Analyst position.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in data analysis and business intelligence, but it's not directly related to financial services or analysis. While they have worked with KPIs and executive leadership, there is no evidence of collaboration with business units or compliance with financial regulations.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or modeling skills",
+    "Insufficient mention of required Excel and financial modeling skills",
+    "Limited relevance of data analysis experience to the Financial Services sector"
+  ],
+  "elapsed_seconds": 11.3
+}

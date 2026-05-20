@@ -1,0 +1,19 @@
+{
+  "name": "Marco Silva",
+  "cv_id": "cv_57",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial crime prevention and AML/CFT programs, but the role requires technology risk expertise. The candidate's skills are more relevant to compliance rather than technology risk.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong understanding of AML/CFT regulations and best practices, as well as experience with financial investigation techniques and transaction monitoring systems. They also have ACAMS certification, which is relevant to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has 4 years of experience in AML/CFT, but it's not directly related to technology risk. The role requires seniority and experience in technology risk or related fields, which the candidate lacks.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk",
+    "Insufficient seniority for the role",
+    "No relevant certifications in technology risk (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 12.2
+}

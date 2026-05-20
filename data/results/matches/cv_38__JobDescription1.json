@@ -1,0 +1,19 @@
+{
+  "name": "Ana Santos",
+  "cv_id": "cv_38",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or task alignment. The candidate's experience is in the culinary industry, with no mention of data strategy, business intelligence, AI/ML implementation, or consulting.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills relevant to kitchen management and menu development, but lacks technical understanding of data platforms and AI/ML technologies. No experience with enterprise data governance frameworks or cloud platforms like Azure and AWS is mentioned.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct evidence of relevant experience in data strategy, business intelligence, AI/ML implementation, or consulting. The candidate's experience is in the culinary industry, with no mention of seniority or sector relevance.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and task alignment",
+    "Insufficient technical skills in data platforms and AI/ML technologies",
+    "No relevant experience in data strategy, business intelligence, or consulting"
+  ],
+  "elapsed_seconds": 12.9
+}

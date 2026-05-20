@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Lopes",
+  "cv_id": "cv_92",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory compliance, which is relevant to the role. However, there is a lack of direct experience in forensic accounting or related fields, which is a key requirement for the position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong knowledge of banking regulations (CRD IV/CRR, MiFID II) and AML/KYC compliance frameworks. They also have experience with fintech and digital banking solutions, which are relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has some experience in risk management and compliance, but it is not directly related to forensic accounting or investigations. Their experience as a Digital Banking Analyst is also not directly relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient seniority (Manager level) for the role",
+    "No mention of certifications such as CFE, CPA"
+  ],
+  "elapsed_seconds": 12.2
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Torres",
+  "cv_id": "cv_86",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in healthcare operations optimization, regulatory compliance, and digital health initiatives, which are not directly related to cybersecurity. Although the candidate has some transferable skills like stakeholder management and process improvement, they lack direct experience in cybersecurity tasks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and strong knowledge of cybersecurity frameworks and best practices. They also do not mention any specific skills related to threat analysis, risk assessment, or incident response.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in healthcare operations and quality improvement, which are not directly relevant to the cybersecurity role. Although they have some transferable skills like stakeholder management, their lack of experience in leading a team or working with clients makes them an unlikely fit for this role.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity tasks and frameworks",
+    "No relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Inadequate transferable skills for the role"
+  ],
+  "elapsed_seconds": 14.6
+}

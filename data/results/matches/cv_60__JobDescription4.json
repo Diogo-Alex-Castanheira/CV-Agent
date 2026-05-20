@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Almeida",
+  "cv_id": "cv_60",
+  "jd_id": "JobDescription4",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax consulting, which is related to financial services. However, the role requires a Financial Analyst with expertise in financial planning and analysis, not tax planning and compliance.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in Excel, SAP, and tax filing software, but lacks proficiency in financial modeling and experience with financial regulations and standards required for the role.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "Although the candidate has experience in corporate taxation, it is not directly related to financial analysis or planning. The role requires staff-level experience in financial services, which the candidate does not have.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and planning",
+    "Insufficient proficiency in financial modeling and regulations",
+    "Inadequate seniority for a staff-level role"
+  ],
+  "elapsed_seconds": 11.2
+}

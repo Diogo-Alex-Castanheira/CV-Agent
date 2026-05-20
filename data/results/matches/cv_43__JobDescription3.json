@@ -1,0 +1,20 @@
+{
+  "name": "Beatriz Almeida",
+  "cv_id": "cv_43",
+  "jd_id": "JobDescription3",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in financial analysis and fraud detection, there is no direct evidence of cybersecurity expertise or experience. The role requires a strong knowledge of cybersecurity frameworks and best practices, which is not mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant certifications (CFE) but lacks specific skills like CISSP, CISM, or CEH. They also have experience with data analytics tools (IDEA, ACL), which could be transferable to cybersecurity. However, the CV does not explicitly mention any cybersecurity-specific skills.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in forensic accounting and audit services, which is unrelated to the cybersecurity role. There are no mentions of risk assessments, vulnerability assessments, or cybersecurity-related projects.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity expertise",
+    "Insufficient skills in cybersecurity frameworks and best practices",
+    "No relevant experience in cybersecurity",
+    "No mention of risk assessments, vulnerability assessments, or cybersecurity-related projects"
+  ],
+  "elapsed_seconds": 13.3
+}

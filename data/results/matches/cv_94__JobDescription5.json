@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_94",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax law, which is related to the role's domain. However, there is a significant gap in terms of forensic accounting expertise, as the role requires 7+ years of experience in this field.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and has limited experience with transfer pricing documentation and tax technology tools required for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has 5 years of experience in tax consulting, which is not directly relevant to the Forensic & Integrity Services team. While they have managed tax compliance for multinational clients, this experience does not demonstrate the investigative and analytical skills required for the role.",
+  "key_gaps": [
+    "Lack of forensic accounting expertise and relevant certifications (e.g., CFE, CPA)",
+    "Insufficient transfer pricing documentation experience and tax technology tool proficiency",
+    "Limited experience in investigative and analytical skills required for the Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 12.6
+}

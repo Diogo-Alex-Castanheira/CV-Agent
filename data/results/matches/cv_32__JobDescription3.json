@@ -1,0 +1,19 @@
+{
+  "name": "Tomás Santos",
+  "cv_id": "cv_32",
+  "jd_id": "JobDescription3",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy development and business planning, which is relevant to the role. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams. The candidate's background is in management consulting and corporate strategy, which is a different domain from cybersecurity.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial modeling, market analysis, project management, and team leadership, which are transferable to the role. However, there is no evidence of relevant certifications (e.g., CISSP, CISM, CEH) or strong knowledge of cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in managing teams and leading projects, but this is not directly related to the role. The candidate's background in management consulting and corporate strategy does not demonstrate relevant expertise in cybersecurity or risk assessment/vulnerability assessment.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity or building and leading teams.",
+    "No evidence of relevant certifications (e.g., CISSP, CISM, CEH) or strong knowledge of cybersecurity frameworks and best practices.",
+    "Insufficient transferable skills from management consulting and corporate strategy to the role."
+  ],
+  "elapsed_seconds": 9.4
+}

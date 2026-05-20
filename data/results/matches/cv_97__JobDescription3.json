@@ -1,0 +1,19 @@
+{
+  "name": "Rui Almeida",
+  "cv_id": "cv_97",
+  "jd_id": "JobDescription3",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP solutions, which is a relevant skill for the role. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams, which are key responsibilities of the job.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in SAP S/4HANA and Oracle ERP, but not in cybersecurity frameworks and best practices. They also lack relevant certifications like CISSP or CISM, which are preferred by the employer.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in IT consulting and systems integration, but it's not directly related to cybersecurity. Their experience as a Systems Analyst is also limited to technical specifications and system testing, without any mention of risk assessments or vulnerability assessments.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity expertise and experience in building and leading teams.",
+    "Insufficient relevant certifications like CISSP or CISM.",
+    "Limited experience in risk assessments and vulnerability assessments."
+  ],
+  "elapsed_seconds": 14.8
+}

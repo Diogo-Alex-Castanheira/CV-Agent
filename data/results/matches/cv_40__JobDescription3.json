@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Oliveira",
+  "cv_id": "cv_40",
+  "jd_id": "JobDescription3",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in HR, talent management, and organizational development, which doesn't directly align with the cybersecurity role. However, some transferable skills like change management and digital transformation could be relevant to a cybersecurity context.",
+  "required_skills_score": 0,
+  "required_skills_reasoning": "",
+  "relevant_experience_score": 0,
+  "relevant_experience_reasoning": "",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "No relevant certifications or skills mentioned",
+    "No experience in building and leading cybersecurity teams"
+  ],
+  "elapsed_seconds": 9.9
+}

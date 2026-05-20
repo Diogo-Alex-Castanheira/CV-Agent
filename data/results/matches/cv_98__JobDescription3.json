@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_98",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial investigations and fraud analysis is not directly related to cybersecurity, but they do have a background in compliance and risk assessment. The role requires expertise in building and leading a cybersecurity team, which is outside the candidate's current domain.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cybersecurity frameworks, best practices, and tools, as well as relevant certifications like CISSP or CISM. While they have skills in AML compliance and investigative interviewing techniques, these are not directly applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in financial investigations and forensic accounting, which is unrelated to cybersecurity. They lack any direct experience in building or leading a cybersecurity team, and their skills do not align with the required certifications or expertise.",
+  "key_gaps": [
+    "Lack of relevant experience in cybersecurity",
+    "Insufficient skills in cybersecurity frameworks and best practices",
+    "No direct experience in building or leading a cybersecurity team"
+  ],
+  "elapsed_seconds": 13.6
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Duarte",
+  "cv_id": "cv_46",
+  "jd_id": "JobDescription1",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and technology consulting, which aligns with the role's focus on data strategy and AI implementation. However, there is a significant gap in terms of seniority and industry experience (15+ years), as well as specific technical skills like cloud platforms (Azure, AWS) and AI/ML technologies.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with enterprise data governance frameworks, AI governance, and advanced analytics solutions. They also don't mention any relevant certifications (e.g., Microsoft AI, AWS, PMI).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has some experience in digital transformation initiatives and CRM system integrations, but it's not directly related to the role's requirements. They also lack seniority (15+ years) and industry experience (financial services).",
+  "key_gaps": [
+    "Lack of seniority and industry experience (15+ years)",
+    "Insufficient technical skills in cloud platforms (Azure, AWS) and AI/ML technologies",
+    "No relevant certifications (e.g., Microsoft AI, AWS, PMI)"
+  ],
+  "elapsed_seconds": 13.5
+}

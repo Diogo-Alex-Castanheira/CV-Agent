@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_23",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of cybersecurity domain or tasks. The candidate's experience is in tourism and heritage, with no mention of cybersecurity frameworks, best practices, or risk assessments.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some transferable skills like public speaking and group management, but lacks relevant certifications (e.g., CISSP, CISM, CEH) and expertise in cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct evidence of experience in building or leading a cybersecurity team. The candidate's experience is in tourism and heritage, with no mention of cybersecurity-related projects or achievements.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity domain and tasks",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH)",
+    "No experience in building or leading a cybersecurity team"
+  ],
+  "elapsed_seconds": 11.4
+}

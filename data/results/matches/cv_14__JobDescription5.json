@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Gonçalves",
+  "cv_id": "cv_14",
+  "jd_id": "JobDescription5",
+  "overall_score": 68,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in forensic accounting, which aligns with the role's domain. They have also worked on financial investigations and asset tracing, which are relevant tasks for the Forensic & Integrity Services team.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial investigation, fraud detection, and expert testimony, but lacks experience with compliance programs and regulatory changes. They also don't mention any certifications like CFE or CPA, although they are mentioned as preferred.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in forensic accounting, particularly in financial investigations and asset tracing. However, their seniority is not explicitly stated, and they lack experience in managing compliance matters or collaborating with cross-functional teams.",
+  "key_gaps": [
+    "Lack of direct experience with compliance programs and regulatory changes.",
+    "No mention of relevant certifications like CFE or CPA, although they are mentioned as preferred.",
+    "Limited seniority information"
+  ],
+  "elapsed_seconds": 9.0
+}

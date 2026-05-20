@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_21",
+  "jd_id": "JobDescription3",
+  "overall_score": 47,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "Transferable experience in risk management and team leadership from previous roles, but lack of direct cybersecurity expertise. Relevant experience in IT project management and business analysis also present.",
+  "required_skills_score": 30,
+  "required_skills_reasoning": "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and limited knowledge of emerging cybersecurity threats and trends. Strong communication skills but no direct evidence of best practices or frameworks.",
+  "relevant_experience_score": 50,
+  "relevant_experience_reasoning": "Significant experience in IT project management and business analysis, with a strong track record of leading teams and managing risk. However, limited experience in cybersecurity specifically, and no direct evidence of seniority or sector relevance.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and limited knowledge of emerging cybersecurity threats and trends.",
+    "Limited direct experience in cybersecurity, despite transferable skills from previous roles.",
+    "No evidence of seniority or sector relevance in the IT industry."
+  ],
+  "elapsed_seconds": 10.8
+}

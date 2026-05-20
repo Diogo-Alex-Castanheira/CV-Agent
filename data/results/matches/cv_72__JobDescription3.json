@@ -1,0 +1,20 @@
+{
+  "name": "Catarina Martins",
+  "cv_id": "cv_72",
+  "jd_id": "JobDescription3",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in M&A transactions and financial due diligence is not directly related to cybersecurity. Although they have analytical skills, there is no evidence of expertise in cybersecurity frameworks or best practices.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant skills in financial modeling and valuation, as well as proficiency in Excel and PowerPoint. However, there is a lack of information on their knowledge of cybersecurity frameworks and tools, such as CISSP or CISM certifications.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in finance and M&A transactions has no direct relevance to the role of building and leading a cybersecurity team. There is no evidence of risk assessment, vulnerability assessment, or security awareness training.",
+  "key_gaps": [
+    "Lack of experience in cybersecurity frameworks and best practices",
+    "No direct relevance to the role of building and leading a cybersecurity team",
+    "Insufficient information on relevant certifications (e.g., CISSP, CISM)",
+    "No evidence of risk assessment, vulnerability assessment, or security awareness training"
+  ],
+  "elapsed_seconds": 13.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_35",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in audit and accounting is not directly related to cybersecurity. Although they have a strong knowledge of IFRS and Portuguese accounting standards, there is no evidence of relevant cybersecurity tasks or responsibilities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no mentions of required skills such as CISSP, CISM, CEH certifications, or experience with security frameworks and best practices",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in audit and accounting is not relevant to the cybersecurity role. There are no years of experience, seniority, sector relevance, or progression that align with the job requirements.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity tasks and responsibilities",
+    "No relevant certifications (e.g., CISSP, CISM, CEH)",
+    "No years of experience or seniority in the sector"
+  ],
+  "elapsed_seconds": 12.3
+}

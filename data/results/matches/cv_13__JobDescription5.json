@@ -1,0 +1,19 @@
+{
+  "name": "Jorge Silva",
+  "cv_id": "cv_13",
+  "jd_id": "JobDescription5",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in teaching diving and managing safety protocols is not directly related to the role of a Consultant in Forensic & Integrity Services. The only indirect connection is that the candidate has led underwater conservation projects, which could be seen as a transferable skill in terms of investigation and compliance.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting or related fields, strong analytical and investigative skills, and relevant certifications such as CFE or CPA. The only relevant certification mentioned is PADI, which is not applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in teaching diving and managing safety protocols does not demonstrate any relevant skills for a Consultant role in Forensic & Integrity Services. The only indirect connection mentioned earlier is that the candidate has led underwater conservation projects, but this is still a significant gap.",
+  "key_gaps": [
+    "Lack of experience in forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant certifications such as CFE or CPA"
+  ],
+  "elapsed_seconds": 8.3
+}

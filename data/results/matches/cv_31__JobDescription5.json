@@ -1,0 +1,21 @@
+{
+  "name": "Joana Matos",
+  "cv_id": "cv_31",
+  "jd_id": "JobDescription5",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to forensic accounting or integrity services. The candidate's experience is in the music industry, with no mention of investigative skills, compliance programs, or regulatory changes.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some transferable skills like communication and interpersonal skills, but lacks strong analytical and investigative skills. They also lack relevant certifications like CFE or CPA. Fluency in English is required, but not a unique skillset for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct evidence of experience in forensic accounting or integrity services. The candidate's 12 years of professional experience are in the music industry, with no mention of investigative work, compliance programs, or regulatory changes.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks related to forensic accounting or integrity services",
+    "Insufficient analytical and investigative skills",
+    "No relevant certifications like CFE or CPA",
+    "No experience in forensic accounting or integrity services",
+    "Skills and experience not directly transferable to the role"
+  ],
+  "elapsed_seconds": 13.8
+}

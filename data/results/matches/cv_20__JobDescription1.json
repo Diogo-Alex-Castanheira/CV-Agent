@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Almeida",
+  "cv_id": "cv_20",
+  "jd_id": "JobDescription1",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in supply chain management, process optimization, and operational excellence, which are relevant to the role. However, there is a significant gap between the candidate's domain (operations) and the role's domain (data & AI strategy). The candidate lacks direct experience with data platforms, AI/ML technologies, and enterprise data governance frameworks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate is missing most of the required skills, including strong technical understanding of data platforms and AI/ML technologies. While they have certifications in Lean Six Sigma and APICS CSCP, these are not directly relevant to the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has extensive experience in operational management, but it is not directly applicable to the data & AI strategy role. They lack seniority and industry experience in financial services, which is a key requirement for the position.",
+  "key_gaps": [
+    "Lack of direct experience with data platforms and AI/ML technologies",
+    "Insufficient seniority and industry experience in financial services",
+    "Inadequate alignment between domain (operations) and role (data & AI strategy)"
+  ],
+  "elapsed_seconds": 14.4
+}

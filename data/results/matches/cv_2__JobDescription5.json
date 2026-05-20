@@ -1,0 +1,18 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_2",
+  "jd_id": "JobDescription5",
+  "overall_score": 80,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "Transferable experience in auditing and financial analysis, but lack of direct forensic accounting experience. Relevant skills in data analysis and communication.",
+  "required_skills_score": 85,
+  "required_skills_reasoning": "Strong analytical and investigative skills, relevant certifications (e.g., CFE), and excellent communication skills. Only minor gap in fluency in Portuguese.",
+  "relevant_experience_score": 80,
+  "relevant_experience_reasoning": "Significant experience as a manager in auditing and financial services, with progression to senior roles. Sector relevance and seniority align well with the role.",
+  "key_gaps": [
+    "Lack of direct forensic accounting experience compared to the required 7+ years.",
+    "Minor gap in fluency in Portuguese, although English is fluent."
+  ],
+  "elapsed_seconds": 6.4
+}

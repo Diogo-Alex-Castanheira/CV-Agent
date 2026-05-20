@@ -1,0 +1,18 @@
+{
+  "name": "Beatriz Almeida",
+  "cv_id": "cv_43",
+  "jd_id": "JobDescription5",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "The candidate has experience in fraud investigation and litigation support, which aligns with the role's responsibilities. However, there is a minor gap in terms of specific certifications (e.g., CFE) mentioned in the job description, but the candidate does have relevant certifications.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills and experience with data analytics tools like IDEA and ACL. They also possess fluency in English and Portuguese, which meets a key requirement. However, there is no mention of the CFE certification, which is preferred.",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "The candidate has over 5 years of experience in forensic accounting, with a strong background in fraud investigation and litigation support. Their seniority (Manager) aligns with the role's Experience Level. The only minor gap is that they don't have direct experience in compliance matters.",
+  "key_gaps": [
+    "Lack of specific certifications mentioned (e.g., CFE)",
+    "No direct experience in compliance matters"
+  ],
+  "elapsed_seconds": 12.4
+}

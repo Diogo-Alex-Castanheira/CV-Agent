@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_4",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in auditing and financial analysis, but lacks direct experience in forensic accounting or integrity services. The skills listed (IFRS, GAAP) are relevant to the role, but not directly applicable to forensic investigations.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, as well as experience in managing teams and meeting deadlines. However, they lack specific certifications (e.g., CFE, CPA) and fluency in English is required but not explicitly stated as a skill.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has relevant experience in auditing and financial analysis, but lacks direct experience in forensic accounting or integrity services. Their seniority (5+ years) and sector relevance (healthcare, tech, retail) are notable, but not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "No specific certifications (e.g., CFE, CPA)",
+    "Insufficient relevance of auditing experience to the role's requirements"
+  ],
+  "elapsed_seconds": 10.5
+}

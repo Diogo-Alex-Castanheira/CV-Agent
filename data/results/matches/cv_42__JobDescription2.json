@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Costa",
+  "cv_id": "cv_42",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in landscape architecture is not directly related to technology risk, and there is no mention of IT controls or compliance frameworks. However, some transferable skills like project management and collaboration with clients could be relevant.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in IT controls and compliance frameworks, as well as relevant certifications (e.g., CISA, CISSP). The only mentioned skill related to technology is 'AutoCAD', which is not a key requirement for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in landscape architecture and urban planning is not relevant to the role of Senior Consultant, Technology Risk. There are no years of experience in technology risk or related fields mentioned.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk and IT controls",
+    "No relevant certifications (e.g., CISA, CISSP)",
+    "Inadequate transferable skills for the role"
+  ],
+  "elapsed_seconds": 11.7
+}

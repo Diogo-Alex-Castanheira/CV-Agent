@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_94",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in tax law, there is no direct evidence of expertise in cybersecurity or related tasks. The transfer pricing documentation and client relationship management skills may be transferable to a cybersecurity role, but it's not a strong match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH) and has no explicit mention of knowledge in cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in managing client relationships and conducting research, it's not directly relevant to a cybersecurity role. The transfer pricing documentation skills may be somewhat related, but it's not enough to consider this a strong match.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity or related tasks",
+    "No required certifications (e.g., CISSP, CISM, CEH)",
+    "Insufficient relevant experience in a cybersecurity-related field"
+  ],
+  "elapsed_seconds": 12.3
+}

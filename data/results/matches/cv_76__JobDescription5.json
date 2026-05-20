@@ -1,0 +1,19 @@
+{
+  "name": "Lucia Carvalho",
+  "cv_id": "cv_76",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in actuarial analysis and statistical modeling, but the role requires forensic accounting expertise. The candidate's skills are more aligned with insurance products than compliance matters.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting, data analysis for investigations, and compliance programs. They also don't have relevant certifications like CFE or CPA.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in actuarial analysis, it's not directly applicable to the role. They do have some transferable skills like statistical analysis and Excel proficiency, but they're not enough to match the required expertise.",
+  "key_gaps": [
+    "Lack of experience in forensic accounting and data analysis for investigations",
+    "Insufficient relevant certifications (e.g., CFE, CPA)",
+    "Inadequate alignment with compliance matters and regulatory changes"
+  ],
+  "elapsed_seconds": 11.9
+}

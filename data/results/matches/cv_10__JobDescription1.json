@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Ferreira",
+  "cv_id": "cv_10",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in corporate law, regulatory compliance, and international business transactions, which does not directly align with the Data & AI Strategy role. While they have worked on complex legal challenges, there is no direct evidence of their involvement in data strategy or AI implementation.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has experience in corporate governance and compliance, but lacks technical skills in data platforms and AI/ML technologies. They also do not have relevant certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "While the candidate has a long history of managing complex projects, their experience is primarily in corporate law and regulatory compliance, rather than data strategy or AI implementation. There are no direct references to large-scale digital transformation initiatives or enterprise data governance frameworks.",
+  "key_gaps": [
+    "Lack of domain task alignment: experience in corporate law and regulatory compliance, but not in data strategy or AI implementation.",
+    "Missing required skills: technical expertise in data platforms and AI/ML technologies, as well as relevant certifications.",
+    "Limited relevant experience: no direct references to large-scale digital transformation initiatives or enterprise data governance frameworks."
+  ],
+  "elapsed_seconds": 14.4
+}

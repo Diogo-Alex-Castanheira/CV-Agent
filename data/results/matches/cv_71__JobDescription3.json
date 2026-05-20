@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Lima",
+  "cv_id": "cv_71",
+  "jd_id": "JobDescription3",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management, which is relevant to cybersecurity. However, the specific tasks and responsibilities mentioned in the CV do not directly align with the job requirements. The candidate's expertise in internal control design and assessment could be transferable to a cybersecurity role, but it requires some interpretation.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (FRM) and skills that are closely related to the job requirements. They also have experience with risk quantification methodologies, which could be applied to cybersecurity risk assessments. However, the specific skills mentioned in the CV do not cover all the required skills listed in the job description.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in risk management and internal control design, but it is not directly related to cybersecurity. The lack of experience in building and leading a cybersecurity team or working with emerging threats and trends is notable.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "Insufficient experience in building and leading a cybersecurity team",
+    "No mention of relevant certifications (e.g., CISSP, CISM, CEH)"
+  ],
+  "elapsed_seconds": 27.1
+}

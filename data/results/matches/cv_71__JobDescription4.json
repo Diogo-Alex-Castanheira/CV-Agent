@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Lima",
+  "cv_id": "cv_71",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management, which is related to financial analysis. However, the role requires expertise in financial planning and analysis activities, whereas the candidate's experience is more focused on risk assessment and internal controls.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in financial modeling, scenario analysis, and proficiency in Excel, which are essential for the role. Additionally, they have a FRM certification, which demonstrates their expertise in risk management and financial risk analysis.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in finance and risk management, it is not directly related to financial analysis or planning. They lack experience in supporting business units for decision-making and ensuring compliance with financial regulations and standards.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient experience in supporting business units for decision-making and ensuring compliance with financial regulations and standards",
+    "No experience in preparing financial reports and forecasts"
+  ],
+  "elapsed_seconds": 13.2
+}

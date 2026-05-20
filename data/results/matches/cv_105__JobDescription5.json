@@ -1,0 +1,19 @@
+{
+  "name": "Paulo Fonseca",
+  "cv_id": "cv_105",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in external audit and assurance services, which is related to forensic accounting. However, there is no direct evidence of experience in forensic investigations or compliance matters.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has expertise in financial reporting, auditing standards, and risk assessment, which are relevant skills for the role. Additionally, they have proficiency in Excel (advanced) and fluency in English and Portuguese, which match some of the required skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in audit fieldwork, but it is not directly related to forensic investigations or compliance matters. They also lack experience as a manager, which is required for the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic investigations and compliance matters",
+    "Insufficient seniority (currently an audit senior, but not a manager)",
+    "No evidence of certifications such as CFE or CPA"
+  ],
+  "elapsed_seconds": 17.4
+}

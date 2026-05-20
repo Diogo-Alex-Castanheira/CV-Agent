@@ -1,0 +1,20 @@
+{
+  "name": "Carlos Duarte",
+  "cv_id": "cv_46",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and technology consulting, but lacks direct experience in forensic accounting or related fields. The skills listed are not directly relevant to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in CRM systems (Salesforce, Microsoft Dynamics) and project management (Agile, PRINCE2), but lacks strong analytical and investigative skills, as well as relevant certifications. Fluency in English is required, but not a unique skillset for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation and technology consulting, but it's not directly related to forensic accounting or compliance matters. The seniority (Manager) is also relevant, but the sector relevance (telecom clients vs. financial services clients) is a gap.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant certifications (e.g., CFE, CPA)",
+    "Inadequate sector relevance (telecom clients vs. financial services clients)"
+  ],
+  "elapsed_seconds": 13.0
+}

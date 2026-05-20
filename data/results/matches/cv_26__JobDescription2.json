@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigo Alves",
+  "cv_id": "cv_26",
+  "jd_id": "JobDescription2",
+  "overall_score": 68,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and IT strategy, which aligns with the role's domain. They also have experience in managing cross-functional teams, developing IT strategies, and conducting IT assessments, which are relevant to the role's tasks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong understanding of IT controls and compliance frameworks (PMP certification), but lacks specific experience in technology risk or related fields. They also lack fluency in Portuguese, which is a requirement for the role.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has 8 years of experience in technology consulting and IT strategy, which is relevant to the role's seniority level. However, their experience is not directly related to technology risk or compliance frameworks, which are key responsibilities for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Limited fluency in Portuguese (required by the role)",
+    "No specific certifications in technology risk or related fields"
+  ],
+  "elapsed_seconds": 13.2
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_8",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy consulting, which is related to technology risk. However, there is no direct evidence of experience in IT controls or compliance frameworks, which are key responsibilities for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in Excel modeling, PowerPoint, and Power BI, which could be relevant to technology risk. Additionally, they have process mapping (BPMN) and Lean Six Sigma skills, which are transferable to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in strategy consulting, but it's not directly related to technology risk. They lack experience in IT controls or compliance frameworks, which is a key requirement for the role.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls and compliance frameworks",
+    "Insufficient experience in technology risk specifically",
+    "No relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 10.5
+}

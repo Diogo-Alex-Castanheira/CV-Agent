@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Lima",
+  "cv_id": "cv_71",
+  "jd_id": "JobDescription2",
+  "overall_score": 68,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management, internal controls, and enterprise risk assessment, which aligns with the role's responsibilities. However, there is a lack of direct mention of technology-specific risks or compliance frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in enterprise risk management frameworks, internal control design and assessment, and financial modeling, but lacks specific certifications like CISA or CISSP. Fluency in English is required, but not a strong match for the Portuguese requirement.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in risk management and internal controls, with a focus on operational risks. However, there is a lack of direct experience in technology-specific risks or compliance frameworks, which might be a concern for the role.",
+  "key_gaps": [
+    "Lack of specific certifications like CISA or CISSP",
+    "Limited experience in technology-specific risks or compliance frameworks",
+    "No direct mention of risk management frameworks relevant to the role"
+  ],
+  "elapsed_seconds": 24.5
+}

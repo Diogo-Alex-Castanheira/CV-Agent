@@ -1,0 +1,21 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_93",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit procedures, but lacks direct experience in forensic accounting or related fields. The role requires expertise in conducting forensic investigations and data analysis, which is not mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has basic knowledge of IFRS and SNC, as well as proficiency in Microsoft Office Suite. However, they lack relevant certifications (e.g., CFE, CPA) and strong analytical and investigative skills required for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in customer-facing roles and lacks seniority or sector relevance. Their internship experience is not directly related to forensic accounting or audit services.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant certifications (e.g., CFE, CPA)",
+    "Limited customer-facing experience",
+    "No seniority or sector relevance"
+  ],
+  "elapsed_seconds": 12.3
+}

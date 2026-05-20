@@ -1,0 +1,19 @@
+{
+  "name": "Jorge Silva",
+  "cv_id": "cv_13",
+  "jd_id": "JobDescription4",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in teaching diving courses and managing safety protocols is not directly related to financial analysis. Although the candidate has a degree in Marine Biology, it does not align with the required Bachelor's degree in Finance or Accounting.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. Additionally, there is no mention of fluency in English and Portuguese being sufficient for the required language proficiency.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no relevant experience in financial analysis or related roles. The candidate's experience as a diving instructor does not translate to the skills required for Financial Analyst.",
+  "key_gaps": [
+    "Lack of relevant finance experience and skills",
+    "Insufficient proficiency in Excel and financial modeling",
+    "Inadequate language proficiency in English and Portuguese"
+  ],
+  "elapsed_seconds": 10.5
+}

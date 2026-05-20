@@ -1,0 +1,19 @@
+{
+  "name": "André Neves",
+  "cv_id": "cv_104",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marine conservation and ecological research is not directly related to the role of Director, Data & AI Strategy. Although they have a PhD in Marine Biology, there is no evidence of expertise in data strategy, AI/ML implementation, or business intelligence.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms and AI/ML technologies, as well as relevant certifications (e.g., Microsoft AI, AWS). Their technical understanding of data platforms is limited to R, GIS, and statistical analysis.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in marine conservation and research is not transferable to the role of Director, Data & AI Strategy. They lack seniority (15+ years) and experience in industries like financial services, which are required for this position.",
+  "key_gaps": [
+    "Lack of expertise in data strategy, AI/ML implementation, or business intelligence.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "Inadequate seniority and experience in relevant industries (financial services)."
+  ],
+  "elapsed_seconds": 20.5
+}

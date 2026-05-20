@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Lopes",
+  "cv_id": "cv_106",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in social media management and content creation is not directly related to cybersecurity, but they do have some transferable skills such as project management and data analysis. However, the lack of explicit mention of cybersecurity expertise or relevant certifications makes this a weak match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cybersecurity frameworks, best practices, and tools, which are essential for the role. They also do not have any relevant certifications such as CISSP, CISM, or CEH.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate's experience is in digital marketing, they do have some transferable skills such as project management and data analysis. However, their lack of seniority and limited sector relevance (only worked with national brands) makes this a weak match.",
+  "key_gaps": [
+    "Lack of explicit mention of cybersecurity expertise or relevant certifications",
+    "Insufficient experience with cybersecurity frameworks, best practices, and tools",
+    "Limited seniority and sector relevance in digital marketing"
+  ],
+  "elapsed_seconds": 20.5
+}

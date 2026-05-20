@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Duarte",
+  "cv_id": "cv_46",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and technology consulting, which is related to the role's domain. However, there is no direct evidence of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in CRM systems (Salesforce, Microsoft Dynamics), project management (Agile, PRINCE2), and business process optimization, which align with some of the required skills for the role. However, there is no mention of IT controls, compliance frameworks, or relevant certifications.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation and technology consulting, but it's not directly related to technology risk or senior-level consulting. The most recent role as Digital Solutions Consultant is the closest match, but there is no evidence of managing technology controls or processes.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "No mention of relevant certifications (e.g., CISA, CISSP)",
+    "Limited senior-level consulting experience"
+  ],
+  "elapsed_seconds": 12.7
+}

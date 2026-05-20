@@ -1,0 +1,19 @@
+{
+  "name": "Raquel Pereira",
+  "cv_id": "cv_59",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in project management, which is relevant to the role's responsibilities. However, there is no direct evidence of forensic accounting or related fields, and the candidate's expertise in agile methodologies and change management may not be directly applicable to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (PMP) and skills (MS Project, Jira, Trello), which align with the requirements. However, there is no mention of fluency in English and Portuguese required by the job description.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in project management, but it's not directly related to forensic accounting or compliance matters. The candidate's seniority (Senior Project Manager) is also relevant, but not specifically aligned with the role's Experience Level: Manager.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or compliance matters",
+    "No mention of fluency in English and Portuguese required by the job description",
+    "Seniority mismatch with Experience Level: Manager"
+  ],
+  "elapsed_seconds": 13.2
+}

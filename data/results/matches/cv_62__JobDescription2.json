@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_62",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in banking operations and process optimization, which is relevant to the role. However, there is a lack of direct experience in technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and communication skills, as well as experience with process optimization methodologies and regulatory compliance. They also have relevant certifications (Six Sigma Green Belt) and fluency in English and Portuguese, which are preferred requirements for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has significant experience in banking operations, but it is not directly related to technology risk or senior consulting roles. They lack experience in managing teams, leading large-scale projects, and staying current with technology trends and regulatory changes.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient experience in senior consulting roles or managing teams",
+    "Limited knowledge of IT controls and compliance frameworks"
+  ],
+  "elapsed_seconds": 12.6
+}

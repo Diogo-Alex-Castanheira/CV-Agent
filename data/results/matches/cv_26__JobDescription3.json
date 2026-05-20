@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigo Alves",
+  "cv_id": "cv_26",
+  "jd_id": "JobDescription3",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and IT strategy, which aligns with the role's requirements. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (PMP, ITIL v4) and skills (cloud computing, system integration) that are transferable to the role. However, there is no direct evidence of strong knowledge of cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in managing teams and delivering complex technology projects, but this is not directly relevant to the cybersecurity team recruitment. The candidate's experience in cloud migration and system integration may be transferable to some extent.",
+  "key_gaps": [
+    "Lack of direct evidence of cybersecurity expertise or experience in building and leading teams.",
+    "Insufficient knowledge of cybersecurity frameworks and best practices.",
+    "Limited relevance of current experience to the specific requirements of the role."
+  ],
+  "elapsed_seconds": 13.5
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_45",
+  "jd_id": "JobDescription1",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Transferable experience in data strategy, business intelligence, and AI/ML implementation; relevant certifications (e.g., Microsoft AI); fluency in English and Portuguese",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Proven track record in delivering large-scale digital transformation initiatives; experience building and implementing enterprise data governance frameworks; strong technical understanding of data platforms and AI/ML technologies",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "15+ years of experience in multiple industries, including financial services; seniority and sector relevance align with the role's requirements",
+  "key_gaps": [
+    "While the candidate has relevant certifications (e.g., Microsoft AI), there is no direct evidence of experience with Azure or AWS, which are preferred by the role.",
+    "The candidate's fluency in English and Portuguese is a plus, but it's not explicitly mentioned as a key requirement; however, this is a minor gap."
+  ],
+  "elapsed_seconds": 10.9
+}

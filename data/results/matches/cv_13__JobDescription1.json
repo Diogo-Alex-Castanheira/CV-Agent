@@ -1,0 +1,19 @@
+{
+  "name": "Jorge Silva",
+  "cv_id": "cv_13",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain and tasks relevant to Data & AI Strategy. The candidate's experience is in scuba diving instruction, which is unrelated to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some technical skills like equipment maintenance and boat handling, but they are not directly related to data platforms or AI/ML technologies. The candidate also lacks experience with cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct evidence of relevant experience in data strategy, business intelligence, or AI/ML implementation. The candidate's experience is in teaching diving courses, which is unrelated to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks relevant to Data & AI Strategy",
+    "Insufficient technical skills related to data platforms and AI/ML technologies",
+    "No relevant experience in data strategy, business intelligence, or AI/ML implementation"
+  ],
+  "elapsed_seconds": 12.5
+}

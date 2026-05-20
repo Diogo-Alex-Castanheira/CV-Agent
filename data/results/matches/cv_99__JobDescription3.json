@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Martins",
+  "cv_id": "cv_99",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "No direct evidence of cybersecurity experience or tasks. Transferable skills like design and prototyping may be relevant in a broader sense, but not directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "Lack of required certifications (e.g., CISSP, CISM, CEH) and no mention of cybersecurity frameworks or best practices. Only basic HTML/CSS skills are listed.",
+  "relevant_experience_score": 10,
+  "relevant_experience_reasoning": "No direct experience in building or leading a cybersecurity team, nor any experience in risk assessments or vulnerability assessments. The candidate's design experience may be transferable to other areas of the organization, but not directly relevant to the role.",
+  "key_gaps": [
+    "Direct evidence of cybersecurity experience and skills is missing.",
+    "Required certifications and knowledge of cybersecurity frameworks are lacking.",
+    "Relevant experience in building or leading a cybersecurity team is not present."
+  ],
+  "elapsed_seconds": 33.8
+}

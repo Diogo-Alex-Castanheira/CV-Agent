@@ -1,0 +1,19 @@
+{
+  "name": "Ana Gomes",
+  "cv_id": "cv_50",
+  "jd_id": "JobDescription2",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in marketing, with no direct evidence of technology risk or compliance frameworks. While they have a strong understanding of digital marketing and customer experience, these skills are not directly applicable to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (Google Marketing Platform, Salesforce Marketing Cloud) and skills in brand strategy, integrated marketing campaigns, digital marketing, and customer journey mapping. These skills align with the requirements of the role, although not directly related to technology risk or compliance frameworks.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in marketing, with no direct evidence of technology risk management, compliance, or senior consulting roles. While they have led large-scale campaigns and managed budgets, these experiences are not directly transferable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management or compliance frameworks.",
+    "No evidence of senior consulting roles or experience leading large-scale projects.",
+    "Skills and certifications are primarily related to marketing, not technology risk."
+  ],
+  "elapsed_seconds": 14.7
+}

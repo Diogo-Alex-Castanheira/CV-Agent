@@ -1,0 +1,19 @@
+{
+  "name": "Rita Sousa",
+  "cv_id": "cv_15",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial advisory roles, but the domain is not directly related to financial analysis. They lack direct experience with financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has expertise in financial modeling, business valuation, and due diligence processes, which aligns well with the required skills. They also have proficiency in Excel and Bloomberg Terminal, which are essential tools for financial analysis.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has experience in M&A transactions and corporate restructuring, it is not directly relevant to the Financial Analyst role. They lack experience with financial planning and analysis activities, and their seniority is lower than required (Staff level).",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient seniority for the Staff level position",
+    "Limited relevance of M&A transaction experience to Financial Analyst role"
+  ],
+  "elapsed_seconds": 9.5
+}

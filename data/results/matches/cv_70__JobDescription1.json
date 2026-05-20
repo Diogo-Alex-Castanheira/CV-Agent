@@ -1,0 +1,19 @@
+{
+  "name": "André Sousa",
+  "cv_id": "cv_70",
+  "jd_id": "JobDescription1",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk assessments and security frameworks, but the role requires expertise in data strategy, AI governance, and enterprise data transformation. The candidate's background is more aligned with cybersecurity and IT governance than data science or business intelligence.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as security frameworks (ISO 27001, NIST), vulnerability assessment tools, cloud security (AWS, Azure), and certifications like CISSP and CISM. However, the role requires strong technical understanding of data platforms and AI/ML technologies, which is not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk assessments and security frameworks, but lacks direct experience in data strategy, AI governance, or enterprise data transformation. The candidate's experience is more focused on cybersecurity and IT governance than the required skills for this role.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI governance, and enterprise data transformation.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "No relevant experience in leading large-scale digital transformation initiatives or building and managing cross-functional teams."
+  ],
+  "elapsed_seconds": 15.9
+}

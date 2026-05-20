@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Neves",
+  "cv_id": "cv_79",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in HR consulting and HR business partnering, which is not directly related to financial analysis. While they have some transferable skills like organizational development and talent acquisition, the role requires specific knowledge of finance and accounting.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, as well as experience with financial regulations and standards. They also don't have a degree in Finance, Accounting, or a related field.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in HR consulting and business partnering, it's not directly applicable to financial analysis. Their skills in organizational development and talent acquisition are transferable but not enough to match the role's requirements.",
+  "key_gaps": [
+    "Lack of finance and accounting knowledge",
+    "Insufficient Excel and financial modeling skills",
+    "No direct experience in financial analysis or related roles"
+  ],
+  "elapsed_seconds": 12.4
+}

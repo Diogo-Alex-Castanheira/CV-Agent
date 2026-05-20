@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_93",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's domain is accounting, while the role requires experience in data strategy and AI/ML implementation. There is no direct evidence of relevant tasks or responsibilities in the candidate's CV.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has basic knowledge of IFRS and SNC, but lacks expertise in data platforms and AI/ML technologies required for the role. They also lack experience with cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is limited to audit internships and customer service roles, which are unrelated to the data strategy and AI/ML implementation required for the role. They also lack seniority and industry experience.",
+  "key_gaps": [
+    "Lack of domain alignment: accounting vs data strategy and AI/ML implementation",
+    "Insufficient technical skills: missing expertise in data platforms and AI/ML technologies",
+    "Limited relevant experience: no seniority or industry experience in data strategy and AI/ML implementation"
+  ],
+  "elapsed_seconds": 13.5
+}

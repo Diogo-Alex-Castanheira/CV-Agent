@@ -1,0 +1,19 @@
+{
+  "name": "André Neves",
+  "cv_id": "cv_104",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "The candidate has experience in environmental impact assessment, which is a related field to technology risk. However, there is no direct evidence of experience in technology risk or compliance frameworks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, as well as relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 10,
+  "relevant_experience_reasoning": "Although the candidate has a strong background in research and conservation, their experience is not directly related to technology risk. They do have some transferable skills like scientific writing and grant writing.",
+  "key_gaps": [
+    "Lack of direct experience with IT controls and compliance frameworks",
+    "No relevant certifications like CISA or CISSP",
+    "Experience is not directly related to technology risk"
+  ],
+  "elapsed_seconds": 16.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Raquel Pereira",
+  "cv_id": "cv_59",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in project management and digital transformation initiatives, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. The role requires expertise in these areas, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant skills such as project management methodologies (PMP, Agile, PRINCE2), stakeholder management and communication, change management frameworks, and proficiency in MS Project, Jira, Trello. However, the role requires strong technical understanding of data platforms and AI/ML technologies, which is not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in leading complex business transformation initiatives and implementing agile methodologies, but lacks direct experience in a director-level role or with large-scale digital transformation initiatives. The role requires 15+ years of experience in data strategy, business intelligence, and AI/ML implementation.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "Inadequate seniority and large-scale digital transformation experience for a director-level role."
+  ],
+  "elapsed_seconds": 15.4
+}

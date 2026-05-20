@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigo Alves",
+  "cv_id": "cv_26",
+  "jd_id": "JobDescription5",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and IT strategy, which is relevant to the role. However, there is no direct evidence of forensic accounting or related fields, which is a key requirement for the position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has certifications in PMP and ITIL v4, as well as experience with cloud computing and system integration. They also have strong analytical and investigative skills, although not directly related to forensic accounting.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "While the candidate has experience in managing cross-functional teams and developing IT strategies, it is not directly relevant to the role of a Forensic Consultant. There is also no mention of experience in conducting forensic investigations or data analysis.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No evidence of experience in conducting forensic investigations or data analysis",
+    "Insufficient relevance of technical skills to the role"
+  ],
+  "elapsed_seconds": 12.6
+}

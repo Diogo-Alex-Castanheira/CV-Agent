@@ -1,0 +1,19 @@
+{
+  "name": "Laura Campos",
+  "cv_id": "cv_27",
+  "jd_id": "JobDescription4",
+  "overall_score": 8,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "While the candidate has experience in dance and performance arts, there is no direct evidence of alignment with financial analysis tasks. The candidate's expertise lies in choreography, performance arts, and event organization, which are not directly related to financial services.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, as well as no mention of fluency in English (the required language is mentioned but the candidate's proficiency level is intermediate).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no relevant experience in financial analysis or related roles. The candidate's experience is in dance and performance arts, with no transferable skills to financial services.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "Insufficient proficiency in Excel and financial modeling",
+    "No relevant transferable skills from dance and performance arts to financial services"
+  ],
+  "elapsed_seconds": 11.2
+}

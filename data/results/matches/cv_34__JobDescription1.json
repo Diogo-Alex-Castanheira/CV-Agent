@@ -1,0 +1,19 @@
+{
+  "name": "Hugo Teixeira",
+  "cv_id": "cv_34",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or task alignment. The candidate's experience is in football refereeing, which is unrelated to data strategy, AI/ML implementation, and digital transformation.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks technical skills related to data platforms and AI/ML technologies. They also don't mention any experience with business intelligence or large-scale digital transformation initiatives.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in the required field of data strategy, AI/ML implementation, and digital transformation. The candidate's experience is in football refereeing, which doesn't demonstrate any transferable skills to this role.",
+  "key_gaps": [
+    "Lack of technical skills related to data platforms and AI/ML technologies.",
+    "No relevant experience in data strategy, AI/ML implementation, and digital transformation initiatives.",
+    "Unrelated domain experience (football refereeing) with no transferable skills."
+  ],
+  "elapsed_seconds": 10.1
+}

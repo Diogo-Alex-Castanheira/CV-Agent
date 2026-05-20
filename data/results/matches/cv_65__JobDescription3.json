@@ -1,0 +1,21 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_65",
+  "jd_id": "JobDescription3",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and process optimization, which is relevant to the role. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams. The candidate's skills in data analysis and visualization may be transferable to a cybersecurity context, but it's not a direct match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and strong knowledge of cybersecurity frameworks and best practices. The only mentioned skill is data analysis, which is not a key requirement for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in business consulting, but it's not directly related to cybersecurity. There is no mention of risk assessments, vulnerability assessments, or experience in building and leading teams. The candidate's education background is also not relevant to the role.",
+  "key_gaps": [
+    "Lack of direct cybersecurity expertise and experience in building and leading teams",
+    "Insufficient knowledge of cybersecurity frameworks and best practices",
+    "No relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Inadequate risk assessment and vulnerability assessment experience",
+    "Limited transferable skills from business consulting to cybersecurity"
+  ],
+  "elapsed_seconds": 14.9
+}

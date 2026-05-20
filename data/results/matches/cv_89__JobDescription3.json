@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Gomes",
+  "cv_id": "cv_89",
+  "jd_id": "JobDescription3",
+  "overall_score": 40,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While Beatriz has experience in ESG reporting, her background is not directly related to cybersecurity. She lacks relevant experience in building and leading cybersecurity teams or developing and implementing comprehensive cybersecurity strategies.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "Beatriz has skills in ESG reporting frameworks (GRI, SASB, TCFD) and sustainability data management and analytics. However, she is missing relevant certifications like CISSP or CISM, which are preferred for the role.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "Beatriz has experience in ESG reporting and analysis, but it's not directly applicable to cybersecurity. She lacks seniority and sector relevance (cybersecurity) compared to the required experience level (N/A).",
+  "key_gaps": [
+    "Lack of direct experience in building and leading cybersecurity teams or developing comprehensive cybersecurity strategies.",
+    "Missing relevant certifications like CISSP or CISM, which are preferred for the role.",
+    "Inadequate seniority and sector relevance compared to the required experience level (N/A)."
+  ],
+  "elapsed_seconds": 13.3
+}

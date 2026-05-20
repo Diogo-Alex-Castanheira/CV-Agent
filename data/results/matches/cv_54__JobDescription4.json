@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Gomes",
+  "cv_id": "cv_54",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Although the candidate has experience in internal audit, their role is not directly related to financial analysis. However, they have a strong background in risk assessment and control evaluation, which could be transferable to financial analysis. Additionally, their knowledge of IIA standards and COSO framework may be relevant to financial planning and analysis activities.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, as well as strong analytical and quantitative skills. They also have a degree in Finance or related field, which meets the requirement for Bachelor's degree in Finance, Accounting, or related field.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial analysis, it is limited to internal audit and not directly applicable to financial planning and analysis. They lack direct experience in supporting business units to drive business performance, which is a key responsibility of the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and planning",
+    "Insufficient experience in supporting business units to drive business performance",
+    "No direct experience with financial regulations and standards"
+  ],
+  "elapsed_seconds": 13.6
+}

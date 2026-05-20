@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_33",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk assessment and internal controls, which is relevant to the role. However, there is a lack of direct experience in forensic accounting or compliance matters, which are key responsibilities of the Consultant position.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with Basel III and MIFID II regulations, as well as certifications like CFE or CPA, which are preferred by the employer. Additionally, there is no mention of data analysis or investigative skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in risk assessment and internal controls, but it's not directly related to forensic accounting or compliance matters. The seniority is also lower than required (Manager level).",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance matters",
+    "Insufficient skills in Basel III, MIFID II regulations and data analysis",
+    "Lower seniority than required (Manager level)"
+  ],
+  "elapsed_seconds": 8.9
+}

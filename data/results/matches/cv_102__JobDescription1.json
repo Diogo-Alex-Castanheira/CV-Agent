@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Mendes",
+  "cv_id": "cv_102",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in M&A due diligence, valuation, and financial modeling is not directly related to the Data & AI Strategy role. Although they have a background in investment banking and corporate development, there is no explicit mention of data strategy or AI/ML implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as relevant certifications (e.g., Microsoft AI). They also do not have a strong technical understanding of data platforms and AI/ML technologies.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in finance and corporate development, their background is not directly related to data strategy or AI/ML implementation. They lack seniority and industry experience, which are key requirements for the Director role.",
+  "key_gaps": [
+    "Lack of direct experience in Data & AI Strategy",
+    "Insufficient technical skills in data platforms and AI/ML technologies",
+    "Limited seniority and industry experience"
+  ],
+  "elapsed_seconds": 19.8
+}

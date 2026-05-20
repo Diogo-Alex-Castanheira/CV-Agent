@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_75",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has 10+ years of experience in auditing and financial analysis, which is close to the required 7+ years. However, there is no direct evidence of forensic accounting experience or certifications like CFE or CPA.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, as evident from their experience in financial modeling and data analysis. They also have excellent communication skills, which is a key requirement for the role. However, there is no mention of relevant certifications like CFE or CPA.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has significant experience in auditing and financial analysis, but it's not directly related to forensic accounting or compliance matters. There is also no mention of management experience or sector relevance.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting experience and certifications.",
+    "Insufficient management experience for a Manager-level role.",
+    "No mention of fluency in Portuguese, despite it being a required language."
+  ],
+  "elapsed_seconds": 10.9
+}

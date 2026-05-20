@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Rodrigues",
+  "cv_id": "cv_100",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in cybersecurity is not directly related to financial analysis. Although they have worked with security frameworks, there is no mention of financial regulations or standards.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in security awareness training programs, there is no direct relevance to financial analysis or decision-making. Their experience in vulnerability assessment and penetration testing is also not transferable to this role.",
+  "key_gaps": [
+    "Lack of relevant skills (Excel, financial modeling)",
+    "No direct experience in financial analysis or decision-making",
+    "Transferable skills from cybersecurity are limited"
+  ],
+  "elapsed_seconds": 14.9
+}

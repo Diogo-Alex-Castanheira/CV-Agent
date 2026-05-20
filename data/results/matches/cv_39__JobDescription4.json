@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Oliveira",
+  "cv_id": "cv_39",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, which is relevant to financial analysis. However, the role requires expertise in financial planning and analysis activities, which is not directly mentioned in the CV. The candidate's experience in regulatory frameworks like Basel III and GDPR is also a plus.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and relevant certifications (FRM). However, the role requires fluency in English and Portuguese, which the candidate possesses. The only missing skill is experience in financial planning and analysis tools.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has some experience in financial analysis, but it's mostly focused on credit risk models and lending portfolios. The role requires more general financial analysis skills and experience in supporting business performance. The candidate's experience as a Risk Advisory Consultant is also not directly relevant to the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient experience in supporting business performance",
+    "Missing skills in financial modeling tools (e.g., EViews, Financial Planning & Analysis software)"
+  ],
+  "elapsed_seconds": 14.0
+}

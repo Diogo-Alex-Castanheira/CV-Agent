@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Oliveira",
+  "cv_id": "cv_88",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and business process optimization, which is relevant to the role. However, there is no direct evidence of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills (financial modeling, data analysis) and communication skills (PowerPoint, Excel). They also have fluency in English and Portuguese, which matches one of the required skills. However, there is no mention of IT controls or compliance frameworks certifications.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation projects, but it's not directly related to technology risk or compliance. They also lack experience in the financial services sector, which is a key industry for this role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "No certifications in IT controls or compliance frameworks (e.g., CISA, CISSP)",
+    "Limited experience in the financial services sector"
+  ],
+  "elapsed_seconds": 13.3
+}

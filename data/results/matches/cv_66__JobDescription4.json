@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Santos",
+  "cv_id": "cv_66",
+  "jd_id": "JobDescription4",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of financial analysis or related tasks. The candidate's experience is in fine dining restaurants, with no mention of financial planning or analysis activities.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in menu development and kitchen management, but these are not directly relevant to the role. They also have proficiency in Portuguese and English, which is a plus for fluency requirements",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No direct experience in financial analysis or related roles. The candidate's experience is in the culinary industry, with no mention of financial planning, analysis, or compliance.",
+  "key_gaps": [
+    "Lack of relevant experience and skills for the Financial Analyst role",
+    "No direct evidence of financial analysis tasks or skills",
+    "Inadequate fluency in English, as only fluent is required"
+  ],
+  "elapsed_seconds": 11.5
+}

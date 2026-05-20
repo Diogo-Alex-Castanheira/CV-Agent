@@ -1,0 +1,19 @@
+{
+  "name": "Inês Santos",
+  "cv_id": "cv_5",
+  "jd_id": "JobDescription4",
+  "overall_score": 34,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax consulting, which is related to financial analysis. However, the role requires expertise in financial planning and analysis activities, which is a different domain. The candidate's skills in EU VAT and transfer pricing are relevant, but not directly applicable to financial modeling or forecasting.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with Excel and financial modeling, which are essential skills for the Financial Analyst role. Although they have proficiency in SAP Tax Compliance, it's not explicitly mentioned as a relevant skill for this position.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in tax consulting, but it's not directly applicable to financial analysis. They lack seniority and experience in financial planning and analysis activities, which are critical for the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of relevant skills: Excel, financial modeling, and forecasting",
+    "Insufficient seniority and experience in financial analysis",
+    "Domain mismatch: tax consulting vs. financial planning and analysis"
+  ],
+  "elapsed_seconds": 9.7
+}

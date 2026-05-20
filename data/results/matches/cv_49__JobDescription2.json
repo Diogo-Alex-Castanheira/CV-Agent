@@ -1,0 +1,19 @@
+{
+  "name": "Clara Ferreira",
+  "cv_id": "cv_49",
+  "jd_id": "JobDescription2",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting and IFRS implementation, but the role requires expertise in technology risk. The candidate's skills are more relevant to accounting and auditing than technology risk.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in IT controls and compliance frameworks, which are essential for the Senior Consultant role. Although they have a CPA certification, it is not directly related to technology risk.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has 7 years of experience in financial reporting and IFRS implementation, but most of this experience is in accounting and auditing. They lack experience in technology risk or a related field, which is a significant gap.",
+  "key_gaps": [
+    "Lack of experience in IT controls and compliance frameworks",
+    "Insufficient experience in technology risk or a related field",
+    "No direct relevance to the Senior Consultant role"
+  ],
+  "elapsed_seconds": 11.8
+}

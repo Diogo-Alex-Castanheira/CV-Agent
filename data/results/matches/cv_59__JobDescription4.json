@@ -1,0 +1,19 @@
+{
+  "name": "Raquel Pereira",
+  "cv_id": "cv_59",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in project management is not directly related to financial analysis. Although they have worked on digital transformation initiatives, there is no clear connection to financial planning and analysis activities.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills (MS Project, Jira, Trello) and proficiency in Excel (not explicitly mentioned but implied by PMP certification). They also have experience with change management frameworks, which could be relevant to financial regulations.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in project management, not financial analysis. Although they have worked on digital transformation initiatives, there is no direct evidence of their ability to analyze financial data or support decision-making in a financial context.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "No explicit mention of proficiency in financial modeling tools",
+    "Insufficient connection between project management skills and financial planning and analysis activities"
+  ],
+  "elapsed_seconds": 12.2
+}

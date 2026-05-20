@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Neves",
+  "cv_id": "cv_12",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial reporting, budgeting, and cost control is not directly related to cybersecurity. Although they have implemented new processes and systems, there is no mention of cybersecurity frameworks or best practices.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned in the candidate's CV. The required certification is a key requirement for the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in managing processes and systems, their background is not directly related to cybersecurity. They do have some transferable skills like financial reporting and budgeting, but they are not relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity frameworks and best practices.",
+    "No relevant certifications (e.g., CISSP, CISM, CEH) mentioned.",
+    "Background not directly related to cybersecurity."
+  ],
+  "elapsed_seconds": 11.1
+}

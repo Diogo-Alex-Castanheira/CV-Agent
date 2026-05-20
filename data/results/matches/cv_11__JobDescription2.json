@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Ribeiro",
+  "cv_id": "cv_11",
+  "jd_id": "JobDescription2",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial analysis and modeling is not directly related to technology risk, but they do have a strong analytical background that could be transferable. The role requires knowledge of IT controls and compliance frameworks, which the candidate does not mention.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, as well as relevant certifications like CISA or CISSP. They also do not have any specific experience with technology trends and regulatory changes.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate's experience is in corporate finance, they do have some transferable skills such as financial modeling and analytical skills. However, their lack of experience in technology risk and related fields is a significant gap.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Limited experience with technology trends and regulatory changes"
+  ],
+  "elapsed_seconds": 12.4
+}

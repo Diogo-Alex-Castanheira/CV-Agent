@@ -1,0 +1,19 @@
+{
+  "name": "André Fernandes",
+  "cv_id": "cv_87",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's background in actuarial science and experience in risk modeling, reserving, and pricing for insurance products are not directly related to technology risk management. While the candidate has strong analytical skills, there is no clear connection to the role's domain.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Solvency II and IFRS 17 requirements, which are relevant to the role. However, they lack specific certifications (e.g., CISA, CISSP) and fluency in English is not explicitly mentioned as a required skill.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in actuarial analysis and development of pricing models for insurance products. However, their experience is limited to the insurance industry and does not demonstrate seniority or expertise in technology risk management.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management",
+    "Insufficient certifications (e.g., CISA, CISSP) and fluency in English",
+    "Limited seniority and expertise in the insurance industry"
+  ],
+  "elapsed_seconds": 12.7
+}

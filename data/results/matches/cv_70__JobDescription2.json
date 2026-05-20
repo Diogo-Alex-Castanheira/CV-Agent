@@ -1,0 +1,18 @@
+{
+  "name": "André Sousa",
+  "cv_id": "cv_70",
+  "jd_id": "JobDescription2",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Strong alignment with technology risk domain and tasks. The candidate has experience in conducting IT risk assessments, implementing security frameworks, and performing penetration testing, which are all relevant to the role. However, there is a minor gap in terms of specific industry focus (financial services vs. general), but this is not a major concern.",
+  "required_skills_score": 90,
+  "required_skills_reasoning": "Excellent match for required skills, including IT risk assessment methodologies, security frameworks, vulnerability assessment tools, and cloud security expertise. The candidate also holds relevant certifications (CISSP, CISM).",
+  "relevant_experience_score": 80,
+  "relevant_experience_reasoning": "Good alignment with experience level and sector relevance. The candidate has 4 years of experience in technology risk or related fields, which meets the requirement of 4-6 years. However, there is a minor gap in terms of seniority (senior consultant vs. associate), but this is not a major concern.",
+  "key_gaps": [
+    "Minor gap in industry focus (financial services vs. general)",
+    "Minor gap in seniority (senior consultant vs. associate)"
+  ],
+  "elapsed_seconds": 14.0
+}

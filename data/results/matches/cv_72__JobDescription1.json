@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Martins",
+  "cv_id": "cv_72",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in M&A transactions and financial due diligence, but the role requires expertise in data strategy, AI governance, and advanced analytics solutions. There is no direct evidence of domain/task alignment.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong technical understanding of data platforms and AI/ML technologies, experience building and implementing enterprise data governance frameworks, and relevant certifications (e.g., Microsoft AI, AWS, PMI).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in finance and M&A transactions, which is not directly related to the role of leading enterprise-wide data transformation and AI implementation programs. There is no evidence of seniority or sector relevance.",
+  "key_gaps": [
+    "Lack of domain/task alignment with the required skills and experience in data strategy, AI governance, and advanced analytics solutions.",
+    "Insufficient technical skills and certifications (e.g., Microsoft AI, AWS, PMI) to deliver large-scale digital transformation initiatives.",
+    "No evidence of seniority or sector relevance in finance and M&A transactions."
+  ],
+  "elapsed_seconds": 14.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Diana Costa",
+  "cv_id": "cv_58",
+  "jd_id": "JobDescription3",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in organizational development, talent acquisition and management, and change management methodologies. However, there is no direct evidence of cybersecurity expertise or experience in building and leading a cybersecurity team.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and has limited knowledge of cybersecurity frameworks and best practices. Fluency in English is required, but the candidate's proficiency in Spanish may be a gap.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in HR roles, which may not directly translate to cybersecurity expertise. However, their leadership and change management skills could be transferable to a cybersecurity context.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Limited knowledge of emerging cybersecurity threats and trends"
+  ],
+  "elapsed_seconds": 12.7
+}

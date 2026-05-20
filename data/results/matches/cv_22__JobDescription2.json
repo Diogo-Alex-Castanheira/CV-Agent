@@ -1,0 +1,19 @@
+{
+  "name": "Mariana Costa",
+  "cv_id": "cv_22",
+  "jd_id": "JobDescription2",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analysis and machine learning, but the role requires expertise in technology risk. The candidate's skills in predictive modeling and data-driven solutions are not directly applicable to technology risk management.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISA, CISSP) and experience in technology risk or related fields. The required fluency in English is met, but the role requires proficiency in both Portuguese and English.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in data analysis and business intelligence, but it's not directly relevant to technology risk management. The seniority level (3-4 years of experience) is also lower than the required 4-6 years.",
+  "key_gaps": [
+    "Lack of relevant certifications and experience in technology risk or related fields",
+    "Insufficient seniority level (3-4 years) compared to the required 4-6 years",
+    "No direct experience in technology risk management or IT controls"
+  ],
+  "elapsed_seconds": 11.1
+}

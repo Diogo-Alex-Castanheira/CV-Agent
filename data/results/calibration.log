@@ -1,0 +1,384 @@
+Calibration plan: 107 CVs x 5 JDs = 535 matches
+Already done: 157  |  Remaining: 378
+Output -> /Users/diogocastanheira/Documents/EY AI Challenge/CV-Agent/data/results/matches/
+
+[158/535] cv_32 vs JobDescription3 ->  41  Weak match         (9.4s)  ETA 59.2min
+[159/535] cv_32 vs JobDescription4 ->  39  Weak match         (9.4s)  ETA 59.1min
+[160/535] cv_32 vs JobDescription5 ->  49  Weak match         (9.8s)  ETA 59.6min
+[161/535] cv_33 vs JobDescription1 ->  12  Weak match         (9.1s)  ETA 58.9min
+[162/535] cv_33 vs JobDescription2 ->  61  Moderate match     (8.7s)  ETA 57.7min
+[163/535] cv_33 vs JobDescription3 ->  19  Weak match         (8.2s)  ETA 56.5min
+[164/535] cv_33 vs JobDescription4 ->  61  Moderate match     (9.0s)  ETA 56.3min
+[165/535] cv_33 vs JobDescription5 ->  37  Weak match         (8.9s)  ETA 55.9min
+[166/535] cv_34 vs JobDescription1 ->  11  Not a match        (10.1s)  ETA 56.5min
+[167/535] cv_34 vs JobDescription2 ->   9  Not a match        (8.2s)  ETA 55.8min
+[168/535] cv_34 vs JobDescription3 ->   9  Not a match        (10.3s)  ETA 56.3min
+[169/535] cv_34 vs JobDescription4 ->   9  Not a match        (8.8s)  ETA 55.9min
+[170/535] cv_34 vs JobDescription5 ->  12  Weak match         (10.3s)  ETA 56.3min
+[171/535] cv_35 vs JobDescription1 ->   9  Not a match        (13.0s)  ETA 57.8min
+[172/535] cv_35 vs JobDescription2 ->  43  Weak match         (11.6s)  ETA 58.4min
+[173/535] cv_35 vs JobDescription3 ->   9  Not a match        (12.3s)  ETA 59.3min
+[174/535] cv_35 vs JobDescription4 ->  61  Moderate match     (12.9s)  ETA 60.2min
+[175/535] cv_35 vs JobDescription5 ->  44  Weak match         (12.7s)  ETA 60.9min
+[176/535] cv_36 vs JobDescription1 ->   9  Not a match        (16.9s)  ETA 62.9min
+[177/535] cv_36 vs JobDescription2 ->  43  Weak match         (12.0s)  ETA 63.1min
+[178/535] cv_36 vs JobDescription3 ->  12  Weak match         (12.2s)  ETA 63.4min
+[179/535] cv_36 vs JobDescription4 ->  41  Weak match         (11.7s)  ETA 63.5min
+[180/535] cv_36 vs JobDescription5 ->  43  Weak match         (12.5s)  ETA 63.8min
+[181/535] cv_37 vs JobDescription1 ->  43  Weak match         (13.9s)  ETA 64.4min
+[182/535] cv_37 vs JobDescription2 ->  61  Moderate match     (11.0s)  ETA 64.2min
+[183/535] cv_37 vs JobDescription3 ->  41  Weak match         (12.9s)  ETA 64.5min
+[184/535] cv_37 vs JobDescription4 ->  61  Moderate match     (11.5s)  ETA 64.4min
+[185/535] cv_37 vs JobDescription5 ->  37  Weak match         (12.4s)  ETA 64.5min
+[186/535] cv_38 vs JobDescription1 ->  11  Not a match        (12.9s)  ETA 64.7min
+[187/535] cv_38 vs JobDescription2 ->   9  Not a match        (12.4s)  ETA 64.8min
+[188/535] cv_38 vs JobDescription3 ->   9  Not a match        (11.2s)  ETA 64.6min
+[189/535] cv_38 vs JobDescription4 ->   9  Not a match        (11.3s)  ETA 64.4min
+[190/535] cv_38 vs JobDescription5 ->   9  Not a match        (11.8s)  ETA 64.3min
+[191/535] cv_39 vs JobDescription1 ->  41  Weak match         (14.5s)  ETA 64.7min
+[192/535] cv_39 vs JobDescription2 ->  68  Strong match       (12.3s)  ETA 64.7min
+[193/535] cv_39 vs JobDescription3 ->  37  Weak match         (14.9s)  ETA 65.1min
+[194/535] cv_39 vs JobDescription4 ->  56  Moderate match     (14.0s)  ETA 65.3min
+[195/535] cv_39 vs JobDescription5 ->  61  Moderate match     (12.7s)  ETA 65.3min
+[196/535] cv_40 vs JobDescription1 ->  31  Weak match         (14.3s)  ETA 65.5min
+[197/535] cv_40 vs JobDescription2 ->  39  Weak match         (13.2s)  ETA 65.5min
+[198/535] cv_40 vs JobDescription3 ->   5  Not a match        (9.9s)  ETA 65.1min
+[199/535] cv_40 vs JobDescription4 ->  27  Not a match        (14.0s)  ETA 65.2min
+[200/535] cv_40 vs JobDescription5 ->   9  Not a match        (14.5s)  ETA 65.4min
+[201/535] cv_41 vs JobDescription1 ->  43  Weak match         (13.6s)  ETA 65.4min
+[202/535] cv_41 vs JobDescription2 ->  61  Moderate match     (13.0s)  ETA 65.4min
+[203/535] cv_41 vs JobDescription3 ->  54  Moderate match     (14.0s)  ETA 65.5min
+[204/535] cv_41 vs JobDescription4 ->  39  Weak match         (11.5s)  ETA 65.2min
+[205/535] cv_41 vs JobDescription5 ->  49  Weak match         (10.8s)  ETA 64.9min
+[206/535] cv_42 vs JobDescription1 ->   8  Not a match        (12.7s)  ETA 64.8min
+[207/535] cv_42 vs JobDescription2 ->   9  Not a match        (11.7s)  ETA 64.6min
+[208/535] cv_42 vs JobDescription3 ->   9  Not a match        (12.5s)  ETA 64.5min
+[209/535] cv_42 vs JobDescription4 ->   8  Not a match        (12.1s)  ETA 64.3min
+[210/535] cv_42 vs JobDescription5 ->   9  Not a match        (11.7s)  ETA 64.1min
+[211/535] cv_43 vs JobDescription1 ->   9  Weak match         (13.1s)  ETA 64.0min
+[212/535] cv_43 vs JobDescription2 ->  61  Moderate match     (12.0s)  ETA 63.8min
+[213/535] cv_43 vs JobDescription3 ->  31  Weak match         (13.3s)  ETA 63.8min
+[214/535] cv_43 vs JobDescription4 ->  56  Moderate match     (12.2s)  ETA 63.6min
+[215/535] cv_43 vs JobDescription5 ->  85  Strong match       (12.4s)  ETA 63.5min
+[216/535] cv_44 vs JobDescription1 ->   9  Not a match        (13.8s)  ETA 63.4min
+[217/535] cv_44 vs JobDescription2 ->   9  Not a match        (12.8s)  ETA 63.3min
+[218/535] cv_44 vs JobDescription3 ->   9  Not a match        (13.2s)  ETA 63.2min
+[219/535] cv_44 vs JobDescription4 ->  12  Weak match         (11.5s)  ETA 63.0min
+[220/535] cv_44 vs JobDescription5 ->  12  Weak match         (12.5s)  ETA 62.8min
+[221/535] cv_45 vs JobDescription1 ->  85  Strong match       (10.9s)  ETA 62.5min
+[222/535] cv_45 vs JobDescription2 ->  71  Moderate match     (10.3s)  ETA 62.2min
+[223/535] cv_45 vs JobDescription3 ->  47  Moderate match     (11.1s)  ETA 61.9min
+[224/535] cv_45 vs JobDescription4 ->  56  Moderate match     (9.9s)  ETA 61.6min
+[225/535] cv_45 vs JobDescription5 ->  80  Strong match       (8.4s)  ETA 61.1min
+[226/535] cv_46 vs JobDescription1 ->  37  Weak match         (13.5s)  ETA 61.1min
+[227/535] cv_46 vs JobDescription2 ->  61  Moderate match     (12.7s)  ETA 60.9min
+[228/535] cv_46 vs JobDescription3 ->  37  Weak match         (12.6s)  ETA 60.8min
+[229/535] cv_46 vs JobDescription4 ->  43  Weak match         (11.8s)  ETA 60.6min
+[230/535] cv_46 vs JobDescription5 ->  41  Weak match         (13.0s)  ETA 60.5min
+[231/535] cv_47 vs JobDescription1 ->  12  Weak match         (14.0s)  ETA 60.4min
+[232/535] cv_47 vs JobDescription2 ->  43  Weak match         (13.9s)  ETA 60.3min
+[233/535] cv_47 vs JobDescription3 ->   9  Not a match        (13.3s)  ETA 60.2min
+[234/535] cv_47 vs JobDescription4 ->  12  Weak match         (11.8s)  ETA 60.0min
+[235/535] cv_47 vs JobDescription5 ->  19  Weak match         (13.9s)  ETA 59.9min
+[236/535] cv_48 vs JobDescription1 ->   9  Weak match         (13.0s)  ETA 59.8min
+[237/535] cv_48 vs JobDescription2 ->  61  Moderate match     (13.0s)  ETA 59.7min
+[238/535] cv_48 vs JobDescription3 ->  19  Weak match         (13.0s)  ETA 59.5min
+[239/535] cv_48 vs JobDescription4 ->   9  Not a match        (10.8s)  ETA 59.2min
+[240/535] cv_48 vs JobDescription5 ->  19  Weak match         (12.1s)  ETA 59.1min
+[241/535] cv_49 vs JobDescription1 ->   9  Not a match        (13.3s)  ETA 58.9min
+[242/535] cv_49 vs JobDescription2 ->  24  Weak match         (11.8s)  ETA 58.7min
+[243/535] cv_49 vs JobDescription3 ->   9  Not a match        (12.0s)  ETA 58.5min
+[244/535] cv_49 vs JobDescription4 ->  61  Moderate match     (12.9s)  ETA 58.4min
+[245/535] cv_49 vs JobDescription5 ->  61  Moderate match     (11.8s)  ETA 58.1min
+[246/535] cv_50 vs JobDescription1 ->  24  Weak match         (15.6s)  ETA 58.1min
+[247/535] cv_50 vs JobDescription2 ->  39  Weak match         (14.7s)  ETA 58.1min
+[248/535] cv_50 vs JobDescription3 ->  11  Not a match        (13.7s)  ETA 58.0min
+[249/535] cv_50 vs JobDescription4 ->  27  Not a match        (13.8s)  ETA 57.8min
+[250/535] cv_50 vs JobDescription5 ->  39  Not a match        (14.2s)  ETA 57.8min
+[251/535] cv_51 vs JobDescription1 ->  12  Weak match         (14.4s)  ETA 57.7min
+[252/535] cv_51 vs JobDescription2 ->  40  Weak match         (12.4s)  ETA 57.5min
+[253/535] cv_51 vs JobDescription3 ->   9  Not a match        (11.9s)  ETA 57.3min
+[254/535] cv_51 vs JobDescription4 ->  12  Weak match         (11.4s)  ETA 57.0min
+[255/535] cv_51 vs JobDescription5 ->  12  Weak match         (14.6s)  ETA 56.9min
+[256/535] cv_52 vs JobDescription1 ->   9  Weak match         (15.9s)  ETA 56.9min
+[257/535] cv_52 vs JobDescription2 ->  56  Moderate match     (13.7s)  ETA 56.8min
+[258/535] cv_52 vs JobDescription3 ->   9  Not a match        (13.5s)  ETA 56.6min
+[259/535] cv_52 vs JobDescription4 ->  61  Moderate match     (13.1s)  ETA 56.4min
+[260/535] cv_52 vs JobDescription5 ->  61  Moderate match     (12.7s)  ETA 56.3min
+[261/535] cv_53 vs JobDescription1 ->  31  Weak match         (13.4s)  ETA 56.1min
+[262/535] cv_53 vs JobDescription2 ->  38  Weak match         (13.8s)  ETA 56.0min
+[263/535] cv_53 vs JobDescription3 ->   9  Not a match        (13.3s)  ETA 55.8min
+[264/535] cv_53 vs JobDescription4 ->  54  Moderate match     (12.4s)  ETA 55.6min
+[265/535] cv_53 vs JobDescription5 ->  39  Weak match         (11.5s)  ETA 55.4min
+[266/535] cv_54 vs JobDescription1 ->  12  Weak match         (12.7s)  ETA 55.2min
+[267/535] cv_54 vs JobDescription2 ->  61  Moderate match     (12.9s)  ETA 55.0min
+[268/535] cv_54 vs JobDescription3 ->  19  Weak match         (14.0s)  ETA 54.9min
+[269/535] cv_54 vs JobDescription4 ->  54  Moderate match     (13.6s)  ETA 54.7min
+[270/535] cv_54 vs JobDescription5 ->  61  Moderate match     (14.0s)  ETA 54.6min
+[271/535] cv_55 vs JobDescription1 ->   9  Not a match        (13.7s)  ETA 54.4min
+[272/535] cv_55 vs JobDescription2 ->  41  Weak match         (13.5s)  ETA 54.2min
+[273/535] cv_55 vs JobDescription3 ->   9  Not a match        (12.0s)  ETA 54.0min
+[274/535] cv_55 vs JobDescription4 ->  54  Weak match         (12.4s)  ETA 53.8min
+[275/535] cv_55 vs JobDescription5 ->  37  Weak match         (12.5s)  ETA 53.6min
+[276/535] cv_56 vs JobDescription1 ->  31  Weak match         (13.2s)  ETA 53.4min
+[277/535] cv_56 vs JobDescription2 ->  31  Weak match         (11.9s)  ETA 53.2min
+[278/535] cv_56 vs JobDescription3 ->   9  Not a match        (13.0s)  ETA 53.0min
+[279/535] cv_56 vs JobDescription4 ->  51  Weak match         (12.1s)  ETA 52.8min
+[280/535] cv_56 vs JobDescription5 ->  49  Weak match         (12.0s)  ETA 52.6min
+[281/535] cv_57 vs JobDescription1 ->  19  Weak match         (14.1s)  ETA 52.5min
+[282/535] cv_57 vs JobDescription2 ->  61  Moderate match     (12.2s)  ETA 52.2min
+[283/535] cv_57 vs JobDescription3 ->  24  Weak match         (11.4s)  ETA 52.0min
+[284/535] cv_57 vs JobDescription4 ->  54  Weak match         (11.9s)  ETA 51.8min
+[285/535] cv_57 vs JobDescription5 ->  61  Moderate match     (13.8s)  ETA 51.6min
+[286/535] cv_58 vs JobDescription1 ->  41  Weak match         (15.1s)  ETA 51.5min
+[287/535] cv_58 vs JobDescription2 ->  34  Weak match         (12.7s)  ETA 51.3min
+[288/535] cv_58 vs JobDescription3 ->  37  Weak match         (12.7s)  ETA 51.1min
+[289/535] cv_58 vs JobDescription4 ->  54  Weak match         (11.7s)  ETA 50.9min
+[290/535] cv_58 vs JobDescription5 ->  37  Weak match         (12.1s)  ETA 50.7min
+[291/535] cv_59 vs JobDescription1 ->  43  Weak match         (15.4s)  ETA 50.5min
+[292/535] cv_59 vs JobDescription2 ->  61  Moderate match     (10.8s)  ETA 50.3min
+[293/535] cv_59 vs JobDescription3 ->  39  Weak match         (12.5s)  ETA 50.1min
+[294/535] cv_59 vs JobDescription4 ->  39  Weak match         (12.2s)  ETA 49.9min
+[295/535] cv_59 vs JobDescription5 ->  49  Weak match         (13.2s)  ETA 49.7min
+[296/535] cv_60 vs JobDescription1 ->   9  Not a match        (15.6s)  ETA 49.6min
+[297/535] cv_60 vs JobDescription2 ->  44  Weak match         (11.8s)  ETA 49.3min
+[298/535] cv_60 vs JobDescription3 ->   9  Not a match        (12.6s)  ETA 49.1min
+[299/535] cv_60 vs JobDescription4 ->  44  Weak match         (11.2s)  ETA 48.9min
+[300/535] cv_60 vs JobDescription5 ->  44  Weak match         (12.4s)  ETA 48.7min
+[301/535] cv_61 vs JobDescription1 ->  19  Weak match         (13.7s)  ETA 48.5min
+[302/535] cv_61 vs JobDescription2 ->  37  Moderate match     (14.8s)  ETA 48.4min
+[303/535] cv_61 vs JobDescription3 ->  19  Weak match         (12.6s)  ETA 48.2min
+[304/535] cv_61 vs JobDescription4 ->  43  Weak match         (13.3s)  ETA 48.0min
+[305/535] cv_61 vs JobDescription5 ->  37  Weak match         (12.5s)  ETA 47.8min
+[306/535] cv_62 vs JobDescription1 ->  43  Weak match         (14.2s)  ETA 47.6min
+[307/535] cv_62 vs JobDescription2 ->  61  Moderate match     (12.6s)  ETA 47.4min
+[308/535] cv_62 vs JobDescription3 ->  41  Weak match         (11.3s)  ETA 47.2min
+[309/535] cv_62 vs JobDescription4 ->  61  Moderate match     (12.6s)  ETA 47.0min
+[310/535] cv_62 vs JobDescription5 ->  61  Moderate match     (13.3s)  ETA 46.8min
+[311/535] cv_63 vs JobDescription1 ->  61  Moderate match     (14.5s)  ETA 46.6min
+[312/535] cv_63 vs JobDescription2 ->  37  Weak match         (12.7s)  ETA 46.4min
+[313/535] cv_63 vs JobDescription3 ->  12  Weak match         (13.7s)  ETA 46.2min
+[314/535] cv_63 vs JobDescription4 ->  39  Weak match         (12.6s)  ETA 46.0min
+[315/535] cv_63 vs JobDescription5 ->   9  Not a match        (10.5s)  ETA 45.8min
+[316/535] cv_64 vs JobDescription1 ->   9  Weak match         (13.6s)  ETA 45.6min
+[317/535] cv_64 vs JobDescription2 ->  61  Moderate match     (12.3s)  ETA 45.4min
+[318/535] cv_64 vs JobDescription3 ->  61  Moderate match     (14.1s)  ETA 45.2min
+[319/535] cv_64 vs JobDescription4 ->  41  Weak match         (12.4s)  ETA 45.0min
+[320/535] cv_64 vs JobDescription5 ->  37  Weak match         (12.3s)  ETA 44.8min
+[321/535] cv_65 vs JobDescription1 ->  41  Weak match         (14.5s)  ETA 44.6min
+[322/535] cv_65 vs JobDescription2 ->  37  Weak match         (11.7s)  ETA 44.4min
+[323/535] cv_65 vs JobDescription3 ->  19  Weak match         (14.9s)  ETA 44.2min
+[324/535] cv_65 vs JobDescription4 ->  61  Moderate match     (11.9s)  ETA 44.0min
+[325/535] cv_65 vs JobDescription5 ->  44  Weak match         (11.7s)  ETA 43.8min
+[326/535] cv_66 vs JobDescription1 ->   5  Not a match        (13.8s)  ETA 43.6min
+[327/535] cv_66 vs JobDescription2 ->  12  Not a match        (11.7s)  ETA 43.4min
+[328/535] cv_66 vs JobDescription3 ->  11  Not a match        (11.6s)  ETA 43.2min
+[329/535] cv_66 vs JobDescription4 ->  11  Not a match        (11.5s)  ETA 42.9min
+[330/535] cv_66 vs JobDescription5 ->  11  Not a match        (10.6s)  ETA 42.7min
+[331/535] cv_67 vs JobDescription1 ->  12  Weak match         (12.6s)  ETA 42.5min
+[332/535] cv_67 vs JobDescription2 ->  31  Weak match         (13.0s)  ETA 42.3min
+[333/535] cv_67 vs JobDescription3 ->   9  Not a match        (14.4s)  ETA 42.1min
+[334/535] cv_67 vs JobDescription4 ->  43  Weak match         (12.6s)  ETA 41.9min
+[335/535] cv_67 vs JobDescription5 ->  43  Weak match         (13.0s)  ETA 41.7min
+[336/535] cv_68 vs JobDescription1 ->   9  Not a match        (15.0s)  ETA 41.5min
+[337/535] cv_68 vs JobDescription2 ->  37  Weak match         (13.0s)  ETA 41.3min
+[338/535] cv_68 vs JobDescription3 ->   9  Not a match        (15.9s)  ETA 41.2min
+[339/535] cv_68 vs JobDescription4 ->  43  Weak match         (15.0s)  ETA 41.0min
+[340/535] cv_68 vs JobDescription5 ->  37  Weak match         (15.7s)  ETA 40.9min
+[341/535] cv_69 vs JobDescription1 ->  41  Weak match         (15.2s)  ETA 40.7min
+[342/535] cv_69 vs JobDescription2 ->  61  Moderate match     (13.6s)  ETA 40.5min
+[343/535] cv_69 vs JobDescription3 ->  43  Weak match         (15.0s)  ETA 40.4min
+[344/535] cv_69 vs JobDescription4 ->  61  Moderate match     (13.1s)  ETA 40.2min
+[345/535] cv_69 vs JobDescription5 ->  68  Strong match       (12.6s)  ETA 39.9min
+[346/535] cv_70 vs JobDescription1 ->  54  Weak match         (15.9s)  ETA 39.8min
+[347/535] cv_70 vs JobDescription2 ->  85  Strong match       (14.0s)  ETA 39.6min
+[348/535] cv_70 vs JobDescription3 ->  80  Strong match       (17.0s)  ETA 39.5min
+[349/535] cv_70 vs JobDescription4 ->  54  Moderate match     (27.4s)  ETA 39.5min
+[350/535] cv_70 vs JobDescription5 ->  61  Moderate match     (25.0s)  ETA 39.5min
+[351/535] cv_71 vs JobDescription1 ->  41  Weak match         (28.3s)  ETA 39.5min
+[352/535] cv_71 vs JobDescription2 ->  68  Moderate match     (24.5s)  ETA 39.5min
+[353/535] cv_71 vs JobDescription3 ->  61  Moderate match     (27.1s)  ETA 39.5min
+[354/535] cv_71 vs JobDescription4 ->  61  Moderate match     (13.2s)  ETA 39.3min
+[355/535] cv_71 vs JobDescription5 ->  61  Moderate match     (12.5s)  ETA 39.0min
+[356/535] cv_72 vs JobDescription1 ->   9  Weak match         (14.4s)  ETA 38.8min
+[357/535] cv_72 vs JobDescription2 ->  37  Weak match         (14.6s)  ETA 38.6min
+[358/535] cv_72 vs JobDescription3 ->  31  Weak match         (13.9s)  ETA 38.4min
+[359/535] cv_72 vs JobDescription4 ->  61  Moderate match     (13.1s)  ETA 38.2min
+[360/535] cv_72 vs JobDescription5 ->  61  Moderate match     (11.9s)  ETA 38.0min
+[361/535] cv_73 vs JobDescription1 ->  41  Weak match         (15.1s)  ETA 37.8min
+[362/535] cv_73 vs JobDescription2 ->  61  Moderate match     (12.4s)  ETA 37.6min
+[363/535] cv_73 vs JobDescription3 ->  12  Weak match         (14.1s)  ETA 37.4min
+[364/535] cv_73 vs JobDescription4 ->  61  Moderate match     (13.2s)  ETA 37.2min
+[365/535] cv_73 vs JobDescription5 ->  41  Weak match         (26.9s)  ETA 37.1min
+[366/535] cv_74 vs JobDescription1 ->  41  Weak match         (26.5s)  ETA 37.1min
+[367/535] cv_74 vs JobDescription2 ->  37  Weak match         (24.5s)  ETA 37.0min
+[368/535] cv_74 vs JobDescription3 ->  12  Weak match         (25.7s)  ETA 37.0min
+[369/535] cv_74 vs JobDescription4 ->  54  Weak match         (25.1s)  ETA 36.9min
+[370/535] cv_74 vs JobDescription5 ->  61  Moderate match     (13.4s)  ETA 36.7min
+[371/535] cv_75 vs JobDescription1 ->  85  Strong match       (10.5s)  ETA 36.4min
+[372/535] cv_75 vs JobDescription2 ->  71  Good match         (9.7s)  ETA 36.2min
+[373/535] cv_75 vs JobDescription3 ->  61  Moderate match     (10.3s)  ETA 35.9min
+[374/535] cv_75 vs JobDescription4 ->  56  Moderate match     (9.5s)  ETA 35.6min
+[375/535] cv_75 vs JobDescription5 ->  61  Moderate match     (10.9s)  ETA 35.4min
+[376/535] cv_76 vs JobDescription1 ->   9  Not a match        (14.5s)  ETA 35.2min
+[377/535] cv_76 vs JobDescription2 ->  51  Weak match         (11.3s)  ETA 34.9min
+[378/535] cv_76 vs JobDescription3 ->   9  Not a match        (14.8s)  ETA 34.7min
+[379/535] cv_76 vs JobDescription4 ->  61  Moderate match     (12.8s)  ETA 34.5min
+[380/535] cv_76 vs JobDescription5 ->  12  Weak match         (11.9s)  ETA 34.3min
+[381/535] cv_77 vs JobDescription1 ->   9  Not a match        (13.4s)  ETA 34.0min
+[382/535] cv_77 vs JobDescription2 ->  12  Weak match         (11.8s)  ETA 33.8min
+[383/535] cv_77 vs JobDescription3 ->   9  Not a match        (12.7s)  ETA 33.6min
+[384/535] cv_77 vs JobDescription4 ->  12  Weak match         (11.4s)  ETA 33.3min
+[385/535] cv_77 vs JobDescription5 ->  12  Not a match        (13.4s)  ETA 33.1min
+[386/535] cv_78 vs JobDescription1 ->  12  Weak match         (12.7s)  ETA 32.9min
+[387/535] cv_78 vs JobDescription2 ->  43  Weak match         (11.0s)  ETA 32.6min
+[388/535] cv_78 vs JobDescription3 ->   9  Not a match        (12.3s)  ETA 32.4min
+[389/535] cv_78 vs JobDescription4 ->  31  Weak match         (12.6s)  ETA 32.2min
+[390/535] cv_78 vs JobDescription5 ->  43  Weak match         (12.6s)  ETA 32.0min
+[391/535] cv_79 vs JobDescription1 ->   9  Not a match        (14.4s)  ETA 31.7min
+[392/535] cv_79 vs JobDescription2 ->  41  Weak match         (12.6s)  ETA 31.5min
+[393/535] cv_79 vs JobDescription3 ->   9  Not a match        (13.8s)  ETA 31.3min
+[394/535] cv_79 vs JobDescription4 ->  12  Weak match         (12.4s)  ETA 31.1min
+[395/535] cv_79 vs JobDescription5 ->  43  Weak match         (13.5s)  ETA 30.9min
+[396/535] cv_80 vs JobDescription1 ->  85  Strong match       (18.9s)  ETA 30.7min
+[397/535] cv_80 vs JobDescription2 ->  58  Strong match       (15.2s)  ETA 30.5min
+[398/535] cv_80 vs JobDescription3 ->  56  Moderate match     (16.2s)  ETA 30.3min
+[399/535] cv_80 vs JobDescription4 ->   5  Not a match        (17.2s)  ETA 30.1min
+[400/535] cv_80 vs JobDescription5 ->  58  Moderate match     (19.0s)  ETA 29.9min
+[401/535] cv_81 vs JobDescription1 ->  41  Weak match         (16.1s)  ETA 29.8min
+[402/535] cv_81 vs JobDescription2 ->  61  Moderate match     (13.5s)  ETA 29.5min
+[403/535] cv_81 vs JobDescription3 ->  24  Weak match         (13.8s)  ETA 29.3min
+[404/535] cv_81 vs JobDescription4 ->  54  Weak match         (12.6s)  ETA 29.1min
+[405/535] cv_81 vs JobDescription5 ->  37  Weak match         (11.4s)  ETA 28.8min
+[406/535] cv_82 vs JobDescription1 ->   9  Not a match        (13.0s)  ETA 28.6min
+[407/535] cv_82 vs JobDescription2 ->  43  Weak match         (11.5s)  ETA 28.4min
+[408/535] cv_82 vs JobDescription3 ->   9  Not a match        (13.3s)  ETA 28.2min
+[409/535] cv_82 vs JobDescription4 ->  61  Moderate match     (14.1s)  ETA 27.9min
+[410/535] cv_82 vs JobDescription5 ->  61  Moderate match     (13.1s)  ETA 27.7min
+[411/535] cv_83 vs JobDescription1 ->   9  Not a match        (15.3s)  ETA 27.5min
+[412/535] cv_83 vs JobDescription2 ->  41  Weak match         (12.9s)  ETA 27.3min
+[413/535] cv_83 vs JobDescription3 ->   9  Not a match        (13.3s)  ETA 27.1min
+[414/535] cv_83 vs JobDescription4 ->  49  Weak match         (11.7s)  ETA 26.8min
+[415/535] cv_83 vs JobDescription5 ->  37  Weak match         (13.8s)  ETA 26.6min
+[416/535] cv_84 vs JobDescription1 ->  61  Moderate match     (13.9s)  ETA 26.4min
+[417/535] cv_84 vs JobDescription2 ->  61  Moderate match     (12.4s)  ETA 26.2min
+[418/535] cv_84 vs JobDescription3 ->  49  Weak match         (13.1s)  ETA 26.0min
+[419/535] cv_84 vs JobDescription4 ->  31  Weak match         (12.1s)  ETA 25.7min
+[420/535] cv_84 vs JobDescription5 ->  41  Weak match         (11.8s)  ETA 25.5min
+[421/535] cv_85 vs JobDescription1 ->  12  Weak match         (16.3s)  ETA 25.3min
+[422/535] cv_85 vs JobDescription2 ->  41  Weak match         (15.4s)  ETA 25.1min
+[423/535] cv_85 vs JobDescription3 ->   9  Not a match        (12.9s)  ETA 24.9min
+[424/535] cv_85 vs JobDescription4 ->  12  Weak match         (12.7s)  ETA 24.6min
+[425/535] cv_85 vs JobDescription5 ->  27  Weak match         (13.9s)  ETA 24.4min
+[426/535] cv_86 vs JobDescription1 ->   9  Not a match        (15.0s)  ETA 24.2min
+[427/535] cv_86 vs JobDescription2 ->  43  Weak match         (13.9s)  ETA 24.0min
+[428/535] cv_86 vs JobDescription3 ->   9  Not a match        (14.6s)  ETA 23.8min
+[429/535] cv_86 vs JobDescription4 ->  12  Weak match         (13.2s)  ETA 23.5min
+[430/535] cv_86 vs JobDescription5 ->  43  Weak match         (13.8s)  ETA 23.3min
+[431/535] cv_87 vs JobDescription1 ->  12  Weak match         (13.0s)  ETA 23.1min
+[432/535] cv_87 vs JobDescription2 ->  43  Weak match         (12.7s)  ETA 22.9min
+[433/535] cv_87 vs JobDescription3 ->  12  Weak match         (12.4s)  ETA 22.6min
+[434/535] cv_87 vs JobDescription4 ->  61  Moderate match     (12.0s)  ETA 22.4min
+[435/535] cv_87 vs JobDescription5 ->  12  Weak match         (13.1s)  ETA 22.2min
+[436/535] cv_88 vs JobDescription1 ->  61  Moderate match     (14.5s)  ETA 22.0min
+[437/535] cv_88 vs JobDescription2 ->  61  Moderate match     (13.3s)  ETA 21.8min
+[438/535] cv_88 vs JobDescription3 ->   9  Not a match        (14.1s)  ETA 21.5min
+[439/535] cv_88 vs JobDescription4 ->  54  Moderate match     (13.1s)  ETA 21.3min
+[440/535] cv_88 vs JobDescription5 ->  41  Weak match         (13.6s)  ETA 21.1min
+[441/535] cv_89 vs JobDescription1 ->  12  Weak match         (14.2s)  ETA 20.9min
+[442/535] cv_89 vs JobDescription2 ->  37  Weak match         (13.4s)  ETA 20.7min
+[443/535] cv_89 vs JobDescription3 ->  40  Weak match         (13.3s)  ETA 20.4min
+[444/535] cv_89 vs JobDescription4 ->  24  Weak match         (14.0s)  ETA 20.2min
+[445/535] cv_89 vs JobDescription5 ->  19  Weak match         (14.6s)  ETA 20.0min
+[446/535] cv_90 vs JobDescription1 ->  85  Strong match       (12.3s)  ETA 19.8min
+[447/535] cv_90 vs JobDescription2 ->  85  Strong match       (10.7s)  ETA 19.5min
+[448/535] cv_90 vs JobDescription3 ->  54  Moderate match     (10.4s)  ETA 19.3min
+[449/535] cv_90 vs JobDescription4 ->  77  Strong match       (9.5s)  ETA 19.1min
+[450/535] cv_90 vs JobDescription5 ->  81  Strong match       (10.9s)  ETA 18.8min
+[451/535] cv_91 vs JobDescription1 ->   9  Not a match        (14.6s)  ETA 18.6min
+[452/535] cv_91 vs JobDescription2 ->  31  Weak match         (11.7s)  ETA 18.4min
+[453/535] cv_91 vs JobDescription3 ->   9  Not a match        (11.0s)  ETA 18.2min
+[454/535] cv_91 vs JobDescription4 ->  31  Weak match         (12.4s)  ETA 17.9min
+[455/535] cv_91 vs JobDescription5 ->  61  Moderate match     (12.7s)  ETA 17.7min
+[456/535] cv_92 vs JobDescription1 ->  37  Moderate match     (13.7s)  ETA 17.5min
+[457/535] cv_92 vs JobDescription2 ->  61  Moderate match     (12.3s)  ETA 17.3min
+[458/535] cv_92 vs JobDescription3 ->  43  Weak match         (14.2s)  ETA 17.0min
+[459/535] cv_92 vs JobDescription4 ->  61  Moderate match     (13.6s)  ETA 16.8min
+[460/535] cv_92 vs JobDescription5 ->  61  Moderate match     (12.2s)  ETA 16.6min
+[461/535] cv_93 vs JobDescription1 ->  11  Not a match        (13.5s)  ETA 16.4min
+[462/535] cv_93 vs JobDescription2 ->   9  Not a match        (13.8s)  ETA 16.2min
+[463/535] cv_93 vs JobDescription3 ->   9  Not a match        (12.1s)  ETA 15.9min
+[464/535] cv_93 vs JobDescription4 ->  43  Weak match         (12.4s)  ETA 15.7min
+[465/535] cv_93 vs JobDescription5 ->  41  Weak match         (12.3s)  ETA 15.5min
+[466/535] cv_94 vs JobDescription1 ->   9  Not a match        (14.9s)  ETA 15.3min
+[467/535] cv_94 vs JobDescription2 ->  41  Weak match         (13.3s)  ETA 15.0min
+[468/535] cv_94 vs JobDescription3 ->  12  Weak match         (12.3s)  ETA 14.8min
+[469/535] cv_94 vs JobDescription4 ->  54  Weak match         (13.2s)  ETA 14.6min
+[470/535] cv_94 vs JobDescription5 ->  37  Weak match         (12.6s)  ETA 14.4min
+[471/535] cv_95 vs JobDescription1 ->  44  Weak match         (12.4s)  ETA 14.1min
+[472/535] cv_95 vs JobDescription2 ->  61  Moderate match     (12.9s)  ETA 13.9min
+[473/535] cv_95 vs JobDescription3 ->  31  Weak match         (12.9s)  ETA 13.7min
+[474/535] cv_95 vs JobDescription4 ->  39  Weak match         (13.3s)  ETA 13.5min
+[475/535] cv_95 vs JobDescription5 ->  49  Weak match         (12.7s)  ETA 13.3min
+[476/535] cv_96 vs JobDescription1 ->  19  Weak match         (13.8s)  ETA 13.0min
+[477/535] cv_96 vs JobDescription2 ->  57  Moderate match     (12.7s)  ETA 12.8min
+[478/535] cv_96 vs JobDescription3 ->  43  Weak match         (12.5s)  ETA 12.6min
+[479/535] cv_96 vs JobDescription4 ->  37  Weak match         (12.3s)  ETA 12.4min
+[480/535] cv_96 vs JobDescription5 ->  61  Moderate match     (13.1s)  ETA 12.2min
+[481/535] cv_97 vs JobDescription1 ->  41  Weak match         (16.7s)  ETA 11.9min
+[482/535] cv_97 vs JobDescription2 ->  37  Weak match         (14.2s)  ETA 11.7min
+[483/535] cv_97 vs JobDescription3 ->  41  Weak match         (14.8s)  ETA 11.5min
+[484/535] cv_97 vs JobDescription4 ->  12  Weak match         (13.6s)  ETA 11.3min
+[485/535] cv_97 vs JobDescription5 ->  12  Weak match         (12.1s)  ETA 11.1min
+[486/535] cv_98 vs JobDescription1 ->   9  Not a match        (16.5s)  ETA 10.8min
+[487/535] cv_98 vs JobDescription2 ->  43  Weak match         (12.8s)  ETA 10.6min
+[488/535] cv_98 vs JobDescription3 ->   9  Not a match        (13.6s)  ETA 10.4min
+[489/535] cv_98 vs JobDescription4 ->  31  Weak match         (13.1s)  ETA 10.2min
+[490/535] cv_98 vs JobDescription5 ->  85  Strong match       (13.5s)  ETA 10.0min
+[491/535] cv_99 vs JobDescription1 ->   9  Not a match        (18.7s)  ETA 9.8min
+[492/535] cv_99 vs JobDescription2 ->   9  Not a match        (22.0s)  ETA 9.5min
+[493/535] cv_99 vs JobDescription3 ->   9  Weak match         (33.8s)  ETA 9.4min
+[494/535] cv_99 vs JobDescription4 ->   8  Weak match         (21.0s)  ETA 9.2min
+[495/535] cv_99 vs JobDescription5 ->   9  Not a match        (20.4s)  ETA 9.0min
+[496/535] cv_100 vs JobDescription1 ->   9  Weak match         (22.8s)  ETA 8.7min
+[497/535] cv_100 vs JobDescription2 ->  61  Moderate match     (22.0s)  ETA 8.5min
+[498/535] cv_100 vs JobDescription3 ->  70  Moderate match     (19.5s)  ETA 8.3min
+[499/535] cv_100 vs JobDescription4 ->  12  Weak match         (14.9s)  ETA 8.1min
+[500/535] cv_100 vs JobDescription5 ->  41  Weak match         (17.2s)  ETA 7.9min
+[501/535] cv_101 vs JobDescription1 ->  41  Weak match         (21.0s)  ETA 7.7min
+[502/535] cv_101 vs JobDescription2 ->  68  Strong match       (18.6s)  ETA 7.5min
+[503/535] cv_101 vs JobDescription3 ->  70  Moderate match     (22.4s)  ETA 7.2min
+[504/535] cv_101 vs JobDescription4 ->  54  Moderate match     (19.2s)  ETA 7.0min
+[505/535] cv_101 vs JobDescription5 ->  61  Moderate match     (20.2s)  ETA 6.8min
+[506/535] cv_102 vs JobDescription1 ->  12  Weak match         (19.8s)  ETA 6.6min
+[507/535] cv_102 vs JobDescription2 ->  34  Moderate match     (19.9s)  ETA 6.4min
+[508/535] cv_102 vs JobDescription3 ->   9  Not a match        (17.3s)  ETA 6.1min
+[509/535] cv_102 vs JobDescription4 ->  61  Moderate match     (18.5s)  ETA 5.9min
+[510/535] cv_102 vs JobDescription5 ->  61  Moderate match     (21.2s)  ETA 5.7min
+[511/535] cv_103 vs JobDescription1 ->  12  Weak match         (20.3s)  ETA 5.5min
+[512/535] cv_103 vs JobDescription2 ->  61  Moderate match     (20.0s)  ETA 5.3min
+[513/535] cv_103 vs JobDescription3 ->  19  Weak match         (21.2s)  ETA 5.0min
+[514/535] cv_103 vs JobDescription4 ->  24  Weak match         (19.4s)  ETA 4.8min
+[515/535] cv_103 vs JobDescription5 ->  61  Moderate match     (20.4s)  ETA 4.6min
+[516/535] cv_104 vs JobDescription1 ->   9  Not a match        (20.5s)  ETA 4.4min
+[517/535] cv_104 vs JobDescription2 ->   9  Weak match         (16.0s)  ETA 4.1min
+[518/535] cv_104 vs JobDescription3 ->   9  Not a match        (20.6s)  ETA 3.9min
+[519/535] cv_104 vs JobDescription4 ->   9  Weak match         (17.0s)  ETA 3.7min
+[520/535] cv_104 vs JobDescription5 ->  39  Weak match         (19.1s)  ETA 3.5min
+[521/535] cv_105 vs JobDescription1 ->   9  Weak match         (21.0s)  ETA 3.2min
+[522/535] cv_105 vs JobDescription2 ->  61  Moderate match     (18.8s)  ETA 3.0min
+[523/535] cv_105 vs JobDescription3 ->  41  Weak match         (18.6s)  ETA 2.8min
+[524/535] cv_105 vs JobDescription4 ->  56  Moderate match     (18.5s)  ETA 2.5min
+[525/535] cv_105 vs JobDescription5 ->  61  Moderate match     (17.4s)  ETA 2.3min
+[526/535] cv_106 vs JobDescription1 ->   9  Not a match        (21.3s)  ETA 2.1min
+[527/535] cv_106 vs JobDescription2 ->  40  Weak match         (22.9s)  ETA 1.9min
+[528/535] cv_106 vs JobDescription3 ->  12  Weak match         (20.5s)  ETA 1.6min
+[529/535] cv_106 vs JobDescription4 ->  31  Weak match         (16.7s)  ETA 1.4min
+[530/535] cv_106 vs JobDescription5 ->  12  Weak match         (19.1s)  ETA 1.2min
+[531/535] cv_107 vs JobDescription1 ->  40  Weak match         (20.4s)  ETA 0.9min
+[532/535] cv_107 vs JobDescription2 ->  54  Weak match         (19.2s)  ETA 0.7min
+[533/535] cv_107 vs JobDescription3 ->   9  Not a match        (20.4s)  ETA 0.5min
+[534/535] cv_107 vs JobDescription4 ->  54  Weak match         (19.1s)  ETA 0.2min
+[535/535] cv_107 vs JobDescription5 ->  49  Weak match         (19.3s)  ETA 0.0min
+
+Done. 378 matches in 88.7 min.

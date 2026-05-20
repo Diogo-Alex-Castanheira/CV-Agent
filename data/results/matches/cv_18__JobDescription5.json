@@ -1,0 +1,19 @@
+{
+  "name": "Fernando Gomes",
+  "cv_id": "cv_18",
+  "jd_id": "JobDescription5",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain and tasks relevant to Forensic & Integrity Services. The candidate's experience is in the food industry, with no mention of forensic accounting or related fields.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in traditional Portuguese pastries, chocolate work, and menu development, but none of these are directly relevant to the role. The only remotely transferable skill is food costing, which is not explicitly mentioned as a required skill.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in the food industry is not relevant to Forensic & Integrity Services. There are no years of experience, seniority, or sector relevance that align with the role.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks relevant to Forensic & Integrity Services",
+    "No skills directly related to forensic accounting or compliance",
+    "No experience in sector relevant to the role (Forensic & Integrity Services)"
+  ],
+  "elapsed_seconds": 11.4
+}

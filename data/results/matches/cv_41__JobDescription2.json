@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Mendes",
+  "cv_id": "cv_41",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP implementations for financial modules, which is a relevant skill for the role. However, there is no direct mention of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong expertise in SAP FI/CO and ERP systems, as well as ABAP programming and SQL. They also have relevant certifications (SAP certified consultant). The only missing skill is a specific technology risk or compliance framework certification.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in system implementation and digital transformation projects, but most of it is not directly related to technology risk or senior consulting roles. They lack significant seniority (only 3 years of experience since 2022) and sector relevance (mostly public sector organizations).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient seniority and sector relevance",
+    "Missing specific certifications for technology risk or compliance frameworks"
+  ],
+  "elapsed_seconds": 13.0
+}

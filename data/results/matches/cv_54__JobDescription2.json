@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Gomes",
+  "cv_id": "cv_54",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk assessment, control evaluation, and compliance testing, which aligns with the role's responsibilities. However, there is a lack of direct experience in technology risk or related fields, which might be a gap.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong knowledge of internal audit methodologies and international standards (IIA standards and COSO framework), as well as relevant certifications (CIA). They also have fluency in English, which is required by the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in internal audit, but most of it is not directly related to technology risk or risk advisory practices. Their seniority and sector relevance are also limited compared to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Limited seniority and sector relevance compared to the role's requirements",
+    "No mention of relevant certifications (e.g., CISA, CISSP) despite being a required skill"
+  ],
+  "elapsed_seconds": 12.9
+}

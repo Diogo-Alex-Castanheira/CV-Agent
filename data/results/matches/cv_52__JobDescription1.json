@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Fonseca",
+  "cv_id": "cv_52",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in M&A transactions and corporate development is not directly related to data strategy, AI/ML implementation, or enterprise data transformation. Although they have a finance background, there is no explicit mention of data platforms, AI/ML technologies, or business intelligence.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as relevant certifications (e.g., Microsoft AI). They also do not have a proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in finance and M&A transactions, with no direct relevance to the Director of Data & AI Strategy role. Although they have a strong understanding of financial modeling and valuation, this skillset is not directly applicable to the required skills for this position.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI/ML implementation, or enterprise data transformation.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "No relevant certifications (e.g., Microsoft AI) or experience with cloud platforms like Azure and AWS."
+  ],
+  "elapsed_seconds": 15.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_98",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial investigation and litigation support is not directly related to the role of leading enterprise-wide data transformation and AI implementation programs. The candidate's background in forensic accounting and anti-money laundering compliance does not align with the required skills for this position.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in data strategy, business intelligence, and AI/ML implementation, which are essential requirements for the role. The candidate's skills in forensic data analytics (IDEA, ACL) are not directly applicable to this position.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is limited to financial investigation and litigation support, which does not demonstrate relevant experience in leading large-scale digital transformation initiatives or managing cross-functional teams. The candidate's seniority (6 years of experience) is also below the required level for this position.",
+  "key_gaps": [
+    "Lack of experience in data strategy, business intelligence, and AI/ML implementation",
+    "Insufficient seniority (15+ years) for the Director role",
+    "No direct alignment with key responsibilities such as leading enterprise-wide data transformation and AI implementation programs"
+  ],
+  "elapsed_seconds": 16.5
+}

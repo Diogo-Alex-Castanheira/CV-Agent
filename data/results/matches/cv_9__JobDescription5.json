@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Carvalho",
+  "cv_id": "cv_9",
+  "jd_id": "JobDescription5",
+  "overall_score": 40,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in cybersecurity, not forensic accounting. Although they have worked on risk assessments and compliance, their domain and tasks do not align with the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to the role, such as knowledge of GRC frameworks and secure architecture assessments. However, they lack experience in forensic accounting or related fields, which is a key requirement for the role.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "Although the candidate has some experience working with clients on compliance matters, their experience is not directly relevant to the role's responsibilities. They also lack seniority and experience in managing investigations and compliance matters.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient seniority and experience in managing investigations and compliance matters",
+    "Domain and tasks do not align with the role's requirements"
+  ],
+  "elapsed_seconds": 10.8
+}

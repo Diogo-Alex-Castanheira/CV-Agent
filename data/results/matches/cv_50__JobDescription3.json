@@ -1,0 +1,19 @@
+{
+  "name": "Ana Gomes",
+  "cv_id": "cv_50",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in marketing, not cybersecurity. While they have a strong background in strategy, campaign development, and customer experience, these skills are not directly applicable to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has certifications in Google Marketing Platform and Salesforce Marketing Cloud, but no relevant cybersecurity certifications. They also lack specific skills like threat analysis, incident response, or security architecture.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is almost no signal of relevant experience in cybersecurity. The candidate's entire career has been in marketing, and they have no direct experience with risk assessments, vulnerability testing, or compliance with regulations.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity experience and skills",
+    "No certifications in cybersecurity frameworks or best practices",
+    "Insufficient transferable skills from marketing to cybersecurity"
+  ],
+  "elapsed_seconds": 13.7
+}

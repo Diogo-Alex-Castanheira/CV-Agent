@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_37",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and market research, which is relevant to the Financial Analyst role. However, their background is in management consulting, which may not be directly applicable to financial analysis.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, as well as strong analytical skills. They also have fluency in English and Portuguese, which meets the requirements of the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in business analysis and market research, their experience is not directly related to financial analysis or the Financial Services industry. They lack specific experience in preparing financial reports and forecasts, analyzing financial data, and ensuring compliance with financial regulations.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or Financial Services industry",
+    "Insufficient experience in preparing financial reports and forecasts",
+    "No specific experience in analyzing financial data or ensuring compliance with financial regulations"
+  ],
+  "elapsed_seconds": 11.5
+}

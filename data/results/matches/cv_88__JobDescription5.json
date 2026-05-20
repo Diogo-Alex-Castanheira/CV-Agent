@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Oliveira",
+  "cv_id": "cv_88",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and business process optimization, which is relevant to the role. However, there is no direct evidence of forensic accounting or related fields, and the skills mentioned (strategy development, financial modeling) are not directly aligned with the job requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, which is a requirement. However, there is no mention of relevant certifications (e.g., CFE, CPA), and fluency in English and Portuguese is required but not explicitly stated as a skill.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in management consulting, which is unrelated to the forensic accounting field. Although they have worked on projects with clients across financial services, telecom, and retail sectors, there is no direct evidence of their involvement in investigations or compliance matters.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No mention of relevant certifications (e.g., CFE, CPA)",
+    "Unrelated experience in management consulting"
+  ],
+  "elapsed_seconds": 13.6
+}

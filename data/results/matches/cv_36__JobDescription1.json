@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_36",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in tax consulting is not directly related to data strategy, AI/ML implementation, or enterprise data governance. While they have a strong background in corporate taxation and international tax planning, there is no evidence of experience in these areas that aligns with the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as technical understanding of data platforms and AI/ML technologies. They do not mention any relevant certifications (e.g., Microsoft AI, AWS, PMI) or experience with cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in tax consulting is not relevant to the role's requirements. They do not have any experience in leading enterprise-wide data transformation and AI implementation programs, building cross-functional teams, or contributing to business development through proposal creation and client presentations.",
+  "key_gaps": [
+    "Lack of domain task alignment: no experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Missing required skills: technical understanding of data platforms and AI/ML technologies, cloud platform experience (e.g., Azure, AWS).",
+    "Inadequate relevant experience: no experience in leading large-scale digital transformation initiatives, building cross-functional teams, or contributing to business development."
+  ],
+  "elapsed_seconds": 16.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Costa",
+  "cv_id": "cv_42",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in landscape architecture is not directly related to cybersecurity, and there is no mention of relevant tasks or skills. However, some transferable skills like project management, collaboration, and communication could be applicable to a cybersecurity role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong knowledge of cybersecurity frameworks and best practices, and relevant certifications like CISSP or CISM. Their skills in AutoCAD, SketchUp, and Adobe Creative Suite are not directly related to cybersecurity.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the cybersecurity field, with no mention of risk assessments, vulnerability assessments, or cybersecurity policies. Their experience in managing project budgets and client relationships could be transferable to a cybersecurity role, but it's not directly applicable.",
+  "key_gaps": [
+    "Lack of relevant skills and certifications for the cybersecurity field",
+    "No direct experience in cybersecurity tasks or frameworks",
+    "Inadequate transferable skills from landscape architecture to cybersecurity"
+  ],
+  "elapsed_seconds": 12.5
+}

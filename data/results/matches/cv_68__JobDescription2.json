@@ -1,0 +1,19 @@
+{
+  "name": "Inês Rodrigues",
+  "cv_id": "cv_68",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in sustainability reporting and ESG strategy development, which is related to technology risk. However, the role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in GRI, SASB, TCFD reporting frameworks, but no explicit mention of IT controls or compliance frameworks. Additionally, relevant certifications like CISA or CISSP are not mentioned.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability and ESG, which is adjacent to technology risk. However, the seniority level (3 years of experience) is lower than required for the role (4-6 years).",
+  "key_gaps": [
+    "Lack of explicit IT controls and compliance frameworks skills",
+    "Insufficient seniority level (less than 4-6 years of experience)",
+    "No mention of relevant certifications like CISA or CISSP"
+  ],
+  "elapsed_seconds": 13.0
+}

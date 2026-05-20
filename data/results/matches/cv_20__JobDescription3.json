@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Almeida",
+  "cv_id": "cv_20",
+  "jd_id": "JobDescription3",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in supply chain management, operational excellence, and process optimization, which are not directly related to cybersecurity. While the candidate has a strong background in lean methodologies and digital transformation initiatives, these skills are not explicitly mentioned as requirements for the role.",
+  "required_skills_score": 0,
+  "required_skills_reasoning": "",
+  "relevant_experience_score": 0,
+  "relevant_experience_reasoning": "",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity, despite having a strong background in operational excellence and process optimization.",
+    "No mention of relevant certifications or training in cybersecurity frameworks and best practices.",
+    "No evidence of experience in building and leading cybersecurity teams or collaborating with stakeholders to ensure alignment with business objectives."
+  ],
+  "elapsed_seconds": 10.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Diana Costa",
+  "cv_id": "cv_58",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in human resources and organizational development, but lacks direct experience in data strategy, AI/ML implementation, or consulting. The role requires expertise in enterprise-wide data transformation and AI governance, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in organizational development, talent acquisition and management, performance evaluation systems, and change management methodologies. However, they lack technical expertise in data platforms and AI/ML technologies, as well as experience with cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in HR roles, but the seniority level (15+ years) is not explicitly mentioned. The role requires a Director-level professional with extensive experience in data strategy and AI/ML implementation, which is not directly applicable to the candidate's background.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or consulting.",
+    "Insufficient technical expertise in data platforms and AI/ML technologies.",
+    "Inadequate seniority level (15+ years) for a Director-level role."
+  ],
+  "elapsed_seconds": 15.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_35",
+  "jd_id": "JobDescription5",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and accounting, but lacks direct experience in forensic investigations or compliance. The role requires specific skills in this area, which are not mentioned on the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has knowledge of IFRS and Portuguese GAAP, as well as audit methodology and procedures. However, they lack relevant certifications (e.g., CFE, CPA) and specific skills in forensic accounting or compliance.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has limited experience in a Big4 environment and lacks seniority. While they have some experience in audit and accounting, it is not directly relevant to the Forensic & Integrity Services role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic investigations or compliance",
+    "Insufficient relevant certifications (e.g., CFE, CPA)",
+    "Limited seniority and Big4 experience"
+  ],
+  "elapsed_seconds": 12.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Gonçalves",
+  "cv_id": "cv_14",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial investigation and fraud detection is not directly related to cybersecurity, but they do have skills in data analysis and expert testimony that could be transferable. The lack of explicit mention of cybersecurity frameworks, best practices, or relevant certifications makes this a weak match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cybersecurity frameworks, best practices, and relevant certifications (e.g., CISSP, CISM, CEH), which are essential for the role. The only mentioned skill is Excel advanced, but it's not directly related to cybersecurity.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in financial investigation and litigation support has no direct relevance to the cybersecurity team recruitment. They lack any experience in building or leading a cybersecurity team, conducting risk assessments, or staying current with emerging threats and trends.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity experience and skills",
+    "No mention of cybersecurity frameworks, best practices, or certifications",
+    "Inadequate transferable skills from financial investigation to cybersecurity"
+  ],
+  "elapsed_seconds": 9.8
+}

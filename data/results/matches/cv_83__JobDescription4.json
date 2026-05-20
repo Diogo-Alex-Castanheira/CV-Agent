@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Pereira",
+  "cv_id": "cv_83",
+  "jd_id": "JobDescription4",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in transfer pricing, their role is focused on tax law and advisory services. The job description requires financial analysis and planning, which is not directly related to the candidate's expertise.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and knowledge of economic analysis and benchmarking, which aligns with the job requirements. However, they lack experience in financial modeling and compliance with financial regulations.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in tax advisory services, it is not directly relevant to the Financial Analyst role. They lack experience in financial planning and analysis activities, which are key responsibilities of the job.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and planning",
+    "Insufficient knowledge of financial modeling and compliance with financial regulations",
+    "Inadequate alignment with the Financial Analyst role's responsibilities"
+  ],
+  "elapsed_seconds": 11.7
+}

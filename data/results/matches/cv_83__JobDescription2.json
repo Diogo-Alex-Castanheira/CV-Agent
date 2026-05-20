@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Pereira",
+  "cv_id": "cv_83",
+  "jd_id": "JobDescription2",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in transfer pricing, which is related to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which is not directly mentioned in the candidate's CV. The candidate's skills are more focused on tax law and economic analysis.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has knowledge of OECD guidelines and local regulations, as well as fluency in English and Portuguese. However, there is no mention of IT controls, compliance frameworks, or relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in tax advisory services, but it's not directly related to technology risk. The candidate's seniority is also not explicitly mentioned, and there is no mention of M&A transactions or regulatory changes.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls and compliance frameworks.",
+    "No relevant certifications like CISA or CISSP mentioned.",
+    "Limited relevance of tax advisory services to technology risk."
+  ],
+  "elapsed_seconds": 12.9
+}

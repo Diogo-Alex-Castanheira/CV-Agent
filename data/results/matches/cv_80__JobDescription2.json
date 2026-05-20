@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Moreira",
+  "cv_id": "cv_80",
+  "jd_id": "JobDescription2",
+  "overall_score": 58,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "The candidate has experience in data governance, regulatory compliance, and IT controls, which aligns with the role's responsibilities. However, there is a lack of direct experience in technology risk management.",
+  "required_skills_score": 30,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISA, CISSP) required for the role and has limited experience with specific tools like IT controls and compliance frameworks.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has extensive experience in data engineering, business intelligence, and AI governance, which demonstrates relevant skills. However, there is a lack of direct experience in technology risk management and specific tools like IT controls and compliance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management and IT controls/compliance frameworks.",
+    "Insufficient relevant certifications (e.g., CISA, CISSP) for the role.",
+    "Limited experience with specific tools like Azure Data Lake, SQL Server, Power BI, Purview."
+  ],
+  "elapsed_seconds": 15.2
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Torres",
+  "cv_id": "cv_86",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in healthcare operations optimization, regulatory compliance, and digital health initiatives, which are related to the role's domain. However, there is no direct evidence of forensic accounting or investigative skills required for the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience in financial analysis, quality improvement initiatives, and standard operating procedures, which are relevant to the role's requirements. However, there is no mention of certifications like CFE or CPA, and the candidate's primary domain is not forensic accounting.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in managing quality improvement initiatives and patient safety programs, but this is not directly relevant to the role's requirements. The candidate's seniority (Healthcare Operations Specialist) is also lower than required for the Manager position.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or investigative skills",
+    "No relevant certifications like CFE or CPA",
+    "Insufficient seniority (Healthcare Operations Specialist) for Manager position"
+  ],
+  "elapsed_seconds": 13.8
+}

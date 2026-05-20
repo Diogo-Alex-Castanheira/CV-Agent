@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_30",
+  "jd_id": "JobDescription1",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial strategy, M&A, and treasury management, which is relevant to the role. However, there is a lack of direct evidence on data strategy, AI/ML implementation, and enterprise data governance frameworks, which are key responsibilities of the Director, Data & AI Strategy role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has certifications in finance (CFA, Certified Management Accountant) but lacks relevant technical skills in data platforms and AI/ML technologies. They also lack experience with cloud platforms like Azure and AWS, which are required for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has extensive experience in financial management and strategy, but most of it is not directly related to data strategy or AI/ML implementation. They lack seniority and industry experience in the consulting sector, which is a key requirement for the role.",
+  "key_gaps": [
+    "Lack of direct evidence on data strategy, AI/ML implementation, and enterprise data governance frameworks.",
+    "Insufficient technical skills in data platforms and AI/ML technologies.",
+    "Limited seniority and industry experience in the consulting sector."
+  ],
+  "elapsed_seconds": 16.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rui Almeida",
+  "cv_id": "cv_97",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP solutions, which is a relevant skill for the role. However, there is no direct evidence of forensic accounting or investigative skills, which are critical for the Forensic & Integrity Services team.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CFE, CPA) and has no experience in forensic accounting or related fields",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in systems integration and analysis, it is not directly relevant to the Forensic & Integrity Services team. The lack of seniority (7+ years of experience required) also raises concerns.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or investigative skills",
+    "Insufficient certifications (e.g., CFE, CPA)",
+    "Inadequate seniority and experience in relevant domain"
+  ],
+  "elapsed_seconds": 12.1
+}

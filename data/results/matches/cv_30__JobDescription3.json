@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_30",
+  "jd_id": "JobDescription3",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial strategy, M&A, and treasury management, which is relevant to the cybersecurity role's focus on risk assessments and compliance. However, there is a significant gap between the candidate's domain expertise (finance) and the required skills for the cybersecurity team.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in cybersecurity frameworks, best practices, and certifications (e.g., CISSP, CISM, CEH), which are essential requirements for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has extensive experience in financial management, there is no direct relevance to cybersecurity. The candidate's seniority and sector (Portugal) may be transferable, but not directly applicable to the required skills for this role.",
+  "key_gaps": [
+    "Lack of experience in cybersecurity frameworks and best practices",
+    "No relevant certifications (e.g., CISSP, CISM, CEH) or experience in risk assessments and vulnerability assessments",
+    "Limited direct relevance to the required skills for this role"
+  ],
+  "elapsed_seconds": 14.8
+}

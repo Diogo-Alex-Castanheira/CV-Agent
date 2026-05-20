@@ -1,0 +1,19 @@
+{
+  "name": "Laura Campos",
+  "cv_id": "cv_27",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain and tasks relevant to the Data & AI Strategy role. The candidate's experience is in dance instruction, choreography, and performance arts, with no connection to data strategy or AI implementation.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in traditional Portuguese folk dance, contemporary dance, ballet, and choreography, but lacks technical understanding of data platforms and AI/ML technologies. They also lack experience with business intelligence and large-scale digital transformation initiatives.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's 10 years of experience in dance instruction and management is not relevant to the Director, Data & AI Strategy role. There is no evidence of experience in data strategy, business intelligence, or AI/ML implementation.",
+  "key_gaps": [
+    "Lack of domain and task alignment with the Data & AI Strategy role.",
+    "Insufficient technical skills in data platforms and AI/ML technologies.",
+    "No relevant experience in data strategy, business intelligence, or large-scale digital transformation initiatives."
+  ],
+  "elapsed_seconds": 15.7
+}

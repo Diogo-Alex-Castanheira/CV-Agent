@@ -1,0 +1,19 @@
+{
+  "name": "Lucia Carvalho",
+  "cv_id": "cv_76",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in actuarial analysis and statistical modeling is not directly related to cybersecurity, but they do have strong analytical skills. The lack of direct experience in building and leading a cybersecurity team or implementing comprehensive cybersecurity strategies is notable.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and does not have fluency in English as their primary language. While they are fluent in English, it's not explicitly stated that they meet the required level of proficiency.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in actuarial analysis and statistical modeling, which is not directly related to cybersecurity. They do have some relevant skills (e.g., Excel, R, SAS), but they are not transferable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading a cybersecurity team or implementing comprehensive cybersecurity strategies.",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH) or fluency in English as the primary language.",
+    "No transferable skills from actuarial analysis and statistical modeling to cybersecurity."
+  ],
+  "elapsed_seconds": 14.8
+}

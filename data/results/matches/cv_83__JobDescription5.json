@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Pereira",
+  "cv_id": "cv_83",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in transfer pricing, which is related to the role's domain. However, there is a significant gap in terms of the specific tasks and responsibilities mentioned in the CV (e.g., preparing documentation, conducting economic analyses) versus those required for the Forensic & Integrity Services team (e.g., conducting forensic investigations, assisting clients in developing compliance programs).",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some relevant skills, such as knowledge of OECD guidelines and local regulations. However, there is a significant gap in terms of the required certifications (e.g., CFE, CPA) mentioned in the job description, which are not present in the CV.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in tax advisory services and transfer pricing, but it is not directly related to forensic accounting or compliance matters. The seniority (5+ years of experience) is also lower than required for the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic investigations and compliance programs",
+    "Insufficient certifications (e.g., CFE, CPA)",
+    "Inadequate seniority (5+ years) for the role"
+  ],
+  "elapsed_seconds": 13.8
+}

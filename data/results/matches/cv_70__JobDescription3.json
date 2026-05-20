@@ -1,0 +1,19 @@
+{
+  "name": "André Sousa",
+  "cv_id": "cv_70",
+  "jd_id": "JobDescription3",
+  "overall_score": 80,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in conducting IT risk assessments and implementing security frameworks, which aligns with the role's responsibilities. However, there is no direct mention of leading a cybersecurity team or developing a comprehensive cybersecurity strategy.",
+  "required_skills_score": 90,
+  "required_skills_reasoning": "The candidate has relevant certifications (CISSP, CISM) and skills in security frameworks (ISO 27001, NIST), vulnerability assessment tools, and cloud security. The only missing skill is the requirement for 'proven experience in building and leading cybersecurity teams'.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in IT security consulting and conducting risk assessments, but lacks seniority and experience in leading a team. The candidate's experience is mostly in financial services and healthcare sectors, which may not be directly applicable to the Big4 consulting environment.",
+  "key_gaps": [
+    "Lack of direct experience in leading a cybersecurity team or developing a comprehensive cybersecurity strategy.",
+    "Missing skill: proven experience in building and leading cybersecurity teams.",
+    "Limited seniority and experience in the Big4 consulting environment."
+  ],
+  "elapsed_seconds": 17.0
+}

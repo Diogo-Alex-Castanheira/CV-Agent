@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Fernandes",
+  "cv_id": "cv_24",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in external audit and assurance services, but lacks direct experience in forensic accounting or integrity services. The role requires expertise in conducting forensic investigations and data analysis, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, as evident from their experience in audit engagements. They also possess excellent communication and interpersonal skills, which are essential for the role. However, they lack relevant certifications (e.g., CFE, CPA) and specific industry knowledge (forensic accounting or integrity services).",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in forensic accounting or related fields, with only a short stint as an Accounting Intern at Jerónimo Martins. Their current role as Audit Associate at BDO and previous experience at Mazars do not directly align with the requirements of the Forensic & Integrity Services team.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient relevant certifications (e.g., CFE, CPA)",
+    "Limited experience in related fields (forensic accounting or integrity services)"
+  ],
+  "elapsed_seconds": 12.8
+}

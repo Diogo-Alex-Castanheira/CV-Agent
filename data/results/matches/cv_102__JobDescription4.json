@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Mendes",
+  "cv_id": "cv_102",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis, valuation, and modeling, which is relevant to the Financial Analyst role. However, their background in M&A due diligence and investment banking may not be directly applicable to this specific job.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese. They also have experience with market research reports, which is a relevant skill for the Financial Analyst role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has some experience in financial analysis and modeling, their current role as an M&A Advisory Analyst may not be directly applicable to this specific job. They lack direct experience in financial planning and analysis activities, which is a key responsibility of the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient experience in supporting decision-making with business units",
+    "No direct experience in ensuring compliance with financial regulations and standards"
+  ],
+  "elapsed_seconds": 18.5
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Marta Alves",
+  "cv_id": "cv_51",
+  "jd_id": "JobDescription2",
+  "overall_score": 40,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in environmental impact assessments and sustainability management is not directly related to technology risk. Although they have expertise in regulatory compliance, it is primarily focused on environmental regulations rather than IT-related risks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in GIS, environmental modeling software, and ISO 14001 certification, which are relevant to technology risk. However, they lack experience with IT controls and compliance frameworks, as well as certifications like CISA or CISSP.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in managing environmental compliance programs and regulatory reporting requirements, but it is not directly applicable to technology risk. They also have experience with sustainability initiatives, which may be transferable to a Big4 environmental consulting team.",
+  "key_gaps": [
+    "Lack of direct experience in IT-related risks and controls",
+    "Insufficient certifications in technology risk (e.g., CISA, CISSP)",
+    "Limited relevance of environmental compliance experience to technology risk"
+  ],
+  "elapsed_seconds": 12.4
+}

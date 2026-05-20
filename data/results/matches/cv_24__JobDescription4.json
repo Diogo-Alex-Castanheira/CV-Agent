@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Fernandes",
+  "cv_id": "cv_24",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and assurance services, which is related to financial analysis. However, their expertise lies in external audit rather than internal financial analysis. There's a significant gap between the role's domain (Financial Services) and the candidate's experience (Manufacturing and Retail sectors).",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel, and fluency in English and Portuguese. They also have knowledge of financial reporting and auditing procedures, which aligns with the role's requirements.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in finance, it's mostly related to external audit and assurance services rather than internal financial analysis. Their seniority is low (Staff level), and they lack direct experience in Financial Services or similar sectors.",
+  "key_gaps": [
+    "Lack of direct experience in Financial Services or related sectors",
+    "Insufficient seniority for the Staff level position",
+    "Limited focus on internal financial analysis and planning"
+  ],
+  "elapsed_seconds": 11.8
+}

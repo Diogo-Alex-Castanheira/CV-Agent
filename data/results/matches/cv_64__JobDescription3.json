@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_64",
+  "jd_id": "JobDescription3",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in conducting security assessments and evaluating compliance with ISO 27001 requirements, which aligns with the role's responsibilities. However, there is a lack of direct evidence on developing comprehensive cybersecurity strategies or leading teams, which are key aspects of the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills in IT audit methodologies (COBIT, ITIL), security frameworks (ISO 27001, NIST), and vulnerability assessment tools. They also have basic knowledge of Python and SQL. The only missing skill is the CISSP certification, which is preferred but not required.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk management and security analysis, but it's mostly focused on internal systems rather than leading a cybersecurity team or developing comprehensive strategies. They lack seniority and sector relevance, which are important for the role.",
+  "key_gaps": [
+    "Lack of direct experience in leading a cybersecurity team or developing comprehensive cybersecurity strategies",
+    "Insufficient seniority and sector relevance",
+    "Missing CISSP certification, although CISA is in progress"
+  ],
+  "elapsed_seconds": 14.1
+}

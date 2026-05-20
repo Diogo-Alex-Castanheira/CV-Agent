@@ -1,0 +1,19 @@
+{
+  "name": "João Oliveira",
+  "cv_id": "cv_67",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and accounting, but the role requires financial analysis. The candidate's skills are more related to audit procedures and methodologies than financial modeling or forecasting.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and basic knowledge of SAP and audit software, which aligns with some requirements. However, the role requires strong analytical and quantitative skills, fluency in English (native), and experience in financial analysis or related roles.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has internship experience in financial audit, but it's not directly related to financial analysis. The candidate also has part-time experience as a finance assistant, which is more relevant than the audit internship.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles.",
+    "Insufficient fluency in English (native) compared to required.",
+    "Limited knowledge of financial modeling and forecasting."
+  ],
+  "elapsed_seconds": 12.6
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Carlos Oliveira",
+  "cv_id": "cv_39",
+  "jd_id": "JobDescription3",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, which is relevant to the cybersecurity role. However, there is a significant gap between their expertise in financial risk and regulatory frameworks (Basel III, GDPR, AML) and the required skills for the cybersecurity practice (e.g., CISSP, CISM, CEH).",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with specific cybersecurity tools and technologies, such as threat intelligence platforms or incident response frameworks. They also do not have relevant certifications like CISSP or CISM.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in risk management and compliance, their background is primarily in financial risk rather than cybersecurity. There is limited evidence of leadership experience or team management skills, which are essential for this role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and specific cybersecurity tools and technologies.",
+    "Limited experience in leading or managing a cybersecurity team.",
+    "Insufficient expertise in emerging cybersecurity threats and trends.",
+    "No direct evidence of risk assessment and vulnerability assessment skills in the context of cybersecurity.",
+    "No mention of collaboration with stakeholders to ensure alignment with business objectives and compliance with regulations."
+  ],
+  "elapsed_seconds": 14.9
+}

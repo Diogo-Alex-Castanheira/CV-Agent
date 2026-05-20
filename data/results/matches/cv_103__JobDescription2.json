@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Ramos",
+  "cv_id": "cv_103",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in auditing and project management, which is relevant to the role of a Senior Consultant in Technology Risk. However, there is no direct evidence of expertise in technology risk or compliance frameworks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in IFRS, GAAP, and SAP, which are relevant to the role. Additionally, they have experience with audit command language (ACL) and caseware, which could be transferable to technology risk assessments.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in auditing and project management, but it is not directly related to technology risk or compliance. They lack experience in the specific industry (technology) and sector (risk advisory).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks.",
+    "Insufficient experience in the technology industry or risk advisory sector.",
+    "No evidence of relevant certifications (e.g., CISA, CISSP) for technology risk."
+  ],
+  "elapsed_seconds": 20.0
+}

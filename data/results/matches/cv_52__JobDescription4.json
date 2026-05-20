@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Fonseca",
+  "cv_id": "cv_52",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in M&A transactions and corporate development, which is relevant to the Financial Analyst role. However, there is a significant gap between their current role as an M&A Associate and the required experience of 0-2 years in financial analysis or related roles.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese. They also hold a CFA Charter, which is relevant to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in finance and corporate development, their current role as an M&A Associate is not directly related to financial analysis. They lack direct experience in preparing financial reports and forecasts, analyzing financial data, or collaborating with business units.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or forecasting",
+    "Insufficient experience in preparing financial reports and forecasts",
+    "No direct experience in analyzing financial data to identify trends and variances"
+  ],
+  "elapsed_seconds": 13.1
+}

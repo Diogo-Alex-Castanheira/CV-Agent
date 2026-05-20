@@ -1,0 +1,18 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_98",
+  "jd_id": "JobDescription5",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "The candidate has experience in forensic accounting and financial investigations, which aligns with the role's responsibilities. However, there is a gap in terms of specific experience in anti-money laundering compliance and data analysis tools (IDEA, ACL).",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CFE) and skills in AML compliance, investigative interviewing techniques, and forensic data analytics. However, there is a gap in terms of fluency in French, which is not explicitly mentioned as required.",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "The candidate has 6 years of experience in fraud investigation, litigation support, and anti-money laundering compliance, which aligns with the role's requirements. The candidate also has experience working in a financial intelligence unit and as a forensic accountant.",
+  "key_gaps": [
+    "Lack of specific experience in anti-money laundering compliance and data analysis tools (IDEA, ACL)",
+    "Limited fluency in French compared to the required level"
+  ],
+  "elapsed_seconds": 13.5
+}

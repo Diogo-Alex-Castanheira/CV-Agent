@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Silva",
+  "cv_id": "cv_74",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial services regulation is not directly related to cybersecurity, but she has strong analytical and research abilities that could be transferable. The lack of direct experience in building and leading a cybersecurity team or implementing cybersecurity strategies is notable.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and expertise in cybersecurity frameworks and best practices. Her skills are primarily focused on financial services regulation.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience conducting inspections to evaluate regulatory compliance, this is not directly related to cybersecurity risk assessments or vulnerability assessments. Her strong analytical and research abilities could be valuable in a different context.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading a cybersecurity team or implementing cybersecurity strategies.",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH) or expertise in cybersecurity frameworks and best practices.",
+    "Limited direct experience in conducting risk assessments or vulnerability assessments specific to cybersecurity."
+  ],
+  "elapsed_seconds": 25.7
+}

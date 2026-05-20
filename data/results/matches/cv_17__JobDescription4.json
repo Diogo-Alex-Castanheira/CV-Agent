@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Pereira",
+  "cv_id": "cv_17",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in ESG reporting and sustainable finance is not directly related to financial analysis, but they do have some transferable skills in data analysis and stakeholder engagement. However, the lack of explicit mention of financial modeling or Excel proficiency raises concerns about their ability to perform key responsibilities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with Excel and financial modeling, which are essential skills for a Financial Analyst role. They also do not have any certifications in finance or accounting",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate's experience is not directly related to financial analysis, they do have some relevant experience in data analysis and stakeholder engagement. However, their seniority is relatively low (Staff level), and they lack experience in a corporate finance setting",
+  "key_gaps": [
+    "Lack of explicit mention of financial modeling or Excel proficiency",
+    "Insufficient experience with key tools and software (Excel, financial modeling)",
+    "Limited seniority and corporate finance experience"
+  ],
+  "elapsed_seconds": 13.1
+}

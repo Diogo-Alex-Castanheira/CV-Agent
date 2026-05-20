@@ -1,0 +1,19 @@
+{
+  "name": "Diana Costa",
+  "cv_id": "cv_58",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in human resources, but the role requires forensic accounting expertise. The candidate's skills in organizational development and change management are transferable to the role, but not directly relevant.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting or related fields, and no certifications like CFE or CPA are mentioned. The required fluency in English is also a concern since the candidate's proficiency is only fluent.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in HR roles, but none of these roles involve forensic investigations or compliance matters. The candidate's experience in change management and employee engagement initiatives may be transferable to some extent.",
+  "key_gaps": [
+    "Lack of relevant experience in forensic accounting or compliance matters",
+    "No certifications like CFE or CPA mentioned",
+    "Fluency in English not explicitly stated, despite being fluent"
+  ],
+  "elapsed_seconds": 12.1
+}

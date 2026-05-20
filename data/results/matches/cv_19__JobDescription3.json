@@ -1,0 +1,20 @@
+{
+  "name": "Carolina Duarte",
+  "cv_id": "cv_19",
+  "jd_id": "JobDescription3",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's finance background and experience in financial analysis are not directly related to cybersecurity. Although they have a Master's degree in Finance, there is no mention of relevant coursework or training in cybersecurity, risk management, or information security.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some relevant skills such as financial analysis and Excel expertise, but lacks experience with cybersecurity frameworks, best practices, and tools. They also lack specific certifications like CISSP, CISM, or CEH.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in finance and credit risk assessment, which is not directly relevant to the cybersecurity role. There are no mentions of leading teams, conducting risk assessments, or staying current with emerging threats and trends.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "Insufficient relevant skills for the role",
+    "No leadership or management experience",
+    "No certifications in cybersecurity or related fields"
+  ],
+  "elapsed_seconds": 11.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_98",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial investigation and litigation support is not directly related to the Financial Analyst role. Although they have worked with financial data, their expertise lies in forensic accounting rather than financial analysis.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, but this is not explicitly stated on their CV. They also lack experience with financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of relevant experience in financial analysis or related roles. The candidate's experience is primarily in forensic accounting and law enforcement, with little to no overlap with the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning activities",
+    "Insufficient proficiency in financial modeling and planning tools",
+    "No relevant experience in supporting business decision-making"
+  ],
+  "elapsed_seconds": 13.1
+}

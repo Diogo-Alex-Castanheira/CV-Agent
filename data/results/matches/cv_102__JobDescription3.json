@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Mendes",
+  "cv_id": "cv_102",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in M&A due diligence, financial modeling, and investment banking is not directly related to cybersecurity. Although they have a finance background, there is no explicit mention of cybersecurity tasks or expertise.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned in the candidate's CV. The required fluency in English and Portuguese is met, but this is not a unique skill for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in finance and investment banking is not relevant to cybersecurity. Although they have worked on projects that may involve risk assessments (e.g., due diligence), there is no explicit mention of cybersecurity tasks or expertise.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "No relevant certifications for the role",
+    "Inadequate transferable skills from finance background"
+  ],
+  "elapsed_seconds": 17.3
+}
