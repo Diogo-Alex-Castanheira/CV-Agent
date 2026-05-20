@@ -51,6 +51,7 @@ JOB DESCRIPTION:
 Respond ONLY with a valid JSON object matching the required schema. Do not include any other text."""
 
 
+
 class CriterionScore(BaseModel):
     score: int = Field(ge=0, le=100)
     reasoning: str
