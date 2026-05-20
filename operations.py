@@ -62,8 +62,9 @@ def deleteResults(job_name, cv_email):
 
 # Delete previous evaluation results
 def commitThread():
-    db_connection.commit()
-    time.sleep(120)
+    while True:
+        time.sleep(120)
+        db_connection.commit()
 
 
 # Close DB connection when shutting down
@@ -73,5 +74,6 @@ def shutdown():
     db_connection.close()
 
 
-my_thread = threading.Thread(target=commitThread)
-my_thread.start()
+def __init__(self):
+    commit_thread = threading.Thread(target=commitThread)
+    commit_thread.start()
