@@ -1,49 +1,6 @@
 {
   "job_id": "job_2",
   "title": "Senior Consultant, Technology Risk",
-  "job": {
-    "job_id": "job_2",
-    "title": "Senior Consultant, Technology Risk",
-    "department": "Risk Advisory",
-    "location": "Lisbon, Portugal",
-    "experience_level": "Senior",
-    "about_role": "As a Senior Consultant in Technology Risk, you will help clients manage technology-related risks and ensure compliance with industry standards.",
-    "required_skills": [
-      "CISA",
-      "CISSP",
-      "Compliance",
-      "Controls",
-      "Excel",
-      "Risk",
-      "Stakeholder",
-      "Technology Risk"
-    ],
-    "required_experience_years": 4,
-    "required_education": "Not specified",
-    "required_languages": [
-      "English",
-      "Portuguese"
-    ],
-    "requirements": [
-      "4-6 years of experience in technology risk or related fields.",
-      "Strong understanding of IT controls and compliance frameworks.",
-      "Excellent analytical and communication skills.",
-      "Relevant certifications (e.g., CISA, CISSP) preferred.",
-      "Fluency in English and Portuguese required."
-    ],
-    "key_responsibilities": [
-      "Conduct assessments of technology controls and processes.",
-      "Develop risk management frameworks and strategies.",
-      "Collaborate with clients to implement technology risk solutions.",
-      "Prepare reports and presentations for stakeholders.",
-      "Stay current with technology trends and regulatory changes."
-    ],
-    "certifications_preferred": [
-      "CISA",
-      "CISSP"
-    ],
-    "source_file": "JobDescription2.pdf"
-  },
   "candidates": [
     {
       "candidate_id": "cv_4",
@@ -2966,6 +2923,126 @@
       "interview_questions": [],
       "feedback_draft": "Thank you for your application, Rafael Pinto. After reviewing your profile against the Senior Consultant, Technology Risk role, we do not see a close match with the current requirements. We appreciate your interest in EY Portugal.",
       "overall_score": 2.3
+    },
+    {
+      "candidate_id": "cv_2",
+      "name": "Candidate cv_2",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_2 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Below the requested 4+ years of experience",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_2. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_21",
+      "name": "Candidate cv_21",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_21 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Below the requested 4+ years of experience",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_21. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_45",
+      "name": "Candidate cv_45",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_45 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Below the requested 4+ years of experience",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_45. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_75",
+      "name": "Candidate cv_75",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_75 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Below the requested 4+ years of experience",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_75. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_90",
+      "name": "Candidate cv_90",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_90 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Below the requested 4+ years of experience",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_90. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
     }
   ]
 }

@@ -1,44 +1,6 @@
 {
   "job_id": "job_4",
   "title": "Financial Analyst",
-  "job": {
-    "job_id": "job_4",
-    "title": "Financial Analyst",
-    "department": "Financial Services",
-    "location": "Lisbon, Portugal",
-    "experience_level": "Staff",
-    "about_role": "Join our Financial Services team as a Financial Analyst. You will support financial planning and analysis activities, providing insights to drive business performance.",
-    "required_skills": [
-      "Accounting",
-      "Compliance",
-      "Data",
-      "Excel",
-      "Finance",
-      "Financial"
-    ],
-    "required_experience_years": 0,
-    "required_education": "Bachelor's degree in Finance, Accounting, or related field.",
-    "required_languages": [
-      "English",
-      "Portuguese"
-    ],
-    "requirements": [
-      "Bachelor's degree in Finance, Accounting, or related field.",
-      "0-2 years of experience in financial analysis or related roles.",
-      "Strong analytical and quantitative skills.",
-      "Proficiency in Excel and financial modeling.",
-      "Fluency in English and Portuguese required."
-    ],
-    "key_responsibilities": [
-      "Assist in the preparation of financial reports and forecasts.",
-      "Analyze financial data to identify trends and variances.",
-      "Collaborate with business units to support decision-making.",
-      "Ensure compliance with financial regulations and standards.",
-      "Support ad-hoc financial analysis and projects."
-    ],
-    "certifications_preferred": [],
-    "source_file": "JobDescription4.pdf"
-  },
   "candidates": [
     {
       "candidate_id": "cv_89",
@@ -2970,6 +2932,121 @@
       ],
       "feedback_draft": "Thank you for your application, Beatriz Martins. After reviewing your profile against the Financial Analyst role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
       "overall_score": 2.5
+    },
+    {
+      "candidate_id": "cv_2",
+      "name": "Candidate cv_2",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_2 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_2. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_21",
+      "name": "Candidate cv_21",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_21 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_21. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_45",
+      "name": "Candidate cv_45",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_45 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_45. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_75",
+      "name": "Candidate cv_75",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_75 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_75. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
+    },
+    {
+      "candidate_id": "cv_90",
+      "name": "Candidate cv_90",
+      "tier": "not_a_fit",
+      "scores": {
+        "relevant_experience": 1,
+        "technical_skills": 1,
+        "education": 1,
+        "language_proficiency": 1,
+        "soft_skills_leadership": 1,
+        "culture_motivation_fit": 1
+      },
+      "summary": "Candidate cv_90 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
+      "strengths": [],
+      "gaps": [
+        "CV text could not be extracted from the PDF; OCR or manual review is required",
+        "Limited explicit overlap with the required technical skills",
+        "Required language proficiency is not clearly demonstrated"
+      ],
+      "interview_questions": [],
+      "feedback_draft": "Thank you for your application, Candidate cv_90. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
+      "overall_score": 1
     }
   ]
 }

@@ -200,16 +200,15 @@ class LocalClient:
 def extract_all_pdfs() -> tuple[dict[str, str], dict[str, str], list[str]]:
     cv_texts: dict[str, str] = {}
     jd_texts: dict[str, str] = {}
-    skipped: list[str] = []
+    extraction_issues: list[str] = []
 
     print("Verifying first 3 CV text extractions:")
     for path in sorted(CV_DIR.glob("*.pdf"), key=natural_key):
         text = extract_text_from_pdf(path)
         if len(text) < 40:
-            skipped.append(path.name)
-            continue
+            extraction_issues.append(path.name)
         cv_texts[path.stem] = text
-        if len(cv_texts) <= 3:
+        if len([value for value in cv_texts.values() if len(value) >= 40]) <= 3 and len(text) >= 40:
             preview = re.sub(r"\s+", " ", text[:700])
             print(f"\n--- {path.name} ({len(text)} chars) ---\n{preview}")
 
@@ -220,10 +219,13 @@ def extract_all_pdfs() -> tuple[dict[str, str], dict[str, str], list[str]]:
             continue
         jd_texts[path.stem] = text
 
-    if skipped:
-        print(f"\nWARNING: skipped {len(skipped)} CV(s) with empty/invalid text: {', '.join(skipped)}")
+    if extraction_issues:
+        print(
+            f"\nWARNING: {len(extraction_issues)} CV(s) returned no extractable text "
+            f"and will be included with limited fallback profiles: {', '.join(extraction_issues)}"
+        )
     print(f"Extracted {len(cv_texts)} CVs and {len(jd_texts)} job descriptions.")
-    return cv_texts, jd_texts, skipped
+    return cv_texts, jd_texts, extraction_issues
 
 
 def parse_job_prompt(jd_text: str) -> str:
@@ -467,7 +469,7 @@ def looks_like_candidate_name(line: str, candidate_id: str) -> bool:
 
 def local_parse_cv(candidate_id: str, text: str) -> dict[str, Any]:
     lines = [line.strip() for line in text.splitlines() if line.strip()]
-    name = "Unknown"
+    name = f"Candidate {candidate_id}"
     for line in lines[:12]:
         if looks_like_candidate_name(line, candidate_id):
             name = line
@@ -516,6 +518,7 @@ def local_parse_cv(candidate_id: str, text: str) -> dict[str, Any]:
         "languages": languages,
         "industries": industries,
         "notable_achievements": achievements,
+        "text_extraction_status": "ok" if len(text.strip()) >= 40 else "no_extractable_text",
     }
 
 
@@ -635,6 +638,7 @@ def score_from_overlap(matches: int, required_count: int) -> int:
 
 
 def local_score_candidate(job: dict[str, Any], candidate: dict[str, Any]) -> dict[str, Any]:
+    no_extractable_text = candidate.get("text_extraction_status") == "no_extractable_text"
     required_years = int(job.get("required_experience_years") or 0)
     years = int(candidate.get("years_experience") or 0)
     candidate_skills = candidate.get("skills") or []
@@ -706,6 +710,15 @@ def local_score_candidate(job: dict[str, Any], candidate: dict[str, Any]) -> dic
         "soft_skills_leadership": clamp_score(soft_score),
         "culture_motivation_fit": clamp_score(culture_score),
     }
+    if no_extractable_text:
+        scores = {
+            "relevant_experience": 1,
+            "technical_skills": 1,
+            "education": 1,
+            "language_proficiency": 1,
+            "soft_skills_leadership": 1,
+            "culture_motivation_fit": 1,
+        }
     avg = round(statistics.mean(scores.values()), 1)
     critical_scores = [v for k, v in scores.items() if k != "language_proficiency"]
     if avg >= 3.5 and min(critical_scores) > 1:
@@ -727,6 +740,8 @@ def local_score_candidate(job: dict[str, Any], candidate: dict[str, Any]) -> dic
     strengths = strengths[:5]
 
     gaps = []
+    if no_extractable_text:
+        gaps.append("CV text could not be extracted from the PDF; OCR or manual review is required")
     if required_years and years < required_years:
         gaps.append(f"Below the requested {required_years}+ years of experience")
     if technical_score <= 2:
@@ -745,7 +760,9 @@ def local_score_candidate(job: dict[str, Any], candidate: dict[str, Any]) -> dic
             "Which measurable outcomes from your recent work best demonstrate your fit for this position?",
         ]
 
-    if tier == "strong_match":
+    if no_extractable_text:
+        summary = f"{name} could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision."
+    elif tier == "strong_match":
         summary = f"{name} is a strong match for {job.get('title')} with relevant experience as {title}. The profile shows useful overlap with the role requirements and enough seniority to justify interview priority."
     elif tier == "possible_match":
         summary = f"{name} has a partially aligned profile for {job.get('title')}. The candidate shows some relevant signals, but the gaps should be validated before advancing."
@@ -757,6 +774,11 @@ def local_score_candidate(job: dict[str, Any], candidate: dict[str, Any]) -> dic
         f"we {'would like to explore your experience further' if tier != 'not_a_fit' else 'do not see a close match with the current requirements'}. "
         "We appreciate your interest in EY Portugal."
     )
+    if no_extractable_text:
+        feedback = (
+            f"Thank you for your application, {name}. We were unable to extract readable text from your CV file, "
+            "so a manual review is needed before we can fairly assess your fit for this role."
+        )
 
     return {
         "candidate_id": candidate["candidate_id"],
@@ -920,7 +942,6 @@ def write_outputs(jobs: list[dict[str, Any]], scored: dict[str, list[dict[str, A
         payload = {
             "job_id": job["job_id"],
             "title": job.get("title", ""),
-            "job": job_output_payload(job),
             "candidates": scored[job["job_id"]],
         }
         write_json(OUTPUT_DIR / f"{job['job_id']}_results.json", payload)
@@ -978,8 +999,8 @@ def main() -> None:
         for path in CACHE_DIR.glob("*.json"):
             path.unlink()
 
-    cv_texts, jd_texts, skipped = extract_all_pdfs()
-    write_json(CACHE_DIR / "skipped_cvs.json", skipped)
+    cv_texts, jd_texts, extraction_issues = extract_all_pdfs()
+    write_json(CACHE_DIR / "text_extraction_issues.json", extraction_issues)
 
     if args.ai_backend == "ollama":
         client = OllamaClient(args.ollama_model, args.ollama_host, args.ollama_timeout)
