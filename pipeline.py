@@ -401,17 +401,34 @@ def detect_education(text: str) -> tuple[str, str]:
     return level, field
 
 
+def looks_like_candidate_name(line: str, candidate_id: str) -> bool:
+    lower = line.lower().strip()
+    if (
+        not line
+        or lower.startswith(candidate_id.lower())
+        or lower.endswith((".md", ".pdf", ".docx", ".txt"))
+        or "cv" in lower and ("_" in lower or "." in lower)
+        or re.fullmatch(r"\d{4}-\d{2}-\d{2}", line)
+        or re.fullmatch(r"\d+\s*/\s*\d+", line)
+        or ":" in line
+        or "@" in line
+        or re.search(r"\d", line)
+    ):
+        return False
+
+    words = line.split()
+    if not 2 <= len(words) <= 5:
+        return False
+
+    name_word = re.compile(r"^[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’-]+$")
+    return all(name_word.match(word) for word in words)
+
+
 def local_parse_cv(candidate_id: str, text: str) -> dict[str, Any]:
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     name = "Unknown"
-    for line in lines[:8]:
-        if (
-            not line.lower().startswith(candidate_id.lower())
-            and ":" not in line
-            and "@" not in line
-            and not re.search(r"\d", line)
-            and len(line.split()) <= 5
-        ):
+    for line in lines[:12]:
+        if looks_like_candidate_name(line, candidate_id):
             name = line
             break
 
