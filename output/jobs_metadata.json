@@ -1,0 +1,42 @@
+[
+  {
+    "job_id": "job_1",
+    "title": "Directors, Data & AI Strategy",
+    "department": "Consulting",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Director (15+ years)",
+    "source_file": "JobDescription1.pdf"
+  },
+  {
+    "job_id": "job_2",
+    "title": "Senior Consultant, Technology Risk",
+    "department": "Risk Advisory",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Senior",
+    "source_file": "JobDescription2.pdf"
+  },
+  {
+    "job_id": "job_3",
+    "title": "Cybersecurity Team Recruitment",
+    "department": "Cybersecurity",
+    "location": "Lisbon, Portugal",
+    "experience_level": "N/A",
+    "source_file": "JobDescription3.pdf"
+  },
+  {
+    "job_id": "job_4",
+    "title": "Financial Analyst",
+    "department": "Financial Services",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Staff",
+    "source_file": "JobDescription4.pdf"
+  },
+  {
+    "job_id": "job_5",
+    "title": "Consultant, Forensic & Integrity Services",
+    "department": "Forensic",
+    "location": "Lisbon, Portugal",
+    "experience_level": "Manager",
+    "source_file": "JobDescription5.pdf"
+  }
+]
