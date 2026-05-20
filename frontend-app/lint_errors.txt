@@ -1,0 +1,200 @@
+
+> frontend-app@0.0.0 lint
+> eslint .
+
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/context/AppContext.tsx
+  56:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/CandidateDetailScreen.tsx
+  6:10  error  'motion' is defined but never used                                                                                   @typescript-eslint/no-unused-vars
+  7:1   error  Use "@ts-expect-error" instead of "@ts-ignore", as "@ts-ignore" will do nothing if the following line is error-free  @typescript-eslint/ban-ts-comment
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/ComparisonScreen.tsx
+  8:11  error  'allRoles' is assigned a value but never used              @typescript-eslint/no-unused-vars
+  8:42  error  'getPendingCandidates' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/HomeScreen.tsx
+  23:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/RolesScreen.tsx
+  9:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx
+   13:5   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:13:5
+  11 |
+  12 |   useEffect(() => {
+> 13 |     setCandidates(getPendingCandidates(selectedRole?.roleId));
+     |     ^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  14 |   }, [selectedRole]);
+  15 |
+  16 |   const handleSwipe = (decision: Decision) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      react-hooks/set-state-in-effect
+   14:6   warning  React Hook useEffect has a missing dependency: 'getPendingCandidates'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          react-hooks/exhaustive-deps
+   28:70  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+  101:12  error    Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:101:12
+   99 |       {candidates.length > 0 && (
+  100 |         <div className="flex justify-center gap-4 mt-8 pb-4">
+> 101 |           <ActionButton onClick={() => handleSwipe('Reject')} icon={X} label="Reject" customClass="reject-button text-white" />
+      |            ^^^^^^^^^^^^ This component is created during render
+  102 |           <ActionButton onClick={() => handleSwipe('Need More Info')} icon={HelpCircle} label="More Info" customClass="info-button" />
+  103 |           <ActionButton onClick={() => handleSwipe('Hold')} icon={Pause} label="Hold" customClass="hold-button" />
+  104 |           <ActionButton onClick={() => handleSwipe('Shortlist')} icon={Check} label="Shortlist" customClass="shortlist-button text-ink" />
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:28:24
+  26 |   };
+  27 |
+> 28 |   const ActionButton = ({ onClick, icon: Icon, label, customClass }: any) => (
+     |                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 29 |     <motion.button
+     | ^^^^^^^^^^^^^^^^^^
+> 30 |       whileTap={{ scale: 0.9 }}
+     | ^^^^^^^^^^^^^^^^^^
+> 31 |       onClick={onClick}
+     | ^^^^^^^^^^^^^^^^^^
+> 32 |       className={`action-btn ${customClass}`}
+     | ^^^^^^^^^^^^^^^^^^
+> 33 |     >
+     | ^^^^^^^^^^^^^^^^^^
+> 34 |       <Icon size={24} />
+     | ^^^^^^^^^^^^^^^^^^
+> 35 |       <span className="text-[10px] font-black mt-1 opacity-90">{label}</span>
+     | ^^^^^^^^^^^^^^^^^^
+> 36 |     </motion.button>
+     | ^^^^^^^^^^^^^^^^^^
+> 37 |   );
+     | ^^^^ The component is created during render here
+  38 |
+  39 |   return (
+  40 |     <div className="h-[80vh] flex flex-col relative pt-2">  react-hooks/static-components
+  102:12  error    Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:102:12
+  100 |         <div className="flex justify-center gap-4 mt-8 pb-4">
+  101 |           <ActionButton onClick={() => handleSwipe('Reject')} icon={X} label="Reject" customClass="reject-button text-white" />
+> 102 |           <ActionButton onClick={() => handleSwipe('Need More Info')} icon={HelpCircle} label="More Info" customClass="info-button" />
+      |            ^^^^^^^^^^^^ This component is created during render
+  103 |           <ActionButton onClick={() => handleSwipe('Hold')} icon={Pause} label="Hold" customClass="hold-button" />
+  104 |           <ActionButton onClick={() => handleSwipe('Shortlist')} icon={Check} label="Shortlist" customClass="shortlist-button text-ink" />
+  105 |         </div>
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:28:24
+  26 |   };
+  27 |
+> 28 |   const ActionButton = ({ onClick, icon: Icon, label, customClass }: any) => (
+     |                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 29 |     <motion.button
+     | ^^^^^^^^^^^^^^^^^^
+> 30 |       whileTap={{ scale: 0.9 }}
+     | ^^^^^^^^^^^^^^^^^^
+> 31 |       onClick={onClick}
+     | ^^^^^^^^^^^^^^^^^^
+> 32 |       className={`action-btn ${customClass}`}
+     | ^^^^^^^^^^^^^^^^^^
+> 33 |     >
+     | ^^^^^^^^^^^^^^^^^^
+> 34 |       <Icon size={24} />
+     | ^^^^^^^^^^^^^^^^^^
+> 35 |       <span className="text-[10px] font-black mt-1 opacity-90">{label}</span>
+     | ^^^^^^^^^^^^^^^^^^
+> 36 |     </motion.button>
+     | ^^^^^^^^^^^^^^^^^^
+> 37 |   );
+     | ^^^^ The component is created during render here
+  38 |
+  39 |   return (
+  40 |     <div className="h-[80vh] flex flex-col relative pt-2">                     react-hooks/static-components
+  103:12  error    Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:103:12
+  101 |           <ActionButton onClick={() => handleSwipe('Reject')} icon={X} label="Reject" customClass="reject-button text-white" />
+  102 |           <ActionButton onClick={() => handleSwipe('Need More Info')} icon={HelpCircle} label="More Info" customClass="info-button" />
+> 103 |           <ActionButton onClick={() => handleSwipe('Hold')} icon={Pause} label="Hold" customClass="hold-button" />
+      |            ^^^^^^^^^^^^ This component is created during render
+  104 |           <ActionButton onClick={() => handleSwipe('Shortlist')} icon={Check} label="Shortlist" customClass="shortlist-button text-ink" />
+  105 |         </div>
+  106 |       )}
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:28:24
+  26 |   };
+  27 |
+> 28 |   const ActionButton = ({ onClick, icon: Icon, label, customClass }: any) => (
+     |                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 29 |     <motion.button
+     | ^^^^^^^^^^^^^^^^^^
+> 30 |       whileTap={{ scale: 0.9 }}
+     | ^^^^^^^^^^^^^^^^^^
+> 31 |       onClick={onClick}
+     | ^^^^^^^^^^^^^^^^^^
+> 32 |       className={`action-btn ${customClass}`}
+     | ^^^^^^^^^^^^^^^^^^
+> 33 |     >
+     | ^^^^^^^^^^^^^^^^^^
+> 34 |       <Icon size={24} />
+     | ^^^^^^^^^^^^^^^^^^
+> 35 |       <span className="text-[10px] font-black mt-1 opacity-90">{label}</span>
+     | ^^^^^^^^^^^^^^^^^^
+> 36 |     </motion.button>
+     | ^^^^^^^^^^^^^^^^^^
+> 37 |   );
+     | ^^^^ The component is created during render here
+  38 |
+  39 |   return (
+  40 |     <div className="h-[80vh] flex flex-col relative pt-2">                                                                          react-hooks/static-components
+  104:12  error    Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:104:12
+  102 |           <ActionButton onClick={() => handleSwipe('Need More Info')} icon={HelpCircle} label="More Info" customClass="info-button" />
+  103 |           <ActionButton onClick={() => handleSwipe('Hold')} icon={Pause} label="Hold" customClass="hold-button" />
+> 104 |           <ActionButton onClick={() => handleSwipe('Shortlist')} icon={Check} label="Shortlist" customClass="shortlist-button text-ink" />
+      |            ^^^^^^^^^^^^ This component is created during render
+  105 |         </div>
+  106 |       )}
+  107 |     </div>
+
+/Users/joanarocha/ThinkRightEY/ThinkRightEY/frontend-app/src/screens/SwipeScreen.tsx:28:24
+  26 |   };
+  27 |
+> 28 |   const ActionButton = ({ onClick, icon: Icon, label, customClass }: any) => (
+     |                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 29 |     <motion.button
+     | ^^^^^^^^^^^^^^^^^^
+> 30 |       whileTap={{ scale: 0.9 }}
+     | ^^^^^^^^^^^^^^^^^^
+> 31 |       onClick={onClick}
+     | ^^^^^^^^^^^^^^^^^^
+> 32 |       className={`action-btn ${customClass}`}
+     | ^^^^^^^^^^^^^^^^^^
+> 33 |     >
+     | ^^^^^^^^^^^^^^^^^^
+> 34 |       <Icon size={24} />
+     | ^^^^^^^^^^^^^^^^^^
+> 35 |       <span className="text-[10px] font-black mt-1 opacity-90">{label}</span>
+     | ^^^^^^^^^^^^^^^^^^
+> 36 |     </motion.button>
+     | ^^^^^^^^^^^^^^^^^^
+> 37 |   );
+     | ^^^^ The component is created during render here
+  38 |
+  39 |   return (
+  40 |     <div className="h-[80vh] flex flex-col relative pt-2">                                                                                                                                                                                               react-hooks/static-components
+
+✖ 14 problems (13 errors, 1 warning)
+

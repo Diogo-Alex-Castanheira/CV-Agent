@@ -2,11 +2,12 @@ import React from 'react';
 import { useAppContext } from '../context/AppContext';
 import { RoleCard } from '../components/RoleCard';
 import { motion } from 'framer-motion';
+import { Role } from '../types';
 
 export const RolesScreen: React.FC = () => {
   const { allRoles, setSelectedRole, setCurrentScreen } = useAppContext();
 
-  const handleRoleClick = (role: any) => {
+  const handleRoleClick = (role: Role) => {
     setSelectedRole(role);
     setCurrentScreen('swipe');
   };

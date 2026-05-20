@@ -2,6 +2,7 @@ import React from 'react';
 import { useAppContext } from '../context/AppContext';
 import { DashboardMetricCard } from '../components/DashboardMetricCard';
 import { RoleCard } from '../components/RoleCard';
+import { Role } from '../types';
 
 export const HomeScreen: React.FC = () => {
   const { allRoles, setSelectedRole, setCurrentScreen, decisions } = useAppContext();
@@ -20,7 +21,7 @@ export const HomeScreen: React.FC = () => {
     });
   });
 
-  const handleRoleClick = (role: any) => {
+  const handleRoleClick = (role: Role) => {
     setSelectedRole(role);
     setCurrentScreen('swipe');
   };

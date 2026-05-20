@@ -7,6 +7,21 @@ export interface MatchBreakdown {
   growthPotential: number;
 }
 
+export interface Interview {
+  id: string;
+  candidateId: string;
+  candidateName: string;
+  roleId: number;
+  roleTitle: string;
+  interviewType: string;
+  interviewer: string;
+  date: string;
+  time: string;
+  duration: number;
+  notes: string;
+  status: 'Scheduled' | 'Completed' | 'Cancelled';
+}
+
 export interface Candidate {
   id: string;
   cvId: number;
@@ -19,6 +34,19 @@ export interface Candidate {
   matchScore: number;
   label: string;
   recommendation: 'Shortlist' | 'Hold' | 'Need More Info' | 'Reject';
+  reviewStatus?: 'Pending' | 'Shortlisted' | 'Hold' | 'Need More Info' | 'Rejected' | 'Interview Scheduled';
+  interviewPriority?: 'High' | 'Medium' | 'Low';
+  recommendedInterviewType?: 'HR Screening' | 'Technical Interview' | 'Case Interview' | 'Partner Interview' | 'Culture Fit Interview';
+  suggestedInterviewer?: string;
+  suggestedInterviewFocus?: string;
+  scheduledInterview?: {
+    date: string;
+    time: string;
+    duration: number;
+    interviewer: string;
+    interviewType: string;
+    notes: string;
+  };
   skills: string[];
   languages: string[];
   certifications: string[];
@@ -41,6 +69,11 @@ export interface Role {
   department: string;
   location: string;
   candidatesCount: number;
+  reviewedCount?: number;
+  shortlistedCount?: number;
+  holdCount?: number;
+  rejectedCount?: number;
+  scheduledInterviewsCount?: number;
   topMatchScore: number;
   pipelineHealth: PipelineHealth;
   difficulty: Difficulty;
@@ -49,4 +82,4 @@ export interface Role {
 
 export type Decision = 'Shortlist' | 'Hold' | 'Need More Info' | 'Reject';
 
-export type Screen = 'home' | 'roles' | 'swipe' | 'compare' | 'insights' | 'detail';
+export type Screen = 'home' | 'roles' | 'swipe' | 'compare' | 'insights' | 'detail' | 'review-completed' | 'advanced-candidates' | 'schedule';

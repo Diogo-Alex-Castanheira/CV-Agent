@@ -3,8 +3,7 @@ import { useAppContext } from '../context/AppContext';
 import { MatchScoreCircle } from '../components/MatchScoreCircle';
 import { SkillTag } from '../components/SkillTag';
 import { ShieldAlert, ArrowLeft, Lightbulb, MapPin, Briefcase } from 'lucide-react';
-import { motion } from 'framer-motion';
-// @ts-ignore
+// @ts-expect-error Recharts typings are missing
 import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, Radar } from 'recharts';
 
 export const CandidateDetailScreen: React.FC = () => {

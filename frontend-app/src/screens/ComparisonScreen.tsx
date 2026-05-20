@@ -5,7 +5,7 @@ import { Award, Briefcase, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export const ComparisonScreen: React.FC = () => {
-  const { allRoles, allRoles: rolesList, getPendingCandidates, setSelectedCandidate, setCurrentScreen } = useAppContext();
+  const { allRoles: rolesList, setSelectedCandidate, setCurrentScreen } = useAppContext();
   const [activeRoleId, setActiveRoleId] = useState<number>(1);
 
   const activeRole = rolesList.find(r => r.roleId === activeRoleId);

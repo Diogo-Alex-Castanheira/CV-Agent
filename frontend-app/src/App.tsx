@@ -8,6 +8,9 @@ import { SwipeScreen } from './screens/SwipeScreen';
 import { CandidateDetailScreen } from './screens/CandidateDetailScreen';
 import { ComparisonScreen } from './screens/ComparisonScreen';
 import { InsightsScreen } from './screens/InsightsScreen';
+import { ReviewCompletedScreen } from './screens/ReviewCompletedScreen';
+import { AdvancedCandidatesScreen } from './screens/AdvancedCandidatesScreen';
+import { SchedulingScreen } from './screens/SchedulingScreen';
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
@@ -21,6 +24,9 @@ function App() {
       case 'detail': return <CandidateDetailScreen />;
       case 'compare': return <ComparisonScreen />;
       case 'insights': return <InsightsScreen />;
+      case 'review-completed': return <ReviewCompletedScreen />;
+      case 'advanced-candidates': return <AdvancedCandidatesScreen />;
+      case 'schedule': return <SchedulingScreen />;
       default: return <HomeScreen />;
     }
   };
