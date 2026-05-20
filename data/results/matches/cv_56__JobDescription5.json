@@ -1,0 +1,19 @@
+{
+  "name": "Laura Moreira",
+  "cv_id": "cv_56",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in property valuation and market analysis, but the role requires forensic accounting expertise. There is no direct evidence of domain task alignment.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in property valuation methodologies, real estate market analysis, investment return modeling, Excel, Argus, and CoStar, which are relevant to the role. However, there is no mention of forensic accounting or investigative skills.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in advising clients on investment strategy and portfolio optimization, but it's not directly related to the role's requirements for conducting forensic investigations and compliance matters. The candidate also lacks seniority and sector relevance.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or investigative skills.",
+    "Insufficient seniority and sector relevance for a Manager-level role.",
+    "No evidence of certifications relevant to the Forensic & Integrity Services team."
+  ],
+  "elapsed_seconds": 12.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Gonçalves",
+  "cv_id": "cv_14",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in forensic accounting and financial investigation is not directly related to the Data & AI Strategy role. While they have expertise in analyzing complex data, it is primarily in a financial context rather than a business or organizational one.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms and AI/ML technologies, as well as enterprise data governance frameworks. They also do not have relevant certifications such as Microsoft AI or AWS.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has significant experience in financial investigation and litigation support, it is not directly applicable to a Data & AI Strategy role. Their seniority (6+ years) and industry experience (financial services) are also relevant.",
+  "key_gaps": [
+    "Lack of direct experience with data platforms and AI/ML technologies",
+    "No relevant certifications in data governance or AI/ML",
+    "Limited industry experience outside of financial services"
+  ],
+  "elapsed_seconds": 9.3
+}

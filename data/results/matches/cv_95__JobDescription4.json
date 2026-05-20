@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_95",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital strategy, business analysis, and project management is not directly related to financial analysis. Although they have worked on projects that involved data-driven approaches, there is no explicit mention of financial modeling or analysis in their CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and experience with financial modeling (although not explicitly stated). They also have the required fluency in English and Portuguese. However, there is no mention of PMP certification or specific knowledge of financial regulations and standards.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in digital strategy, business analysis, and project management, with no direct relevance to financial services or financial analysis. Although they have worked on projects that involved data-driven approaches, there is no explicit mention of financial modeling or analysis.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or financial services",
+    "No explicit mention of financial modeling or analysis skills",
+    "Inadequate relevance of current experience to the role's requirements"
+  ],
+  "elapsed_seconds": 13.3
+}

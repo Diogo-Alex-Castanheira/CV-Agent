@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_62",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in banking operations and process optimization, which aligns with the role's responsibilities. However, there is a lack of direct evidence of forensic accounting or related fields, which is a key requirement for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills in banking operations and process optimization, as well as regulatory compliance (Basel, PSD2). However, there is no direct evidence of strong analytical and investigative skills, which are essential for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in managing teams and implementing process reengineering initiatives, but this is not directly relevant to the forensic accounting and compliance aspects of the role. The candidate's experience in regulatory reporting and compliance monitoring activities is also limited.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or related fields",
+    "Insufficient strong analytical and investigative skills",
+    "Limited experience in forensic accounting and compliance"
+  ],
+  "elapsed_seconds": 13.3
+}

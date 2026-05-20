@@ -1,0 +1,19 @@
+{
+  "name": "Ana Gomes",
+  "cv_id": "cv_50",
+  "jd_id": "JobDescription1",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in marketing strategy, brand transformation, and customer experience, which are relevant to the Director role. However, there is a significant gap between the candidate's domain (marketing) and the required domain (data & AI strategy).",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks technical skills in data platforms and AI/ML technologies, which are essential for the Director role. The only relevant certification mentioned is Google Marketing Platform, but it's not directly related to data or AI.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "While the candidate has extensive experience in marketing, there is no direct evidence of experience in data strategy, business intelligence, or AI/ML implementation. The candidate's experience in managing global brand transformations and delivering data-driven marketing initiatives may be transferable to some extent.",
+  "key_gaps": [
+    "Lack of technical skills in data platforms and AI/ML technologies",
+    "Insufficient experience in data strategy, business intelligence, or AI/ML implementation",
+    "No direct evidence of experience in leading enterprise-wide digital transformation initiatives"
+  ],
+  "elapsed_seconds": 15.6
+}

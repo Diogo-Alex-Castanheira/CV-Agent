@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_33",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk assessment and internal controls, which is relevant to the role. However, there is a lack of direct experience in technology risk or related fields, which is a key requirement.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in Basel III and MIFID II, which are relevant to the financial services sector. They also have proficiency in Advanced Excel and VBA, which could be useful for data analysis and reporting.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in risk assessment and internal controls, but it is not directly related to technology risk or the financial services sector. They lack seniority and relevant certifications, which are key requirements for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient seniority and relevant certifications",
+    "Limited sector relevance (financial services vs. broader technology risk)"
+  ],
+  "elapsed_seconds": 8.7
+}

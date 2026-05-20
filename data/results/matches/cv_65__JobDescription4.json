@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_65",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and process optimization, which is relevant to the Financial Analyst role. However, their background is in management consulting, which may not be directly applicable to financial analysis.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel, data analysis, and visualization tools, as well as project management methodologies. They also have strong presentation and communication skills, which are essential for the Financial Analyst role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in business analysis and process optimization, their experience is relatively short (2 years) and not directly related to financial services or financial analysis. They lack experience in preparing financial reports and forecasts, which are key responsibilities of a Financial Analyst.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or financial services",
+    "Insufficient experience in preparing financial reports and forecasts",
+    "No experience with financial modeling"
+  ],
+  "elapsed_seconds": 11.9
+}

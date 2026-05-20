@@ -1,0 +1,18 @@
+{
+  "name": "Ricardo Mendes",
+  "cv_id": "cv_69",
+  "jd_id": "JobDescription5",
+  "overall_score": 68,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in fraud investigation and litigation support, which aligns with the role's responsibilities. However, there is a lack of direct mention of forensic accounting or data analysis tools, which might be considered a minor gap.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant certifications (CFE) and skills in fraud investigation techniques, financial statement analysis, and data analytics. However, there is no mention of Big4-specific tools or experience with compliance programs, which might be considered a minor gap.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in financial investigations, compliance, and data analysis. The seniority (5 years) is also suitable for the Manager level. However, there is no direct mention of cross-functional team collaboration or industry trends, which might be considered a minor gap.",
+  "key_gaps": [
+    "Lack of direct experience with Big4-specific tools and compliance programs",
+    "Limited mention of cross-functional team collaboration and industry trends"
+  ],
+  "elapsed_seconds": 12.6
+}

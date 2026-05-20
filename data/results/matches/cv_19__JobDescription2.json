@@ -1,0 +1,19 @@
+{
+  "name": "Carolina Duarte",
+  "cv_id": "cv_19",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and reporting, which is a related task to technology risk. However, there is no direct evidence of experience in IT controls or compliance frameworks, which are key responsibilities of the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as financial analysis, financial modeling, Excel, PowerPoint, and Bloomberg Terminal. They also have fluency in English and Portuguese, which is a requirement for the role. However, there is no mention of certifications like CISA or CISSP, which are preferred.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial analysis and credit risk assessment, but it's not directly related to technology risk. They also lack seniority and experience in a Big4 advisory role, which is required for the position.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls or compliance frameworks",
+    "No certifications like CISA or CISSP",
+    "Insufficient seniority and experience in a Big4 advisory role"
+  ],
+  "elapsed_seconds": 12.0
+}

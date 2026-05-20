@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_37",
+  "jd_id": "JobDescription3",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and market research, which is relevant to the role's responsibilities. However, there is no direct evidence of cybersecurity expertise or experience in building and leading teams.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial modeling, market research, and strategic planning, but lacks specific cybersecurity certifications (e.g., CISSP, CISM, CEH) required by the role. They also lack experience with emerging cybersecurity threats and trends.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in cybersecurity, having only worked on retail clients and without any direct involvement in building or leading a cybersecurity team. Their research analyst internship is not directly related to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity, particularly in building and leading teams.",
+    "Insufficient cybersecurity certifications (e.g., CISSP, CISM, CEH) or knowledge of emerging threats and trends.",
+    "Limited relevance of business analysis and market research skills to the role's responsibilities."
+  ],
+  "elapsed_seconds": 12.9
+}

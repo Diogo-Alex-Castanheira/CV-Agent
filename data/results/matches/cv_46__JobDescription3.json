@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Duarte",
+  "cv_id": "cv_46",
+  "jd_id": "JobDescription3",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and technology consulting, which is relevant to the cybersecurity role. However, there is no direct evidence of expertise in cybersecurity frameworks, risk assessments, or threat analysis.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH) and has limited experience with cybersecurity tools and technologies. Their skills in CRM systems are also not directly relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in project management and system implementation, their background is not directly related to cybersecurity. They have some experience with cloud-based solutions, but it's not clear if they have worked on cybersecurity projects before.",
+  "key_gaps": [
+    "Lack of required certifications (e.g., CISSP, CISM, CEH) and experience with cybersecurity frameworks",
+    "Limited relevance of CRM system skills to the cybersecurity role",
+    "Insufficient direct experience in cybersecurity projects or tools"
+  ],
+  "elapsed_seconds": 12.6
+}

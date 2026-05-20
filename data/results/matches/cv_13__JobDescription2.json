@@ -1,0 +1,19 @@
+{
+  "name": "Jorge Silva",
+  "cv_id": "cv_13",
+  "jd_id": "JobDescription2",
+  "overall_score": 12,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or compliance experience. The candidate's domain is marine biology and scuba diving, with no apparent connection to technology risk management.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong understanding of IT controls and compliance frameworks, and relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in managing safety protocols and equipment maintenance, it is not directly related to technology risk management. The candidate's seniority (8+ years of experience) is also not relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance",
+    "Insufficient technical skills and certifications",
+    "Irrelevant seniority and experience in marine biology"
+  ],
+  "elapsed_seconds": 10.5
+}

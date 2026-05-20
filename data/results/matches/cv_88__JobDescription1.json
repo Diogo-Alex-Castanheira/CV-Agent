@@ -1,0 +1,20 @@
+{
+  "name": "Miguel Oliveira",
+  "cv_id": "cv_88",
+  "jd_id": "JobDescription1",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and business process optimization, which aligns with the role's responsibilities. However, there is no direct evidence of experience in data strategy, AI/ML implementation, or enterprise data governance frameworks, which are key requirements for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical skills in financial modeling, data analysis, and presentation tools like PowerPoint, Excel, and Tableau. They also have fluency in English and Portuguese, which meets one of the required language skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation projects, but it's not directly related to data strategy or AI/ML implementation. Their experience in McKinsey & Company is also limited to a short period (2 years) and lacks seniority.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance frameworks.",
+    "Limited seniority and short tenure in McKinsey & Company.",
+    "No evidence of experience in multiple industries, including financial services.",
+    "No mention of relevant certifications (e.g., Microsoft AI, AWS, PMI)."
+  ],
+  "elapsed_seconds": 14.5
+}

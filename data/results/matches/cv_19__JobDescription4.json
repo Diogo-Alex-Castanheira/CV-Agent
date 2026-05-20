@@ -1,0 +1,19 @@
+{
+  "name": "Carolina Duarte",
+  "cv_id": "cv_19",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and reporting, but lacks direct experience in financial planning and analysis. The role requires compliance with financial regulations and standards, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel, financial modeling, and Bloomberg Terminal, as well as fluency in English and Portuguese. They also have a CFA Level I Candidate certification, which aligns with the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial analysis and reporting, but lacks seniority and sector relevance. The role requires staff-level experience, which is not explicitly mentioned in the candidate's CV.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis",
+    "Insufficient seniority and sector relevance for a staff-level role",
+    "No explicit mention of compliance with financial regulations and standards"
+  ],
+  "elapsed_seconds": 11.1
+}

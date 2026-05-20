@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Mendes",
+  "cv_id": "cv_41",
+  "jd_id": "JobDescription3",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in ERP systems and SAP implementations, which aligns with the role's requirements. However, there is no direct mention of cybersecurity frameworks or best practices, which are crucial for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (SAP certified consultant) and skills in SAP FI/CO, ERP systems, and ABAP programming, which cover some of the required skills. However, there is no mention of cybersecurity-related skills or tools.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in system implementation and digital transformation projects, but it's not directly related to cybersecurity. The most recent role as an IT Consultant involves SAP implementations, which is a departure from the required experience of building and leading a cybersecurity team.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading a cybersecurity team or managing cybersecurity frameworks.",
+    "No mention of relevant cybersecurity certifications (e.g., CISSP, CISM, CEH).",
+    "Experience is not directly related to the required role, which involves establishing a comprehensive cybersecurity strategy."
+  ],
+  "elapsed_seconds": 14.0
+}

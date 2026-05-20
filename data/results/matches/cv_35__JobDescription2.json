@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_35",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and accounting, but lacks direct experience in technology risk or related fields. While they have a strong understanding of IFRS and Portuguese accounting standards, these are not directly relevant to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in audit methodology and procedures, as well as proficiency in SAP, Excel, PowerPoint. However, they lack experience with IT controls and compliance frameworks, and do not have relevant certifications (e.g., CISA, CISSP).",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has limited experience in a Big4 environment, and lacks seniority. While they have some experience in audit engagements, this is not directly transferable to the role's requirements for technology risk management.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient IT controls and compliance framework knowledge",
+    "Limited seniority and Big4 environment experience"
+  ],
+  "elapsed_seconds": 11.6
+}

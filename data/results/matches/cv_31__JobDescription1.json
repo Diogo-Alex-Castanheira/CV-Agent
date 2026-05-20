@@ -1,0 +1,19 @@
+{
+  "name": "Joana Matos",
+  "cv_id": "cv_31",
+  "jd_id": "JobDescription1",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain and tasks relevant to the Data & AI Strategy role. The candidate's experience is in Fado singing, performance arts, and cultural ambassadorship, which are unrelated to data strategy, AI/ML implementation, or business intelligence.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "No evidence of required skills such as technical understanding of data platforms, AI/ML technologies, or experience in multiple industries (financial services). The candidate's skills are related to music composition and cultural ambassadorship.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in data strategy, business intelligence, or AI/ML implementation. The candidate's experience is in performing Fado songs, conducting workshops, and building a reputation in the Fado community, which are unrelated to the Data & AI Strategy role.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks relevant to the Data & AI Strategy role.",
+    "No evidence of required skills such as technical understanding of data platforms or experience in multiple industries (financial services).",
+    "No relevant experience in data strategy, business intelligence, or AI/ML implementation."
+  ],
+  "elapsed_seconds": 15.6
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_90",
+  "jd_id": "JobDescription1",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "CV highlights experience in data strategy, business intelligence, and AI/ML implementation, with a proven track record in delivering large-scale digital transformation initiatives. The candidate also mentions experience building enterprise data governance frameworks, which aligns with the role's requirements.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The CV lists relevant technical skills such as cloud platforms (Azure and AWS), AI/ML technologies, and data governance frameworks. However, it lacks specific certifications like Microsoft AI or PMI, which are preferred by the role.",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "The candidate has over 15 years of experience in data strategy, business intelligence, and AI/ML implementation, with a strong track record in delivering large-scale digital transformation initiatives. The sector relevance is also mentioned, including financial services.",
+  "key_gaps": [
+    "Lack of specific certifications (e.g., Microsoft AI, PMI) compared to the role's requirements.",
+    "No mention of executive-level relationships or C-suite influence skills."
+  ],
+  "elapsed_seconds": 12.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Afonso Morais",
+  "cv_id": "cv_28",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in deal advisory and corporate finance is not directly related to cybersecurity, but they do have strong analytical skills that could be transferable. The CV does not mention any specific cybersecurity tasks or responsibilities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and experience in building and leading cybersecurity teams. They do not have fluency in English and Portuguese as required by the job description.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the role, with no mention of risk assessments, vulnerability assessments, or cybersecurity policies and procedures. They do not have any seniority in their current role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and experience in cybersecurity.",
+    "No direct experience in building and leading cybersecurity teams or conducting risk assessments/vulnerability assessments.",
+    "Inadequate fluency in English and Portuguese as required by the job description."
+  ],
+  "elapsed_seconds": 12.5
+}

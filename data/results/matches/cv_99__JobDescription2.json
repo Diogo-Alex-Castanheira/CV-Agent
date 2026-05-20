@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Martins",
+  "cv_id": "cv_99",
+  "jd_id": "JobDescription2",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in design, there is no direct evidence of technology risk or related fields. The role requires expertise in IT controls and compliance frameworks, which are not mentioned in the CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong understanding of IT controls and compliance frameworks, and relevant certifications like CISA or CISSP. The only mentioned skill is HTML/CSS basics, which is not sufficient for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in UI/UX design is not relevant to technology risk or related fields. There are no years of experience, seniority, sector relevance, or progression that align with the role's requirements.",
+  "key_gaps": [
+    "Lack of direct evidence of technology risk expertise and required skills",
+    "No relevant experience in technology risk or related fields",
+    "Insufficient skills to perform the role's responsibilities"
+  ],
+  "elapsed_seconds": 22.0
+}

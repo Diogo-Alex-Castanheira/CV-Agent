@@ -1,0 +1,19 @@
+{
+  "name": "Lucia Carvalho",
+  "cv_id": "cv_76",
+  "jd_id": "JobDescription2",
+  "overall_score": 51,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in actuarial analysis and statistical modeling is relevant to technology risk, but not directly applicable. The role requires expertise in IT controls and compliance frameworks, which the candidate lacks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, R, SAS, and knowledge of Solvency II requirements. They also possess fluency in Portuguese and English, meeting most of the required language skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in risk assessment and statistical modeling, it is primarily in the insurance industry, which differs from technology risk. They lack direct experience in IT controls and compliance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls and compliance frameworks",
+    "Insufficient expertise in technology-related risks and trends",
+    "No relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 11.3
+}

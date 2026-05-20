@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Oliveira",
+  "cv_id": "cv_39",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data transformation. While they have worked with regulatory frameworks like Basel III, GDPR, and AML directives, these are not directly related to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some relevant skills, such as SAS, R, Excel (advanced), and FRM certification. However, they lack experience with cloud platforms like Azure and AWS, which are required for the role. Additionally, their technical understanding of data platforms and AI/ML technologies is not explicitly stated.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in risk management and compliance, but it's not directly applicable to the role's requirements. They lack experience in leading enterprise-wide digital transformation initiatives, building AI governance frameworks, or contributing to business development through proposal creation and client presentations.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data transformation.",
+    "Insufficient technical understanding of cloud platforms like Azure and AWS.",
+    "Limited relevant experience in leading large-scale digital transformation initiatives."
+  ],
+  "elapsed_seconds": 14.5
+}

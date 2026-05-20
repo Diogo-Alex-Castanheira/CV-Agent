@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Sousa",
+  "cv_id": "cv_84",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation, which is relevant to the role. However, there is no direct evidence of technology risk management or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong understanding of IT controls and design thinking methodologies, which align with the role's requirements. Additionally, they have relevant certifications (Scrum Master certified) and fluency in English and Portuguese, which are preferred skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience leading cross-functional teams and implementing digital products, but there is limited evidence of technology risk management or senior-level consulting experience. The role requires 4-6 years of experience in technology risk or related fields.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management and compliance frameworks.",
+    "Insufficient senior-level consulting experience (only 2.5 years as Digital Innovation Manager).",
+    "No evidence of certifications specifically related to technology risk or IT controls."
+  ],
+  "elapsed_seconds": 12.4
+}

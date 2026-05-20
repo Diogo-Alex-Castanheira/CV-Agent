@@ -1,0 +1,19 @@
+{
+  "name": "Inês Rodrigues",
+  "cv_id": "cv_68",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in sustainability reporting and ESG strategy development is not directly related to the Data & AI Strategy role. Although they have worked on carbon footprint assessments, it's a narrow focus area compared to the broader scope of data governance and AI implementation required for this role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms (e.g., Azure, AWS), AI/ML technologies, and business intelligence tools. Their technical skills are limited to basic data analysis tools and visualization, which is not sufficient for the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in sustainability consulting is not relevant to the Director-level position in Data & AI Strategy. They lack seniority (15+ years of experience) and industry expertise, particularly in financial services, which are essential for this role.",
+  "key_gaps": [
+    "Lack of direct experience with data platforms and AI/ML technologies",
+    "Insufficient seniority and industry expertise",
+    "No relevant experience in financial services or large-scale digital transformation initiatives"
+  ],
+  "elapsed_seconds": 15.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_36",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in tax consulting is not directly related to cybersecurity, and there is no mention of relevant cybersecurity tasks or responsibilities. However, some transferable skills like risk assessment (e.g., conducting tax due diligence) could be considered indirectly relevant.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications in cybersecurity (e.g., CISSP, CISM, CEH), and their experience is not focused on cybersecurity frameworks or best practices.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has a strong background in tax compliance and advisory services, there is no direct experience in building and leading cybersecurity teams, conducting risk assessments, or staying current with emerging cybersecurity threats. Their experience in managing tax compliance processes could be considered transferable to some extent.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity certifications and experience",
+    "No direct experience in building and leading cybersecurity teams or conducting risk assessments",
+    "Insufficient focus on emerging cybersecurity threats and trends"
+  ],
+  "elapsed_seconds": 12.2
+}

@@ -1,0 +1,19 @@
+{
+  "name": "João Tavares",
+  "cv_id": "cv_6",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in data analytics, not cybersecurity. Although they have worked with data visualization tools like Power BI, there is no direct evidence of their involvement in building or leading a cybersecurity team, conducting risk assessments, or staying current with emerging threats.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cybersecurity frameworks and best practices. They do not have any relevant certifications (e.g., CISSP, CISM, CEH) in the field of cybersecurity.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some data analysis experience, their skills are not directly transferable to a cybersecurity role. They have worked with databases and performed exploratory data analysis, but these skills do not align with the requirements of the job.",
+  "key_gaps": [
+    "Lack of experience in building or leading a cybersecurity team",
+    "No relevant certifications in cybersecurity (e.g., CISSP, CISM, CEH)",
+    "Skills not directly transferable to a cybersecurity role"
+  ],
+  "elapsed_seconds": 10.8
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_94",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in tax consulting is not directly related to data strategy, AI/ML implementation, or enterprise data transformation. While they have expertise in corporate tax law and international tax treaties, these skills are not explicitly mentioned as relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms, AI/ML technologies, and cloud platforms like Azure and AWS. They also do not have a proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is limited to tax consulting and does not demonstrate any relevant experience in data strategy, AI/ML implementation, or enterprise data transformation. They do not have a strong track record of influencing at the C-suite level or contributing to business development through proposal creation and client presentations.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI/ML implementation, and enterprise data transformation.",
+    "Insufficient technical skills in data platforms, AI/ML technologies, and cloud platforms.",
+    "Limited relevant experience in influencing at the C-suite level or contributing to business development."
+  ],
+  "elapsed_seconds": 14.9
+}

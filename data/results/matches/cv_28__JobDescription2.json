@@ -1,0 +1,19 @@
+{
+  "name": "Afonso Morais",
+  "cv_id": "cv_28",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in deal advisory and corporate finance, which is related to technology risk. However, there is no direct evidence of expertise in IT controls or compliance frameworks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in financial due diligence, valuation, and financial modeling, which are relevant to the role. Additionally, they have experience with Excel, PowerPoint, and Bloomberg Terminal, which could be useful for data analysis and reporting.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in M&A advisory services, but it is not directly related to technology risk. They also lack experience in conducting assessments of technology controls and processes, or collaborating with clients to implement technology risk solutions.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient experience in conducting assessments of technology controls and processes",
+    "No evidence of collaboration with clients to implement technology risk solutions"
+  ],
+  "elapsed_seconds": 11.6
+}

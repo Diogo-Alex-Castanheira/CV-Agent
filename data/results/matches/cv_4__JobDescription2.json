@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_4",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in auditing and financial reporting, but lacks direct experience in technology risk or compliance. While they have a strong understanding of accounting standards (IFRS, GAAP), this is not directly related to the role's focus on technology risk.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in audit methodologies and compliance, as well as proficiency in SAP. However, they are missing specific certifications (e.g., CISA, CISSP) that are preferred for the role, and their experience is not directly related to technology risk.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has significant experience in auditing and financial reporting, but this is not directly relevant to the role's focus on technology risk. They lack experience in managing teams or collaborating with clients to implement technology risk solutions.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance",
+    "Missing specific certifications (e.g., CISA, CISSP) for the role",
+    "Inadequate relevance of auditing and financial reporting experience to the role's focus on technology risk"
+  ],
+  "elapsed_seconds": 10.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Dias",
+  "cv_id": "cv_63",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in machine learning and natural language processing, but the role requires financial analysis and compliance with financial regulations. There is no direct evidence of domain or task alignment.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Python, TensorFlow, PyTorch, and big data technologies (Spark, Hadoop), which are relevant to the role's requirements. Additionally, they have strong problem-solving abilities, but this is a soft skill that can be transferable.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no direct experience in financial analysis or related roles, and their experience in machine learning and AI is not relevant to the role's requirements. There is no signal of transferable skills or experience in finance.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles.",
+    "No evidence of domain or task alignment with the role's requirements.",
+    "Insufficient transferable skills from machine learning and AI experience to finance."
+  ],
+  "elapsed_seconds": 12.6
+}

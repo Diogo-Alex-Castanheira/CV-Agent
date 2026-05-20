@@ -1,0 +1,20 @@
+{
+  "name": "Marta Alves",
+  "cv_id": "cv_51",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in environmental impact assessments and sustainability management is not directly related to forensic accounting or integrity services. Although they have expertise in environmental compliance, there is no mention of investigative skills or data analysis.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields. They do not meet the requirement for fluency in English and Portuguese as a primary language.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in environmental compliance and regulatory reporting, their years of experience (2.5 years) are relatively short compared to the required 7+ years. Their sector relevance is also limited to environmental consulting, which is not directly related to forensic accounting.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields.",
+    "Insufficient years of experience (2.5 years) compared to the required 7+ years.",
+    "Limited sector relevance from environmental consulting to forensic accounting.",
+    "No direct evidence of investigative skills or data analysis."
+  ],
+  "elapsed_seconds": 14.6
+}

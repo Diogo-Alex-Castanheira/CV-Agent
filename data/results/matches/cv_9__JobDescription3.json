@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Carvalho",
+  "cv_id": "cv_9",
+  "jd_id": "JobDescription3",
+  "overall_score": 39,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in threat detection (risk assessments) and vulnerability scans, which aligns with the role's responsibilities. However, there is a lack of direct evidence on cybersecurity frameworks and best practices, as well as leading cybersecurity teams.",
+  "required_skills_score": 25,
+  "required_skills_reasoning": "The candidate has knowledge of NIST, ISO 27001, and GDPR, but lacks relevant certifications (CISSP, CISM, CEH) and experience in secure architecture assessments. Additionally, the required fluency in English is not explicitly mentioned.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience as a Cybersecurity Analyst at EY Portugal, which involves risk assessments and vulnerability scans. However, there is limited seniority (2 years) and no evidence of leading cybersecurity teams or managing projects.",
+  "key_gaps": [
+    "Lack of direct experience in leading cybersecurity teams or managing projects",
+    "Insufficient relevant certifications (CISSP, CISM, CEH)",
+    "Limited seniority and scope of responsibilities"
+  ],
+  "elapsed_seconds": 11.4
+}

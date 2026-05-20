@@ -1,0 +1,19 @@
+{
+  "name": "Tomás Santos",
+  "cv_id": "cv_32",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy development and business planning, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. While they have worked on projects related to financial services, telecommunications, and retail sectors, these are not directly relevant to the Data & AI Strategy role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience in financial modeling, market analysis, project management, and team leadership, which are transferable skills. However, they lack specific technical skills such as cloud platforms (Azure/AWS), AI/ML technologies, or data governance frameworks.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in strategy development and corporate planning, but lacks direct experience in leading large-scale digital transformation initiatives or building cross-functional teams of data scientists, engineers, and business analysts. Their experience in management consulting is also not directly relevant to the Data & AI Strategy role.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Insufficient technical skills such as cloud platforms (Azure/AWS), AI/ML technologies, or data governance frameworks.",
+    "Limited experience in leading large-scale digital transformation initiatives or building cross-functional teams."
+  ],
+  "elapsed_seconds": 15.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Pereira",
+  "cv_id": "cv_17",
+  "jd_id": "JobDescription5",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in ESG reporting and sustainable finance is not directly related to forensic accounting or integrity services. While they have expertise in ESG frameworks, there is no mention of investigative skills or compliance matters.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and does not meet the requirement for fluency in English and Portuguese. Although they have a GRI certification, it is not explicitly stated that they possess any forensic accounting or investigative skills.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in sustainability reporting and corporate social responsibility is not relevant to the role of a consultant in forensic & integrity services. There is no mention of investigative skills, compliance matters, or experience working with cross-functional teams.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and forensic accounting expertise.",
+    "No direct experience in investigative skills or compliance matters.",
+    "Inadequate transferable skills from sustainability consulting to forensic & integrity services."
+  ],
+  "elapsed_seconds": 13.6
+}

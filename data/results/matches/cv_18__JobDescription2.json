@@ -1,0 +1,19 @@
+{
+  "name": "Fernando Gomes",
+  "cv_id": "cv_18",
+  "jd_id": "JobDescription2",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or related fields. The candidate's domain is pastry and dessert preparation, with no mention of technology controls, compliance frameworks, or risk management.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in traditional Portuguese pastries, chocolate work, and sugar art, but lacks experience with IT controls, compliance frameworks, and risk management. The required certification (CISA, CISSP) is also not mentioned.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in pastry preparation is unrelated to technology risk or related fields. There is no mention of managing technology-related risks, developing risk management frameworks, or collaborating with clients on technology risk solutions.",
+  "key_gaps": [
+    "Lack of experience in technology risk or related fields",
+    "No relevant skills or certifications for the role (e.g., IT controls, compliance frameworks, CISA, CISSP)",
+    "Unrelated work experience in pastry preparation"
+  ],
+  "elapsed_seconds": 11.7
+}

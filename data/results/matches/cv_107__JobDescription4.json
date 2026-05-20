@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Ribeiro",
+  "cv_id": "cv_107",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in market analysis and competitive benchmarking, which is relevant to financial planning and analysis. However, the role requires specific skills in finance, accounting, or related fields, which are not explicitly mentioned in the CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel, financial modeling, and strong analytical skills, which align with the requirements of the role. However, there is no direct mention of fluency in Portuguese or experience in financial analysis or related roles.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in market research and competitive intelligence, but it's not directly applicable to financial planning and analysis. The role requires specific experience in financial analysis or related roles, which is lacking in the CV.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "No mention of fluency in Portuguese required by the role",
+    "Insufficient relevance of market research and competitive intelligence skills to financial planning and analysis"
+  ],
+  "elapsed_seconds": 19.1
+}

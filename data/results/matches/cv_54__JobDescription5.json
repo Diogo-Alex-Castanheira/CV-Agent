@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Gomes",
+  "cv_id": "cv_54",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in internal audit, which is related to the role's domain. However, there is a significant gap between the candidate's expertise in internal audit methodologies and risk assessment/control evaluation and the forensic investigation/data analysis tasks required by the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CIA) and skills in internal audit methodologies, IIA standards, and COSO framework, which are closely related to the role's requirements. However, there is a gap between the required fluency in English and Portuguese and the job description's requirement for 'Fluency in English and Portuguese'.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in risk assessment and control evaluation, but it is not directly related to forensic investigation or compliance matters. The seniority of the role (Senior Internal Auditor) is also lower than the required Manager level.",
+  "key_gaps": [
+    "Lack of direct experience in forensic investigation/data analysis and compliance matters.",
+    "Insufficient seniority for the Manager-level role.",
+    "Gaps between required fluency in English and Portuguese and the job description's requirement."
+  ],
+  "elapsed_seconds": 14.0
+}

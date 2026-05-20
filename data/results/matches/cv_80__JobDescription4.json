@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Moreira",
+  "cv_id": "cv_80",
+  "jd_id": "JobDescription4",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "While the candidate has extensive experience in data engineering, business intelligence, and AI governance, their expertise is not directly aligned with financial analysis. The role requires strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate has certifications in Microsoft AI Fundamentals and Microsoft Data Fundamentals, but these are not directly relevant to financial analysis. They also have skills in data governance and regulatory compliance, which may be tangentially related, but are not a direct match for the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has extensive experience in data engineering and business intelligence, but most of their experience is in industries unrelated to financial services (e.g., healthcare, energy). While they have some experience with data governance and regulatory compliance, it is not directly applicable to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles.",
+    "Insufficient proficiency in Excel and financial modeling.",
+    "Inadequate fluency in English (only fluent in Portuguese, French, and Spanish)."
+  ],
+  "elapsed_seconds": 17.2
+}

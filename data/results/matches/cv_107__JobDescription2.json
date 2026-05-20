@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Ribeiro",
+  "cv_id": "cv_107",
+  "jd_id": "JobDescription2",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in market analysis and competitive benchmarking, which is relevant to the role's responsibilities. However, there is a significant gap between their domain (business strategy) and the required domain (technology risk).",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in financial modeling, market research, and analysis, which are directly relevant to the role. They also have proficiency in Excel, PowerPoint, and Tableau, which is a plus. The only missing skill is technology risk expertise.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in strategy consulting and market research, but it's not directly related to technology risk or the required seniority level (4-6 years).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or a related field.",
+    "Missing relevant certifications (e.g., CISA, CISSP) and expertise in IT controls and compliance frameworks.",
+    "Insufficient seniority level (4-6 years) for the role."
+  ],
+  "elapsed_seconds": 19.2
+}

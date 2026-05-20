@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Oliveira",
+  "cv_id": "cv_88",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial services through their work at McKinsey & Company, but the role requires a specific focus on financial analysis. The candidate's skills and experience are more general, with a strong background in strategy development and process optimization.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, which aligns with the role's requirements. However, there is no direct evidence of fluency in Portuguese or experience with financial regulations and standards.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in finance through their work at McKinsey & Company, it is not directly applicable to the role. The candidate's experience is more focused on strategy development and process optimization, rather than financial analysis.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and compliance with financial regulations and standards.",
+    "Insufficient fluency in Portuguese compared to the required fluency in English and Portuguese.",
+    "Experience is more focused on strategy development and process optimization rather than financial analysis."
+  ],
+  "elapsed_seconds": 13.1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Marta Alves",
+  "cv_id": "cv_51",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise in environmental impact assessments and sustainability management is not directly related to financial analysis. Although they have experience with regulatory reporting, it is not explicitly stated that this experience is relevant to financial services.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. They also do not mention any experience with financial software or tools required for the job.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in environmental compliance and sustainability, it is not directly applicable to financial analysis. However, their analytical skills may be transferable to a financial role.",
+  "key_gaps": [
+    "Lack of relevant technical skills (Excel, financial modeling)",
+    "No direct experience in financial analysis or related roles",
+    "Transferable analytical skills may be applicable but not explicitly stated"
+  ],
+  "elapsed_seconds": 11.4
+}

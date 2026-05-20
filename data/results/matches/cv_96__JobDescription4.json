@@ -1,0 +1,19 @@
+{
+  "name": "Inês Oliveira",
+  "cv_id": "cv_96",
+  "jd_id": "JobDescription4",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Although the candidate has experience in financial services, their role as Risk Analyst at Banco Santander Totta involves more risk management tasks than financial analysis. The candidate's expertise in internal controls and regulatory compliance is relevant to the Financial Analyst role, but not directly applicable.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with Excel and financial modeling, which are essential skills for a Financial Analyst. Although they have strong analytical and quantitative skills, these are transferable from their risk management background.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in financial services, but it's mostly focused on risk management rather than financial analysis. They lack seniority and progression in their current role, which is a requirement for the Staff level.",
+  "key_gaps": [
+    "Lack of experience with Excel and financial modeling",
+    "Insufficient seniority and progression in current role",
+    "Limited focus on financial analysis tasks"
+  ],
+  "elapsed_seconds": 12.3
+}

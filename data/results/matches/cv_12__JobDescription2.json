@@ -1,0 +1,20 @@
+{
+  "name": "Ricardo Neves",
+  "cv_id": "cv_12",
+  "jd_id": "JobDescription2",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting and budgeting, which is relevant to the role. However, there is no direct evidence of technology risk or compliance expertise.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as IT controls and compliance frameworks knowledge, as well as certifications like CISA or CISSP.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial management, it is not directly related to technology risk. The seniority level (5 years of experience) is also lower than required for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance expertise",
+    "Insufficient IT controls and compliance frameworks knowledge",
+    "Inadequate seniority level (4-6 years of experience required)",
+    "No relevant certifications like CISA or CISSP"
+  ],
+  "elapsed_seconds": 10.2
+}

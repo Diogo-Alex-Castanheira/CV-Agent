@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Ramos",
+  "cv_id": "cv_103",
+  "jd_id": "JobDescription4",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial services, but the role requires a focus on financial analysis rather than audit management. The candidate's skills in IFRS and GAAP are relevant, but not directly applicable to the Financial Analyst role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which is a key requirement for the Financial Analyst role. Although they have experience with SAP, it's not explicitly mentioned as a relevant skill for this position.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has extensive experience in auditing and project management, but it's not directly applicable to financial analysis or the Financial Analyst role. Their experience in financial services is relevant, but not enough to compensate for the lack of specific analytical skills.",
+  "key_gaps": [
+    "Lack of proficiency in Excel and financial modeling",
+    "Insufficient direct experience in financial analysis or Financial Analyst role",
+    "No mention of relevant tools like financial planning and budgeting software"
+  ],
+  "elapsed_seconds": 19.4
+}

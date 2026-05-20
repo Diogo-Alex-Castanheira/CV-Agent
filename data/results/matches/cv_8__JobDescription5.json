@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_8",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy consulting, which is related to the role's domain. However, there is no direct evidence of forensic accounting or investigative skills required for the Forensic & Integrity Services team.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has relevant skills such as Excel modeling, PowerPoint, and Power BI, which are useful in data analysis. However, there is no mention of certifications like CFE or CPA, and the candidate's experience is not directly related to forensic accounting.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in strategy consulting, but it's not directly relevant to the Forensic & Integrity Services team. The candidate's experience in process optimization and cost-saving strategies is also not directly applicable to investigative work.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or investigative skills",
+    "No relevant certifications like CFE or CPA",
+    "Experience in strategy consulting is not directly applicable to the Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 11.0
+}

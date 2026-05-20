@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Lima",
+  "cv_id": "cv_71",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in risk management, there is no direct evidence of expertise in data strategy, AI governance, or advanced analytics solutions. The role requires strategic thinkers who can translate business objectives into actionable data frameworks, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to risk management and internal control design, but lacks expertise in cloud platforms like Azure and AWS, as well as experience with AI/ML technologies. The role also requires strong technical understanding of data platforms, which is not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in risk management and internal control design, but lacks experience in large-scale digital transformation initiatives, enterprise data governance frameworks, or executive-level relationships. The role requires 15+ years of experience in data strategy, business intelligence, and AI/ML implementation.",
+  "key_gaps": [
+    "Lack of direct evidence of expertise in data strategy, AI governance, or advanced analytics solutions.",
+    "Insufficient technical understanding of cloud platforms like Azure and AWS.",
+    "Inadequate experience in large-scale digital transformation initiatives and enterprise data governance frameworks."
+  ],
+  "elapsed_seconds": 28.3
+}

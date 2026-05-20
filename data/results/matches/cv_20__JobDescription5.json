@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Almeida",
+  "cv_id": "cv_20",
+  "jd_id": "JobDescription5",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in supply chain management, process optimization, and operational excellence, which are relevant to the role. However, there is no direct evidence of forensic accounting or related fields, and the candidate's expertise in lean methodologies and digital transformation initiatives may not be directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with certifications such as CFE (Certified Forensic Examiner) or CPA (Certified Public Accountant), which are required for the role. Additionally, there is no mention of relevant skills in forensic accounting or data analysis.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has extensive experience in operational management and process optimization, but most of it is not directly related to forensic accounting or integrity services. The candidate's experience in managing investigations and compliance matters is missing from the CV.",
+  "key_gaps": [
+    "Lack of direct experience with forensic accounting or related fields",
+    "No relevant certifications (e.g., CFE, CPA) mentioned",
+    "Insufficient experience in managing investigations and compliance matters"
+  ],
+  "elapsed_seconds": 13.8
+}

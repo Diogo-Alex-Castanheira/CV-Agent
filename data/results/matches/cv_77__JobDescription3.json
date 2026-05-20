@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_77",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in digital marketing, which is not directly related to cybersecurity. Although they have experience with Google Analytics and Google Ads, these tools are primarily used for data analysis and advertising, rather than threat detection or vulnerability assessment.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and experience in building and leading cybersecurity teams. They also do not have any mentioned knowledge of cybersecurity frameworks and best practices.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of the candidate's experience in cybersecurity, risk assessments, or vulnerability assessments. Their experience in digital marketing is not transferable to this role.",
+  "key_gaps": [
+    "Lack of relevant certifications and experience in cybersecurity",
+    "No direct evidence of expertise in threat detection, vulnerability assessment, or cybersecurity frameworks",
+    "Transferable skills from digital marketing are not sufficient for this role"
+  ],
+  "elapsed_seconds": 12.7
+}

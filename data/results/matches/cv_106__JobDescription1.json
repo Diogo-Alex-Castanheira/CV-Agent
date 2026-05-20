@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Lopes",
+  "cv_id": "cv_106",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in social media management and content creation is not directly related to data strategy, AI/ML implementation, or enterprise data transformation. Although the candidate has a postgraduate diploma in digital marketing, it does not explicitly mention data science or AI-related courses.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms and AI/ML technologies, as well as certifications like Microsoft AI or AWS. The only relevant technical skill mentioned is Google Analytics, which is not directly related to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in digital marketing and social media management is not relevant to the Director of Data & AI Strategy role. Although they have some experience with content creation and community management, it does not demonstrate leadership or strategic thinking skills required for this position.",
+  "key_gaps": [
+    "Lack of relevant technical skills and certifications in data platforms and AI/ML technologies.",
+    "Insufficient experience in data strategy, business intelligence, and AI/ML implementation.",
+    "No direct evidence of leadership or strategic thinking skills required for the Director role."
+  ],
+  "elapsed_seconds": 21.3
+}

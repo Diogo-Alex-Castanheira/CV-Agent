@@ -1,0 +1,19 @@
+{
+  "name": "Inês Oliveira",
+  "cv_id": "cv_96",
+  "jd_id": "JobDescription3",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk assessment and compliance, but the role requires expertise in cybersecurity frameworks and best practices. There is no direct evidence of domain task alignment.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in internal controls and regulatory frameworks, which are relevant to some aspects of the role. However, there is a lack of specific cybersecurity-related skills and certifications required by the job description.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in risk management and compliance, but it's not directly related to cybersecurity. There is no evidence of leadership or team management experience, which is a key requirement for the role.",
+  "key_gaps": [
+    "Lack of direct domain task alignment with cybersecurity frameworks and best practices.",
+    "Insufficient cybersecurity-related skills and certifications.",
+    "Limited leadership and team management experience in a cybersecurity context."
+  ],
+  "elapsed_seconds": 12.5
+}

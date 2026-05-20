@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Vieira",
+  "cv_id": "cv_53",
+  "jd_id": "JobDescription1",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marketing analytics and attribution modeling is not directly related to the Data & AI Strategy role. Although they have worked with Google Analytics, their expertise is more focused on campaign performance measurement rather than data governance or AI implementation.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with marketing analytics tools like Google Analytics and Adobe Analytics, as well as basic programming skills in SQL, Python, and R. However, they lack expertise in cloud platforms like Azure and AWS, which are required for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in marketing analytics, with no direct experience in data strategy, business intelligence, or AI/ML implementation. They also lack seniority and industry experience, which are critical for the Director role.",
+  "key_gaps": [
+    "Lack of domain task alignment with Data & AI Strategy role",
+    "Insufficient technical skills in cloud platforms like Azure and AWS",
+    "Inadequate seniority and industry experience for Director role"
+  ],
+  "elapsed_seconds": 13.4
+}

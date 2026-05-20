@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_8",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis, but the role requires a specific background in finance, accounting, or related field. The candidate's skills are more general, with expertise in strategy design and business case development.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, which aligns with the role's requirements. However, there is no direct evidence of experience with financial regulations and standards, or fluency in English and Portuguese as required.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in financial analysis, but it's limited to a junior consultant role. The candidate lacks seniority and direct experience in financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of specific finance background and accounting expertise",
+    "Insufficient seniority and direct experience in financial planning and analysis",
+    "No evidence of compliance with financial regulations and standards"
+  ],
+  "elapsed_seconds": 10.7
+}

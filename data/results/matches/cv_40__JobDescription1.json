@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Oliveira",
+  "cv_id": "cv_40",
+  "jd_id": "JobDescription1",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in HR, talent management, and organizational development, which doesn't directly align with the Data & AI Strategy role. While they have a strong background in change management and digital transformation, these skills are not explicitly mentioned as requirements for the position.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with HR analytics and workforce planning, which is relevant to data strategy. However, they lack technical expertise in AI/ML technologies, cloud platforms like Azure and AWS, and data governance frameworks, which are essential for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in HR and talent management, with no direct relevance to data strategy or AI implementation. While they have led digital transformation initiatives, these were primarily focused on HR operations rather than enterprise-wide data transformation.",
+  "key_gaps": [
+    "Lack of technical expertise in AI/ML technologies and cloud platforms.",
+    "Insufficient experience with data governance frameworks and enterprise data strategy.",
+    "No direct relevance to data strategy or AI implementation."
+  ],
+  "elapsed_seconds": 14.3
+}

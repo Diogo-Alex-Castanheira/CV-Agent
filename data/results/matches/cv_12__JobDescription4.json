@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Neves",
+  "cv_id": "cv_12",
+  "jd_id": "JobDescription4",
+  "overall_score": 80,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting, budgeting, and cost control, which aligns with the role's responsibilities. However, there is a lack of direct mention of financial analysis or forecasting, which could be seen as a minor gap.",
+  "required_skills_score": 90,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, as well as experience with SAP FI/CO. However, there is no explicit mention of US GAAP or IFRS, which could be seen as a minor gap.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in financial analysis and reporting, but the role requires 0-2 years of experience. The candidate's seniority is also higher than required, which may not be directly applicable to this role.",
+  "key_gaps": [
+    "Lack of direct mention of financial analysis or forecasting in the domain_task_alignment.",
+    "No explicit mention of US GAAP or IFRS, although SAP FI/CO proficiency is mentioned.",
+    "Seniority may not be directly applicable to this role."
+  ],
+  "elapsed_seconds": 12.2
+}

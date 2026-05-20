@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_2",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Candidate has a degree in Economics, which is related to Finance, but lacks specific experience in financial analysis. They also mention 'data analysis' as a skill, which is relevant to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Candidate has strong analytical and quantitative skills, proficiency in Excel, and fluency in English and Portuguese. However, they lack specific experience with financial modeling and compliance regulations.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Candidate has only 0 years of experience, which is below the required level for this role. They also lack sector relevance and progression in their current or previous roles.",
+  "key_gaps": [
+    "Lack of specific financial analysis experience",
+    "Insufficient experience with financial modeling and compliance regulations",
+    "Inadequate sector relevance and progression in current or previous roles"
+  ],
+  "elapsed_seconds": 7.3
+}

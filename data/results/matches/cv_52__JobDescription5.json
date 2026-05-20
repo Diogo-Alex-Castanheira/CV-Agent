@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Fonseca",
+  "cv_id": "cv_52",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in M&A transactions and corporate development, which is related to the role's domain. However, there is a significant gap in terms of forensic accounting expertise, as the role requires specific knowledge of investigations and compliance matters.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, which are relevant to the role. They also have experience with financial modeling and valuation, as well as proficiency in Excel, PowerPoint, Capital IQ, and Bloomberg. However, there is no direct evidence of certifications like CFE or CPA.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in M&A transactions, but it's not directly related to forensic accounting or compliance matters. They lack seniority and sector relevance compared to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance matters",
+    "No relevant certifications like CFE or CPA",
+    "Insufficient seniority and sector relevance compared to the role's requirements"
+  ],
+  "elapsed_seconds": 12.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "João Tavares",
+  "cv_id": "cv_6",
+  "jd_id": "JobDescription1",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analytics and consulting, but lacks direct experience in AI/ML implementation and enterprise-wide data transformation. They have skills relevant to the role, such as Python, SQL, and Power BI, but not specifically in cloud platforms like Azure or AWS.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical skills in Python, SQL, and Power BI, which are directly relevant to the role. They also have experience with machine learning using Scikit-learn, which is a plus. However, they lack specific certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has significant experience in data analytics and consulting, but most of it is in financial services and consumer markets, which are not directly relevant to the role. They also lack seniority and experience building and implementing enterprise data governance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience in AI/ML implementation and enterprise-wide data transformation",
+    "No specific certifications like Microsoft AI or AWS",
+    "Limited seniority and experience building and implementing enterprise data governance frameworks"
+  ],
+  "elapsed_seconds": 11.0
+}

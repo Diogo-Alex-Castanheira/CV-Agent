@@ -1,0 +1,19 @@
+{
+  "name": "Maria Ferreira",
+  "cv_id": "cv_7",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in data analysis and business intelligence, which is not directly related to cybersecurity. Although they have worked with financial data, there is no mention of security frameworks or best practices.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned in the candidate's CV. The skills listed do not include any cybersecurity-specific tools or technologies.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "The candidate has experience working with data pipelines and automation, which could be transferable to a role that involves managing data for security purposes. However, there is no direct experience in cybersecurity or related fields.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and cybersecurity-specific skills",
+    "No direct experience in cybersecurity or related fields",
+    "Experience is in data analysis and business intelligence, not directly applicable to the role"
+  ],
+  "elapsed_seconds": 11.9
+}

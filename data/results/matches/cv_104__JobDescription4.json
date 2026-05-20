@@ -1,0 +1,19 @@
+{
+  "name": "André Neves",
+  "cv_id": "cv_104",
+  "jd_id": "JobDescription4",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "The candidate has experience in ecological research and environmental impact assessment, but the role requires financial analysis and planning. There is no direct evidence of relevant skills or experience in finance.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. Additionally, there is no mention of fluency in English (the role requires it).",
+  "relevant_experience_score": 10,
+  "relevant_experience_reasoning": "Although the candidate has experience in research and analysis, their background is in marine biology, which is not directly related to finance. However, they do have some transferable skills like statistical analysis and scientific writing.",
+  "key_gaps": [
+    "Lack of financial analysis experience and required skills (Excel, financial modeling)",
+    "Inadequate language proficiency in English",
+    "Insufficient transferable skills from marine biology background"
+  ],
+  "elapsed_seconds": 17.0
+}

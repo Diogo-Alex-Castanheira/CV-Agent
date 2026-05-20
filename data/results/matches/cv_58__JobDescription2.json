@@ -1,0 +1,19 @@
+{
+  "name": "Diana Costa",
+  "cv_id": "cv_58",
+  "jd_id": "JobDescription2",
+  "overall_score": 34,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in human resources, but the role requires expertise in technology risk. Although there is no direct overlap, the candidate's change management and organizational development skills might be transferable to a risk advisory context.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks strong understanding of IT controls and compliance frameworks, as well as relevant certifications like CISA or CISSP. The only mentioned certification is HR Professional, which is not directly related to the role's requirements.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in HR roles, but it's not directly related to technology risk management. Although they have led initiatives like performance management system implementation, there's no clear connection to technology controls or compliance frameworks.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management and IT controls.",
+    "Insufficient understanding of compliance frameworks and relevant certifications.",
+    "Limited relevance of HR experience to the role's requirements."
+  ],
+  "elapsed_seconds": 12.7
+}

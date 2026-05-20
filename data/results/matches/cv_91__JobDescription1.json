@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Santos",
+  "cv_id": "cv_91",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in international tax planning, cross-border transactions, and tax controversy, which is a different domain from data strategy, AI/ML implementation, and enterprise data transformation. Although the candidate has experience advising multinational clients on structuring global operations, it does not directly relate to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks technical skills in data platforms and AI/ML technologies, which are essential for the role. The only relevant skill mentioned is 'Strong research and technical writing abilities', but it is not directly applicable to the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate does not have any experience in data strategy, business intelligence, AI/ML implementation, or enterprise data transformation. Although they have experience advising multinational clients on structuring global operations, it is not relevant to the role's requirements.",
+  "key_gaps": [
+    "Lack of technical skills in data platforms and AI/ML technologies",
+    "No experience in data strategy, business intelligence, AI/ML implementation, or enterprise data transformation",
+    "Relevant expertise is in international tax planning, which is a different domain from the role's requirements"
+  ],
+  "elapsed_seconds": 14.6
+}

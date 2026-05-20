@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_62",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in banking operations and process optimization, which is relevant to the role. However, there is no direct evidence of expertise in data strategy, AI/ML implementation, or enterprise data governance frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in regulatory compliance (Basel, PSD2), which is a requirement for the role. Additionally, they have experience with process optimization methodologies and Six Sigma Green Belt certification. However, there is no direct evidence of technical understanding of data platforms or AI/ML technologies.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in leading process reengineering initiatives and implementing digital solutions for customer onboarding. However, this experience is not directly related to the role's requirements for large-scale digital transformation initiatives or enterprise data governance frameworks.",
+  "key_gaps": [
+    "Lack of direct evidence of expertise in data strategy and AI/ML implementation.",
+    "No experience with cloud platforms like Azure and AWS.",
+    "Insufficient seniority or industry experience (financial services) compared to the role's requirements."
+  ],
+  "elapsed_seconds": 14.2
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Fonseca",
+  "cv_id": "cv_52",
+  "jd_id": "JobDescription2",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in M&A transactions and corporate development, which is related to technology risk. However, the specific tasks mentioned in the CV (deal structuring, valuation, financial due diligence) are not directly aligned with the role's responsibilities (conducting assessments of technology controls and processes).",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, PowerPoint, Capital IQ, and Bloomberg, which aligns with the required skills. Additionally, they have a CFA Charter holder, which is relevant to financial modeling and valuation.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has experience in finance and corporate development, it's not directly related to technology risk or IT controls. They lack seniority and sector relevance compared to the required experience level (4-6 years) and industry (technology).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient seniority and sector relevance compared to the required level",
+    "No mention of relevant certifications (e.g., CISA, CISSP) for technology risk"
+  ],
+  "elapsed_seconds": 13.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Joana Matos",
+  "cv_id": "cv_31",
+  "jd_id": "JobDescription4",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of financial analysis or related tasks, but transferable skills like performance arts and stage presence might be relevant in a corporate setting.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "Lack of proficiency in Excel and financial modeling, although the candidate has strong analytical skills. Fluency in English is required, but not explicitly mentioned as a must-have skill for this role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in financial analysis or related roles, only performance experience in Fado singing and cultural ambassadorship.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related tasks",
+    "Insufficient proficiency in Excel and financial modeling",
+    "No relevant experience in financial services or corporate setting"
+  ],
+  "elapsed_seconds": 10.9
+}

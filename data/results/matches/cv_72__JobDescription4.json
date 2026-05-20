@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Martins",
+  "cv_id": "cv_72",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and valuation, which is relevant to the Financial Analyst role. However, their background is in M&A transactions, which may not be directly applicable to all aspects of the job.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese. They also have experience with due diligence procedures and M&A transaction processes, which are relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has some experience in financial analysis and valuation, but their seniority is relatively low (M&A Analyst) and they lack direct experience in financial planning and analysis activities. Their sector relevance is also limited to M&A transactions.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Limited seniority compared to the required Staff level",
+    "Insufficient experience in financial services sector"
+  ],
+  "elapsed_seconds": 13.1
+}

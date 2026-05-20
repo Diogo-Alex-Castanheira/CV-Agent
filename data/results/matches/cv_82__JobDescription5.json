@@ -1,0 +1,19 @@
+{
+  "name": "Eduardo Costa",
+  "cv_id": "cv_82",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business valuation, financial modeling, and business analysis, which is relevant to the role. However, there is a lack of direct evidence of forensic accounting or related fields, which are key responsibilities of the Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, as well as experience in financial modeling and scenario analysis. They also have relevant certifications (CFA charterholder) and language proficiency (Portuguese and English). The only missing skill is fluency in Portuguese, which is required by the job description.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in business valuation and financial analysis, but it's not directly related to forensic accounting or compliance matters. They lack seniority and sector relevance (Forensic & Integrity Services) compared to the required 7+ years of experience.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or related fields",
+    "Missing fluency in Portuguese",
+    "Insufficient seniority and sector relevance"
+  ],
+  "elapsed_seconds": 13.1
+}

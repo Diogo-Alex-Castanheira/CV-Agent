@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Lopes",
+  "cv_id": "cv_106",
+  "jd_id": "JobDescription2",
+  "overall_score": 40,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in social media management and content creation is not directly related to technology risk, but they do have some transferable skills in monitoring KPIs and optimizing campaigns based on performance data. However, there is no direct evidence of their understanding of IT controls and compliance frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Google Analytics and Meta Business Suite, which could be relevant to monitoring KPIs in a technology risk context. They also have skills in Adobe Creative Suite and Canva, but these are not directly related to the role's requirements. The Google Ads certification is also relevant, as it shows their understanding of online advertising, which could be applicable to developing risk management frameworks.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in managing social media presence and creating content, but this is not directly related to technology risk. They do have some relevant experience in monitoring KPIs and optimizing campaigns, which could be transferable to a role in technology risk. However, their seniority level (4 years of experience) is lower than the required 4-6 years.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields.",
+    "Insufficient understanding of IT controls and compliance frameworks.",
+    "Inadequate seniority level for the role."
+  ],
+  "elapsed_seconds": 22.9
+}

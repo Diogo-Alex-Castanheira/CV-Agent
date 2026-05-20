@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Fernandes",
+  "cv_id": "cv_24",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in external audit and assurance services, which is a different domain from Data & AI Strategy. Although they have expertise in financial reporting and auditing procedures, there is no direct evidence of experience in data strategy or AI/ML implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong technical understanding of data platforms and AI/ML technologies. They do not mention any relevant certifications like Microsoft AI, AWS, or PMI.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in industries (manufacturing and retail), it is not directly related to financial services, which is a key requirement. Their experience as an accounting intern is also limited to month-end closing processes and accounts payable.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy or AI/ML implementation",
+    "Insufficient technical skills in data platforms and AI/ML technologies",
+    "Limited industry experience in financial services"
+  ],
+  "elapsed_seconds": 12.2
+}

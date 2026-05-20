@@ -1,0 +1,19 @@
+{
+  "name": "Maria Ferreira",
+  "cv_id": "cv_7",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting environments, but the role requires specific skills in Excel and financial modeling. The candidate's background is more focused on data analysis and visualization.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Python, SQL, R, Power BI, and machine learning tools, which are relevant to the role. However, there is no direct mention of Excel or financial modeling skills.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in data analysis and business intelligence, their experience is more focused on consulting teams and banking sector clients, rather than financial services. There is also a significant gap in terms of seniority and experience level (6 years vs 0-2 years required)",
+  "key_gaps": [
+    "Lack of direct experience in financial services or Excel/financial modeling skills",
+    "Insufficient seniority and experience level compared to the role's requirements",
+    "Limited relevance of experience to the specific responsibilities of the Financial Analyst role"
+  ],
+  "elapsed_seconds": 11.1
+}

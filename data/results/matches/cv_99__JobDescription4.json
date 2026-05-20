@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Martins",
+  "cv_id": "cv_99",
+  "jd_id": "JobDescription4",
+  "overall_score": 8,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "While the candidate has experience in design, there is no direct evidence of financial analysis or related tasks. The role requires expertise in finance and accounting, which is not mentioned in the CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, as well as experience with financial regulations and standards. Only basic HTML/CSS skills are mentioned.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in design, it is not directly applicable to the Financial Analyst role. The most recent position involves designing digital products for automotive companies, which may require different skill sets.",
+  "key_gaps": [
+    "Lack of financial analysis experience and skills",
+    "Insufficient proficiency in Excel and financial modeling",
+    "No direct relevance to the Financial Services department"
+  ],
+  "elapsed_seconds": 21.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Inês Santos",
+  "cv_id": "cv_5",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in tax consulting, which is a different domain from data strategy and AI. Although they have knowledge of EU tax frameworks, it's not directly related to the role's requirements for enterprise data transformation and AI governance.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms, AI/ML technologies, and cloud platforms like Azure and AWS. They also don't have relevant certifications in these areas.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in tax compliance, it's not directly applicable to the role's requirements for leading enterprise-wide data transformation and AI implementation programs. Their experience in building Excel models is a transferable skill, but it's not enough to match the required level of seniority and industry expertise.",
+  "key_gaps": [
+    "Lack of relevant experience in data strategy and AI governance",
+    "Insufficient technical skills in data platforms, AI/ML technologies, and cloud platforms",
+    "No direct connection to the required industry expertise (financial services)"
+  ],
+  "elapsed_seconds": 10.1
+}

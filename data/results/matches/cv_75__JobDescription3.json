@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_75",
+  "jd_id": "JobDescription3",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Candidate has experience in IT security, but lacks specific knowledge of cybersecurity frameworks and best practices. They have worked on risk assessments and vulnerability assessments, but the context is not explicitly stated.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Candidate has relevant certifications (e.g., CISSP) and strong communication skills. They also mention experience in leading teams, which aligns with the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Candidate lacks specific experience in building and leading cybersecurity teams. Their experience is mostly in IT security, which is a related but distinct field.",
+  "key_gaps": [
+    "Lack of specific knowledge of cybersecurity frameworks and best practices",
+    "Insufficient experience in building and leading cybersecurity teams",
+    "No explicit mention of risk assessments and vulnerability assessments being done for clients or businesses"
+  ],
+  "elapsed_seconds": 10.3
+}

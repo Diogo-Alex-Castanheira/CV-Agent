@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_95",
+  "jd_id": "JobDescription3",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital strategy, business analysis, and project management is not directly related to cybersecurity. Although they have a background in industrial engineering, there is no explicit mention of cybersecurity expertise or relevant certifications.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some relevant skills like PMP certification, Lean Six Sigma (Green Belt), and strong presentation skills. However, they lack specific cybersecurity knowledge and certifications required for the role, such as CISSP or CISM.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the cybersecurity field, with no direct involvement in risk assessments, vulnerability assessments, or cybersecurity strategy development. Their background is in digital transformation and business analysis, which does not align with the role's requirements.",
+  "key_gaps": [
+    "Lack of explicit cybersecurity expertise and certifications required for the role.",
+    "No direct experience in risk assessments, vulnerability assessments, or cybersecurity strategy development.",
+    "Experience is not relevant to the cybersecurity field."
+  ],
+  "elapsed_seconds": 12.9
+}

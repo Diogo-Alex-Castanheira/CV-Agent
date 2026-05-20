@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Martins",
+  "cv_id": "cv_72",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and valuation, which is relevant to technology risk. However, the role requires expertise in IT controls and compliance frameworks, which are not explicitly mentioned in the CV. The candidate's skills in due diligence procedures and M&A transaction processes are also transferable but not directly applicable to technology risk.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, as well as relevant certifications (e.g., CISA, CISSP). While they have a strong understanding of financial modeling and valuation, this is not directly applicable to technology risk.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in finance and M&A transactions, which is relevant to the role. However, their experience is not directly related to technology risk or IT controls. They do have some transferable skills from their internship at Ernst & Young, but these are limited.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk and IT controls",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Limited transferable skills from finance and M&A transactions"
+  ],
+  "elapsed_seconds": 14.6
+}

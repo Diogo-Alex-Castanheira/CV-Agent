@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Almeida",
+  "cv_id": "cv_60",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in corporate taxation and international tax planning is not directly related to cybersecurity. Although they have a strong background in Portuguese and EU tax regulations, there is no mention of relevant cybersecurity knowledge or experience.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no mentions of required skills such as CISSP, CISM, CEH certifications, or fluency in English and Portuguese. The candidate's language proficiency is mentioned, but it does not match the job requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in tax consulting is not relevant to the cybersecurity role. There are no mentions of risk assessments, vulnerability assessments, or cybersecurity frameworks and best practices.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "No mention of required skills such as CISSP/CISM/CEH certifications",
+    "Irrelevant tax consulting experience"
+  ],
+  "elapsed_seconds": 12.6
+}

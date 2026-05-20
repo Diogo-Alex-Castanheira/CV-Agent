@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Lopes",
+  "cv_id": "cv_92",
+  "jd_id": "JobDescription3",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory compliance, which is relevant to the role. However, there is a significant gap in terms of cybersecurity expertise, as the role requires experience in building and leading cybersecurity teams, conducting risk assessments, and staying current with emerging threats.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has knowledge of banking regulations (CRD IV/CRR, MiFID II) and AML/KYC compliance frameworks, which are relevant to the financial services consulting team. However, there is a lack of specific cybersecurity skills, such as CISSP or CISM certifications.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in digital banking and risk management, but it's not directly related to the role. The candidate also lacks seniority and leadership experience, which is a key requirement for the position.",
+  "key_gaps": [
+    "Lack of direct cybersecurity expertise and experience in building and leading cybersecurity teams.",
+    "Insufficient CISSP or CISM certifications to demonstrate strong knowledge of cybersecurity frameworks and best practices.",
+    "Limited seniority and leadership experience, which is a key requirement for the position."
+  ],
+  "elapsed_seconds": 14.2
+}

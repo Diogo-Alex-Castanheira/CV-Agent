@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_94",
+  "jd_id": "JobDescription2",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in tax law, there is no direct evidence of technology risk or compliance expertise. The role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in transfer pricing documentation and tax technology tools, but these are not directly relevant to the Technology Risk role. The required fluency in English and Portuguese is also present, but no specific certifications (e.g., CISA, CISSP) are mentioned.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in tax consulting, but it's not directly related to technology risk or compliance. The seniority is also lower than required for the role (4-6 years of experience).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance expertise",
+    "No specific certifications (e.g., CISA, CISSP) mentioned",
+    "Seniority is lower than required for the role"
+  ],
+  "elapsed_seconds": 13.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_77",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in digital marketing, which is a different domain from data strategy and AI. Although they have experience with Google Analytics and Google Ads, these tools are not directly related to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as experience in data platforms, AI/ML technologies, and enterprise data governance frameworks. They also don't have relevant certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in digital marketing, which is not directly related to the role's requirements. Although they have some experience with campaign performance analysis and content creation, these skills are not transferable to a data strategy and AI leadership role.",
+  "key_gaps": [
+    "Lack of domain task alignment: digital marketing vs. data strategy and AI",
+    "Insufficient required skills: no experience in data platforms, AI/ML technologies, or enterprise data governance frameworks",
+    "Inadequate relevant experience: mostly in digital marketing with limited transferable skills"
+  ],
+  "elapsed_seconds": 13.4
+}

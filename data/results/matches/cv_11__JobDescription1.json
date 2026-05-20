@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Ribeiro",
+  "cv_id": "cv_11",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial analysis and modeling is not directly related to data strategy, AI/ML implementation, or consulting. Although they have a strong background in valuation, budgeting, and financial forecasting, these skills are not explicitly mentioned as requirements for the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms, AI/ML technologies, and enterprise data governance frameworks, which are essential skills for the Director of Data & AI Strategy role. They also do not have relevant certifications (e.g., Microsoft AI, AWS, PMI) or experience in multiple industries, including financial services.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's 3 years of experience as a Financial Analyst is not directly applicable to the Director role, which requires 15+ years of experience. Although they have some transferable skills like analytical and communication skills, these are not sufficient to match the required level of seniority and industry expertise.",
+  "key_gaps": [
+    "Lack of relevant experience in data strategy, AI/ML implementation, or consulting (15+ years)",
+    "Insufficient technical skills in data platforms, AI/ML technologies, and enterprise data governance frameworks",
+    "No direct connection to the Director role's responsibilities and requirements"
+  ],
+  "elapsed_seconds": 14.3
+}

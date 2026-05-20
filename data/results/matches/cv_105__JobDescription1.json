@@ -1,0 +1,19 @@
+{
+  "name": "Paulo Fonseca",
+  "cv_id": "cv_105",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and assurance services, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data transformation. The skills mentioned (IFRS, Portuguese GAAP) are not directly relevant to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate is missing most of the required skills, including experience in data platforms and AI/ML technologies, business intelligence, and enterprise data governance frameworks. The only mentioned skill is Excel (advanced), which is not a direct match for the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has limited experience in industries other than financial services, and lacks seniority or leadership experience. The most recent role as Audit Senior is at least 5 years junior to the required Director level.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, and enterprise data transformation.",
+    "Missing most of the required skills, including technical expertise in data platforms and AI/ML technologies.",
+    "Limited seniority and leadership experience, with a recent role at least 5 years junior to the required Director level."
+  ],
+  "elapsed_seconds": 21.0
+}

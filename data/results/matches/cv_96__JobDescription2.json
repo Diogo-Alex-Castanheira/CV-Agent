@@ -1,0 +1,19 @@
+{
+  "name": "Inês Oliveira",
+  "cv_id": "cv_96",
+  "jd_id": "JobDescription2",
+  "overall_score": 57,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, which is relevant to the role. However, there is a lack of direct experience in technology risk or IT controls, which is a key aspect of the job description.",
+  "required_skills_score": 70,
+  "required_skills_reasoning": "The candidate has skills in risk assessment methodologies, internal controls, and regulatory frameworks, which are all relevant to the role. However, there is no mention of certifications like CISA or CISSP, which are preferred by the employer.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in financial services and healthcare sectors, but it's not directly related to technology risk. The seniority is also lower than required (4-6 years of experience).",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "No mention of relevant certifications like CISA or CISSP",
+    "Insufficient seniority (less than 4 years of experience)"
+  ],
+  "elapsed_seconds": 12.7
+}

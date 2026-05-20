@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Santos",
+  "cv_id": "cv_66",
+  "jd_id": "JobDescription1",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to data strategy, AI/ML implementation, or consulting. The candidate's experience is in fine dining restaurants and hospitality management, with no apparent connection to the required skills for the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks most of the required skills, including data strategy, AI/ML implementation, business intelligence, enterprise data governance, cloud platforms (Azure and AWS), and experience in multiple industries (financial services).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no relevant experience for a Director role in Data & AI Strategy. The candidate's experience is in kitchen management and hospitality management, with no apparent connection to the required seniority level or industry expertise.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks related to data strategy and AI/ML implementation.",
+    "Insufficient skills in data strategy, AI/ML implementation, business intelligence, and enterprise data governance.",
+    "No relevant experience for a Director role in Data & AI Strategy or multiple industries (financial services)."
+  ],
+  "elapsed_seconds": 13.8
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mota",
+  "cv_id": "cv_85",
+  "jd_id": "JobDescription5",
+  "overall_score": 27,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in logistics optimization, inventory management, and process improvement, which are relevant to the role. However, there is no direct evidence of forensic accounting or related fields, and the candidate's expertise is not explicitly stated as being applicable to the Forensic & Integrity Services team.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in supply chain optimization and network design, but none of the required certifications (e.g., CFE, CPA) are mentioned. Additionally, while the candidate is fluent in English, which is a requirement, there is no mention of fluency in Portuguese as required for the role.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in managing inventory planning and control, implementing just-in-time delivery processes, and coordinating cross-border logistics operations. However, these experiences are not directly related to forensic accounting or compliance matters, which are key responsibilities of the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No mention of required certifications (e.g., CFE, CPA)",
+    "Inadequate relevance of supply chain expertise to Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 13.9
+}

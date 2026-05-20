@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Ramos",
+  "cv_id": "cv_103",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in audit management, which is not directly related to data strategy or AI implementation. Although they have worked with multinational clients, their expertise lies in financial services, insurance, and manufacturing, rather than the specific industries targeted by EY Portugal.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as AI/ML technologies. They also do not have a proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience with project management and leadership, their background is in audit management rather than data strategy. They also lack experience working in a consulting department or leading cross-functional teams of data scientists, engineers, and business analysts.",
+  "key_gaps": [
+    "Lack of direct experience with cloud platforms like Azure and AWS",
+    "No proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks",
+    "Insufficient experience working in a consulting department or leading cross-functional teams"
+  ],
+  "elapsed_seconds": 20.3
+}

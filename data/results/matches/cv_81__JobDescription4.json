@@ -1,0 +1,19 @@
+{
+  "name": "Helena Duarte",
+  "cv_id": "cv_81",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Although the candidate has experience in sustainability, which is related to finance, there's no direct evidence of financial analysis or planning. The candidate's expertise in ESG reporting, carbon accounting, and sustainable business strategy may be transferable to a financial analyst role, but it's not a perfect match.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and fluency in English and Portuguese, which are all required for the Financial Analyst role. However, there's no mention of financial modeling or experience with financial regulations and standards.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in financial analysis or planning, having worked as a Sustainability Specialist for 2 years. The Climate Risk Intern role is also not directly relevant to the Financial Analyst position.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning",
+    "No mention of financial modeling or experience with financial regulations and standards",
+    "Limited experience in financial analysis or planning compared to the required 0-2 years"
+  ],
+  "elapsed_seconds": 12.6
+}

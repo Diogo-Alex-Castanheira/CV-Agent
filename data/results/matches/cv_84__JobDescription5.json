@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Sousa",
+  "cv_id": "cv_84",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation, but the role requires forensic accounting expertise. The candidate's skills are more aligned with digital strategy and roadmap development, rather than forensic investigations.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate lacks specific certifications (e.g., CFE, CPA) required for the role, but has strong analytical and investigative skills mentioned in their experience. Their fluency in English and Portuguese is also a plus.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "While the candidate has experience leading teams and developing digital products, it's not directly related to forensic accounting or compliance matters. They lack seniority and sector relevance for this role.",
+  "key_gaps": [
+    "Lack of specific certifications (e.g., CFE, CPA) required for the role",
+    "Insufficient experience in forensic accounting or compliance matters",
+    "Limited seniority and sector relevance for this role"
+  ],
+  "elapsed_seconds": 11.8
+}

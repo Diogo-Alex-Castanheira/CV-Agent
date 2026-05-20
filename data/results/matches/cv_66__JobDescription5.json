@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Santos",
+  "cv_id": "cv_66",
+  "jd_id": "JobDescription5",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to forensic accounting. The candidate's experience is in fine dining restaurants, which is unrelated to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks strong analytical and investigative skills required for the role. While they have experience with inventory management, it's not directly related to forensic accounting or data analysis.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in forensic accounting or related fields. The candidate's experience is in fine dining restaurants and hospitality management, which are unrelated to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks related to forensic accounting.",
+    "Insufficient analytical and investigative skills for the role.",
+    "No relevant experience in forensic accounting or related fields."
+  ],
+  "elapsed_seconds": 10.6
+}

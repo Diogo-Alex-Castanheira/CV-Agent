@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Rodrigues",
+  "cv_id": "cv_100",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in security assessments and penetration tests, but the role requires expertise in data strategy, AI governance, and advanced analytics solutions. The candidate's CISSP certification is relevant to information security, not data science or AI.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as expertise in data warehousing and analytics architectures. They also don't have a proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in information security, not data strategy or AI implementation. While they do have experience leading security awareness training programs, this is not directly relevant to the role's requirements for influencing at the C-suite level and contributing to business development.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI governance, and advanced analytics solutions",
+    "Insufficient expertise in cloud platforms like Azure and AWS",
+    "No proven track record in delivering large-scale digital transformation initiatives or building enterprise data governance frameworks"
+  ],
+  "elapsed_seconds": 22.8
+}

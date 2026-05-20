@@ -1,0 +1,19 @@
+{
+  "name": "Marta Ribeiro",
+  "cv_id": "cv_29",
+  "jd_id": "JobDescription5",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to forensic accounting or integrity services. The candidate's experience is in competitive surfing, which is unrelated to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in public speaking and media relations, but these are not directly relevant to the role. They also have some transferable skills like social media management, but it's not a key requirement for the position.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no experience in forensic accounting or integrity services, and their experience is in competitive surfing, which is unrelated to the role. They do have some experience as a surf instructor, but this is not relevant to the position.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks related to forensic accounting or integrity services.",
+    "Insufficient skills in required areas like analytical and investigative skills, compliance programs, and regulatory changes.",
+    "No relevant experience in forensic accounting or integrity services."
+  ],
+  "elapsed_seconds": 12.8
+}

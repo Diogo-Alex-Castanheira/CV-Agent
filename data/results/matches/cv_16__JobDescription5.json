@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Torres",
+  "cv_id": "cv_16",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in security assessments and penetration testing, which is relevant to the role. However, there is a significant gap in terms of forensic accounting expertise, as the role requires 7+ years of experience in this field.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical skills and certifications (CISSP, CEH) that align with the role's requirements. They also have knowledge of compliance frameworks (NIST, ISO 27001, GDPR).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "While the candidate has experience in security assessments and penetration testing, their experience is not directly related to forensic accounting or integrity services. They lack seniority and sector relevance for a Manager-level role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient seniority and sector relevance for a Manager-level role",
+    "No explicit mention of compliance programs development"
+  ],
+  "elapsed_seconds": 13.6
+}

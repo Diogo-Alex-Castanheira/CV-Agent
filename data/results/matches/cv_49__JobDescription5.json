@@ -1,0 +1,19 @@
+{
+  "name": "Clara Ferreira",
+  "cv_id": "cv_49",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting and IFRS implementation, but the role requires forensic accounting expertise. The candidate's skills are more aligned with auditing and financial statement preparation.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (CPA) and technical knowledge in IFRS, consolidation procedures, and financial statement preparation. However, the role requires strong analytical and investigative skills, which are not explicitly mentioned in the CV.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in auditing and financial reporting, but it's not directly related to forensic accounting or compliance matters. The candidate lacks experience in managing investigations and developing compliance programs.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance matters",
+    "Insufficient analytical and investigative skills",
+    "No experience in managing investigations or developing compliance programs"
+  ],
+  "elapsed_seconds": 11.8
+}

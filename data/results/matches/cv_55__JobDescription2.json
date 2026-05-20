@@ -1,0 +1,19 @@
+{
+  "name": "Francisco Almeida",
+  "cv_id": "cv_55",
+  "jd_id": "JobDescription2",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in tax management, there is no direct evidence of expertise in technology risk or related fields. The role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in corporate taxation, transfer pricing, and tax planning, but lacks experience with SAP or Excel advanced, which are required for the role. Additionally, there is no mention of relevant certifications (e.g., CISA, CISSP).",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in tax management and leadership, but it's not directly related to technology risk or the required experience level (4-6 years). The role also requires fluency in English and Portuguese, which is mentioned, but the French language is only intermediate.",
+  "key_gaps": [
+    "Lack of direct evidence of expertise in technology risk or related fields.",
+    "Missing experience with SAP or Excel advanced and relevant certifications (e.g., CISA, CISSP).",
+    "Insufficient relevance of tax management experience to the required role."
+  ],
+  "elapsed_seconds": 13.5
+}

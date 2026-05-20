@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_30",
+  "jd_id": "JobDescription5",
+  "overall_score": 68,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial strategy, M&A, treasury management, and risk management, which are relevant to the Forensic & Integrity Services role. However, there is no direct evidence of forensic accounting or data analysis experience.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has certifications in CFA and Certified Management Accountant, but not specifically in compliance or integrity. They also lack relevant certifications like CFE (Certified Forensic Examiner).",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has extensive experience in financial management, M&A, and risk management, which are transferable to the role. However, there is a significant gap in experience directly related to forensic accounting or data analysis.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or data analysis.",
+    "Insufficient relevant certifications (e.g., CFE, CPA).",
+    "Limited experience directly related to the Forensic & Integrity Services role."
+  ],
+  "elapsed_seconds": 14.4
+}

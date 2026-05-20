@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Torres",
+  "cv_id": "cv_16",
+  "jd_id": "JobDescription2",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "The candidate has experience in information security, vulnerability assessment, and penetration testing, which aligns with the role's responsibilities. However, there is a minor gap in the domain task alignment due to the lack of explicit mention of technology risk management frameworks.",
+  "required_skills_score": 90,
+  "required_skills_reasoning": "The candidate has strong technical skills and expertise in security architecture and compliance frameworks, which aligns with the role's requirements. The only minor gap is the lack of explicit mention of relevant certifications (e.g., CISA, CISSP) for the role.",
+  "relevant_experience_score": 80,
+  "relevant_experience_reasoning": "The candidate has 6 years of experience in information security and related fields, which aligns with the role's experience level. However, there is a minor gap due to the lack of explicit mention of seniority or progression in the industry.",
+  "key_gaps": [
+    "Lack of explicit mention of technology risk management frameworks",
+    "Minor gap in required certifications (e.g., CISA, CISSP)",
+    "Minor gap in seniority or progression in the industry"
+  ],
+  "elapsed_seconds": 10.7
+}

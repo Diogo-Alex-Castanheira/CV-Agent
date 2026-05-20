@@ -1,0 +1,21 @@
+{
+  "name": "Afonso Morais",
+  "cv_id": "cv_28",
+  "jd_id": "JobDescription1",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in deal advisory and corporate finance is not directly related to data strategy, AI/ML implementation, or enterprise data transformation. While they have expertise in valuation and financial modeling, these skills are not explicitly mentioned as requirements for the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Excel, PowerPoint, and Bloomberg Terminal, which could be relevant to data analysis and presentation. However, they lack specific technical skills in AI/ML technologies, cloud platforms (e.g., Azure or AWS), and data governance frameworks.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly focused on deal advisory and corporate finance, with no direct relevance to leading enterprise-wide data transformation and AI implementation programs. They lack the seniority and industry experience required for the role.",
+  "key_gaps": [
+    "Lack of relevant technical skills in AI/ML technologies, cloud platforms, and data governance frameworks.",
+    "Insufficient seniority and industry experience in data strategy, business intelligence, and AI/ML implementation.",
+    "No direct experience in leading enterprise-wide data transformation and AI implementation programs.",
+    "No mention of executive-level relationships or business development skills.",
+    "No relevant certifications (e.g., Microsoft AI, AWS, PMI) mentioned."
+  ],
+  "elapsed_seconds": 14.5
+}

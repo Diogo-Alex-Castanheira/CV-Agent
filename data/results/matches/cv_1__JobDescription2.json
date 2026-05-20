@@ -1,0 +1,19 @@
+{
+  "name": "Carla Nogueira",
+  "cv_id": "cv_1",
+  "jd_id": "JobDescription2",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in corporate taxation, which is a different domain from technology risk. Although the candidate has worked with multinational clients, there is no direct evidence of their involvement in technology-related risks or compliance frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to tax consulting (e.g., SAP FI, Oracle Tax), but not directly applicable to technology risk. They lack experience with IT controls and compliance frameworks, which are essential for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of the candidate's experience in technology risk or related fields. Although they have worked with multinational clients, their expertise lies in tax consulting, not technology risk management.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient skills in IT controls and compliance frameworks",
+    "No evidence of involvement in technology-related risks or regulatory changes"
+  ],
+  "elapsed_seconds": 8.4
+}

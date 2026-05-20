@@ -1,0 +1,19 @@
+{
+  "name": "Maria Ferreira",
+  "cv_id": "cv_7",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting through their work at EY Portugal, but lacks direct experience in forensic accounting or integrity services. They also lack experience with compliance programs and regulatory changes.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in Python, SQL, R, Power BI, and machine learning, which are relevant to the role. However, they lack specific certifications like CFE or CPA, but have financial reporting knowledge.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate's experience as a Senior Data Analyst is not directly related to forensic accounting or integrity services. They also lack seniority and experience in managing investigations and compliance matters.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "No specific certifications like CFE or CPA",
+    "Insufficient seniority and experience in managing investigations and compliance matters"
+  ],
+  "elapsed_seconds": 11.1
+}

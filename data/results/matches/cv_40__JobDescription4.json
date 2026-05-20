@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Oliveira",
+  "cv_id": "cv_40",
+  "jd_id": "JobDescription4",
+  "overall_score": 27,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's experience is not directly related to financial analysis, but they do have skills that could be transferable (e.g., data analysis, process improvement). However, the lack of explicit mention of financial modeling or Excel proficiency makes it difficult to assess their alignment with the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some relevant skills like HR analytics and workforce planning, but they are not explicitly mentioned as required skills for the Financial Analyst role. Additionally, their experience in talent management and organizational development is not directly related to financial analysis.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the Financial Analyst role, with no direct experience in financial planning, analysis, or compliance. Their experience in HR leadership roles is not transferable to this specific job.",
+  "key_gaps": [
+    "Lack of relevant experience and skills directly related to financial analysis",
+    "No explicit mention of financial modeling or Excel proficiency",
+    "Experience in HR leadership roles is not transferable to this specific job"
+  ],
+  "elapsed_seconds": 14.0
+}

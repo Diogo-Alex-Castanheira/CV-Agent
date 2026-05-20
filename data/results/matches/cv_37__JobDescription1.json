@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_37",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business transformation and operational improvement projects, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. The role requires expertise in these areas, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in strategic planning, business analysis, financial modeling, and market research, which are relevant to the role. However, they lack experience with data platforms, AI/ML technologies, or certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has some experience in business analysis and consulting, but it's not directly related to the Director role. They also lack seniority (15+ years of experience) and industry experience (financial services).",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Insufficient skills in data platforms, AI/ML technologies, and relevant certifications.",
+    "Inadequate seniority (less than 15 years of experience) and industry experience (financial services)."
+  ],
+  "elapsed_seconds": 13.9
+}

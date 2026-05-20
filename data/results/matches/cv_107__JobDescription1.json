@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Ribeiro",
+  "cv_id": "cv_107",
+  "jd_id": "JobDescription1",
+  "overall_score": 40,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in market analysis and competitive benchmarking is relevant, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. The role requires a strong understanding of digital transformation initiatives, which the candidate does not have.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in strategic planning and analysis, market research, financial modeling, and proficiency in Excel, PowerPoint, and Tableau. However, they lack experience with data platforms, AI/ML technologies, and enterprise data governance frameworks, which are essential for the role.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has relevant experience in market analysis and strategic planning, but lacks seniority and industry-specific experience. They have only been working as an Associate Consultant for 3 years, which is below the required 15+ years of experience.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI/ML implementation",
+    "Insufficient seniority and industry-specific experience",
+    "Missing skills in data platforms, AI/ML technologies, and enterprise data governance frameworks"
+  ],
+  "elapsed_seconds": 20.4
+}

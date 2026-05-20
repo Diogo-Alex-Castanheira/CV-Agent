@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Gomes",
+  "cv_id": "cv_89",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While Beatriz has experience in ESG reporting, her background is not directly related to data strategy or AI/ML implementation. She lacks experience in leading enterprise-wide digital transformation initiatives and developing AI governance frameworks.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "Beatriz does not have any relevant certifications (e.g., Microsoft AI, AWS, PMI) and her technical understanding of data platforms and AI/ML technologies is not explicitly mentioned. She also lacks experience in multiple industries, particularly financial services.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Beatriz has relevant experience in ESG reporting and sustainability, but it's not directly applicable to the Director, Data & AI Strategy role. Her experience as an ESG Analyst at EDP and Sustainability Reporting Manager at The Navigator Company shows some transferable skills, such as stakeholder engagement and data management.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI/ML implementation",
+    "Insufficient technical understanding of data platforms and AI/ML technologies",
+    "Limited industry experience, particularly in financial services"
+  ],
+  "elapsed_seconds": 14.2
+}

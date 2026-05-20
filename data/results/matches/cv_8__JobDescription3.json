@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_8",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is not directly related to cybersecurity, but they have a strong analytical background that could be transferable. The skills listed (Excel modeling, PowerPoint, Power BI) are also relevant to the role, but not specific to cybersecurity.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH), and their experience is not in cybersecurity. The only relevant skill mentioned is process mapping (BPMN) which is not a direct match for the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no direct experience in building or leading cybersecurity teams, and their experience in logistics and retail is not relevant to the role. The only transferable skill mentioned (analytical background) is not enough to bridge the gap.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity and related certifications.",
+    "No relevant experience in building or leading cybersecurity teams.",
+    "Skills are not specific to cybersecurity, despite some transferable skills."
+  ],
+  "elapsed_seconds": 11.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Almeida",
+  "cv_id": "cv_20",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in supply chain management, process optimization, and operational excellence, which are relevant to the role of Technology Risk. However, there is no direct evidence of technology risk or compliance frameworks, and the candidate's expertise seems more focused on operational improvement rather than risk management.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has certifications in Lean Six Sigma Black Belt and APICS CSCP, which are relevant to the role. Additionally, they have experience with digital transformation initiatives, which aligns with the requirement for staying current with technology trends.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has extensive experience in operational improvement and supply chain management, but there is no direct evidence of experience in technology risk or compliance. The candidate's seniority (21+ years) is also not directly relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient evidence of expertise in IT controls and compliance frameworks",
+    "No clear connection between operational improvement experience and technology risk management"
+  ],
+  "elapsed_seconds": 13.3
+}

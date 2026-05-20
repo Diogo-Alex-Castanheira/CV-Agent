@@ -1,0 +1,19 @@
+{
+  "name": "Francisco Almeida",
+  "cv_id": "cv_55",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "No direct evidence of cybersecurity expertise or experience. The candidate's domain is corporate taxation, international tax planning, and tax compliance, which is unrelated to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and no mention of cybersecurity frameworks or best practices. The only mentioned skill related to cybersecurity is 'SAP', which is not directly relevant.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in tax management and consulting has no direct relevance to the role's requirements, such as building a comprehensive cybersecurity strategy or conducting risk assessments.",
+  "key_gaps": [
+    "Lack of relevant certifications and expertise in cybersecurity.",
+    "No experience in building a cybersecurity team or implementing a comprehensive cybersecurity strategy.",
+    "No direct relevance to the role's requirements, such as risk assessments or compliance with regulations."
+  ],
+  "elapsed_seconds": 12.0
+}

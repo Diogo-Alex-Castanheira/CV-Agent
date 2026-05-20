@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigo Alves",
+  "cv_id": "cv_26",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital transformation and IT strategy is not directly related to financial analysis. Although they have worked with financial services clients, their role as Technology Consulting Manager does not explicitly mention financial analysis or planning.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and relevant certifications (PMP, ITIL v4). They also have fluency in English and Portuguese, which meets the requirements for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not directly related to financial analysis or planning. Although they have worked with clients in the financial services sector, their roles do not involve supporting financial planning and analysis activities.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning",
+    "No explicit mention of financial reporting or forecasting skills",
+    "Experience is more focused on IT strategy and digital transformation than financial services"
+  ],
+  "elapsed_seconds": 12.6
+}

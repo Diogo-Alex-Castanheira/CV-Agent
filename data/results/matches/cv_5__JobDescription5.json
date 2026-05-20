@@ -1,0 +1,19 @@
+{
+  "name": "Inês Santos",
+  "cv_id": "cv_5",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax consulting, which is related to the role's domain. However, there is a significant gap in terms of forensic accounting expertise, as the role requires 7+ years of experience in this specific field.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and has limited experience with data analysis and investigative skills required for the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in tax consulting, it is not directly related to forensic accounting or compliance matters. The seniority (3+ years) is also lower than required for the Manager level.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA)",
+    "Insufficient experience in forensic accounting and compliance matters",
+    "Inadequate seniority for the Manager level"
+  ],
+  "elapsed_seconds": 9.3
+}

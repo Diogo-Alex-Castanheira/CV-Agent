@@ -1,0 +1,20 @@
+{
+  "name": "Mariana Costa",
+  "cv_id": "cv_22",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in data science and machine learning, but lacks direct experience in enterprise data transformation and AI governance. The role requires strategic thinking and leadership skills, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has expertise in Python, R, SQL, machine learning, and statistical analysis, which aligns with some of the required skills. However, they lack experience with cloud platforms like Azure and AWS, as well as relevant certifications.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in data science and business intelligence, but most of it is from a smaller company (Vodafone Portugal) and lacks seniority. They also lack experience in multiple industries, particularly financial services.",
+  "key_gaps": [
+    "Lack of direct experience in enterprise data transformation and AI governance",
+    "Insufficient experience with cloud platforms like Azure and AWS",
+    "Limited seniority and industry experience",
+    "No relevant certifications mentioned"
+  ],
+  "elapsed_seconds": 11.6
+}

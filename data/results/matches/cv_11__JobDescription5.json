@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Ribeiro",
+  "cv_id": "cv_11",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and modeling, but lacks direct experience in forensic accounting or related fields. The role requires expertise in investigations and compliance matters, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial modeling, valuation, Excel, PowerPoint, and Bloomberg Terminal, but lacks relevant certifications (e.g., CFE, CPA) and experience in forensic accounting. The role requires strong analytical and investigative skills, which are not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in corporate finance and financial modeling, with only 3 years of experience. The role requires 7+ years of experience in forensic accounting or related fields, which is not met by the candidate's CV.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient relevant certifications (e.g., CFE, CPA)",
+    "Limited experience in corporate finance and financial modeling"
+  ],
+  "elapsed_seconds": 11.3
+}

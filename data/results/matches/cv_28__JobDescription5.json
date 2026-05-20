@@ -1,0 +1,19 @@
+{
+  "name": "Afonso Morais",
+  "cv_id": "cv_28",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in deal advisory and corporate finance, which is related to the role's domain. However, there is a significant gap in terms of forensic accounting expertise, as the role requires specific knowledge of investigations and compliance matters.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as financial due diligence, valuation, and financial modeling, which are essential for the role. Additionally, they have proficiency in Excel, PowerPoint, and Bloomberg Terminal, which is a plus.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in deal advisory and corporate finance, their experience is not directly relevant to forensic accounting or compliance matters. They lack seniority and sector relevance for a Manager-level role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance matters",
+    "Insufficient seniority and sector relevance for a Manager-level role",
+    "No evidence of relevant certifications (e.g., CFE, CPA) or industry trends knowledge"
+  ],
+  "elapsed_seconds": 12.2
+}

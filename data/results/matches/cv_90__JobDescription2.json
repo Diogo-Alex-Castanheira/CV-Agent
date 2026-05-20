@@ -1,0 +1,18 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_90",
+  "jd_id": "JobDescription2",
+  "overall_score": 85,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Relevant experience in technology risk management, with a strong understanding of IT controls and compliance frameworks. Although not directly stated, the candidate's background in related fields suggests a good fit for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "4-6 years of experience in technology risk or related fields meets the required experience. Strong understanding of IT controls and compliance frameworks is also mentioned, although certifications are not explicitly stated.",
+  "relevant_experience_score": 90,
+  "relevant_experience_reasoning": "Significant seniority (not explicitly stated but implied by 'Senior Consultant' title) and sector relevance (technology risk management) suggest a strong match for the role. Although no specific certifications are mentioned, the candidate's experience in related fields is highly relevant.",
+  "key_gaps": [
+    "Certifications (e.g., CISA, CISSP) not explicitly stated or mentioned",
+    "Fluency in Portuguese not explicitly stated or mentioned"
+  ],
+  "elapsed_seconds": 10.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_90",
+  "jd_id": "JobDescription5",
+  "overall_score": 81,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 85,
+  "domain_task_alignment_reasoning": "Relevant experience in forensic accounting and investigative skills, although not explicitly stated. Some transferable experience in compliance and data analysis mentioned.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Strong analytical and investigative skills, excellent communication skills, and fluency in English and Portuguese. Relevant certifications (e.g., CFE, CPA) not explicitly stated but implied by the candidate's experience.",
+  "relevant_experience_score": 78,
+  "relevant_experience_reasoning": "7+ years of experience in forensic accounting, which is a strong match for the role. However, some minor gaps in seniority and sector relevance (e.g., no mention of Portugal or EY specific experience)",
+  "key_gaps": [
+    "Minor gap in seniority: candidate's current role is not explicitly stated as a management position.",
+    "No explicit mention of relevant certifications (e.g., CFE, CPA) or EY specific experience.",
+    "Some minor gaps in sector relevance and Portugal specific experience."
+  ],
+  "elapsed_seconds": 10.9
+}

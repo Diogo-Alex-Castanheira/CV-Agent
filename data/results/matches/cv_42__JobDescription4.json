@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Costa",
+  "cv_id": "cv_42",
+  "jd_id": "JobDescription4",
+  "overall_score": 8,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "The candidate has experience in landscape architecture and urban planning, but there is no direct evidence of financial analysis or related tasks. The skills listed (Landscape design, Urban planning) are not directly relevant to the Financial Analyst role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for a Financial Analyst. Additionally, there is no mention of fluency in English (although it's mentioned as fluent), which is required by the job description.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no experience in financial analysis or related roles, and their experience in landscape architecture and urban planning is not relevant to the Financial Analyst position. There are no years of experience listed that align with the 'Staff' level.",
+  "key_gaps": [
+    "Lack of financial analysis or related skills (Excel, financial modeling)",
+    "No direct experience in financial analysis or related roles",
+    "Inadequate language proficiency for the role (English required)"
+  ],
+  "elapsed_seconds": 12.1
+}

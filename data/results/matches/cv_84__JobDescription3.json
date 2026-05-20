@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Sousa",
+  "cv_id": "cv_84",
+  "jd_id": "JobDescription3",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in digital transformation, their background is more focused on digital innovation and product development. There's no direct evidence of cybersecurity expertise or experience in building and leading teams for a comprehensive cybersecurity practice.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as design thinking, agile project management, and facilitation, which are transferable to the role. However, there's no direct mention of cybersecurity frameworks, best practices, or certifications like CISSP, CISM, or CEH.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation and product development, but it's not directly related to cybersecurity. There's no mention of risk assessments, vulnerability assessments, or experience working with clients on security-related projects.",
+  "key_gaps": [
+    "Lack of direct cybersecurity expertise and experience in building and leading teams for a comprehensive cybersecurity practice.",
+    "No mention of relevant certifications like CISSP, CISM, or CEH.",
+    "Insufficient experience in risk assessments, vulnerability assessments, or security-related projects."
+  ],
+  "elapsed_seconds": 13.1
+}

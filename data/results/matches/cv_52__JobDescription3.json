@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Fonseca",
+  "cv_id": "cv_52",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in M&A transactions and corporate development, which is not directly related to cybersecurity. Although they have experience with financial analysis and modeling, these skills are transferable but not a direct match for the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and specific knowledge of cybersecurity frameworks and best practices. Their fluency in English is required, but not directly related to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in finance and M&A transactions does not demonstrate any direct relevance to cybersecurity. Although they have worked with various financial tools (Excel, PowerPoint, Capital IQ, Bloomberg), these skills are not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of relevant certifications and knowledge in cybersecurity frameworks and best practices.",
+    "No direct experience or expertise in cybersecurity, M&A transactions are not directly related to the role.",
+    "Skills in finance and M&A transactions are transferable but not directly applicable to the role."
+  ],
+  "elapsed_seconds": 13.5
+}

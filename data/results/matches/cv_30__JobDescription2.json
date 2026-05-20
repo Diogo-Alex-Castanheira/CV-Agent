@@ -1,0 +1,19 @@
+{
+  "name": "João Mendes",
+  "cv_id": "cv_30",
+  "jd_id": "JobDescription2",
+  "overall_score": 68,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial strategy, M&A, and treasury management, which aligns with the role's domain. However, there is no direct evidence of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has certifications in finance (CFA, Certified Management Accountant) and relevant skills (Financial Strategy & Planning, M&A Due Diligence & Integration), but lacks specific technology risk or compliance-related skills. The required fluency in English is also a plus.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has extensive experience in financial management and strategy, which demonstrates strong analytical and communication skills. However, the majority of their experience is in finance rather than technology risk or compliance, which may be a significant gap for this role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "Insufficient skills in technology-related areas (e.g., IT controls, regulatory changes)",
+    "Limited relevance of finance experience to the Senior Consultant role"
+  ],
+  "elapsed_seconds": 14.6
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rita Sousa",
+  "cv_id": "cv_15",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial advisory and M&A transactions is not directly related to cybersecurity, but she does have strong analytical skills that could be transferable. However, there is no direct evidence of her involvement in cybersecurity tasks or projects.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and experience in building and leading cybersecurity teams. Her skills are more focused on financial modeling and due diligence processes.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate's experience is not directly related to cybersecurity, she does have strong analytical skills that could be transferable. However, her seniority and sector relevance are limited compared to other candidates with more relevant experience in cybersecurity.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity tasks or projects",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Limited seniority and sector relevance compared to other candidates"
+  ],
+  "elapsed_seconds": 9.9
+}

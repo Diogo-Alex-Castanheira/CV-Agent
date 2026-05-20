@@ -1,0 +1,19 @@
+{
+  "name": "Rui Almeida",
+  "cv_id": "cv_97",
+  "jd_id": "JobDescription1",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP solutions, which is a relevant domain for the role. However, there is no direct evidence of experience in data strategy, AI governance, or advanced analytics solutions, which are key responsibilities of the Director, Data & AI Strategy role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in SAP S/4HANA and Oracle ERP, but lacks experience with cloud platforms like Azure and AWS. Additionally, there is no mention of AI/ML implementation or data governance frameworks, which are essential for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in IT consulting and systems integration, but lacks seniority and industry-specific experience (financial services) required for the Director, Data & AI Strategy role. The candidate's experience is also more focused on ERP implementations rather than large-scale digital transformation initiatives.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI governance",
+    "Insufficient skills in cloud platforms like Azure and AWS",
+    "Limited seniority and industry-specific experience (financial services)"
+  ],
+  "elapsed_seconds": 16.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Joana Matos",
+  "cv_id": "cv_31",
+  "jd_id": "JobDescription2",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or compliance frameworks, IT controls, or related fields. The candidate's experience is in the music industry, with no apparent connection to technology risk management.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has skills in Fado singing techniques and performance arts, but lacks relevant technical skills for a Technology Risk role. No certifications mentioned, although fluency in English is required by the job description.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No experience in technology risk management or related fields. The candidate's 12 years of professional experience are in the music industry, with no apparent connection to technology risk solutions or compliance.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management or related fields.",
+    "Insufficient technical skills for the role, including IT controls and compliance frameworks.",
+    "No relevant certifications mentioned, despite fluency in English being required by the job description."
+  ],
+  "elapsed_seconds": 12.2
+}

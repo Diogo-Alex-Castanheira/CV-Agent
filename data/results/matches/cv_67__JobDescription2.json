@@ -1,0 +1,19 @@
+{
+  "name": "João Oliveira",
+  "cv_id": "cv_67",
+  "jd_id": "JobDescription2",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial audit and accounting is not directly related to technology risk, but they do have a strong foundation in audit methodologies. The role requires knowledge of IT controls and compliance frameworks, which the candidate does not mention.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has basic proficiency in Excel and SAP, as well as experience with audit software. However, they lack specific certifications (e.g., CISA, CISSP) and fluency in English is not explicitly stated.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in financial audit and accounting, with no direct relevance to technology risk or related fields. Their part-time finance assistant role is also unrelated to the required skills and responsibilities of the Senior Consultant position.",
+  "key_gaps": [
+    "Lack of experience in technology risk or related fields",
+    "Insufficient certifications (e.g., CISA, CISSP) or fluency in English",
+    "No direct relevance to IT controls and compliance frameworks"
+  ],
+  "elapsed_seconds": 13.0
+}

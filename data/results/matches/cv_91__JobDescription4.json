@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Santos",
+  "cv_id": "cv_91",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has expertise in international tax planning, there is no direct evidence of experience in financial analysis or related roles. The role requires strong analytical and quantitative skills, but the candidate's CV does not explicitly mention these skills.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has proficiency in Portuguese (native), English (fluent), Spanish (proficient), French (basic) which is a plus. However, there is no explicit mention of Excel or financial modeling skills required for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in tax planning and compliance is not directly relevant to the Financial Analyst role. There are no years of experience, seniority, sector relevance, or progression that align with the job requirements.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "No explicit mention of required skills such as Excel and financial modeling",
+    "Relevant experience in tax planning and compliance is not directly applicable to the Financial Analyst role"
+  ],
+  "elapsed_seconds": 12.4
+}

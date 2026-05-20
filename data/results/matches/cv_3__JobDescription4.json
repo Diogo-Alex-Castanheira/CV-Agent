@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Marques",
+  "cv_id": "cv_3",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in management consulting, which is unrelated to financial analysis. Although they have worked with KPIs and dashboards, there is no direct evidence of their involvement in financial planning or analysis activities.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in Excel, Power BI, and Tableau, which are relevant to the role. However, they lack proficiency in financial modeling, a key requirement for the position.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of the candidate's experience in financial analysis or related roles. Although they have worked with KPIs and dashboards, their experience is not directly relevant to the Financial Analyst role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning",
+    "Insufficient proficiency in financial modeling",
+    "Unrelated domain (management consulting) with no transferable skills"
+  ],
+  "elapsed_seconds": 8.5
+}

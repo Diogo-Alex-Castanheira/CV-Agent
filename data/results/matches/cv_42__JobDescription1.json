@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Costa",
+  "cv_id": "cv_42",
+  "jd_id": "JobDescription1",
+  "overall_score": 8,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 15,
+  "domain_task_alignment_reasoning": "The candidate's experience in landscape architecture is not directly related to data strategy or AI implementation. While they have experience with sustainable design principles and green infrastructure, these skills are not explicitly mentioned as relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is no evidence of the candidate having experience with data platforms, AI/ML technologies, or enterprise data governance frameworks. They lack required certifications such as Microsoft AI or AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's 8 years of experience in landscape architecture is not relevant to the Director role in Data & AI Strategy at EY Portugal. There is no mention of digital transformation initiatives, business intelligence, or AI/ML implementation.",
+  "key_gaps": [
+    "Lack of experience with data platforms and AI/ML technologies",
+    "No relevant certifications (e.g., Microsoft AI, AWS)",
+    "Inadequate transferable skills from landscape architecture to Data & AI Strategy"
+  ],
+  "elapsed_seconds": 12.7
+}

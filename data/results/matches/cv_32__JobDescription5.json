@@ -1,0 +1,19 @@
+{
+  "name": "Tomás Santos",
+  "cv_id": "cv_32",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy development and business planning, but lacks direct experience in forensic accounting or related fields. The skills listed are transferable to the role, but not directly relevant.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, as well as excellent communication and interpersonal skills. They also have fluency in English and Portuguese, which meets a key requirement. However, there is no direct evidence of relevant certifications (e.g., CFE, CPA) or experience in forensic accounting.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has significant experience in management consulting and corporate strategy, but it's not directly related to the Forensic & Integrity Services team. The most relevant experience is leading strategy development projects for major Portuguese banks, but this is still a stretch from forensic accounting.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No evidence of relevant certifications (e.g., CFE, CPA)",
+    "Limited relevance of management consulting experience to Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 9.8
+}

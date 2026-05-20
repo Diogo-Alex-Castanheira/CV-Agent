@@ -1,0 +1,19 @@
+{
+  "name": "Paulo Fonseca",
+  "cv_id": "cv_105",
+  "jd_id": "JobDescription3",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and assurance services, but lacks direct experience in cybersecurity. Although they have reviewed financial statements for compliance with IFRS and Portuguese GAAP, this is not directly related to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical skills and knowledge of audit software, but lacks specific cybersecurity certifications (e.g., CISSP, CISM, CEH) and experience in building and leading cybersecurity teams. They also lack fluency in English as the primary language.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in cybersecurity, with no direct experience in developing and implementing a comprehensive cybersecurity strategy or conducting risk assessments and vulnerability assessments. Their experience is mostly in audit and assurance services.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "Insufficient cybersecurity certifications and expertise",
+    "Limited experience in building and leading cybersecurity teams"
+  ],
+  "elapsed_seconds": 18.6
+}

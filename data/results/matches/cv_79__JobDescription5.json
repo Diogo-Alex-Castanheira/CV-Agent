@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Neves",
+  "cv_id": "cv_79",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in HR transformation projects and organizational design, but lacks direct experience in forensic accounting or related fields. The role requires expertise in forensic investigations and compliance matters, which is not mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in HRIS implementation (Workday, SuccessFactors) and change management (PROSCI), but lacks strong analytical and investigative skills required for forensic accounting. The role also requires fluency in English and Portuguese, which the candidate possesses.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience as an HR Business Partner and HR Consultant, but this is not directly related to the Forensic & Integrity Services team. The role requires significant experience in forensic accounting or related fields, which the candidate lacks.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant experience in Forensic & Integrity Services team"
+  ],
+  "elapsed_seconds": 13.5
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Pereira",
+  "cv_id": "cv_17",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in ESG reporting and sustainable finance, which is not directly related to cybersecurity. Although the role requires a broad understanding of emerging threats and trends, there is no direct evidence of the candidate's experience or knowledge in this area.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and does not have any explicit mention of cybersecurity frameworks or best practices. The only mentioned skill is GRI certified sustainability professional, which is unrelated to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in ESG reporting and sustainable finance is not relevant to the cybersecurity team recruitment. Although they have worked with various stakeholders, there is no evidence of their ability to lead a cybersecurity team or work on risk assessments and vulnerability assessments.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and expertise in cybersecurity frameworks and best practices.",
+    "No direct experience or knowledge in emerging threats and trends, which is crucial for the role.",
+    "Relevant experience in ESG reporting and sustainable finance is not applicable to the cybersecurity team recruitment."
+  ],
+  "elapsed_seconds": 14.8
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Torres",
+  "cv_id": "cv_86",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in healthcare operations optimization, regulatory compliance, and digital health initiatives is not directly related to financial analysis. Although they have conducted financial analysis for new healthcare service offerings, their background is not in finance or accounting.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, which are essential skills for the Financial Analyst role. They also do not mention any experience with financial regulations and standards.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in analyzing data and managing quality improvement initiatives, their seniority is low (2 years), and they lack direct experience in financial planning and analysis activities. Their fluency in English and Portuguese is a plus, but it's not directly related to the role.",
+  "key_gaps": [
+    "Lack of relevant finance or accounting background",
+    "Insufficient proficiency in Excel and financial modeling",
+    "Limited direct experience in financial planning and analysis activities"
+  ],
+  "elapsed_seconds": 13.2
+}

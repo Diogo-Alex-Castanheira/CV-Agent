@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Oliveira",
+  "cv_id": "cv_40",
+  "jd_id": "JobDescription2",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has extensive experience in HR, there is no direct evidence of technology risk or compliance expertise. The role requires strong understanding of IT controls and compliance frameworks, which are not explicitly mentioned in her CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate's skills align well with the job requirements, including organizational development, change management, talent acquisition, employee experience design, performance management systems, HR analytics, and workforce planning. Her certifications (SHRM Senior Certified Professional) also match some of the required qualifications.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "Although the candidate has a long history of managing large-scale organizational transformations, there is no direct evidence of technology risk or compliance experience in her previous roles. Her experience in talent management and employee experience design may not be directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance expertise",
+    "No evidence of IT controls and compliance frameworks knowledge",
+    "Insufficient relevance of HR experience to the role's requirements"
+  ],
+  "elapsed_seconds": 13.2
+}

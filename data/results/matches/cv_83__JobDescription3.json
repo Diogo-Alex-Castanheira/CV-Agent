@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Pereira",
+  "cv_id": "cv_83",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in transfer pricing is not directly related to cybersecurity, but they do have knowledge of OECD guidelines and local regulations. However, there is no mention of cybersecurity frameworks, best practices, or risk assessments, which are key responsibilities of the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with CISSP, CISM, CEH certifications and has no relevant skills in areas like threat analysis, penetration testing, or incident response. Their fluency in English is a plus, but not directly related to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience as a transfer pricing specialist and tax associate does not demonstrate any relevant skills or experience in cybersecurity. They do not have a background in building or leading cybersecurity teams, which is a key requirement of the role.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity and relevant skills",
+    "No certifications related to cybersecurity (e.g., CISSP, CISM, CEH)",
+    "No experience building or leading cybersecurity teams"
+  ],
+  "elapsed_seconds": 13.3
+}

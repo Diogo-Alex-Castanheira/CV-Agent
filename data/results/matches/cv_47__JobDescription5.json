@@ -1,0 +1,19 @@
+{
+  "name": "Helena Santos",
+  "cv_id": "cv_47",
+  "jd_id": "JobDescription5",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in healthcare operations improvement, quality management, and process optimization. However, the role requires forensic accounting expertise, which is not directly mentioned in her CV. The only connection to a related field (forensic) is through her interest in leveraging industry knowledge in a Big4 healthcare consulting practice, but this is more of an expressed interest than actual experience.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant skills for the role, such as forensic accounting expertise, analytical and investigative skills, and certifications like CFE or CPA. Her skills in healthcare operations management, quality management systems, and process optimization methodologies are not directly applicable to the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in managing cross-functional teams, improving resource allocation, and implementing quality management systems. However, these experiences are not directly related to forensic accounting or investigative work. Her experience as a Healthcare Analyst at CUF Hospitals is also not relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and investigative skills",
+    "No relevant certifications (e.g., CFE, CPA)",
+    "Inadequate connection to the Big4 healthcare consulting practice"
+  ],
+  "elapsed_seconds": 13.9
+}

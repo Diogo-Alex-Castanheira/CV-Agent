@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Neves",
+  "cv_id": "cv_12",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in financial reporting, budgeting, and cost control is not directly related to the Data & AI Strategy role. Although they have implemented new cost allocation methodologies, this is a narrow skillset that does not align with the required expertise in data strategy, business intelligence, and AI/ML implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms, AI/ML technologies, and enterprise data governance frameworks, which are essential for the Data & AI Strategy role. They also do not have relevant certifications (e.g., Microsoft AI, AWS, PMI) or fluency in multiple industries.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience as a Financial Controller and Senior Financial Analyst is not transferable to the Data & AI Strategy role. They do not have any direct experience with large-scale digital transformation initiatives, AI governance frameworks, or cross-functional teams of data scientists, engineers, and business analysts.",
+  "key_gaps": [
+    "Lack of relevant technical skills (data platforms, AI/ML technologies) and experience in data strategy and business intelligence.",
+    "No direct experience with large-scale digital transformation initiatives or AI governance frameworks.",
+    "Insufficient transferable skills from financial reporting and budgeting to the Data & AI Strategy role."
+  ],
+  "elapsed_seconds": 14.2
+}

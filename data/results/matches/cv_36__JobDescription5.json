@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_36",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in tax compliance and advisory services, but lacks direct experience in forensic accounting or related fields. The role requires expertise in conducting forensic investigations and data analysis, which is not mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in corporate tax, international taxation, and tax compliance, but lacks relevant certifications (e.g., CFE, CPA) and experience with industry trends and regulatory changes. The role requires fluency in English and Portuguese, which the candidate possesses.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has 4 years of experience as a Tax Consultant, but most of it is in corporate taxation and international tax planning, rather than forensic accounting or compliance. The role requires significant seniority (Manager level) and experience in managing investigations and compliance matters.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient relevant certifications (e.g., CFE, CPA)",
+    "Inadequate seniority and experience in managing investigations and compliance matters"
+  ],
+  "elapsed_seconds": 12.5
+}

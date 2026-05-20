@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Ramos",
+  "cv_id": "cv_103",
+  "jd_id": "JobDescription3",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in auditing, which is a domain related to cybersecurity. However, the tasks mentioned in the role (e.g., developing a comprehensive cybersecurity strategy) are not directly aligned with the candidate's current job responsibilities as an Audit Manager.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience and skills in cybersecurity frameworks, best practices, and certifications required for the role. The only relevant certification mentioned is Portuguese CPA (ROC), which is not directly related to cybersecurity.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has leadership experience, it's in a different domain (auditing) and lacks direct experience in building and leading cybersecurity teams or working with emerging cybersecurity threats and trends. The candidate's experience is also mostly focused on financial services, which may not be directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading cybersecurity teams or working with emerging cybersecurity threats and trends.",
+    "Insufficient skills in cybersecurity frameworks, best practices, and certifications required for the role.",
+    "Limited domain alignment between auditing and cybersecurity."
+  ],
+  "elapsed_seconds": 21.2
+}

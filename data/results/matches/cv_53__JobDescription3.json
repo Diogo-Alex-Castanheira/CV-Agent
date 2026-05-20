@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Vieira",
+  "cv_id": "cv_53",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marketing analytics and performance measurement is not directly related to cybersecurity. Although they have developed data-driven strategies, there is no mention of cybersecurity frameworks, risk assessments, or threat analysis.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and has limited experience in cybersecurity tools and technologies. Their skills in marketing analytics and attribution modeling are not directly applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in marketing and digital analytics, with no direct relevance to cybersecurity. Although they have worked in a corporate environment (Unilever), there is no indication of their involvement in cybersecurity-related projects or teams.",
+  "key_gaps": [
+    "Lack of relevant certifications and experience in cybersecurity tools and technologies.",
+    "No direct experience in building and leading cybersecurity teams or conducting risk assessments and vulnerability assessments.",
+    "Inadequate transferable skills from marketing analytics to cybersecurity, such as data analysis and problem-solving."
+  ],
+  "elapsed_seconds": 13.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luis Pereira",
+  "cv_id": "cv_61",
+  "jd_id": "JobDescription3",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate's experience in public policy analysis and implementation of efficiency initiatives is not directly related to cybersecurity. However, the role requires collaboration with stakeholders and adaptation to emerging threats, which could be considered transferable skills.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned in the candidate's CV. The required certification is a key requirement for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in stakeholder engagement and management, which could be relevant to cybersecurity team collaboration. However, there is no direct experience in building or leading cybersecurity teams, conducting risk assessments, or implementing cybersecurity strategies.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH)",
+    "No direct experience in building or leading cybersecurity teams",
+    "Limited experience in conducting risk assessments and implementing cybersecurity strategies"
+  ],
+  "elapsed_seconds": 12.6
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Ferreira",
+  "cv_id": "cv_10",
+  "jd_id": "JobDescription5",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has extensive experience in corporate law, regulatory compliance, and international business transactions, there is no direct evidence of expertise in forensic accounting or related fields. The role requires strong analytical and investigative skills, which are not explicitly mentioned in the CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (Portuguese Bar Association, UK Solicitors Regulation Authority) and experience in areas like regulatory affairs, government relations, and commercial contract negotiation. However, there is no mention of fluency in English or Portuguese required for the role, which is a key requirement.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in corporate law, regulatory compliance, and international business transactions, but lacks direct relevance to forensic accounting or integrity services. The most recent experience (2024) involves leading legal strategy for a €300M cross-border acquisition, which does not align with the role's requirements.",
+  "key_gaps": [
+    "Lack of direct evidence of expertise in forensic accounting or related fields.",
+    "No mention of fluency in English required for the role.",
+    "Limited relevance of recent experience to the role's requirements."
+  ],
+  "elapsed_seconds": 14.3
+}

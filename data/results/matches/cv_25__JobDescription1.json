@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Santos",
+  "cv_id": "cv_25",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in viticulture and wine production, there is no direct evidence of domain-task alignment with data strategy, AI/ML implementation, or enterprise data governance. The candidate's expertise lies in traditional Portuguese grape varieties and production methods, which are not directly related to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in data platforms, AI/ML technologies, and business intelligence, which are essential skills for the Director of Data & AI Strategy role. The only relevant skill mentioned is wine export regulations, but it's not directly related to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in viticulture and wine production is not transferable to the Director of Data & AI Strategy role. There is no evidence of large-scale digital transformation initiatives, enterprise data governance frameworks, or executive-level relationships, which are critical for this position.",
+  "key_gaps": [
+    "Lack of experience in data platforms and AI/ML technologies",
+    "No direct evidence of domain-task alignment with data strategy and AI/ML implementation",
+    "Inadequate transferable skills from viticulture and wine production to the Director role"
+  ],
+  "elapsed_seconds": 14.1
+}

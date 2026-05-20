@@ -1,0 +1,19 @@
+{
+  "name": "Marco Silva",
+  "cv_id": "cv_57",
+  "jd_id": "JobDescription3",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial crime prevention and AML/CFT programs, but the role requires expertise in building a comprehensive cybersecurity strategy. The candidate's skills are more relevant to compliance and financial investigations than to cybersecurity.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong knowledge of cybersecurity frameworks and best practices, and relevant certifications like CISSP or CISM",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial crime prevention, it is not directly related to the role's requirements. The candidate lacks seniority and sector relevance, as they are currently working in a Big4 forensic services team.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity experience and skills",
+    "Insufficient seniority and sector relevance",
+    "No direct connection to the role's requirements"
+  ],
+  "elapsed_seconds": 11.4
+}

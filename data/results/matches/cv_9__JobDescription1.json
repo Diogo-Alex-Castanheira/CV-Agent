@@ -1,0 +1,21 @@
+{
+  "name": "Sofia Carvalho",
+  "cv_id": "cv_9",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in cybersecurity, not data strategy or AI/ML implementation. While they have worked with GRC frameworks and secure architecture assessments, these are not directly related to the role's requirements.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as experience in data platforms, AI/ML technologies, and business intelligence. They do not have any certifications mentioned, let alone Microsoft AI or AWS.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in cybersecurity, not data strategy or AI/ML implementation. While they have worked with clients on compliance, this is not directly related to the role's requirements for leading enterprise-wide data transformation and AI implementation programs.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI/ML implementation, and business intelligence.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "No relevant certifications or experience in leading enterprise-wide digital transformation initiatives.",
+    "No direct experience with client-facing roles or executive-level relationships.",
+    "No fluency in English (only mentioned as a requirement for the role)."
+  ],
+  "elapsed_seconds": 12.6
+}

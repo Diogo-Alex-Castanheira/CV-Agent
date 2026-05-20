@@ -1,0 +1,19 @@
+{
+  "name": "André Sousa",
+  "cv_id": "cv_70",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk assessments and security frameworks, but the role requires financial analysis. Although the candidate's background is in cybersecurity, they have expressed a desire to leverage their technical expertise in a Big4 consulting environment, which could be relevant to financial services.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling is not explicitly mentioned, but they have experience with vulnerability assessment tools and cloud security. However, the role requires fluency in English and Portuguese, which the candidate possesses.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk assessments and cybersecurity, but it is not directly related to financial analysis or financial services. Although they have worked with clients in financial services and healthcare sectors, their experience is not specifically tailored to the role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and financial services.",
+    "Insufficient relevance of IT risk assessment experience to the role's requirements.",
+    "No explicit mention of proficiency in financial modeling or Excel."
+  ],
+  "elapsed_seconds": 27.4
+}

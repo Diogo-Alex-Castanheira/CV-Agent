@@ -1,0 +1,19 @@
+{
+  "name": "Tomás Santos",
+  "cv_id": "cv_32",
+  "jd_id": "JobDescription4",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in corporate strategy and market analysis, but lacks direct experience in financial analysis or financial services. The skills listed are transferable to the role, but not directly relevant.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese, which aligns with the job requirements. However, there is no direct mention of experience in financial planning and analysis activities.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in management consulting and corporate strategy, but lacks relevant experience in financial services or financial analysis. The most recent role as a Senior Consultant at Boston Consulting Group involves working with major Portuguese banks, but the specific tasks are not clearly related to financial analysis.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or financial services",
+    "Insufficient relevance of transferable skills to the role's key responsibilities",
+    "No clear connection between recent work experience and financial planning and analysis activities"
+  ],
+  "elapsed_seconds": 9.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Santos",
+  "cv_id": "cv_66",
+  "jd_id": "JobDescription2",
+  "overall_score": 12,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "No direct evidence of technology risk or related fields. Transferable skills like project management and inventory control are present, but not directly relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "Lack of required skills: strong understanding of IT controls and compliance frameworks, certifications (e.g., CISA, CISSP), and fluency in English. Only basic communication skills are mentioned.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Some experience in kitchen management and inventory control, but not directly relevant to technology risk or senior consulting roles. Seniority is also limited compared to the required 4-6 years of experience.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields.",
+    "Insufficient skills and certifications for the role (e.g., IT controls, compliance frameworks).",
+    "Limited seniority and relevant experience compared to the required level."
+  ],
+  "elapsed_seconds": 11.7
+}

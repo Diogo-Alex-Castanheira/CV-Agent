@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Moreira",
+  "cv_id": "cv_80",
+  "jd_id": "JobDescription3",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "Although Ricardo Moreira's experience is primarily in data engineering, business intelligence, and AI governance, his skills in data governance and regulatory compliance are relevant to the cybersecurity role. However, there is a significant gap between his domain expertise and the required cybersecurity tasks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Ricardo Moreira has certifications in Microsoft AI Fundamentals and Microsoft Data Fundamentals, which demonstrate his knowledge of data-related skills. Additionally, he has experience with platforms like Azure Data Lake, SQL Server, Power BI, and Purview, which are relevant to the cybersecurity role.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although Ricardo Moreira has a strong background in data engineering and governance, his experience is not directly related to cybersecurity. There is a significant gap between his experience and the required seniority level for the role.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity tasks and seniority level",
+    "Insufficient alignment with the required domain expertise",
+    "Limited relevance of data engineering skills to the cybersecurity role"
+  ],
+  "elapsed_seconds": 16.2
+}

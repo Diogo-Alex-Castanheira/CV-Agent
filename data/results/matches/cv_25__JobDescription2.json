@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Santos",
+  "cv_id": "cv_25",
+  "jd_id": "JobDescription2",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in viticulture and wine production, but there is no direct evidence of technology risk or related fields. The skills listed are not directly relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is a lack of required skills mentioned in the candidate's CV, such as IT controls and compliance frameworks, and relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "The candidate has experience in wine production and management, but it is not directly related to technology risk. The most recent role as Owner & Head Winemaker at Quinta do Vale shows some leadership skills, but there is no evidence of managing technology-related risks.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or related fields",
+    "Insufficient required skills and certifications mentioned",
+    "No clear connection between wine production experience and technology risk management"
+  ],
+  "elapsed_seconds": 11.7
+}

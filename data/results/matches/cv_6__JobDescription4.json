@@ -1,0 +1,19 @@
+{
+  "name": "João Tavares",
+  "cv_id": "cv_6",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analysis and visualization, but the role requires financial analysis. Although the candidate has worked with finance and risk departments at EY Portugal, their primary experience is in data analytics consulting. The skills mentioned (Python, SQL, Power BI) are transferable to financial analysis, but not directly relevant.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, which aligns with the role's requirements. They also have strong analytical and quantitative skills, which is a key requirement for the Financial Analyst position.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in data analysis, their experience is not directly relevant to financial analysis. The role requires 0-2 years of experience in financial analysis or related roles, and the candidate's experience is more than that.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis",
+    "Insufficient seniority (0-2 years of experience)",
+    "Primary domain differs from the role's domain"
+  ],
+  "elapsed_seconds": 11.3
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luis Pereira",
+  "cv_id": "cv_61",
+  "jd_id": "JobDescription1",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in public policy analysis, which is a related domain to data strategy. However, there is no direct evidence of experience with AI/ML implementation or enterprise data governance frameworks, which are key responsibilities of the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as relevant certifications (e.g., Microsoft AI). They also do not have a strong technical understanding of data platforms and AI/ML technologies.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in public sector transformation, it is not directly applicable to the role. They lack seniority (15+ years) and experience in multiple industries, particularly financial services.",
+  "key_gaps": [
+    "Lack of direct experience with AI/ML implementation and enterprise data governance frameworks",
+    "Insufficient technical skills and certifications (e.g., cloud platforms, AI/ML technologies)",
+    "Limited seniority and industry experience"
+  ],
+  "elapsed_seconds": 13.7
+}

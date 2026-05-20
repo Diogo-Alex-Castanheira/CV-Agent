@@ -1,0 +1,19 @@
+{
+  "name": "Jorge Silva",
+  "cv_id": "cv_13",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain or tasks related to cybersecurity. The candidate's experience is in scuba diving instruction, which is unrelated to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate has some relevant soft skills like communication and teamwork (e.g., leading underwater conservation projects), but lacks technical skills required for cybersecurity. No certifications mentioned in the CV.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No experience directly related to cybersecurity or a similar field. The candidate's experience is in teaching diving and marine biology, which are unrelated to the role.",
+  "key_gaps": [
+    "Lack of direct evidence of domain or tasks related to cybersecurity",
+    "Insufficient technical skills and certifications required for the role",
+    "No experience directly related to cybersecurity or a similar field"
+  ],
+  "elapsed_seconds": 9.9
+}

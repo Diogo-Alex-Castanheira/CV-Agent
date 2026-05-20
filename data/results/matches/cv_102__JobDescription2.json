@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Mendes",
+  "cv_id": "cv_102",
+  "jd_id": "JobDescription2",
+  "overall_score": 34,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis, valuation, and modeling, which is relevant to the role. However, there is a significant gap in terms of technology risk expertise, as the candidate's background is in M&A due diligence and corporate development, rather than technology controls and compliance frameworks.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, which are essential for the role. Additionally, while they have relevant certifications (e.g., MSc in Finance and Banking), none of them are directly related to technology risk or industry standards.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in financial analysis and modeling, but it is not directly applicable to the role. They also have some relevant skills, such as advanced Excel and PowerPoint, but they are not specifically tailored to technology risk or compliance frameworks.",
+  "key_gaps": [
+    "Lack of experience in technology risk expertise",
+    "Insufficient IT controls and compliance framework knowledge",
+    "Limited direct relevance of financial analysis and modeling skills to the role"
+  ],
+  "elapsed_seconds": 19.9
+}

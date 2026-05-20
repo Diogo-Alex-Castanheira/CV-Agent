@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_95",
+  "jd_id": "JobDescription1",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation, but the role requires expertise in data strategy, AI governance, and advanced analytics. The candidate's background in industrial engineering is not directly relevant to the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some of the required skills, such as project management (PMP certified) and business analysis. However, they lack experience with data platforms and AI/ML technologies, which are essential for the role.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has limited experience in leading enterprise-wide digital transformation initiatives or building and implementing enterprise data governance frameworks. Their experience is mostly in consulting and business analysis.",
+  "key_gaps": [
+    "Lack of direct experience with data strategy, AI governance, and advanced analytics",
+    "Insufficient technical skills in data platforms and AI/ML technologies",
+    "Limited leadership experience in driving large-scale digital transformation initiatives"
+  ],
+  "elapsed_seconds": 12.4
+}

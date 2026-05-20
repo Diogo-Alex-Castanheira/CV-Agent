@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_94",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in tax law, there is no direct evidence of financial analysis or planning. The role requires expertise in financial reports, forecasts, and compliance with financial regulations, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in tax technology tools (Corptax, OneSource) and is fluent in Portuguese and English, which aligns with some of the required skills. However, there is no mention of Excel or financial modeling skills, which are essential for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in tax compliance and corporate tax returns, but it's not directly relevant to financial analysis or planning. The role requires a minimum of 0-2 years of experience in financial analysis or related roles, which the candidate does not meet.",
+  "key_gaps": [
+    "Lack of direct evidence of financial analysis and planning skills",
+    "Missing required Excel and financial modeling skills",
+    "Insufficient experience in financial analysis or related roles"
+  ],
+  "elapsed_seconds": 13.2
+}

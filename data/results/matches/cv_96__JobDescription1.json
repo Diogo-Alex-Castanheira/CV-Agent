@@ -1,0 +1,19 @@
+{
+  "name": "Inês Oliveira",
+  "cv_id": "cv_96",
+  "jd_id": "JobDescription1",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory compliance and internal controls, but the role requires expertise in data strategy, AI governance, and enterprise data transformation. The candidate's background is more aligned with financial services and healthcare sectors, which are not directly related to the consulting industry or Data & AI Strategy practice.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in data platforms, AI/ML technologies, and enterprise data governance frameworks. The required certifications (e.g., Microsoft AI, AWS) are not mentioned in the CV.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in risk management and compliance, it is not directly applicable to the Director role in Data & AI Strategy. The candidate's seniority (Risk Analyst) is also lower than required for the position.",
+  "key_gaps": [
+    "Lack of experience in data strategy, AI governance, and enterprise data transformation.",
+    "Insufficient technical skills in data platforms and AI/ML technologies.",
+    "Inadequate seniority for the Director role."
+  ],
+  "elapsed_seconds": 13.8
+}

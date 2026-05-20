@@ -1,0 +1,19 @@
+{
+  "name": "Marta Ribeiro",
+  "cv_id": "cv_29",
+  "jd_id": "JobDescription3",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain task alignment. The candidate's experience is in surfing, not cybersecurity. However, some transferable skills like public speaking, media relations, and social media management might be relevant.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CISSP, CISM, CEH) and strong knowledge of cybersecurity frameworks and best practices. They also don't mention any experience in building or leading cybersecurity teams.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in the field of cybersecurity. The candidate's 10 years of competitive surfing experience is not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of required certifications and strong knowledge of cybersecurity frameworks and best practices.",
+    "No relevant experience in building or leading cybersecurity teams.",
+    "No direct evidence of domain task alignment between the candidate's surfing experience and the role's requirements."
+  ],
+  "elapsed_seconds": 12.2
+}

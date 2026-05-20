@@ -1,0 +1,19 @@
+{
+  "name": "Marta Ribeiro",
+  "cv_id": "cv_29",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain task alignment. The candidate's experience is in competitive surfing, which does not match the role's focus on data strategy and AI implementation.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks technical skills relevant to the role, such as experience with cloud platforms like Azure or AWS. While they have a degree in Sports Science, it is not directly applicable to the job requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no evidence of relevant experience in data strategy, business intelligence, AI/ML implementation, or enterprise data governance. The candidate's experience is in competitive surfing and teaching surfing techniques, which are not transferable to the role.",
+  "key_gaps": [
+    "Lack of technical skills relevant to the role (e.g., cloud platforms, AI/ML technologies)",
+    "No direct evidence of domain task alignment between competitive surfing and data strategy/AI implementation",
+    "No relevant experience in data strategy, business intelligence, or enterprise data governance"
+  ],
+  "elapsed_seconds": 13.4
+}

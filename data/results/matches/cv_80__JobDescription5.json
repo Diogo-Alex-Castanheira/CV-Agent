@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Moreira",
+  "cv_id": "cv_80",
+  "jd_id": "JobDescription5",
+  "overall_score": 58,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in data engineering, business intelligence, and AI governance, there is no direct evidence of forensic accounting or related fields. The role requires expertise in investigative skills, compliance programs, and regulatory changes, which are not explicitly mentioned in the CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (Microsoft AI Fundamentals, Microsoft Data Fundamentals) and experience with data governance platforms (Azure Data Lake, SQL Server, Power BI). They also have skills in data modeling and KPI design, which could be transferable to the role. However, there is no direct evidence of strong analytical and investigative skills required for the Forensic & Integrity Services team.",
+  "relevant_experience_score": 60,
+  "relevant_experience_reasoning": "The candidate has extensive experience in data engineering, business intelligence, and AI governance, which could be relevant to the role. However, there is no direct evidence of experience in forensic accounting or related fields. The candidate's experience in managing portfolios using Azure ML and predicting equipment breakdowns may not be directly applicable to the Forensic & Integrity Services team.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or related fields.",
+    "Insufficient experience in investigative skills, compliance programs, and regulatory changes.",
+    "No direct connection between data engineering experience and the Forensic & Integrity Services team's requirements."
+  ],
+  "elapsed_seconds": 19.0
+}

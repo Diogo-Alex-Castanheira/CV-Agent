@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Sousa",
+  "cv_id": "cv_84",
+  "jd_id": "JobDescription1",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation, but the role requires more specific expertise in data strategy and AI/ML implementation. The candidate's background in design thinking methodologies is relevant to the role, but not directly applicable to data governance frameworks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical understanding of digital platforms and innovation strategies, which aligns with the role's requirements. However, there is no direct evidence of experience in enterprise data governance frameworks or AI/ML technologies, but the role mentions 'strong technical understanding' as a requirement.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience leading agile teams and implementing emerging technologies, which is relevant to the role. However, there is no direct evidence of experience in large-scale digital transformation initiatives or multiple industries, including financial services.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI/ML implementation",
+    "No evidence of enterprise data governance frameworks experience",
+    "Limited industry experience, particularly in financial services"
+  ],
+  "elapsed_seconds": 13.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Filipa Santos",
+  "cv_id": "cv_25",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in viticulture and wine production, but there is no direct evidence of forensic accounting or related fields. The skills listed are also not directly relevant to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is a lack of required skills mentioned in the candidate's CV, such as analytical and investigative skills, which are essential for the Consultant role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "The candidate has experience in managing vineyards and harvesting grapes, but this is not directly relevant to the Consultant role. The only remotely related experience is the wine blending decision at Sogrape Vinhos, which is still a stretch.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant experience in compliance matters or investigations"
+  ],
+  "elapsed_seconds": 11.4
+}

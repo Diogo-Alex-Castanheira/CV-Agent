@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Ramos",
+  "cv_id": "cv_103",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in auditing clients in financial services, which is related to the role's domain. However, there is a lack of direct evidence of forensic accounting or integrity services expertise.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (Portuguese CPA) and skills (IFRS, GAAP, SAP) that align with the role's requirements. However, there is no mention of forensic accounting or investigative skills.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in auditing clients in financial services, but it lacks seniority and sector relevance compared to the Forensic & Integrity Services team. There is also a lack of evidence of project management and leadership experience in forensic accounting or integrity services.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or integrity services expertise",
+    "Insufficient seniority and sector relevance compared to the Forensic & Integrity Services team",
+    "No mention of relevant certifications (e.g., CFE, CPA) for forensic accounting or investigative skills"
+  ],
+  "elapsed_seconds": 20.4
+}

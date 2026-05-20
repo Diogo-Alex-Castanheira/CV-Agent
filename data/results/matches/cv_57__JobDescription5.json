@@ -1,0 +1,19 @@
+{
+  "name": "Marco Silva",
+  "cv_id": "cv_57",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial crime prevention and AML/CFT programs, but lacks direct experience in forensic accounting or related fields. The role requires expertise in conducting forensic investigations and data analysis, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as AML/CFT regulations, financial investigation techniques, transaction monitoring systems, and compliance case management software. They also possess ACAMS certification, which is preferred by the role. The only missing skill is strong analytical and investigative skills, but this can be considered a minor gap.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in AML/CFT programs and financial investigations, but lacks seniority and direct experience in forensic accounting. The role requires 7+ years of experience, which is not met by the candidate's current experience.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient seniority and experience compared to the required 7+ years",
+    "Missing strong analytical and investigative skills"
+  ],
+  "elapsed_seconds": 13.8
+}

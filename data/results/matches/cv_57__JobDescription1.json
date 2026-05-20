@@ -1,0 +1,20 @@
+{
+  "name": "Marco Silva",
+  "cv_id": "cv_57",
+  "jd_id": "JobDescription1",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial crime prevention and AML/CFT programs, but the role requires expertise in data strategy, AI governance, and enterprise data transformation. The candidate's skills are more related to compliance and investigation rather than data analysis or AI implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as strong technical understanding of data platforms and AI/ML technologies. They also don't have relevant certifications in these areas.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial crime prevention, it's not directly related to the role's requirements for leading enterprise-wide data transformation and AI implementation programs. The candidate's seniority is also lower than required (15+ years).",
+  "key_gaps": [
+    "Lack of experience with cloud platforms like Azure and AWS",
+    "Insufficient technical understanding of data platforms and AI/ML technologies",
+    "Inadequate seniority (less than 15 years of experience)",
+    "No direct experience in leading enterprise-wide data transformation and AI implementation programs"
+  ],
+  "elapsed_seconds": 14.1
+}

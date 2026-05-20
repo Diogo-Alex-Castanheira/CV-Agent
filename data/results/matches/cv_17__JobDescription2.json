@@ -1,0 +1,19 @@
+{
+  "name": "Luísa Pereira",
+  "cv_id": "cv_17",
+  "jd_id": "JobDescription2",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in ESG reporting and sustainable finance is not directly related to technology risk, but they do have expertise in frameworks that could be relevant (e.g., GRI, SASB). However, there is no direct evidence of their understanding of IT controls or compliance frameworks.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some required skills, such as fluency in English and Portuguese, but lacks strong analytical and communication skills explicitly mentioned in the job description. They also lack relevant certifications like CISA or CISSP.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "Although the candidate has experience in sustainability reporting and corporate social responsibility, it is not directly related to technology risk management. There are no years of experience in technology risk or related fields that match the job description's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management",
+    "Insufficient analytical and communication skills",
+    "No relevant certifications like CISA or CISSP"
+  ],
+  "elapsed_seconds": 12.9
+}

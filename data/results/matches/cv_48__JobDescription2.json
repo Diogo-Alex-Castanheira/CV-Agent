@@ -1,0 +1,20 @@
+{
+  "name": "Duarte Lopes",
+  "cv_id": "cv_48",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in blockchain implementation and distributed ledger technologies, which is related to technology risk. However, the role requires a strong understanding of IT controls and compliance frameworks, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in blockchain platforms (Ethereum, Hyperledger), smart contract development, distributed systems architecture, Solidity, JavaScript, Python, and strong problem-solving abilities. These skills are relevant to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in blockchain implementation, but it is not directly related to technology risk or compliance frameworks. The candidate lacks experience in IT controls and process assessments, which are critical for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks.",
+    "Insufficient experience in IT controls and process assessments.",
+    "No mention of relevant certifications (e.g., CISA, CISSP) despite being a senior consultant.",
+    "Limited relevance of blockchain experience to the role's requirements."
+  ],
+  "elapsed_seconds": 13.0
+}

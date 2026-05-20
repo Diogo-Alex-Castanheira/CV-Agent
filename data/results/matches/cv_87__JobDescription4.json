@@ -1,0 +1,19 @@
+{
+  "name": "André Fernandes",
+  "cv_id": "cv_87",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has a background in actuarial science, which is relevant to the role of Financial Analyst. However, the specific tasks mentioned in their experience (reserving, pricing, regulatory reports) are more aligned with an Actuarial Analyst role than a Financial Analyst.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese. They also have experience with Solvency II and IFRS 17 requirements, which are relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in actuarial analysis, but it's not directly related to financial planning and analysis. They lack experience in supporting business units for decision-making and ensuring compliance with financial regulations.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis",
+    "Insufficient experience in supporting business units for decision-making",
+    "No experience in ensuring compliance with financial regulations"
+  ],
+  "elapsed_seconds": 12.0
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigo Alves",
+  "cv_id": "cv_26",
+  "jd_id": "JobDescription1",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in digital transformation and IT strategy, which aligns with the role's requirements. However, there is no direct evidence of AI/ML implementation or enterprise data governance frameworks, which are key responsibilities for this role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical skills in cloud computing and system integration, as well as project management and Agile methodologies. They also hold relevant certifications like PMP and ITIL v4. However, there is no mention of AI/ML technologies or enterprise data governance frameworks.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in digital transformation and IT strategy, but most of it is from a consulting background without direct experience in leading large-scale digital transformation initiatives for financial services clients. Their experience in managing teams is also limited to up to 15 consultants.",
+  "key_gaps": [
+    "Lack of direct experience in AI/ML implementation and enterprise data governance frameworks",
+    "Limited seniority and experience leading large-scale digital transformation initiatives for financial services clients",
+    "Insufficient evidence of expertise in cloud platforms like Azure and AWS"
+  ],
+  "elapsed_seconds": 14.7
+}

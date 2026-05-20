@@ -1,0 +1,19 @@
+{
+  "name": "Eduardo Costa",
+  "cv_id": "cv_82",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in finance, but the role requires expertise in data strategy, AI governance, and digital transformation. The candidate's skills are more aligned with financial modeling and valuation rather than data analysis or AI implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as experience building enterprise data governance frameworks, strong technical understanding of data platforms and AI/ML technologies, and fluency in multiple languages (English and Portuguese are mentioned but not explicitly stated as a requirement)",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is mostly in finance, with no direct relevance to the role's requirements for data strategy, AI governance, and digital transformation. The candidate's seniority (7 years of experience) is also not sufficient for a Director-level position.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI governance, and digital transformation.",
+    "Insufficient technical skills in data platforms and AI/ML technologies.",
+    "Inadequate seniority for a Director-level position."
+  ],
+  "elapsed_seconds": 13.0
+}

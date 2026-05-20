@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Almeida",
+  "cv_id": "cv_60",
+  "jd_id": "JobDescription5",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in corporate taxation and tax planning, but lacks direct experience in forensic accounting or related fields. The role requires expertise in conducting forensic investigations and data analysis, which is not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in Portuguese Tax Code, EU Tax Directives, and tax planning, but lacks specific certifications like CFE or CPA. The role requires relevant certifications, which is not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in managing tax compliance for SME clients and providing advisory services on corporate restructuring, but lacks seniority and sector relevance. The role requires experience as a manager in forensic accounting or related fields, which is not explicitly mentioned in the candidate's CV.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Missing relevant certifications like CFE or CPA",
+    "Limited seniority and sector relevance"
+  ],
+  "elapsed_seconds": 12.4
+}

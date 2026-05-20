@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mendes",
+  "cv_id": "cv_69",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and investigation, but the role requires a focus on financial planning and analysis activities. The candidate's expertise in fraud investigation techniques is not directly applicable to the Financial Analyst role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and experience with financial modeling (although not explicitly stated). They also have fluency in English and Portuguese, which matches the requirements. However, there is no direct evidence of experience with financial planning and analysis tools or software.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in financial analysis and investigation, but it's not directly applicable to the Financial Analyst role. They lack experience in supporting business units for decision-making and ensuring compliance with financial regulations and standards.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "No evidence of proficiency in financial modeling tools or software",
+    "Insufficient experience in supporting business units for decision-making"
+  ],
+  "elapsed_seconds": 13.1
+}

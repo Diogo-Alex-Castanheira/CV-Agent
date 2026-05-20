@@ -1,0 +1,19 @@
+{
+  "name": "Carolina Duarte",
+  "cv_id": "cv_19",
+  "jd_id": "JobDescription5",
+  "overall_score": 49,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis and reporting, but lacks direct experience in forensic accounting or related fields. The role requires expertise in conducting forensic investigations and data analysis, which is not mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills in financial analysis, financial modeling, Excel, PowerPoint, and Bloomberg Terminal. They also have fluency in English and Portuguese, which matches the required language proficiency. However, there is no mention of certifications like CFE or CPA, but being a CFA Level I Candidate is a plus.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in forensic accounting or related fields, with only internships in financial analysis and credit risk assessment. The role requires significant experience in conducting investigations and data analysis, which the candidate lacks.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient experience in conducting investigations and data analysis",
+    "Missing certifications like CFE or CPA, although being a CFA Level I Candidate is relevant"
+  ],
+  "elapsed_seconds": 12.0
+}

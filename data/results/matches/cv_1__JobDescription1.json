@@ -1,0 +1,19 @@
+{
+  "name": "Carla Nogueira",
+  "cv_id": "cv_1",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in corporate taxation, which is a different domain from data strategy and AI. Although they have worked with Fortune 500 clients, there is no direct evidence of their involvement in large-scale digital transformation initiatives or AI/ML implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms and AI/ML technologies, as well as relevant certifications (e.g., Microsoft AI, AWS). Their technical understanding of data platforms is limited to SAP FI and Oracle Tax.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "Although the candidate has extensive experience in tax consulting, it is not directly related to the role's requirements. They lack experience building and implementing enterprise data governance frameworks, leading large-scale digital transformation initiatives, or contributing to business development through proposal creation and client presentations.",
+  "key_gaps": [
+    "Lack of experience in data strategy and AI/ML implementation",
+    "Insufficient technical understanding of data platforms and AI/ML technologies",
+    "No direct experience with large-scale digital transformation initiatives or enterprise data governance frameworks"
+  ],
+  "elapsed_seconds": 8.4
+}

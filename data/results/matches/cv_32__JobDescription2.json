@@ -1,0 +1,19 @@
+{
+  "name": "Tomás Santos",
+  "cv_id": "cv_32",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy development and business planning, which is relevant to the role. However, there is no direct evidence of technology risk or compliance frameworks, which are key responsibilities of the Senior Consultant position.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and communication skills, as well as experience with financial modeling and market analysis. They also have fluency in English and Portuguese, which is a requirement for the role. However, there is no mention of relevant certifications such as CISA or CISSP.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in management consulting and corporate strategy, but it's not directly related to technology risk or compliance. They have some experience with project management and team leadership, which is relevant to the role, but it's not enough to compensate for the lack of direct experience.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or compliance frameworks",
+    "No mention of relevant certifications such as CISA or CISSP",
+    "Limited relevance of management consulting experience to the role"
+  ],
+  "elapsed_seconds": 13.0
+}

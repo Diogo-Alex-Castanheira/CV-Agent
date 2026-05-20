@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Santos",
+  "cv_id": "cv_64",
+  "jd_id": "JobDescription4",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT audit and security, but the role requires financial analysis. Although there is some overlap between IT audit and financial analysis, the candidate's skills and experience are not directly applicable to the role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has basic proficiency in Excel and financial modeling, but no direct experience with financial planning and analysis. They also lack experience with financial regulations and standards, which is a key requirement for the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in security and IT audit, but it's not directly applicable to the financial services industry or the specific responsibilities of the Financial Analyst role. They also lack significant experience in financial analysis or related roles.",
+  "key_gaps": [
+    "Lack of direct experience with financial planning and analysis",
+    "Insufficient proficiency in financial regulations and standards",
+    "Inadequate relevance to the financial services industry"
+  ],
+  "elapsed_seconds": 12.4
+}

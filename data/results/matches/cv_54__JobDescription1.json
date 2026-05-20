@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Gomes",
+  "cv_id": "cv_54",
+  "jd_id": "JobDescription1",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in internal audit, but it's not directly related to data strategy or AI implementation. There is no mention of data governance frameworks, cloud platforms, or business development.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong technical understanding of data platforms and AI/ML technologies, experience in multiple industries (especially financial services), and relevant certifications like Microsoft AI or AWS.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has 6 years of experience, it's mostly focused on internal audit and lacks seniority, industry relevance, and direct experience with large-scale digital transformation initiatives.",
+  "key_gaps": [
+    "Lack of domain alignment: no experience in data strategy or AI implementation",
+    "Insufficient technical skills: missing required certifications and expertise in cloud platforms and AI/ML technologies",
+    "Limited industry relevance: mostly internal audit experience without direct connection to financial services"
+  ],
+  "elapsed_seconds": 12.7
+}

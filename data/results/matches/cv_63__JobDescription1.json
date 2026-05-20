@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Dias",
+  "cv_id": "cv_63",
+  "jd_id": "JobDescription1",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in machine learning and NLP, but the role requires expertise in enterprise data strategy, AI governance, and advanced analytics solutions. The candidate's experience is more focused on developing AI solutions for business applications, rather than leading complex digital transformation initiatives.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong technical skills in machine learning, NLP, and big data technologies, which align with the role's requirements. However, the role also requires experience building and implementing enterprise data governance frameworks, which is not explicitly mentioned in the candidate's CV.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in machine learning and NLP, but lacks experience in leading large-scale digital transformation initiatives or working with multiple industries. The candidate's experience is also more focused on developing AI solutions rather than driving business outcomes.",
+  "key_gaps": [
+    "Lack of experience in leading complex digital transformation initiatives and building enterprise data governance frameworks.",
+    "Insufficient industry experience, particularly in financial services.",
+    "No explicit mention of experience with cloud platforms like Azure and AWS."
+  ],
+  "elapsed_seconds": 14.5
+}

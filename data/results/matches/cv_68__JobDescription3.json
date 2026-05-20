@@ -1,0 +1,19 @@
+{
+  "name": "Inês Rodrigues",
+  "cv_id": "cv_68",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in sustainability reporting and ESG strategy development is not directly related to cybersecurity. While they have worked on carbon footprint assessments, this is a specific task rather than a broad domain expertise. The candidate lacks any direct experience with cybersecurity frameworks, best practices, or threat analysis.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate does not possess any relevant certifications (e.g., CISSP, CISM, CEH) and lacks fluency in English, which is a required skill for the role. They also do not have experience with data analysis tools and visualization specifically tailored to cybersecurity.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in sustainability reporting and ESG strategy development does not demonstrate any relevant skills or expertise in cybersecurity, risk assessment, or threat analysis. Their education background is also unrelated to the role.",
+  "key_gaps": [
+    "Lack of direct experience with cybersecurity frameworks and best practices.",
+    "Insufficient relevant certifications (e.g., CISSP, CISM, CEH) or fluency in English.",
+    "No demonstrated expertise in risk assessment, threat analysis, or data analysis tools specifically tailored to cybersecurity."
+  ],
+  "elapsed_seconds": 15.9
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Lopes",
+  "cv_id": "cv_44",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in HR is not directly related to financial analysis, and there is no mention of financial planning or analysis activities. However, the candidate has experience with recruitment processes, which could be transferable to supporting business units in a financial context.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, as well as no mention of fluency in English (although they claim fluent, the role requires it).",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in HR, which is not directly related to the role, they have shown some transferable skills such as leadership and conflict resolution. However, their experience is limited to 2 years and lacks seniority.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or related roles",
+    "Insufficient proficiency in Excel and financial modeling",
+    "Limited seniority and experience compared to the required level"
+  ],
+  "elapsed_seconds": 11.5
+}

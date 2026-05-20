@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_77",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital marketing is not directly related to forensic accounting or integrity services. While they have experience with data analysis and campaign performance, these skills are not transferable to the role of a consultant in Forensic & Integrity Services.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and does not have experience with forensic accounting or related fields. They do not meet any of the required skills for the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience in data analysis and campaign performance, their seniority is low (Digital Marketing Specialist), and they lack experience in forensic accounting or integrity services. Their sector relevance is also limited to consumer products.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields.",
+    "Insufficient seniority and sector relevance for the role of Consultant, Forensic & Integrity Services.",
+    "No direct transferable evidence from digital marketing to forensic accounting or integrity services."
+  ],
+  "elapsed_seconds": 13.4
+}

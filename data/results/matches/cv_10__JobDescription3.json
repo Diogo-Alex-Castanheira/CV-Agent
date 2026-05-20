@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Ferreira",
+  "cv_id": "cv_10",
+  "jd_id": "JobDescription3",
+  "overall_score": 5,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in corporate law, regulatory compliance, and international business transactions, which does not directly align with the cybersecurity role. While they have managed complex legal aspects of digital transformation initiatives and intellectual property disputes, these skills are not directly transferable to a cybersecurity context.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications in cybersecurity (e.g., CISSP, CISM, CEH) and does not have explicit experience in building and leading cybersecurity teams. Their skills in corporate governance, mergers & acquisitions, and regulatory affairs are not directly applicable to the cybersecurity role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in corporate law and regulatory compliance, with no direct relevance to cybersecurity. While they have managed complex projects, their skills are not transferable to a cybersecurity context.",
+  "key_gaps": [
+    "Lack of relevant certifications in cybersecurity (e.g., CISSP, CISM, CEH)",
+    "No direct experience in building and leading cybersecurity teams",
+    "No transferable skills or experience in cybersecurity"
+  ],
+  "elapsed_seconds": 13.4
+}

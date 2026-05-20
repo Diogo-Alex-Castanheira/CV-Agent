@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Ferreira",
+  "cv_id": "cv_10",
+  "jd_id": "JobDescription2",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in corporate law, regulatory compliance, and international business transactions, which differs significantly from the technology risk domain. While they have worked on cross-border acquisitions and intellectual property transfers, these are not directly related to technology risk management.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and communication skills, as evident from their experience in developing compliance programs, negotiating complex agreements, and leading legal strategy. They also have relevant certifications (Portuguese Bar Association, UK Solicitors Regulation Authority) and fluency in English and Portuguese, which align with the role's requirements.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not directly related to technology risk management. While they have worked on complex regulatory issues and compliance programs, these are not specific to technology risk or IT controls.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk management",
+    "No relevant certifications in technology risk or related fields (e.g., CISA, CISSP)",
+    "Inadequate alignment with the role's domain and responsibilities"
+  ],
+  "elapsed_seconds": 12.7
+}

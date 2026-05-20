@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Mendes",
+  "cv_id": "cv_41",
+  "jd_id": "JobDescription1",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in SAP implementations for financial modules, which is a relevant skill. However, the role requires expertise in enterprise data strategy and AI governance, which are not explicitly mentioned in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in ERP systems, digital transformation, ABAP programming, and SQL, which are partially relevant to the role. However, there is no mention of AI/ML implementation, data governance, or cloud platforms like Azure and AWS.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in system implementation and digital transformation projects, but it's not directly related to the role. The candidate also lacks experience in leading enterprise-wide data transformation and AI implementation programs, which is a key responsibility of the role.",
+  "key_gaps": [
+    "Lack of direct experience in Data & AI Strategy practice",
+    "Insufficient skills in AI/ML implementation, data governance, and cloud platforms",
+    "No evidence of leading enterprise-wide data transformation and AI implementation programs"
+  ],
+  "elapsed_seconds": 13.6
+}

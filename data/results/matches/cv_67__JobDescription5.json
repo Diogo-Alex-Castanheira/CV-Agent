@@ -1,0 +1,19 @@
+{
+  "name": "João Oliveira",
+  "cv_id": "cv_67",
+  "jd_id": "JobDescription5",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit and accounting, but lacks direct experience in forensic investigations or compliance matters. The role requires expertise in these areas, which is not evident in the candidate's CV.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial statement analysis, audit procedures, and Excel, but lacks proficiency in SAP and specific certifications like CFE or CPA. The role requires strong analytical and investigative skills, which the candidate demonstrates with their experience in audit.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has limited work experience, mostly in entry-level roles, and lacks seniority. While they have internship experience, it's not directly related to forensic investigations or compliance matters. The role requires significant experience as a manager.",
+  "key_gaps": [
+    "Lack of direct experience in forensic investigations and compliance matters",
+    "Insufficient proficiency in SAP and specific certifications like CFE or CPA",
+    "Limited seniority and work experience"
+  ],
+  "elapsed_seconds": 13.0
+}

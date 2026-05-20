@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_62",
+  "jd_id": "JobDescription3",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in banking operations and process optimization, but lacks direct experience in cybersecurity. While they have expertise in regulatory compliance, it is not directly related to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to the role, such as process optimization methodologies and regulatory compliance. However, they are missing specific cybersecurity-related skills and certifications required by the job description.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate's experience in banking operations is not directly transferable to the cybersecurity role. They lack seniority and sector relevance, which are essential for this position.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "Missing specific cybersecurity-related skills and certifications",
+    "Inadequate seniority and sector relevance"
+  ],
+  "elapsed_seconds": 11.3
+}

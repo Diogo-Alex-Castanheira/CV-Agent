@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Oliveira",
+  "cv_id": "cv_39",
+  "jd_id": "JobDescription2",
+  "overall_score": 68,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, which aligns with the role's responsibilities. They have expertise in regulatory frameworks such as Basel III, GDPR, and AML directives, which are relevant to technology risk.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with SAS, R, and Excel, but no specific certifications mentioned for IT controls or compliance frameworks. They lack a certification like CISA or CISSP, which is preferred by the role.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has 5 years of experience in risk management and compliance, with a focus on financial risk. While their experience is not directly in technology risk, they have worked on projects related to GDPR compliance for financial institutions, which shows some relevance.",
+  "key_gaps": [
+    "Lack of specific certifications like CISA or CISSP for IT controls and compliance frameworks.",
+    "No direct experience in technology risk, but relevant experience in financial risk management and compliance.",
+    "Skills in SAS, R, and Excel are not directly related to the role's requirements."
+  ],
+  "elapsed_seconds": 12.3
+}

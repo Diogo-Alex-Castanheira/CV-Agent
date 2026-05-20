@@ -1,0 +1,19 @@
+{
+  "name": "Afonso Morais",
+  "cv_id": "cv_28",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in deal advisory and corporate finance, which is related to the Financial Analyst role. However, there is a significant gap in terms of direct experience with financial planning and analysis activities, as well as compliance with financial regulations and standards.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has expertise in valuation, financial modeling, and due diligence processes, which are essential skills for the Financial Analyst role. Additionally, they have proficiency in Excel and financial modeling, as well as fluency in English and Portuguese.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in M&A advisory services, but it is not directly related to the Financial Analyst role. They also lack experience with financial planning and analysis activities, which are critical components of the job.",
+  "key_gaps": [
+    "Lack of direct experience with financial planning and analysis activities",
+    "Insufficient experience with compliance with financial regulations and standards",
+    "Limited experience in supporting business units to drive business performance"
+  ],
+  "elapsed_seconds": 11.8
+}

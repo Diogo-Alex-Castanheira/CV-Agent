@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Ribeiro",
+  "cv_id": "cv_107",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in market analysis and strategic planning is not directly related to cybersecurity, but they do have strong analytical and problem-solving skills. However, there is no direct evidence of their ability to develop a comprehensive cybersecurity strategy or lead a team.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in building and leading cybersecurity teams, as well as specific knowledge of cybersecurity frameworks and best practices. They also do not have relevant certifications such as CISSP, CISM, or CEH.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "While the candidate has experience in market research and financial modeling, their experience is not directly related to cybersecurity. There are no mentions of risk assessments, vulnerability assessments, or security awareness training in their CV.",
+  "key_gaps": [
+    "Lack of direct experience in building and leading cybersecurity teams.",
+    "No relevant certifications in cybersecurity (e.g., CISSP, CISM, CEH).",
+    "No evidence of risk assessments, vulnerability assessments, or security awareness training."
+  ],
+  "elapsed_seconds": 20.4
+}

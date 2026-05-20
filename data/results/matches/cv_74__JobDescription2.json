@@ -1,0 +1,19 @@
+{
+  "name": "Margarida Silva",
+  "cv_id": "cv_74",
+  "jd_id": "JobDescription2",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory affairs, but the role requires technology risk expertise. The candidate's knowledge of financial services regulation is not directly applicable to technology risk.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with IT controls and compliance frameworks, as well as relevant certifications (e.g., CISA, CISSP).",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has regulatory experience, it is not directly related to technology risk. The candidate's seniority and sector relevance are partially applicable.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk",
+    "Insufficient IT controls and compliance framework knowledge",
+    "No relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 24.5
+}

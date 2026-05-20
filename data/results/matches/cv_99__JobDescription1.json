@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Martins",
+  "cv_id": "cv_99",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in UI/UX design, which is a different domain from Data & AI Strategy. Although they have worked on digital products, there is no direct evidence of their involvement in data strategy or AI implementation.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with data platforms and AI/ML technologies, which are essential for the role. They also don't have relevant certifications (e.g., Microsoft AI, AWS, PMI) preferred by the employer.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in UI/UX design and doesn't demonstrate any direct relevance to data strategy or AI implementation. They don't have a track record of delivering large-scale digital transformation initiatives, which is also a key requirement for the role.",
+  "key_gaps": [
+    "Lack of experience in data strategy and AI implementation",
+    "No relevant certifications (e.g., Microsoft AI, AWS, PMI)",
+    "Inadequate transferable skills from UI/UX design to Data & AI Strategy"
+  ],
+  "elapsed_seconds": 18.7
+}

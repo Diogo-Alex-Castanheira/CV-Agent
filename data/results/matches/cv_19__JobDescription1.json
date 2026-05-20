@@ -1,0 +1,19 @@
+{
+  "name": "Carolina Duarte",
+  "cv_id": "cv_19",
+  "jd_id": "JobDescription1",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in finance and accounting, but lacks direct experience in data strategy, AI/ML implementation, or enterprise data governance. The role requires expertise in these areas, which the candidate does not possess.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in financial analysis, financial modeling, and Excel, but lacks experience with cloud platforms like Azure and AWS, as well as AI/ML technologies. The role requires strong technical understanding of data platforms and AI/ML technologies.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has limited work experience (less than 2 years) in a Big4 advisory role, which is not directly relevant to the Director, Data & AI Strategy role. The candidate's experience as a Financial Analyst Intern and Credit Risk Intern is also too short and lacks seniority.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, or enterprise data governance.",
+    "Insufficient technical skills in cloud platforms like Azure and AWS, as well as AI/ML technologies.",
+    "Limited work experience (less than 2 years) in a Big4 advisory role, which is not directly relevant to the Director, Data & AI Strategy role."
+  ],
+  "elapsed_seconds": 13.9
+}

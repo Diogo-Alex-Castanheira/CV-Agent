@@ -1,0 +1,19 @@
+{
+  "name": "Inês Rodrigues",
+  "cv_id": "cv_68",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in sustainability reporting and ESG strategy development, which is related to the role's domain. However, there is a significant gap in terms of forensic accounting or investigative skills, as required by the job description.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with data analysis tools and visualization specifically for forensic investigations, as well as relevant certifications like CFE or CPA. While they have strong analytical skills, this is not directly applicable to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability reporting and ESG policy implementation, which is not directly related to forensic investigations. However, their experience in collaborating with cross-functional teams could be transferable to the role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience with data analysis tools and visualization for forensic investigations.",
+    "Insufficient experience in forensic accounting or investigative skills.",
+    "No direct experience in conducting forensic investigations or preparing reports and presentations for stakeholders."
+  ],
+  "elapsed_seconds": 15.7
+}

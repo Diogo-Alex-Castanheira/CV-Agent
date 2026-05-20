@@ -1,0 +1,19 @@
+{
+  "name": "Manuel Dias",
+  "cv_id": "cv_63",
+  "jd_id": "JobDescription3",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in machine learning and natural language processing, but the role requires expertise in cybersecurity frameworks and best practices. There is no direct evidence of the candidate's knowledge or experience in these areas.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and does not have any explicit mention of cybersecurity frameworks or best practices in their skills section.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in machine learning and data science, there is no direct relevance to the role's requirements. However, their problem-solving abilities are transferable to a cybersecurity context.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) and expertise in cybersecurity frameworks and best practices.",
+    "No direct evidence of knowledge or experience in cybersecurity frameworks and best practices.",
+    "Limited relevance to the role's requirements despite transferable problem-solving abilities."
+  ],
+  "elapsed_seconds": 13.7
+}

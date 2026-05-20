@@ -1,0 +1,19 @@
+{
+  "name": "Diogo Pinto",
+  "cv_id": "cv_101",
+  "jd_id": "JobDescription2",
+  "overall_score": 68,
+  "verdict": "Strong match",
+  "domain_task_alignment_score": 80,
+  "domain_task_alignment_reasoning": "The candidate has experience in technology risk management, IT audit, and cybersecurity compliance, which aligns with the role's responsibilities. They also have certifications (CISA) that are relevant to the field.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in IT governance frameworks (COBIT, ITIL), cybersecurity and data privacy compliance, but lacks specific experience with technology trends and regulatory changes. They also lack a CISSP certification, which is preferred.",
+  "relevant_experience_score": 70,
+  "relevant_experience_reasoning": "The candidate has relevant experience in IT risk management (NOS - Lisbon) and IT audit (Banco BPI - Porto), but lacks seniority. They also lack experience in a Big4 IT risk advisory practice, which is required by the role.",
+  "key_gaps": [
+    "Lack of specific experience with technology trends and regulatory changes",
+    "No CISSP certification (preferred)",
+    "Limited seniority in IT risk advisory practice"
+  ],
+  "elapsed_seconds": 18.6
+}

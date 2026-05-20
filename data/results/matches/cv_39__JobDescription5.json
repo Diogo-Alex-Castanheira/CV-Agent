@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Oliveira",
+  "cv_id": "cv_39",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in risk management and compliance, which aligns with the role's requirements. However, there is a lack of direct evidence of forensic accounting or investigative skills, which are key responsibilities of the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has expertise in regulatory frameworks (Basel III, GDPR, AML directives) and proficiency in tools like SAS, R, and Excel. They also hold a FRM certification, which is relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in risk management and compliance, but most of it is not directly related to forensic accounting or investigative work. Their experience as a Risk Advisory Consultant at EY is closer to the required skills, but still lacks specific forensic investigation experience.",
+  "key_gaps": [
+    "Lack of direct evidence of forensic accounting or investigative skills",
+    "Insufficient experience in forensic investigations and data analysis",
+    "No mention of relevant certifications like CFE (Certified Forensic Examiner)"
+  ],
+  "elapsed_seconds": 12.7
+}

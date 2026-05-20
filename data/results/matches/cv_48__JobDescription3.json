@@ -1,0 +1,19 @@
+{
+  "name": "Duarte Lopes",
+  "cv_id": "cv_48",
+  "jd_id": "JobDescription3",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in blockchain implementation and distributed ledger technologies, which is a subset of cybersecurity. However, there is no direct evidence of expertise in cybersecurity frameworks, risk assessments, or threat analysis.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISSP, CISM, CEH) and does not mention any experience with cybersecurity tools or software. Their skills in blockchain platforms are not directly applicable to the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in developing smart contracts and collaborating with IT teams, but this is not directly relevant to the role's requirements for building and leading a cybersecurity team. Their experience in blockchain implementation is also limited to cross-border payments, which may not be directly applicable.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Insufficient experience in cybersecurity frameworks and risk assessments",
+    "Limited direct relevance of blockchain implementation experience to the role"
+  ],
+  "elapsed_seconds": 13.0
+}

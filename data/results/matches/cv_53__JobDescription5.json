@@ -1,0 +1,19 @@
+{
+  "name": "Teresa Vieira",
+  "cv_id": "cv_53",
+  "jd_id": "JobDescription5",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marketing analytics and digital marketing is not directly related to forensic accounting or integrity services. While they have developed data-driven strategies, their expertise lies in campaign performance measurement rather than investigative analysis.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills in Google Analytics, Adobe Analytics, SQL, Python, and R, which could be applied to data analysis. Additionally, they have a Google Analytics certification, but no direct evidence of certifications like CFE or CPA.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in marketing analytics is not relevant to forensic accounting or integrity services. They lack the necessary seniority and sector relevance for this role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient seniority and sector relevance",
+    "No evidence of required certifications like CFE or CPA"
+  ],
+  "elapsed_seconds": 11.5
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Neves",
+  "cv_id": "cv_79",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's expertise is in HR and organizational design, which is not directly related to cybersecurity. While they have experience with organizational assessments and transformation roadmaps, these skills are not transferable to the role of developing a comprehensive cybersecurity strategy.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications in cybersecurity (e.g., CISSP, CISM, CEH) and does not have experience with emerging cybersecurity threats and trends. Their fluency in English is required, but this is a basic requirement that many professionals possess.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience in HR transformation projects and implementing HRIS solutions is not relevant to the role of building and leading a cybersecurity team. They do not have any direct experience with risk assessments, vulnerability assessments, or cybersecurity policies and procedures.",
+  "key_gaps": [
+    "Lack of relevant certifications in cybersecurity",
+    "No experience with emerging cybersecurity threats and trends",
+    "No direct experience with risk assessments, vulnerability assessments, or cybersecurity policies and procedures"
+  ],
+  "elapsed_seconds": 13.8
+}

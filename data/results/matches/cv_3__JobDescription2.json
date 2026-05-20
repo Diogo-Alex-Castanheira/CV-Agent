@@ -1,0 +1,19 @@
+{
+  "name": "Gonçalo Marques",
+  "cv_id": "cv_3",
+  "jd_id": "JobDescription2",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in organizational transformation, which is related to technology risk. However, the primary domain of management consulting is not directly aligned with technology risk. The candidate's skills in strategy and transformation are transferable, but there is a significant gap in terms of technical expertise.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Excel, Power BI, and Tableau, which could be relevant to data analysis. However, the required certifications (e.g., CISA, CISSP) are not mentioned in the CV. The candidate's knowledge of public sector and utilities is also not directly related to technology risk.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "The candidate has experience in cost reduction programs and government modernization programs, which could be relevant to technology risk. However, the seniority level (4+ years) is lower than required for a Senior Consultant position. The candidate's experience as a Business Analyst is also not directly related to technology risk.",
+  "key_gaps": [
+    "Lack of direct technical expertise in IT controls and compliance frameworks.",
+    "Insufficient seniority level for Senior Consultant position.",
+    "No mention of required certifications (e.g., CISA, CISSP)."
+  ],
+  "elapsed_seconds": 10.3
+}

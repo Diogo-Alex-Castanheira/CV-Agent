@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Almeida",
+  "cv_id": "cv_60",
+  "jd_id": "JobDescription2",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in corporate taxation and tax planning, but the role requires expertise in technology risk. There is no direct evidence of domain task alignment.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in Portuguese Tax Code, EU Tax Directives, and tax filing software, which are relevant to the role. However, there is a lack of expertise in IT controls and compliance frameworks, as well as certifications like CISA or CISSP.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has experience in corporate taxation and tax planning, but it's not directly related to technology risk. There is no evidence of seniority or sector relevance.",
+  "key_gaps": [
+    "Lack of expertise in IT controls and compliance frameworks",
+    "No relevant experience in technology risk",
+    "No certifications like CISA or CISSP"
+  ],
+  "elapsed_seconds": 11.8
+}

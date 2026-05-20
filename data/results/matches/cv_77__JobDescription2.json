@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_77",
+  "jd_id": "JobDescription2",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital marketing is not directly related to technology risk, but they do have some transferable skills such as analytical and communication skills. However, the lack of direct experience in IT controls and compliance frameworks makes this a weak match.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CISA, CISSP) and strong understanding of IT controls and compliance frameworks. They do not meet the required skills for the role.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience in digital marketing, it is not directly relevant to technology risk. However, they do have some transferable skills such as analytical and communication skills that could be applied to a related field.",
+  "key_gaps": [
+    "Lack of direct experience in IT controls and compliance frameworks",
+    "Insufficient relevant certifications (e.g., CISA, CISSP)",
+    "Inadequate transferable skills for technology risk"
+  ],
+  "elapsed_seconds": 11.8
+}

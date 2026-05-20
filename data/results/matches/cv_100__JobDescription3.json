@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Rodrigues",
+  "cv_id": "cv_100",
+  "jd_id": "JobDescription3",
+  "overall_score": 70,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 70,
+  "domain_task_alignment_reasoning": "The candidate has experience in vulnerability assessment and penetration testing, which aligns with the role's responsibilities. However, there is a lack of direct evidence on implementing a comprehensive cybersecurity strategy tailored to client needs.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate holds CISSP certification, which meets one of the required certifications. Additionally, they have experience in security frameworks (NIST, ISO 27001) and strong technical documentation skills. However, there is no mention of CEH certification or experience with emerging cybersecurity threats and trends.",
+  "relevant_experience_score": 60,
+  "relevant_experience_reasoning": "The candidate has relevant experience in vulnerability assessment and penetration testing, as well as leading security awareness training programs. However, their experience is not directly related to building and leading a cybersecurity team or collaborating with stakeholders to ensure alignment with business objectives.",
+  "key_gaps": [
+    "Lack of direct evidence on implementing a comprehensive cybersecurity strategy tailored to client needs.",
+    "No mention of CEH certification or experience with emerging cybersecurity threats and trends.",
+    "Limited experience in building and leading a cybersecurity team."
+  ],
+  "elapsed_seconds": 19.5
+}

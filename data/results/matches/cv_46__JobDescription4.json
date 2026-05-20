@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Duarte",
+  "cv_id": "cv_46",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in digital transformation and technology consulting is not directly related to financial analysis. Although they have worked on CRM system integrations, their primary domain is not finance.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills in project management (Agile, PRINCE2), CRM systems (Salesforce, Microsoft Dynamics), and business process optimization. However, they lack experience with financial modeling and compliance with financial regulations.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in technology consulting and project management, but their experience is not directly related to the Financial Services department or financial analysis. They have worked on cloud-based solutions for financial services clients, which is a plus.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and compliance with financial regulations",
+    "Insufficient skills in financial modeling and Excel",
+    "No direct connection to the Financial Services department or industry-specific knowledge"
+  ],
+  "elapsed_seconds": 11.8
+}

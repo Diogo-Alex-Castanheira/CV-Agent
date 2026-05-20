@@ -1,0 +1,19 @@
+{
+  "name": "Catarina Lopes",
+  "cv_id": "cv_106",
+  "jd_id": "JobDescription5",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in social media management and content creation is not directly related to forensic accounting or integrity services. Although they have worked with PR teams for influencer marketing campaigns, this is a far cry from the role's responsibilities.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting, data analysis, and compliance programs, which are essential skills for the role. They also do not have relevant certifications like CFE or CPA.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has some experience in content creation and community management, their seniority is low (Digital Marketing Intern), and they lack experience in investigative skills, regulatory changes, and cross-functional team collaboration. Their fluency in English and Portuguese is a plus, but it's not directly relevant to the role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient skills in data analysis, compliance programs, and regulatory changes",
+    "Inadequate seniority and relevant work experience for the role"
+  ],
+  "elapsed_seconds": 19.1
+}

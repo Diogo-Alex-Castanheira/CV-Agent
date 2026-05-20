@@ -1,0 +1,19 @@
+{
+  "name": "Ana Santos",
+  "cv_id": "cv_38",
+  "jd_id": "JobDescription5",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in kitchen management and menu development is not directly related to forensic accounting or integrity services. While they have experience with cost control measures, this is a specific skill that may be transferable but not directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant skills such as strong analytical and investigative skills, which are essential for the Consultant role. They also lack experience with industry trends and regulatory changes, as well as certifications like CFE or CPA.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no direct evidence of relevant experience in forensic accounting or integrity services. The candidate's experience in the food industry is not transferable to this role, and they lack any seniority or sector relevance.",
+  "key_gaps": [
+    "Lack of relevant skills such as analytical and investigative skills",
+    "No direct experience in forensic accounting or integrity services",
+    "No seniority or sector relevance in the food industry"
+  ],
+  "elapsed_seconds": 11.8
+}

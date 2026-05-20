@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Correia",
+  "cv_id": "cv_78",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "While the candidate has experience in transfer pricing, their domain is not directly related to financial analysis. The role requires expertise in financial planning and analysis, which is a different area from transfer pricing.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has skills relevant to the role, such as Excel proficiency and economic analysis capabilities. However, they lack experience with financial modeling and compliance with financial regulations, which are key requirements for the Financial Analyst position.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not directly relevant to the role, as they have worked in transfer pricing and international taxation. While they may bring some transferable skills, such as analytical abilities, their experience is not a strong match for the Financial Analyst position.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis and planning",
+    "Insufficient expertise in financial modeling and compliance with financial regulations",
+    "Transferable skills from transfer pricing experience may not be directly applicable to the Financial Analyst role"
+  ],
+  "elapsed_seconds": 12.6
+}

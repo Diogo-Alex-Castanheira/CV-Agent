@@ -1,0 +1,19 @@
+{
+  "name": "Laura Moreira",
+  "cv_id": "cv_56",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in real estate advisory consulting, which is unrelated to cybersecurity. Although they have strong analytical skills, there is no direct evidence of domain or task alignment with the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned in the candidate's CV. The required fluency in English and Portuguese is met, but this is not a unique skillset for cybersecurity.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in real estate advisory consulting, which has no direct relation to the role of building and leading a cybersecurity team. Although they have worked with financial modeling and market research, these skills are not transferable to cybersecurity.",
+  "key_gaps": [
+    "Lack of relevant experience in cybersecurity or related fields.",
+    "No certifications in cybersecurity (e.g., CISSP, CISM, CEH).",
+    "No direct evidence of domain or task alignment with the role."
+  ],
+  "elapsed_seconds": 13.0
+}

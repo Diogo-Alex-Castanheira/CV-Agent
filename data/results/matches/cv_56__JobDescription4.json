@@ -1,0 +1,19 @@
+{
+  "name": "Laura Moreira",
+  "cv_id": "cv_56",
+  "jd_id": "JobDescription4",
+  "overall_score": 51,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in property valuation and market analysis, which is relevant to financial analysis. However, the role requires expertise in financial planning and analysis activities, which is not directly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling tools (Argus), as well as experience with market research and compilation of reports. However, there is no direct mention of fluency in English and Portuguese required by the role.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has experience in financial modeling and return analyses, it's not directly related to the Financial Analyst role. The candidate's seniority is also lower than required (0-2 years of experience).",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient fluency in English and Portuguese compared to the required level",
+    "Lower seniority than required for the role"
+  ],
+  "elapsed_seconds": 12.1
+}

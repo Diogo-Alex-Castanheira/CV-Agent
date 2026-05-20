@@ -1,0 +1,20 @@
+{
+  "name": "Hugo Teixeira",
+  "cv_id": "cv_34",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in football refereeing is unrelated to the cybersecurity domain. While they have leadership and conflict resolution skills, these are not directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There is no evidence of relevant certifications (e.g., CISSP, CISM, CEH) or experience in cybersecurity frameworks and best practices. The candidate's skills are focused on football refereeing.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no experience in building and leading cybersecurity teams, conducting risk assessments, or staying current with emerging cybersecurity threats. Their experience is in sports management and refereeing.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CISSP, CISM, CEH) or experience in cybersecurity frameworks and best practices.",
+    "No experience in building and leading cybersecurity teams or conducting risk assessments.",
+    "Unrelated domain expertise (football refereeing) with no transferable skills to cybersecurity.",
+    "No evidence of staying current with emerging cybersecurity threats or adapting strategies as necessary."
+  ],
+  "elapsed_seconds": 10.3
+}

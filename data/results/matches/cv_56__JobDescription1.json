@@ -1,0 +1,19 @@
+{
+  "name": "Laura Moreira",
+  "cv_id": "cv_56",
+  "jd_id": "JobDescription1",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in real estate advisory consulting, which is a different domain from data strategy and AI. Although the candidate has strong analytical skills, there is no direct evidence of expertise in data platforms or AI/ML technologies.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has experience with Excel, Argus, and CoStar, which are tools used in real estate analysis. However, the required skills list mentions Azure, AWS, and Microsoft AI certifications, which are not mentioned on the candidate's CV.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no direct experience in data strategy, business intelligence, or AI/ML implementation. Although they have worked with financial modeling and return analyses, this is a different area from the required skills for the role.",
+  "key_gaps": [
+    "Lack of direct experience in data strategy and AI/ML implementation",
+    "No mention of Azure, AWS, or Microsoft AI certifications",
+    "No transferable experience from real estate to data consulting"
+  ],
+  "elapsed_seconds": 13.2
+}

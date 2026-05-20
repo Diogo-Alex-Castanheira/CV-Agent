@@ -1,0 +1,19 @@
+{
+  "name": "Paulo Fonseca",
+  "cv_id": "cv_105",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting and auditing, which aligns with the role's responsibilities. However, there is a lack of direct experience in financial analysis or planning, which is a key aspect of the Financial Analyst role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling, as well as strong analytical skills. They also have knowledge of IFRS and Portuguese GAAP, which are relevant to the role's requirements.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has experience in auditing and financial reporting, their experience is primarily in external audit services rather than financial analysis or planning. They lack direct experience in supporting business performance and decision-making.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning",
+    "Insufficient experience in supporting business performance and decision-making",
+    "No experience with financial modeling tools beyond Excel"
+  ],
+  "elapsed_seconds": 18.5
+}

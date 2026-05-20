@@ -1,0 +1,20 @@
+{
+  "name": "Gonçalo Marques",
+  "cv_id": "cv_3",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience is in organizational transformation and operational improvement, which is not directly related to cybersecurity. Although they have worked with C-level stakeholders, this is not a specific skill required for the role. The only indirect connection is their knowledge of public sector and utilities, but it's too vague to be considered relevant.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks any direct experience with cybersecurity frameworks, best practices, or certifications (e.g., CISSP, CISM, CEH). Their skills in strategy, transformation, and benchmarking are not directly applicable to the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in management consulting and business analysis, which has no direct connection to cybersecurity. They have worked on projects with KPIs, but this is not relevant to the role's requirements.",
+  "key_gaps": [
+    "Lack of experience in cybersecurity frameworks and best practices",
+    "No direct experience with risk assessments or vulnerability assessments",
+    "No relevant certifications (e.g., CISSP, CISM, CEH)",
+    "No connection to emerging cybersecurity threats and trends"
+  ],
+  "elapsed_seconds": 10.4
+}

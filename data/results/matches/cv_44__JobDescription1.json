@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Lopes",
+  "cv_id": "cv_44",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in HR is not directly related to data strategy, AI/ML implementation, or consulting. While they have led recruitment processes and implemented performance management system improvements, these skills are not transferable to the role of Director, Data & AI Strategy.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in data strategy, business intelligence, AI/ML implementation, and enterprise data governance. They do not have any relevant certifications (e.g., Microsoft AI, AWS, PMI) or experience in multiple industries, including financial services.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is limited to HR roles with no direct connection to data strategy, AI/ML implementation, or consulting. They do not have any seniority (15+ years) or relevant sector experience (financial services).",
+  "key_gaps": [
+    "Lack of direct experience in data strategy, AI/ML implementation, and consulting.",
+    "No relevant certifications or experience in multiple industries, including financial services.",
+    "Insufficient seniority (15+ years) and sector relevance."
+  ],
+  "elapsed_seconds": 13.8
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Lopes",
+  "cv_id": "cv_92",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in regulatory compliance, which is relevant to the role. However, their background is more focused on risk management and digital transformation than financial analysis. The skills listed (banking regulations, AML/KYC compliance frameworks) are not directly mentioned as key responsibilities of the Financial Analyst role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel, and fluency in English and Portuguese. They also have experience with financial modeling (although not explicitly stated). The only missing skill is specific knowledge of financial planning and analysis tools.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has relevant experience in banking and regulatory compliance, but it's mostly focused on risk management and digital transformation. They lack direct experience as a Financial Analyst or in a similar role. Their seniority is also lower than the required Staff level.",
+  "key_gaps": [
+    "Lack of direct experience as a Financial Analyst or in a similar role",
+    "Insufficient knowledge of financial planning and analysis tools",
+    "Lower seniority than the required Staff level"
+  ],
+  "elapsed_seconds": 13.6
+}

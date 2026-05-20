@@ -1,0 +1,19 @@
+{
+  "name": "Rita Sousa",
+  "cv_id": "cv_15",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial advisory and M&A transactions, but lacks direct experience in forensic accounting or compliance. However, they have a strong analytical background that could be transferable to the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has expertise in financial modeling, business valuation, and due diligence processes, which are relevant to the role. They also have experience with Excel, PowerPoint, and Bloomberg Terminal, which could be useful for data analysis and reporting.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has limited experience in forensic accounting or compliance, but has worked on M&A transactions and corporate restructuring initiatives. They lack the seniority and sector relevance required for the Manager role.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or compliance.",
+    "Insufficient seniority and sector relevance for the Manager role.",
+    "No relevant certifications (e.g., CFE, CPA) mentioned."
+  ],
+  "elapsed_seconds": 9.5
+}

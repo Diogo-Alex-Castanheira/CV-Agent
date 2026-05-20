@@ -1,0 +1,19 @@
+{
+  "name": "Rita Sousa",
+  "cv_id": "cv_15",
+  "jd_id": "JobDescription2",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial advisory and M&A transactions, but the role requires expertise in technology risk. The candidate's skills in financial modeling and due diligence are transferable to some extent, but not directly relevant to technology risk.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel and PowerPoint, and fluency in English. They also have experience with financial modeling and due diligence processes, which are relevant to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has experience in M&A transactions and corporate restructuring, it is not directly related to technology risk. The candidate lacks experience in IT controls and compliance frameworks, which are essential for the role.",
+  "key_gaps": [
+    "Lack of direct experience in technology risk or IT controls",
+    "Insufficient experience in compliance frameworks and regulatory changes",
+    "No relevant certifications (e.g., CISA, CISSP)"
+  ],
+  "elapsed_seconds": 9.3
+}

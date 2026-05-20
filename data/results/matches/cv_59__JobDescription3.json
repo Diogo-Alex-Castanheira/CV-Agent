@@ -1,0 +1,19 @@
+{
+  "name": "Raquel Pereira",
+  "cv_id": "cv_59",
+  "jd_id": "JobDescription3",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in project management is not directly related to cybersecurity. Although they have led cross-functional teams and managed budgets, these skills are transferable but do not align with the role's requirements.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant certifications (PMP) and experience in project management methodologies (Agile, PRINCE2). They also possess strong communication and stakeholder management skills. However, there is no direct evidence of cybersecurity expertise or experience.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in project management, with no direct relevance to cybersecurity. Although they have worked on digital transformation initiatives, this is not directly related to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in cybersecurity",
+    "No evidence of relevant certifications (e.g., CISSP, CISM, CEH)",
+    "Insufficient transferable skills to the role"
+  ],
+  "elapsed_seconds": 12.5
+}

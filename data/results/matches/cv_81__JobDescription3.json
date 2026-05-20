@@ -1,0 +1,19 @@
+{
+  "name": "Helena Duarte",
+  "cv_id": "cv_81",
+  "jd_id": "JobDescription3",
+  "overall_score": 24,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in sustainability, which is related to cybersecurity's environmental aspect. However, the role requires expertise in building and leading a cybersecurity team, as well as knowledge of cybersecurity frameworks and best practices, which are not directly mentioned in the candidate's CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with CISSP, CISM, CEH certifications, and other relevant cybersecurity tools and technologies. The only mention of a certification is 'Relevant certifications (e.g., CISSP, CISM, CEH) preferred', which the candidate does not have.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability, but it's not directly related to cybersecurity. The most relevant experience is as a Sustainability Specialist at EDP Renewables, where they developed an ESG reporting framework, which could be seen as a transferable skill. However, the lack of direct experience in cybersecurity and leadership is notable.",
+  "key_gaps": [
+    "Lack of relevant cybersecurity experience and certifications",
+    "Insufficient knowledge of cybersecurity frameworks and best practices",
+    "No direct experience in leading a cybersecurity team"
+  ],
+  "elapsed_seconds": 13.8
+}

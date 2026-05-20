@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_36",
+  "jd_id": "JobDescription4",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "Although the candidate has experience in tax compliance and advisory services, their domain is not directly related to financial analysis. They lack experience with financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and fluency in English and Portuguese, which aligns with some of the required skills. However, they lack experience with financial modeling and compliance with financial regulations and standards.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has limited experience in financial analysis or related roles, and their seniority is junior. They also lack experience working in the Financial Services department, which is a key requirement for this role.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning activities",
+    "Insufficient experience with financial modeling and compliance with financial regulations",
+    "Limited seniority and lack of experience working in the Financial Services department"
+  ],
+  "elapsed_seconds": 11.7
+}

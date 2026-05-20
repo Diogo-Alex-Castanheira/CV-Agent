@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_8",
+  "jd_id": "JobDescription1",
+  "overall_score": 37,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in strategy consulting, which is relevant to the role. However, there is no direct evidence of data strategy or AI/ML implementation experience. The candidate's skills in process mapping and Lean Six Sigma are transferable to data governance frameworks.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks experience with cloud platforms like Azure and AWS, as well as relevant certifications (e.g., Microsoft AI). While they have strong technical skills in Excel modeling and Power BI, these are not directly applicable to the role's requirements.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in delivering high-impact recommendations to C-level clients, which is relevant to the role. However, their experience is primarily in logistics and retail, rather than financial services or enterprise data transformation initiatives.",
+  "key_gaps": [
+    "Lack of direct experience with cloud platforms like Azure and AWS",
+    "No relevant certifications (e.g., Microsoft AI)",
+    "Limited experience in financial services or enterprise data transformation initiatives"
+  ],
+  "elapsed_seconds": 11.9
+}

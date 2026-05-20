@@ -1,0 +1,19 @@
+{
+  "name": "Rafael Pinto",
+  "cv_id": "cv_73",
+  "jd_id": "JobDescription5",
+  "overall_score": 41,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analysis and visualization, but lacks direct experience in forensic accounting or related fields. The skills mentioned are not directly relevant to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some of the required skills, such as SQL, Python, R, and data analysis and visualization. However, they lack experience with statistical modeling and forecasting in a forensic context, and no certifications are mentioned.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has some relevant experience in data analysis and business intelligence, but it's not directly applicable to the role of a consultant in Forensic & Integrity Services. The lack of seniority and sector relevance is also notable.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "Insufficient certifications (e.g., CFE, CPA) mentioned",
+    "No seniority or sector relevance in the candidate's experience"
+  ],
+  "elapsed_seconds": 26.9
+}

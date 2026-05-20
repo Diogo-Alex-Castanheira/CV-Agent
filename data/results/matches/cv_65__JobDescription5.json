@@ -1,0 +1,19 @@
+{
+  "name": "Ana Ferreira",
+  "cv_id": "cv_65",
+  "jd_id": "JobDescription5",
+  "overall_score": 44,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and process optimization, but lacks direct experience in forensic accounting or related fields. The skills mentioned are not directly relevant to the role's requirements.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has some of the required skills, such as data analysis and visualization, project management methodologies, and strong presentation abilities. However, they lack experience in forensic accounting or related fields, and relevant certifications are not mentioned.",
+  "relevant_experience_score": 30,
+  "relevant_experience_reasoning": "The candidate has limited experience in the sector (retail and banking) and lacks seniority. While they have some experience in business analysis and process optimization, it is not directly applicable to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or related fields",
+    "No relevant certifications (e.g., CFE, CPA)",
+    "Limited sector experience and seniority"
+  ],
+  "elapsed_seconds": 11.7
+}

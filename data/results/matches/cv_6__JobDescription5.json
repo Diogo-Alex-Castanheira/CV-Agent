@@ -1,0 +1,19 @@
+{
+  "name": "João Tavares",
+  "cv_id": "cv_6",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in data analytics and has worked on projects involving data visualization, machine learning, and statistical techniques. However, the role requires expertise in forensic accounting and compliance, which is not directly mentioned in the candidate's CV.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has skills in Python, SQL, Power BI, and data storytelling, which are relevant to the role. Additionally, they have experience with machine learning using Scikit-learn, which could be applicable to forensic analysis.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in data analytics and has worked on projects involving data visualization and statistical techniques. However, their experience is not directly related to forensic accounting or compliance, and they lack seniority and sector relevance.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance",
+    "Insufficient seniority and sector relevance",
+    "No mention of relevant certifications (e.g., CFE, CPA)"
+  ],
+  "elapsed_seconds": 10.8
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Carlos Ferreira",
+  "cv_id": "cv_10",
+  "jd_id": "JobDescription4",
+  "overall_score": 27,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "The candidate's experience is primarily in corporate law, regulatory compliance, and international business transactions, which differs significantly from the Financial Analyst role. Although the candidate has worked on financial analysis projects, there is no direct evidence of their expertise in this area.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel and financial modeling, and experience with regulatory compliance. However, they lack specific experience with financial planning and analysis activities, which are key responsibilities of the Financial Analyst role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is primarily in corporate law, regulatory compliance, and international business transactions, with no direct relevance to the Financial Analyst role. Although they have worked on financial analysis projects, their expertise lies in a different domain.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient skills in financial modeling and forecasting",
+    "No relevance to the Financial Analyst role's domain"
+  ],
+  "elapsed_seconds": 12.0
+}

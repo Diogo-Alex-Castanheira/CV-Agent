@@ -1,0 +1,19 @@
+{
+  "name": "João Silva",
+  "cv_id": "cv_93",
+  "jd_id": "JobDescription4",
+  "overall_score": 43,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "The candidate has experience in audit procedures, but the role requires financial analysis and planning. The candidate's education is in accounting, which aligns with the role's requirements, but lacks specific finance or accounting expertise.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has basic knowledge of IFRS and SNC, as well as proficiency in Microsoft Office Suite. However, they lack experience with financial modeling and Excel, which are essential skills for the role.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Although the candidate has some relevant experience in customer service and basic financial transactions, it is not directly applicable to the Financial Analyst role. The internship experience in audit is also not a direct match, as it focuses on audit procedures rather than financial analysis.",
+  "key_gaps": [
+    "Lack of specific finance or accounting expertise",
+    "Insufficient skills in financial modeling and Excel",
+    "Limited relevant experience in financial analysis"
+  ],
+  "elapsed_seconds": 12.4
+}

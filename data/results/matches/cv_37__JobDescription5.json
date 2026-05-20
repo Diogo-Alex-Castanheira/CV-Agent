@@ -1,0 +1,19 @@
+{
+  "name": "Miguel Ferreira",
+  "cv_id": "cv_37",
+  "jd_id": "JobDescription5",
+  "overall_score": 37,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in business analysis and market research, which is relevant to the role. However, there is a significant gap in terms of forensic accounting expertise, as the role requires 7+ years of experience in this field.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks required certifications (e.g., CFE, CPA) and has limited fluency in Portuguese compared to English. While they have basic German skills, it's not relevant to the role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in business analysis and market research, but lacks direct experience in forensic accounting or related fields. Their seniority is also lower than required (Manager level).",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and fluency in Portuguese compared to English.",
+    "Insufficient experience in forensic accounting or related fields.",
+    "Lower seniority than required for the Manager level."
+  ],
+  "elapsed_seconds": 12.4
+}

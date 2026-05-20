@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_4",
+  "jd_id": "JobDescription4",
+  "overall_score": 31,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial analysis (Banco Santander), but the role requires a Financial Analyst with expertise in financial planning and analysis. The candidate's background is more aligned to auditing, which is not directly related to the Financial Analyst role.",
+  "required_skills_score": 60,
+  "required_skills_reasoning": "The candidate has proficiency in Excel and financial modeling (SAP), but lacks experience with financial modeling tools specific to the Financial Analyst role. The candidate's skills in IFRS, GAAP, and audit methodologies are not directly applicable to the Financial Analyst role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate has no direct experience as a Financial Analyst or in a similar role, with only one internship in finance. The senior auditor role is unrelated to the Financial Analyst position.",
+  "key_gaps": [
+    "Lack of direct experience as a Financial Analyst or in a similar role",
+    "Insufficient skills in financial modeling tools specific to the Financial Analyst role",
+    "No relevant experience in financial planning and analysis activities"
+  ],
+  "elapsed_seconds": 9.4
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Unknown",
+  "cv_id": "cv_75",
+  "jd_id": "JobDescription4",
+  "overall_score": 56,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "CV mentions 'Financial Modeling' and 'Data Analysis', but no direct connection to Financial Services or financial planning. Relevant experience in a related domain is lacking.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "Candidate has strong analytical skills, proficiency in Excel, and fluency in English and Portuguese. However, no specific mention of financial regulations or standards compliance.",
+  "relevant_experience_score": 25,
+  "relevant_experience_reasoning": "Only 0-2 years of experience in a related role, with no clear progression towards Financial Analysis. Relevant sector (Finance) is present but not directly applicable to the role.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis",
+    "No mention of compliance with financial regulations and standards",
+    "Insufficient progression towards Financial Analysis role"
+  ],
+  "elapsed_seconds": 9.5
+}

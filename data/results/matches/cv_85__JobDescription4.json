@@ -1,0 +1,19 @@
+{
+  "name": "Ricardo Mota",
+  "cv_id": "cv_85",
+  "jd_id": "JobDescription4",
+  "overall_score": 12,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in supply chain management is not directly related to financial analysis, but they do have skills in process improvement and analytics. However, the role requires expertise in financial planning and analysis activities, which is a different domain.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience with Excel and financial modeling, as well as proficiency in financial regulations and standards. They also do not have any certifications or education in finance or accounting.",
+  "relevant_experience_score": 15,
+  "relevant_experience_reasoning": "Although the candidate has experience in managing inventory and implementing process improvements, their experience is not directly relevant to financial analysis. However, they do demonstrate strong analytical and problem-solving abilities, which could be transferable to a financial analyst role.",
+  "key_gaps": [
+    "Lack of experience with Excel and financial modeling",
+    "No certifications or education in finance or accounting",
+    "Experience is not directly relevant to financial analysis"
+  ],
+  "elapsed_seconds": 12.7
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Beatriz Gomes",
+  "cv_id": "cv_89",
+  "jd_id": "JobDescription5",
+  "overall_score": 19,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 40,
+  "domain_task_alignment_reasoning": "While the candidate has experience in ESG reporting, which is related to sustainability and finance, there is a significant gap between her current role as Sustainability Reporting Manager and the Consultant, Forensic & Integrity Services role. The required skills for the role include forensic accounting, data analysis, and compliance, which are not mentioned in the candidate's CV.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks experience in forensic accounting or related fields, strong analytical and investigative skills, and relevant certifications (e.g., CFE, CPA). The only skill mentioned that is close to the required skills is ESG reporting frameworks, but it's not directly applicable to the role.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "The candidate has experience in sustainability and ESG reporting, which is adjacent to the domain of Forensic & Integrity Services. However, her experience is not directly relevant to the required skills and responsibilities of the role, such as conducting forensic investigations and data analysis.",
+  "key_gaps": [
+    "Lack of experience in forensic accounting or related fields",
+    "Insufficient analytical and investigative skills",
+    "No relevant certifications (e.g., CFE, CPA)"
+  ],
+  "elapsed_seconds": 14.6
+}

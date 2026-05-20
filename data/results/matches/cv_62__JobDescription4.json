@@ -1,0 +1,19 @@
+{
+  "name": "Sofia Martins",
+  "cv_id": "cv_62",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in banking operations and process optimization, which is relevant to the Financial Analyst role. However, there is a significant gap in terms of financial analysis and planning responsibilities, as the candidate's current role involves more operational management tasks.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical skills, proficiency in Excel, and experience with process optimization methodologies. They also have knowledge of regulatory compliance (Basel, PSD2), which is a key requirement for the Financial Analyst role.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "Although the candidate has relevant experience in banking operations, their current role involves more senior management tasks than what is expected for a Financial Analyst. There is also a lack of direct experience with financial planning and analysis activities.",
+  "key_gaps": [
+    "Lack of direct experience in financial planning and analysis activities",
+    "Insufficient seniority for the Staff level position",
+    "No explicit mention of proficiency in financial modeling"
+  ],
+  "elapsed_seconds": 12.6
+}

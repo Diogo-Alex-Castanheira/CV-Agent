@@ -1,0 +1,19 @@
+{
+  "name": "Francisco Almeida",
+  "cv_id": "cv_55",
+  "jd_id": "JobDescription4",
+  "overall_score": 54,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "While the candidate has experience in tax management and compliance, their expertise is more focused on corporate taxation, international tax planning, and transfer pricing. The role requires financial analysis and planning, which is a different domain. However, the candidate's skills in Excel and financial modeling could be transferable.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has proficiency in SAP and Excel advanced, which aligns with the role's requirements. They also have strong analytical and quantitative skills, although not explicitly stated as 'financial analysis' skills.",
+  "relevant_experience_score": 20,
+  "relevant_experience_reasoning": "Although the candidate has experience in tax management, it is not directly relevant to financial analysis or planning. Their seniority (5 years) and sector relevance (Portugal) are also limited compared to the role's requirements.",
+  "key_gaps": [
+    "Lack of direct experience in financial analysis or planning",
+    "Insufficient domain alignment with the Financial Services team",
+    "Limited seniority and sector relevance compared to the role's requirements"
+  ],
+  "elapsed_seconds": 12.4
+}

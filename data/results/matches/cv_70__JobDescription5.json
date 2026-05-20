@@ -1,0 +1,19 @@
+{
+  "name": "André Sousa",
+  "cv_id": "cv_70",
+  "jd_id": "JobDescription5",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in IT risk assessments and security frameworks, but the role requires forensic accounting expertise. The candidate's background is more aligned with cybersecurity than forensic accounting.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has relevant skills such as vulnerability assessment tools, cloud security, and certifications like CISSP and CISM, which are close to the required skills for the role. However, there is a gap in terms of forensic accounting expertise.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has experience in IT risk assessments and security frameworks, but it's not directly related to forensic accounting or compliance matters. The candidate lacks experience as a manager in the field.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting and compliance matters",
+    "Insufficient seniority (no management experience)",
+    "No direct alignment with the role's domain (forensic & integrity services)"
+  ],
+  "elapsed_seconds": 25.0
+}

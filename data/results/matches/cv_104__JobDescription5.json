@@ -1,0 +1,19 @@
+{
+  "name": "André Neves",
+  "cv_id": "cv_104",
+  "jd_id": "JobDescription5",
+  "overall_score": 39,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in marine conservation and ecological research is not directly related to forensic accounting or integrity services. While they have expertise in environmental impact assessment, it is not explicitly mentioned as a requirement for the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and investigative skills, which are relevant to forensic investigations. They also possess excellent communication and interpersonal skills, which align with the role's requirements. Additionally, their fluency in English and Portuguese meets the language proficiency requirement.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate lacks direct experience in forensic accounting or integrity services, which is a critical aspect of the role. Their experience in marine conservation and research does not directly translate to the required skills and expertise for this position.",
+  "key_gaps": [
+    "Lack of direct experience in forensic accounting or integrity services",
+    "Insufficient alignment with key responsibilities, such as conducting forensic investigations and data analysis",
+    "No mention of relevant certifications (e.g., CFE, CPA) or industry trends and regulatory changes expertise"
+  ],
+  "elapsed_seconds": 19.1
+}

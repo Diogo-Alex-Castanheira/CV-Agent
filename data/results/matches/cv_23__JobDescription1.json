@@ -1,0 +1,19 @@
+{
+  "name": "Inês Carvalho",
+  "cv_id": "cv_23",
+  "jd_id": "JobDescription1",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of domain and tasks related to data strategy, AI/ML implementation, or consulting. The candidate's experience is in tourism and heritage, with no apparent connection to the required skills for the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks technical understanding of data platforms and AI/ML technologies, as well as experience building enterprise data governance frameworks. While they have excellent communication skills, this is not a direct match for the required skillset.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no relevant experience in data strategy, business intelligence, or AI/ML implementation. The candidate's experience in tourism and heritage is unrelated to the role's requirements, with no apparent progression or seniority in a related field.",
+  "key_gaps": [
+    "Lack of direct evidence of domain and tasks alignment with data strategy and AI/ML implementation.",
+    "Insufficient technical understanding of data platforms and AI/ML technologies.",
+    "No relevant experience in data strategy, business intelligence, or AI/ML implementation."
+  ],
+  "elapsed_seconds": 12.7
+}

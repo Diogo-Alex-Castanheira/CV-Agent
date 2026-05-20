@@ -1,0 +1,19 @@
+{
+  "name": "Bruno Costa",
+  "cv_id": "cv_42",
+  "jd_id": "JobDescription5",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in landscape architecture is not directly related to forensic accounting or integrity services. While they have managed project budgets and client relationships, these skills are transferable but not directly applicable to the role.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields. They also do not have fluency in English as required by the job description.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no evidence of the candidate having any experience in forensic accounting, integrity services, or a related field. Their experience in landscape architecture is not transferable to this role.",
+  "key_gaps": [
+    "Lack of relevant certifications (e.g., CFE, CPA) and experience in forensic accounting or related fields.",
+    "No fluency in English as required by the job description.",
+    "No transferable skills or experience in forensic accounting or integrity services."
+  ],
+  "elapsed_seconds": 11.7
+}

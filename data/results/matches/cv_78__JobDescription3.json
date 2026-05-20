@@ -1,0 +1,19 @@
+{
+  "name": "Tiago Correia",
+  "cv_id": "cv_78",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in transfer pricing is not directly related to the cybersecurity role. Although they have strong analytical skills, there is no evidence of expertise in cybersecurity frameworks, threat analysis, or risk assessment.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "There are no relevant certifications (e.g., CISSP, CISM, CEH) mentioned, and the candidate's skills do not align with the required fluency in English and Portuguese for the role.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is in tax consulting and international taxation, which is unrelated to cybersecurity. There are no mentions of risk assessment, threat analysis, or cybersecurity-related projects.",
+  "key_gaps": [
+    "Lack of relevant experience in cybersecurity",
+    "No certifications or skills related to the role's requirements",
+    "Unrelated domain expertise (transfer pricing vs. cybersecurity)"
+  ],
+  "elapsed_seconds": 12.3
+}

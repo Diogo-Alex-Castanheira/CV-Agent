@@ -1,0 +1,19 @@
+{
+  "name": "Marta Ribeiro",
+  "cv_id": "cv_29",
+  "jd_id": "JobDescription4",
+  "overall_score": 11,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 5,
+  "domain_task_alignment_reasoning": "No direct evidence of financial analysis or related tasks. The candidate's experience is in competitive surfing, which is unrelated to the role.",
+  "required_skills_score": 20,
+  "required_skills_reasoning": "The candidate lacks proficiency in Excel and financial modeling, as well as no mention of fluency in English (only fluent).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "No relevant experience in financial analysis or related roles. The candidate's experience is in surfing, coaching, and education.",
+  "key_gaps": [
+    "Lack of direct evidence of financial analysis tasks and required skills (Excel, financial modeling)",
+    "No relevant experience in financial analysis or related roles",
+    "Inadequate language proficiency in English"
+  ],
+  "elapsed_seconds": 10.7
+}

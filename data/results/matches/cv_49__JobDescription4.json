@@ -1,0 +1,19 @@
+{
+  "name": "Clara Ferreira",
+  "cv_id": "cv_49",
+  "jd_id": "JobDescription4",
+  "overall_score": 61,
+  "verdict": "Moderate match",
+  "domain_task_alignment_score": 60,
+  "domain_task_alignment_reasoning": "The candidate has experience in financial reporting and IFRS implementation, which is relevant to the Financial Analyst role. However, there is a lack of direct experience with financial planning and analysis activities, which are key responsibilities of the role.",
+  "required_skills_score": 80,
+  "required_skills_reasoning": "The candidate has strong analytical and quantitative skills, proficiency in Excel and financial modeling, and fluency in English and Portuguese. The only missing skill is experience with financial planning tools, but this can be considered a minor gap.",
+  "relevant_experience_score": 40,
+  "relevant_experience_reasoning": "The candidate has 7 years of experience in financial reporting and IFRS implementation, which is not directly relevant to the Financial Analyst role. The candidate's seniority and sector relevance are also limited compared to the required experience level of staff.",
+  "key_gaps": [
+    "Lack of direct experience with financial planning and analysis activities",
+    "Limited experience with financial planning tools",
+    "Insufficient seniority compared to the required Staff level"
+  ],
+  "elapsed_seconds": 12.9
+}

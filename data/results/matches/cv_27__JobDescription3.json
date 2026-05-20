@@ -1,0 +1,19 @@
+{
+  "name": "Laura Campos",
+  "cv_id": "cv_27",
+  "jd_id": "JobDescription3",
+  "overall_score": 9,
+  "verdict": "Not a match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate's experience in dance and performance is unrelated to the cybersecurity role, but they do have skills in event organization and business management, which could be transferable. However, there is no direct evidence of domain or task alignment.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as strong knowledge of cybersecurity frameworks and best practices, and relevant certifications like CISSP, CISM, CEH. They do not have any experience in building or leading cybersecurity teams.",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "There is no relevant experience in the field of cybersecurity, and the candidate's seniority and sector relevance are also unrelated to the role. The only transferable skill mentioned is event organization, but it is not directly related to cybersecurity.",
+  "key_gaps": [
+    "Lack of relevant experience in cybersecurity",
+    "Insufficient skills and certifications for the role",
+    "No direct evidence of domain or task alignment"
+  ],
+  "elapsed_seconds": 12.6
+}

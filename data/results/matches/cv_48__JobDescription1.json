@@ -1,0 +1,19 @@
+{
+  "name": "Duarte Lopes",
+  "cv_id": "cv_48",
+  "jd_id": "JobDescription1",
+  "overall_score": 9,
+  "verdict": "Weak match",
+  "domain_task_alignment_score": 20,
+  "domain_task_alignment_reasoning": "The candidate has experience in blockchain implementation and distributed ledger technologies, but the role requires expertise in data strategy, AI governance, and enterprise data transformation. The candidate's skills are not directly relevant to the role's domain.",
+  "required_skills_score": 5,
+  "required_skills_reasoning": "The candidate lacks required skills such as experience building and implementing enterprise data governance frameworks, strong technical understanding of data platforms, and fluency in English (native).",
+  "relevant_experience_score": 5,
+  "relevant_experience_reasoning": "The candidate's experience is not relevant to the role, with no mention of large-scale digital transformation initiatives or executive-level relationships. The candidate's experience is mostly in blockchain implementation.",
+  "key_gaps": [
+    "Lack of domain alignment: Blockchain expertise is not relevant to the Data & AI Strategy role.",
+    "Missing required skills: No experience with enterprise data governance frameworks, data platforms, or executive-level relationships.",
+    "Inadequate relevant experience: No mention of large-scale digital transformation initiatives or C-suite level influence."
+  ],
+  "elapsed_seconds": 13.0
+}
