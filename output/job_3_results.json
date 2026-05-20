@@ -3,6 +3,35 @@
   "title": "Cybersecurity Team Recruitment",
   "candidates": [
     {
+      "candidate_id": "cv_21",
+      "name": "Gonçalo Pinto",
+      "tier": "strong_match",
+      "scores": {
+        "relevant_experience": 5,
+        "technical_skills": 4,
+        "education": 3,
+        "language_proficiency": 5,
+        "soft_skills_leadership": 5,
+        "culture_motivation_fit": 3
+      },
+      "summary": "Gonçalo Pinto is a strong match for Cybersecurity Team Recruitment with relevant experience as Transaction Services Manager. The profile shows useful overlap with the role requirements and enough seniority to justify interview priority.",
+      "strengths": [
+        "7 years of professional experience",
+        "Skill overlap with role requirements: 4 matched area(s)",
+        "**PwC** Transaction Services Manager March 2019 – December 2021 * Led financial due diligence teams for M&A transactions up to €500M.",
+        "* Developed complex financial models to support valuation and transaction structuring."
+      ],
+      "gaps": [
+        "Validate depth of experience and recent project impact in interview"
+      ],
+      "interview_questions": [
+        "Can you walk us through the most relevant project you have delivered for a Cybersecurity Team Recruitment role?",
+        "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
+      ],
+      "feedback_draft": "Thank you for your application, Gonçalo Pinto. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
+      "overall_score": 4.2
+    },
+    {
       "candidate_id": "cv_26",
       "name": "Rodrigo Alves",
       "tier": "strong_match",
@@ -60,6 +89,36 @@
         "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
       ],
       "feedback_draft": "Thank you for your application, André Sousa. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
+      "overall_score": 4.2
+    },
+    {
+      "candidate_id": "cv_90",
+      "name": "Miguel Duarte",
+      "tier": "strong_match",
+      "scores": {
+        "relevant_experience": 5,
+        "technical_skills": 4,
+        "education": 3,
+        "language_proficiency": 5,
+        "soft_skills_leadership": 5,
+        "culture_motivation_fit": 3
+      },
+      "summary": "Miguel Duarte is a strong match for Cybersecurity Team Recruitment with relevant experience as Director of Data Strategy, Samsung Iberia. The profile shows useful overlap with the role requirements and enough seniority to justify interview priority.",
+      "strengths": [
+        "25 years of professional experience",
+        "Skill overlap with role requirements: 4 matched area(s)",
+        "**Languages:** Native Portuguese, fluent in English **Experience** **2025 – EcoTech Petroleum** * As Director of Ethics, led the creation of an Ethical AI governance model used to review algorithmic fairness, transparency, and compliance.",
+        "Built interdisciplinary task forces and hosted workshops across departments to align on responsible AI practices.",
+        "Managed the DevOps release pipeline and ensured multilingual capabilities."
+      ],
+      "gaps": [
+        "Validate depth of experience and recent project impact in interview"
+      ],
+      "interview_questions": [
+        "Can you walk us through the most relevant project you have delivered for a Cybersecurity Team Recruitment role?",
+        "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
+      ],
+      "feedback_draft": "Thank you for your application, Miguel Duarte. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
       "overall_score": 4.2
     },
     {
@@ -238,6 +297,35 @@
       ],
       "feedback_draft": "Thank you for your application, Tiago Ramos. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
       "overall_score": 4
+    },
+    {
+      "candidate_id": "cv_2",
+      "name": "Diogo Matos",
+      "tier": "strong_match",
+      "scores": {
+        "relevant_experience": 5,
+        "technical_skills": 4,
+        "education": 3,
+        "language_proficiency": 5,
+        "soft_skills_leadership": 3,
+        "culture_motivation_fit": 3
+      },
+      "summary": "Diogo Matos is a strong match for Cybersecurity Team Recruitment with relevant experience as Cybersecurity Consultant. The profile shows useful overlap with the role requirements and enough seniority to justify interview priority.",
+      "strengths": [
+        "12 years of professional experience",
+        "Skill overlap with role requirements: 4 matched area(s)",
+        "* Led phishing simulation campaigns and awareness training.",
+        "**Skills** * Python scripting * Bash scripting * Git * SQL * Data Analysis * Problem Solving * Teamwork * Communication **Experience** **Software Developer Intern – TechSolutions Ltd.** (June 2022 – August 2022) * Developed and maintained Python scripts for data processing and automation."
+      ],
+      "gaps": [
+        "Validate depth of experience and recent project impact in interview"
+      ],
+      "interview_questions": [
+        "Can you walk us through the most relevant project you have delivered for a Cybersecurity Team Recruitment role?",
+        "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
+      ],
+      "feedback_draft": "Thank you for your application, Diogo Matos. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
+      "overall_score": 3.8
     },
     {
       "candidate_id": "cv_4",
@@ -1323,6 +1411,34 @@
       "overall_score": 3.3
     },
     {
+      "candidate_id": "cv_45",
+      "name": "Tiago Rodrigues",
+      "tier": "possible_match",
+      "scores": {
+        "relevant_experience": 5,
+        "technical_skills": 3,
+        "education": 3,
+        "language_proficiency": 5,
+        "soft_skills_leadership": 2,
+        "culture_motivation_fit": 2
+      },
+      "summary": "Tiago Rodrigues has a partially aligned profile for Cybersecurity Team Recruitment. The candidate shows some relevant signals, but the gaps should be validated before advancing.",
+      "strengths": [
+        "16 years of professional experience",
+        "Skill overlap with role requirements: 2 matched area(s)",
+        "**FC Porto** – Porto Youth Footballer July 2013 – July 2015 * Developed through the youth system."
+      ],
+      "gaps": [
+        "Validate depth of experience and recent project impact in interview"
+      ],
+      "interview_questions": [
+        "Can you walk us through the most relevant project you have delivered for a Cybersecurity Team Recruitment role?",
+        "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
+      ],
+      "feedback_draft": "Thank you for your application, Tiago Rodrigues. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
+      "overall_score": 3.3
+    },
+    {
       "candidate_id": "cv_46",
       "name": "Carlos Duarte",
       "tier": "possible_match",
@@ -2011,6 +2127,36 @@
         "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
       ],
       "feedback_draft": "Thank you for your application, Catarina Martins. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
+      "overall_score": 3.2
+    },
+    {
+      "candidate_id": "cv_75",
+      "name": "Francisco Neves",
+      "tier": "possible_match",
+      "scores": {
+        "relevant_experience": 3,
+        "technical_skills": 3,
+        "education": 3,
+        "language_proficiency": 5,
+        "soft_skills_leadership": 2,
+        "culture_motivation_fit": 3
+      },
+      "summary": "Francisco Neves has a partially aligned profile for Cybersecurity Team Recruitment. The candidate shows some relevant signals, but the gaps should be validated before advancing.",
+      "strengths": [
+        "3 years of professional experience",
+        "Skill overlap with role requirements: 3 matched area(s)",
+        "**Bosch Thermotechology** – Aveiro **Logistics Coordinator** – Figueira da Foz January 2021 – March 2022 * Managed international shipping operations and carrier relationships.",
+        "* Analyzed transportation costs and implemented route optimization strategies.",
+        "**The Navigator Company** – Figueira da Foz **Logistics Coordinator** January 2021 – March 2022 * Developed KPIs to monitor logistics performance and identify improvement areas."
+      ],
+      "gaps": [
+        "Validate depth of experience and recent project impact in interview"
+      ],
+      "interview_questions": [
+        "Can you walk us through the most relevant project you have delivered for a Cybersecurity Team Recruitment role?",
+        "Which measurable outcomes from your recent work best demonstrate your fit for this position?"
+      ],
+      "feedback_draft": "Thank you for your application, Francisco Neves. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
       "overall_score": 3.2
     },
     {
@@ -2944,121 +3090,6 @@
       ],
       "feedback_draft": "Thank you for your application, Beatriz Martins. After reviewing your profile against the Cybersecurity Team Recruitment role, we would like to explore your experience further. We appreciate your interest in EY Portugal.",
       "overall_score": 2.7
-    },
-    {
-      "candidate_id": "cv_2",
-      "name": "Candidate cv_2",
-      "tier": "not_a_fit",
-      "scores": {
-        "relevant_experience": 1,
-        "technical_skills": 1,
-        "education": 1,
-        "language_proficiency": 1,
-        "soft_skills_leadership": 1,
-        "culture_motivation_fit": 1
-      },
-      "summary": "Candidate cv_2 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
-      "strengths": [],
-      "gaps": [
-        "CV text could not be extracted from the PDF; OCR or manual review is required",
-        "Limited explicit overlap with the required technical skills",
-        "Required language proficiency is not clearly demonstrated"
-      ],
-      "interview_questions": [],
-      "feedback_draft": "Thank you for your application, Candidate cv_2. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
-      "overall_score": 1
-    },
-    {
-      "candidate_id": "cv_21",
-      "name": "Candidate cv_21",
-      "tier": "not_a_fit",
-      "scores": {
-        "relevant_experience": 1,
-        "technical_skills": 1,
-        "education": 1,
-        "language_proficiency": 1,
-        "soft_skills_leadership": 1,
-        "culture_motivation_fit": 1
-      },
-      "summary": "Candidate cv_21 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
-      "strengths": [],
-      "gaps": [
-        "CV text could not be extracted from the PDF; OCR or manual review is required",
-        "Limited explicit overlap with the required technical skills",
-        "Required language proficiency is not clearly demonstrated"
-      ],
-      "interview_questions": [],
-      "feedback_draft": "Thank you for your application, Candidate cv_21. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
-      "overall_score": 1
-    },
-    {
-      "candidate_id": "cv_45",
-      "name": "Candidate cv_45",
-      "tier": "not_a_fit",
-      "scores": {
-        "relevant_experience": 1,
-        "technical_skills": 1,
-        "education": 1,
-        "language_proficiency": 1,
-        "soft_skills_leadership": 1,
-        "culture_motivation_fit": 1
-      },
-      "summary": "Candidate cv_45 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
-      "strengths": [],
-      "gaps": [
-        "CV text could not be extracted from the PDF; OCR or manual review is required",
-        "Limited explicit overlap with the required technical skills",
-        "Required language proficiency is not clearly demonstrated"
-      ],
-      "interview_questions": [],
-      "feedback_draft": "Thank you for your application, Candidate cv_45. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
-      "overall_score": 1
-    },
-    {
-      "candidate_id": "cv_75",
-      "name": "Candidate cv_75",
-      "tier": "not_a_fit",
-      "scores": {
-        "relevant_experience": 1,
-        "technical_skills": 1,
-        "education": 1,
-        "language_proficiency": 1,
-        "soft_skills_leadership": 1,
-        "culture_motivation_fit": 1
-      },
-      "summary": "Candidate cv_75 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
-      "strengths": [],
-      "gaps": [
-        "CV text could not be extracted from the PDF; OCR or manual review is required",
-        "Limited explicit overlap with the required technical skills",
-        "Required language proficiency is not clearly demonstrated"
-      ],
-      "interview_questions": [],
-      "feedback_draft": "Thank you for your application, Candidate cv_75. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
-      "overall_score": 1
-    },
-    {
-      "candidate_id": "cv_90",
-      "name": "Candidate cv_90",
-      "tier": "not_a_fit",
-      "scores": {
-        "relevant_experience": 1,
-        "technical_skills": 1,
-        "education": 1,
-        "language_proficiency": 1,
-        "soft_skills_leadership": 1,
-        "culture_motivation_fit": 1
-      },
-      "summary": "Candidate cv_90 could not be evaluated reliably because the CV PDF contains no extractable text. Manual review or OCR is required before making a hiring decision.",
-      "strengths": [],
-      "gaps": [
-        "CV text could not be extracted from the PDF; OCR or manual review is required",
-        "Limited explicit overlap with the required technical skills",
-        "Required language proficiency is not clearly demonstrated"
-      ],
-      "interview_questions": [],
-      "feedback_draft": "Thank you for your application, Candidate cv_90. We were unable to extract readable text from your CV file, so a manual review is needed before we can fairly assess your fit for this role.",
-      "overall_score": 1
     }
   ]
 }

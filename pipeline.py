@@ -187,6 +187,76 @@ class OllamaClient:
         return None
 
 
+class OllamaVisionOCR:
+    """OCR fallback for image-only CV PDFs using a local vision model."""
+
+    def __init__(
+        self,
+        model_name: str = "gemma3:4b",
+        host: str = "http://localhost:11434",
+        timeout: int = 120,
+    ):
+        self.model_name = model_name
+        self.host = host.rstrip("/")
+        self.timeout = timeout
+        self.enabled = self.is_available()
+
+    def is_available(self) -> bool:
+        try:
+            response = requests.get(f"{self.host}/api/tags", timeout=5)
+            response.raise_for_status()
+            names = {model.get("name") for model in response.json().get("models", [])}
+            if self.model_name not in names:
+                print(f"OCR model {self.model_name} not found. Available: {', '.join(sorted(names))}")
+                return False
+            return True
+        except Exception as exc:
+            print(f"Ollama OCR unavailable at {self.host}: {exc}")
+            return False
+
+    def transcribe_page(self, png_bytes: bytes) -> str:
+        import base64
+
+        prompt = (
+            "Transcribe all readable text from this CV page. "
+            "Preserve names, titles, dates, sections, bullets, skills, education, languages, email, and phone. "
+            "Return plain text only. Do not summarize."
+        )
+        payload = {
+            "model": self.model_name,
+            "prompt": prompt,
+            "images": [base64.b64encode(png_bytes).decode("ascii")],
+            "stream": False,
+            "options": {
+                "temperature": 0,
+                "num_predict": 1600,
+            },
+        }
+        response = requests.post(f"{self.host}/api/generate", json=payload, timeout=self.timeout)
+        response.raise_for_status()
+        return response.json().get("response", "").strip()
+
+    def transcribe_pdf(self, pdf_path: Path) -> str:
+        if not self.enabled:
+            return ""
+
+        doc = fitz.open(pdf_path)
+        page_texts = []
+        try:
+            for page_index, page in enumerate(doc, 1):
+                pix = page.get_pixmap(matrix=fitz.Matrix(1.5, 1.5), alpha=False)
+                try:
+                    text = self.transcribe_page(pix.tobytes("png"))
+                except Exception as exc:
+                    print(f"OCR failed for {pdf_path.name} page {page_index}: {exc}")
+                    text = ""
+                if text:
+                    page_texts.append(text)
+        finally:
+            doc.close()
+        return "\n\n".join(page_texts).strip()
+
+
 class LocalClient:
     """Null AI client used for the fast deterministic path."""
 
@@ -197,7 +267,7 @@ class LocalClient:
         return None
 
 
-def extract_all_pdfs() -> tuple[dict[str, str], dict[str, str], list[str]]:
+def extract_all_pdfs(ocr_client: OllamaVisionOCR | None = None) -> tuple[dict[str, str], dict[str, str], list[str]]:
     cv_texts: dict[str, str] = {}
     jd_texts: dict[str, str] = {}
     extraction_issues: list[str] = []
@@ -206,7 +276,11 @@ def extract_all_pdfs() -> tuple[dict[str, str], dict[str, str], list[str]]:
     for path in sorted(CV_DIR.glob("*.pdf"), key=natural_key):
         text = extract_text_from_pdf(path)
         if len(text) < 40:
-            extraction_issues.append(path.name)
+            if ocr_client and ocr_client.enabled:
+                print(f"OCR fallback for image-only CV: {path.name}")
+                text = ocr_client.transcribe_pdf(path)
+            if len(text) < 40:
+                extraction_issues.append(path.name)
         cv_texts[path.stem] = text
         if len([value for value in cv_texts.values() if len(value) >= 40]) <= 3 and len(text) >= 40:
             preview = re.sub(r"\s+", " ", text[:700])
@@ -221,8 +295,8 @@ def extract_all_pdfs() -> tuple[dict[str, str], dict[str, str], list[str]]:
 
     if extraction_issues:
         print(
-            f"\nWARNING: {len(extraction_issues)} CV(s) returned no extractable text "
-            f"and will be included with limited fallback profiles: {', '.join(extraction_issues)}"
+            f"\nWARNING: {len(extraction_issues)} CV(s) still returned no extractable text "
+            f"after OCR and will be included with limited fallback profiles: {', '.join(extraction_issues)}"
         )
     print(f"Extracted {len(cv_texts)} CVs and {len(jd_texts)} job descriptions.")
     return cv_texts, jd_texts, extraction_issues
@@ -444,7 +518,26 @@ def detect_education(text: str) -> tuple[str, str]:
     return level, field
 
 
+def clean_cv_line(line: str) -> str:
+    line = re.sub(r"^[#*\s•-]+|[#*\s•-]+$", "", line.strip())
+    line = re.sub(r"\s+", " ", line)
+    return line.strip()
+
+
+def candidate_name_from_line(line: str, candidate_id: str) -> str | None:
+    line = clean_cv_line(line)
+    for separator in [" - ", " – ", " — ", "|"]:
+        if separator in line:
+            left, right = [part.strip() for part in line.split(separator, 1)]
+            if right.lower() in {"cv", "resume", "curriculum vitae"} or looks_like_candidate_name(left, candidate_id):
+                line = left
+                break
+    line = re.sub(r"\s+(?:CV|Resume|Curriculum Vitae)$", "", line, flags=re.IGNORECASE).strip()
+    return line if looks_like_candidate_name(line, candidate_id) else None
+
+
 def looks_like_candidate_name(line: str, candidate_id: str) -> bool:
+    line = clean_cv_line(line)
     lower = line.lower().strip()
     if (
         not line
@@ -467,17 +560,59 @@ def looks_like_candidate_name(line: str, candidate_id: str) -> bool:
     return all(name_word.match(word) for word in words)
 
 
+def infer_title_from_lines(lines: list[str], candidate_name: str) -> str:
+    ignored = {
+        "",
+        "summary",
+        "experience",
+        "education",
+        "skills",
+        "languages",
+        "certifications",
+        "location",
+    }
+    cleaned_lines = [clean_cv_line(line) for line in lines]
+    start = 0
+    for index, line in enumerate(cleaned_lines):
+        if candidate_name.lower() not in line.lower():
+            continue
+        start = index + 1
+        for separator in [" - ", " – ", " — ", "|"]:
+            if separator in line:
+                left, right = [part.strip() for part in line.split(separator, 1)]
+                if left.lower() == candidate_name.lower() and right.lower() not in {"cv", "resume", "curriculum vitae"}:
+                    return right
+        break
+
+    for line in cleaned_lines[start : start + 8]:
+        lower = line.lower().strip(":")
+        if (
+            not line
+            or candidate_name.lower() in lower
+            or lower in ignored
+            or "@" in line
+            or re.search(r"\+?\d{3}", line)
+            or re.fullmatch(r"\d{4}-\d{2}-\d{2}", line)
+            or re.fullmatch(r"\d+\s*/\s*\d+", line)
+            or lower.startswith(("email", "phone", "location"))
+        ):
+            continue
+        return line
+    return "Unknown"
+
+
 def local_parse_cv(candidate_id: str, text: str) -> dict[str, Any]:
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     name = f"Candidate {candidate_id}"
     for line in lines[:12]:
-        if looks_like_candidate_name(line, candidate_id):
-            name = line
+        parsed_name = candidate_name_from_line(line, candidate_id)
+        if parsed_name:
+            name = parsed_name
             break
 
-    current_title = first_line_value(text, "Title") or "Unknown"
+    current_title = first_line_value(text, "Title") or infer_title_from_lines(lines, name)
     lower = text.lower()
-    skills = sorted({kw.title() for kw in SKILL_KEYWORDS if kw in lower})
+    skills = sorted({format_skill(kw) for kw in SKILL_KEYWORDS if kw in lower})
     languages = []
     for lang in ["English", "Portuguese", "Spanish", "French", "German"]:
         if lang.lower() in lower:
@@ -968,6 +1103,13 @@ def main() -> None:
     parser.add_argument("--ollama-model", default=os.getenv("OLLAMA_MODEL", "phi4-mini:3.8b"))
     parser.add_argument("--ollama-host", default=os.getenv("OLLAMA_HOST", "http://localhost:11434"))
     parser.add_argument("--ollama-timeout", type=int, default=180)
+    parser.add_argument("--ocr-model", default=os.getenv("OLLAMA_OCR_MODEL", "gemma3:4b"))
+    parser.add_argument("--ocr-timeout", type=int, default=120)
+    parser.add_argument(
+        "--no-ocr",
+        action="store_true",
+        help="Disable local Ollama OCR fallback for image-only CV PDFs.",
+    )
     parser.add_argument(
         "--ai-job-parse",
         action="store_true",
@@ -999,7 +1141,8 @@ def main() -> None:
         for path in CACHE_DIR.glob("*.json"):
             path.unlink()
 
-    cv_texts, jd_texts, extraction_issues = extract_all_pdfs()
+    ocr_client = None if args.no_ocr else OllamaVisionOCR(args.ocr_model, args.ollama_host, args.ocr_timeout)
+    cv_texts, jd_texts, extraction_issues = extract_all_pdfs(ocr_client)
     write_json(CACHE_DIR / "text_extraction_issues.json", extraction_issues)
 
     if args.ai_backend == "ollama":
